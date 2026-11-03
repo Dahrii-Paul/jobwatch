@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T22:29+05:30",
+  "updated": "2026-11-03T22:56+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,17 +10,17 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 1791,
-   "open_matches": 225,
-   "urgent": 34,
-   "new_this_run": 32,
+   "total_indexed": 2016,
+   "open_matches": 289,
+   "urgent": 56,
+   "new_this_run": 73,
    "saved": 0,
-   "permanent_india": 79,
+   "permanent_india": 78,
    "postdoc_india": 16,
-   "postdoc_abroad": 61,
-   "permanent_abroad": 24,
-   "sources_ok": 123,
-   "sources_total": 158
+   "postdoc_abroad": 116,
+   "permanent_abroad": 32,
+   "sources_ok": 159,
+   "sources_total": 215
   }
  },
  "programs": [
@@ -63,14 +63,13 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
-   "ok": false,
-   "error": "ConnectionError"
+   "ok": true
   },
   {
    "id": "anrf-npdf",
    "name": "ANRF National Post-Doctoral Fellowship (N-PDF)",
    "region": "india",
-   "url": "https://anrfonline.in/",
+   "url": "https://serbonline.in/ANRF/npdf",
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
@@ -134,8 +133,7 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
-   "ok": false,
-   "error": "ConnectionError"
+   "ok": true
   },
   {
    "id": "ugc-dsk",
@@ -146,6 +144,135 @@
    "status": "closed",
    "checked": "2026-11-03",
    "last_deadline": "2023-03-21",
+   "ok": true
+  },
+  {
+   "id": "icts-pdf",
+   "name": "ICTS Postdoctoral Program (incl. ICTS–NCBS AI in Biology)",
+   "region": "india",
+   "url": "https://www.icts.res.in/opportunities",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "mk-bhan",
+   "name": "DBT MK Bhan Young Researcher Fellowship",
+   "region": "india",
+   "url": "https://fellowships.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "dbt-biocare",
+   "name": "DBT BioCARe (women scientists)",
+   "region": "india",
+   "url": "https://dbtindia.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": false,
+   "error": "ConnectionError"
+  },
+  {
+   "id": "ugc-sr-pdf",
+   "name": "UGC Dr. S. Radhakrishnan Postdoctoral Fellowship",
+   "region": "india",
+   "url": "https://www.ugc.gov.in/",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2023-03-21",
+   "ok": true
+  },
+  {
+   "id": "dae-ra",
+   "name": "DAE Research Associateship",
+   "region": "india",
+   "url": "https://dae.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "iist-pdf",
+   "name": "IIST Postdoctoral Fellowship",
+   "region": "india",
+   "url": "https://www.iist.ac.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "prl-pdf",
+   "name": "PRL Postdoctoral Fellowship",
+   "region": "india",
+   "url": "https://www.prl.res.in/",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2026-09-30",
+   "ok": true
+  },
+  {
+   "id": "hfsp-cdf",
+   "name": "HFSP Cross-Disciplinary Fellowship",
+   "region": "abroad",
+   "country": "International",
+   "url": "https://www.hfsp.org/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "wellcome-eca",
+   "name": "Wellcome Early-Career Awards",
+   "region": "abroad",
+   "country": "United Kingdom",
+   "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
+   "deadline": "2027-01-14",
+   "status": "open",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "ibro-pdf",
+   "name": "IBRO Postdoctoral Fellowship",
+   "region": "abroad",
+   "country": "International",
+   "url": "https://ibro.org/",
+   "deadline": "2027-01-15",
+   "status": "open",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "daad-pdf",
+   "name": "DAAD research grants and postdoc programmes",
+   "region": "abroad",
+   "country": "Germany",
+   "url": "https://www.daad.de/en/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "id": "kaust-pdf",
+   "name": "KAUST postdoctoral fellowships",
+   "region": "abroad",
+   "country": "Saudi Arabia",
+   "url": "https://www.kaust.edu.sa/en/about/careers",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
    "ok": true
   },
   {
