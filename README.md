@@ -125,6 +125,8 @@ github.com → Settings → Developer settings → Personal access tokens → **
 - Back in the editor, choose **testWithoutSending** in the function menu → **Run**. Google asks you to authorise the script (it needs to read Gmail): *Review permissions → your account → Advanced → Go to project → Allow*. The log lists the jobs found in your recent alert e-mails.
 - Choose **installHourlyCheck** → **Run**. Done — it now checks every hour.
 
+**Saving posts from X, ResearchGate, WhatsApp… by e-mail.** The same Gmail script also picks up e-mails you send *to yourself* with **jobwatch** in the subject. On your phone: open the post → **Share → Gmail** → send to your own address with the subject `jobwatch: <job title>` (e.g. `jobwatch: Postdoc in TB genomics, NCBS — apply by 30 Nov 2026`). Within an hour it is on your dashboard tagged *Saved by you*; a deadline written in the subject is picked up automatically.
+
 To stop it: in script.google.com open the project → ⏰ Triggers → delete the trigger.
 
 ---

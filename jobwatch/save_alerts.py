@@ -14,7 +14,7 @@ import json
 import os
 import re
 
-from . import run
+from . import extract, run
 
 EXPIRE_DAYS = 30
 MAX_PER_BATCH = 100
@@ -38,14 +38,19 @@ def save(jobs: list[dict], today: dt.date) -> int:
         company, location = (j.get("company") or "").strip(), (j.get("location") or "").strip()
         full_title = f"{title} — {company}" if company and company.lower() not in title.lower() else title
         if url in by_url:                      # seen again in a newer alert: keep it alive
-            by_url[url]["expires"] = (today + dt.timedelta(days=EXPIRE_DAYS)).isoformat()
+            if by_url[url].get("via", "manual") != "manual":
+                by_url[url]["expires"] = (today + dt.timedelta(days=EXPIRE_DAYS)).isoformat()
             continue
+        via = j.get("via") or "linkedin-alert"
+        shared = via == "email-share"           # you sent it yourself → treat like the Save job box
+        notes = " · ".join(x for x in (company, location) if x)
         by_url[url] = {
-            "url": url, "title": full_title[:240], "deadline": None,
-            "notes": " · ".join(x for x in (company, location) if x),
-            "site": "LinkedIn", "added": today.isoformat(),
-            "expires": (today + dt.timedelta(days=EXPIRE_DAYS)).isoformat(),
-            "via": j.get("via") or "linkedin-alert",
+            "url": url, "title": full_title[:240],
+            "deadline": extract.find_deadline(f"{title} {notes}", today) if shared else None,
+            "notes": notes[:600], "site": extract.domain(url) if shared else "LinkedIn",
+            "added": today.isoformat(),
+            "expires": None if shared else (today + dt.timedelta(days=EXPIRE_DAYS)).isoformat(),
+            "via": "manual" if shared else via,
         }
         added += 1
     # forget alert jobs a month after they expired; keep everything you saved by hand

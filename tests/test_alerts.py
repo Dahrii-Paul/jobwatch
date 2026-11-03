@@ -28,3 +28,15 @@ def test_alert_jobs_saved_scored_and_expire(tmp_path, monkeypatch):
     # 31 days later an undated alert job is closed
     from jobwatch import store
     assert store.status_of(dict(pd, expires=(dt.date.today() - dt.timedelta(days=1)).isoformat()), dt.date.today()) == "closed"
+
+
+def test_shared_x_post(tmp_path, monkeypatch):
+    monkeypatch.setattr(run, "DATA", tmp_path)
+    monkeypatch.setattr(run, "ROOT", tmp_path)
+    monkeypatch.setenv("AI_DISABLED", "1")
+    post = {"url": "https://x.com/ncbs/status/123456", "title": "Postdoc in TB genomics, NCBS — apply by 30 Nov 2026",
+            "company": "", "location": "Join our lab!", "via": "email-share"}
+    monkeypatch.setenv("ALERT_PAYLOAD", json.dumps({"jobs": [post]}))
+    assert save_alerts.main() == 0
+    j = json.loads((tmp_path / "jobs.json").read_text())["jobs"][0]
+    assert j["match"] and j["saved"] and j["deadline"] == "2026-11-30" and j["via"] == "manual" and not j.get("expires")
