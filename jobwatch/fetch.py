@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import io
 import logging
+import os
 import threading
 import time
 from dataclasses import dataclass
@@ -32,6 +33,7 @@ class Page:
     content_type: str
     text: str         # HTML/XML text, or extracted PDF text
     is_pdf: bool = False
+    insecure: bool = False   # fetched despite a broken TLS certificate
 
 
 def session() -> requests.Session:
@@ -75,14 +77,26 @@ def get(url: str, timeout: int = 25, render: bool = False) -> Page:
         if page is not None:
             return page
     _throttle(url)
-    r = session().get(url, timeout=timeout, allow_redirects=True)
+    insecure = False
+    try:
+        r = session().get(url, timeout=timeout, allow_redirects=True)
+    except requests.exceptions.SSLError:
+        # Many Indian government sites serve incomplete certificate chains that browsers
+        # repair but Python rejects. These are public job notices (we never send data),
+        # so read them anyway unless STRICT_TLS=1.
+        if os.getenv("STRICT_TLS") == "1":
+            raise
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        r = session().get(url, timeout=timeout, allow_redirects=True, verify=False)
+        insecure = True
     ctype = r.headers.get("content-type", "").lower()
     is_pdf = "pdf" in ctype or r.url.lower().split("?")[0].endswith(".pdf")
     if is_pdf:
-        return Page(r.url, r.status_code, ctype, pdf_to_text(r.content), True)
+        return Page(r.url, r.status_code, ctype, pdf_to_text(r.content), True, insecure)
     if not r.encoding or r.encoding.lower() == "iso-8859-1":
         r.encoding = r.apparent_encoding
-    return Page(r.url, r.status_code, ctype, r.text, False)
+    return Page(r.url, r.status_code, ctype, r.text, False, insecure)
 
 
 def get_json(url: str, timeout: int = 30):

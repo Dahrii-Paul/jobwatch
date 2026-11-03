@@ -84,7 +84,21 @@ def collect(src: dict) -> tuple[list[dict], dict]:
                     items = extract.from_rss(pg.text)
                 else:
                     items = extract.from_html(pg.text, pg.url, src.get("link_pattern"))
+                    if not items:            # homepage? follow its "Careers / Recruitment" link
+                        for cl in extract.careers_links(pg.text, pg.url):
+                            try:
+                                cp = fetch.get(cl, render=src.get("render", False))
+                            except Exception:
+                                continue
+                            if cp.status < 400 and not cp.is_pdf:
+                                items = extract.from_html(cp.text, cp.url, src.get("link_pattern"))
+                                if items:
+                                    pg = cp
+                                    h["note"] = "found via careers link"
+                                    break
                 h["url"] = pg.url
+                if pg.insecure:
+                    h["note"] = (h.get("note", "") + "; site has a broken TLS certificate").strip("; ")
                 if items:
                     break
                 errors.append(f"{url}: 0 job-like links")

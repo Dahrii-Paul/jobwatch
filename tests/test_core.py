@@ -87,3 +87,15 @@ def test_result_notices_dropped():
     <li><a href="/a.pdf">Advertisement for Scientist-C (Computational Biology) posts</a></li></ul>"""
     titles = [i["title"] for i in extract.from_html(html, "https://thsti.res.in/")]
     assert titles == ["Advertisement for Scientist-C (Computational Biology) posts"]
+
+
+def test_careers_link_discovery():
+    html = '<a href="/">Home</a><a href="/about">About us</a><a href="/careers">Careers</a><a href="/rti">RTI</a>'
+    assert extract.careers_links(html, "https://www.iitp.ac.in/") == ["https://www.iitp.ac.in/careers"]
+
+
+def test_navigation_and_news_dropped():
+    html = """<ul><li><a href="/c/bio">Bioinformatics & Computational Biology 11</a></li>
+    <li><a href="/n/1">African genomics leaders meet in Pretoria to advance public health</a></li>
+    <li><a href="/j/1">Postdoctoral Fellow in Computational Biology</a></li></ul>"""
+    assert [i["title"] for i in extract.from_html(html, "https://zoombio.org/")] == ["Postdoctoral Fellow in Computational Biology"]

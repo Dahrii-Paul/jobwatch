@@ -217,6 +217,7 @@ sources:
   verified: false
 
 - id: academicpositions
+  enabled: false        # blocks automated visitors (HTTP 403)
   name: AcademicPositions (Europe)
   region: abroad
   country: Europe
@@ -229,25 +230,25 @@ sources:
 # Sweden
 - {id: ki, name: Karolinska Institutet, region: abroad, country: Sweden, urls: ["https://ki.se/en/vacancies"]}
 - {id: uu, name: Uppsala University, region: abroad, country: Sweden, urls: ["https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies"]}
-- {id: kth, name: KTH Royal Institute of Technology, region: abroad, country: Sweden, urls: ["https://www.kth.se/en/om/work-at-kth/lediga-jobb"]}
+- {id: kth, name: KTH Royal Institute of Technology, region: abroad, country: Sweden, urls: ["https://www.kth.se/en/om/work-at-kth/lediga-jobb", "https://www.kth.se/en"]}
 - {id: chalmers, name: Chalmers University of Technology, region: abroad, country: Sweden, urls: ["https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/"]}
 - {id: lund, name: Lund University, region: abroad, country: Sweden, urls: ["https://www.lunduniversity.lu.se/vacancies"]}
-- {id: liu, name: Linköping University, region: abroad, country: Sweden, urls: ["https://liu.se/en/work-at-liu/vacancies"]}
+- {id: liu, name: Linköping University, region: abroad, country: Sweden, urls: ["https://liu.se/en/work-at-liu/vacancies", "https://liu.se/en"]}
 # Switzerland
-- {id: unibas, name: University of Basel, region: abroad, country: Switzerland, urls: ["https://jobs.unibas.ch/"]}
+- {id: unibas, name: University of Basel, region: abroad, country: Switzerland, urls: ["https://jobs.unibas.ch/", "https://www.unibas.ch/en.html"]}
 - {id: ethz, name: ETH Zurich, region: abroad, country: Switzerland, urls: ["https://jobs.ethz.ch/"], render: true}
-- {id: epfl, name: EPFL, region: abroad, country: Switzerland, urls: ["https://careers.epfl.ch/"], render: true}
-- {id: uzh, name: University of Zurich, region: abroad, country: Switzerland, urls: ["https://www.jobs.uzh.ch/"]}
-- {id: psi, name: Paul Scherrer Institute, region: abroad, country: Switzerland, urls: ["https://www.psi.ch/en/pa/job-opportunities"]}
+- {id: epfl, name: EPFL, region: abroad, country: Switzerland, urls: ["https://careers.epfl.ch/", "https://www.epfl.ch/en/"], render: true}
+- {id: uzh, name: University of Zurich, region: abroad, country: Switzerland, urls: ["https://www.jobs.uzh.ch/", "https://www.uzh.ch/en.html"]}
+- {id: psi, enabled: false, name: Paul Scherrer Institute, region: abroad, country: Switzerland, urls: ["https://www.psi.ch/en/pa/job-opportunities"]}
 # Germany
-- {id: mpg, name: Max Planck Society job board, region: abroad, country: Germany, urls: ["https://www.mpg.de/en/career/jobboard"]}
-- {id: leibniz, name: Leibniz Association, region: abroad, country: Germany, urls: ["https://www.leibniz-gemeinschaft.de/en/career/job-offers"]}
+- {id: mpg, name: Max Planck Society job board, region: abroad, country: Germany, urls: ["https://www.mpg.de/en/career/jobboard", "https://www.mpg.de/en"]}
+- {id: leibniz, name: Leibniz Association, region: abroad, country: Germany, urls: ["https://www.leibniz-gemeinschaft.de/en/career/job-offers", "https://www.leibniz-gemeinschaft.de/en"]}
 - {id: embl, name: EMBL (incl. EMBL-EBI), region: abroad, country: Germany, urls: ["https://www.embl.org/jobs/"], render: true}
-- {id: dkfz, name: DKFZ Heidelberg, region: abroad, country: Germany, urls: ["https://www.dkfz.de/en/stellenangebote/"]}
+- {id: dkfz, name: DKFZ Heidelberg, region: abroad, country: Germany, urls: ["https://www.dkfz.de/en/stellenangebote/", "https://www.dkfz.de/en/"]}
 # Denmark
 - {id: dtu, name: Technical University of Denmark, region: abroad, country: Denmark, urls: ["https://www.dtu.dk/english/about/job-and-career/vacant-positions"]}
 - {id: aau, name: Aalborg University, region: abroad, country: Denmark, urls: ["https://www.vacancies.aau.dk/"]}
-- {id: sdu, name: University of Southern Denmark, region: abroad, country: Denmark, urls: ["https://www.sdu.dk/en/service/ledige_stillinger"]}
+- {id: sdu, name: University of Southern Denmark, region: abroad, country: Denmark, urls: ["https://www.sdu.dk/en/service/ledige_stillinger", "https://www.sdu.dk/en"]}
 # Austria
 - {id: univie, name: University of Vienna, region: abroad, country: Austria, urls: ["https://jobs.univie.ac.at/"]}
 - {id: ista, name: Institute of Science and Technology Austria, region: abroad, country: Austria, urls: ["https://ist.ac.at/en/jobs/"]}
@@ -265,11 +266,11 @@ sources:
 - {id: bric-work, name: "BRIC — work with us", region: india, urls: ["https://www.bric.nic.in/work-with-us/"], life_science: true}
 - {id: icmr-portal, name: "ICMR online recruitment", region: india, urls: ["https://recruitment.icmr.org.in/"], life_science: true, render: true}
 - {id: ugc, name: "UGC", region: india, urls: ["https://www.ugc.gov.in/"]}
-- {id: moe, name: "Ministry of Education", region: india, urls: ["https://www.education.gov.in/"]}
+- {id: moe, enabled: false, name: "Ministry of Education", region: india, urls: ["https://www.education.gov.in/"]}
 - {id: ncs, name: "National Career Service — govt vacancies", region: india, urls: ["https://www.ncs.gov.in/pages/govt-job-vacancies.aspx"], render: true}
 - {id: anrf, name: "ANRF (Anusandhan National Research Foundation)", region: india, urls: ["https://anrf.gov.in/"]}
 - {id: birac, name: "BIRAC", region: india, urls: ["https://birac.nic.in/"], life_science: true}
-- {id: cu-chayan, name: "CU-CHAYAN central university faculty portal", region: india, urls: ["https://curec.samarth.ac.in/"], render: true, default_category: permanent}
+- {id: cu-chayan, enabled: false, name: "CU-CHAYAN central university faculty portal", region: india, urls: ["https://curec.samarth.ac.in/"], render: true, default_category: permanent}
 # ── IITs ──
 - {id: iit-madras, name: "IIT Madras", region: india, urls: ["https://www.iitm.ac.in/careers", "https://www.iitm.ac.in/"]}
 - {id: iit-delhi, name: "IIT Delhi", region: india, urls: ["https://home.iitd.ac.in/jobs-iitd/index.php", "https://home.iitd.ac.in/"]}
@@ -361,4 +362,4 @@ sources:
 # ── Job aggregators ──
 - {id: zoombio, name: "Zoombio — bioinformatics jobs India", region: mixed, urls: ["https://zoombio.org/jobs/bioinformatics/india"], topic_filtered: true, max_details: 40}
 # ── Science Careers ──
-- {id: sciencecareers, name: "Science Careers", region: abroad, urls: ["https://jobs.sciencecareers.org/jobs/bioinformatics/", "https://jobs.sciencecareers.org/jobs/?keywords=bioinformatics"], topic_filtered: true, country: International}
+- {id: sciencecareers, enabled: false, name: "Science Careers", region: abroad, urls: ["https://jobs.sciencecareers.org/jobs/bioinformatics/", "https://jobs.sciencecareers.org/jobs/?keywords=bioinformatics"], topic_filtered: true, country: International}

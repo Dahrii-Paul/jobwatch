@@ -14,8 +14,8 @@ from lxml import etree
 JOB_WORDS = re.compile(
     r"post-?doc|post[\s-]?doctoral|scientist|professor|faculty|lecturer|fellow|"
     r"research associate|\bRA[\s-]?(?:I{1,3}|[123])\b|recruit|vacanc|position|advertisement|\badvt\b|"
-    r"opening|hiring|group leader|investigator|researcher|bioinformatic|computational|genomic|"
-    r"walk[\s-]?in|interview|appointment|engagement of",
+    r"opening|hiring|group leader|investigator|researcher|bioinformatician|biologist\b|data scientist|"
+    r"analyst\b|engineer\b|project associate|walk[\s-]?in|engagement of|\bjobs?\b|careers? at",
     re.I,
 )
 GENERIC_LINK_TEXT = re.compile(
@@ -28,7 +28,10 @@ NOT_A_JOB = re.compile(
     r"^\s*(shortlisted|short[\s-]?list|list of|result|final result|selection list|selected candidates|"
     r"answer key|admit card|call letter|minutes|marks|merit list|interview schedule|schedule of interview|"
     r"status of|rejected|provisional|cancell?ation|tender|quotation|eoi\b)"
-    r"|newsletter|biotecnika times|admissions? (open|notice)|\bcourses?\b|webinar|workshop",
+    r"|newsletter|biotecnika times|admissions? (open|notice)|\bcourses?\b|webinar|workshop"
+    r"|\b(publication|declaration) of results?\b|\bresults? (for|of) the\b|\bshort[\s-]?listed\b|"
+    r"\binterview (result|schedule)\b|\bcorrigendum\b.*\bresult|\bnominations?\b|\bawards?\b|"
+    r"\b(meet|conference|symposium|seminar|celebrat|inaugurat|visit)s?\b.*\b(to|on|at)\b",
     re.I,
 )
 SKIP_HREF = re.compile(r"^(#|javascript:|mailto:|tel:|whatsapp:)", re.I)
@@ -120,7 +123,7 @@ def from_html(html: str, base_url: str, link_pattern: str | None = None,
         title = re.sub(r"\s+(read( more)?|apply( now)?|more)$", "", title, flags=re.I)[:260]
         if len(title) < 12:
             continue
-        if NOT_A_JOB.search(title):
+        if NOT_A_JOB.search(title) or _not_english(title) or re.fullmatch(r"[^\d]{3,60}\s\(?\d{1,4}\)?", title):
             continue
         if require_job_words and not JOB_WORDS.search(title + " " + context):
             continue
@@ -131,6 +134,35 @@ def from_html(html: str, base_url: str, link_pattern: str | None = None,
             continue
         out[key] = {"title": title, "url": url, "context": context if context != title else ""}
     return list(out.values())
+
+
+def _not_english(s: str) -> bool:
+    """Bilingual Indian sites list each notice twice — keep the English one."""
+    letters = [c for c in s if c.isalpha()]
+    return bool(letters) and sum(1 for c in letters if ord(c) > 0x024F) / len(letters) > 0.3
+
+
+CAREERS_LINK = re.compile(
+    r"^\s*(careers?|recruitments?|jobs?( at .*)?|vacanc(y|ies)|current (openings|vacancies)|openings|"
+    r"opportunities|job opportunities|employment( news| opportunities)?|work with us|join us|"
+    r"positions?( open| available)?|advertisements?|notices?|faculty (recruitment|positions)|"
+    r"project positions|we are hiring|what'?s new|announcements|latest news)\s*$",
+    re.I,
+)
+
+
+def careers_links(html: str, base_url: str, limit: int = 3) -> list[str]:
+    """Links like "Careers", "Recruitment", "Jobs" on a homepage, best first."""
+    soup = BeautifulSoup(html, "lxml")
+    out = []
+    for a in soup.find_all("a", href=True):
+        text = _clean(a.get_text(" ", strip=True)) or _clean(a.get("title", ""))
+        if CAREERS_LINK.match(text):
+            u = urldefrag(urljoin(base_url, a["href"].strip()))[0]
+            if u.startswith("http") and u.rstrip("/") != base_url.rstrip("/") and u not in out:
+                out.append(u)
+    rank = lambda u: (0 if re.search(r"career|recruit|job|vacanc|opening|position", u, re.I) else 1)  # noqa: E731
+    return sorted(out, key=rank)[:limit]
 
 
 def from_rss(xml_text: str) -> list[dict]:

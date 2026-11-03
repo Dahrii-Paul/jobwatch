@@ -264,7 +264,7 @@ function renderSources(hs){
   $("#slist").innerHTML=hs.sort((a,b)=>a.ok-b.ok||a.name.localeCompare(b.name)).map(h=>`<tr>
     <td><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name)}</a></td>
     <td class="${h.ok?"ok":"bad"}">${h.ok?"Working":"Needs a look"}</td><td>${h.count}</td>
-    <td class="err hide-sm">${esc(h.error||"")}</td></tr>`).join("");
+    <td class="err hide-sm">${esc(h.error||h.note||"")}</td></tr>`).join("");
 }
 
 function seg(id,key){
