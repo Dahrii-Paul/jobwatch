@@ -57,16 +57,26 @@ def cache_key(item: dict) -> str:
 def _call(messages: list[dict]) -> str:
     base = os.getenv("LLM_BASE_URL", "https://models.github.ai/inference").rstrip("/")
     model = os.getenv("LLM_MODEL", "openai/gpt-4.1-mini")
-    r = fetch.session().post(
-        f"{base}/chat/completions",
-        headers={"Authorization": f"Bearer {_key()}", "Content-Type": "application/json"},
-        json={"model": model, "messages": messages, "temperature": 0,
-              "response_format": {"type": "json_object"}},
-        timeout=90,
-    )
-    if r.status_code >= 400:
-        raise RuntimeError(f"LLM HTTP {r.status_code}: {r.text[:200]}")
-    return r.json()["choices"][0]["message"]["content"]
+    body = {"model": model, "messages": messages, "temperature": 0,
+            "response_format": {"type": "json_object"}}
+    for attempt in range(2):
+        r = fetch.session().post(
+            f"{base}/chat/completions",
+            headers={"Authorization": f"Bearer {_key()}", "Content-Type": "application/json",
+                     "Accept": "application/json"},
+            json=body, timeout=120,
+        )
+        try:
+            data = r.json()
+        except ValueError:
+            data = None
+        if r.status_code < 400 and data and data.get("choices"):
+            return data["choices"][0]["message"]["content"] or ""
+        if attempt == 0 and r.status_code in (400, 422) or data is None:
+            body.pop("response_format", None)     # some models/endpoints reject it
+            continue
+        break
+    raise RuntimeError(f"LLM HTTP {r.status_code} from {base} ({model}): {r.text[:300]!r}")
 
 
 def _parse(text: str) -> list[dict]:

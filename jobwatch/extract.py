@@ -24,6 +24,12 @@ GENERIC_LINK_TEXT = re.compile(
     r"(\s*\(?[\d.,]+\s*(kb|mb)\)?)?\s*$",
     re.I,
 )
+NOT_A_JOB = re.compile(
+    r"^\s*(shortlisted|short[\s-]?list|list of|result|final result|selection list|selected candidates|"
+    r"answer key|admit card|call letter|minutes|marks|merit list|interview schedule|schedule of interview|"
+    r"status of|rejected|provisional|cancell?ation|tender|quotation|eoi\b)",
+    re.I,
+)
 SKIP_HREF = re.compile(r"^(#|javascript:|mailto:|tel:|whatsapp:)", re.I)
 SKIP_URL = re.compile(
     r"(facebook|twitter|x\.com|linkedin|instagram|youtube|t\.me|whatsapp)\.|/(login|signin|register|"
@@ -113,6 +119,8 @@ def from_html(html: str, base_url: str, link_pattern: str | None = None,
         title = re.sub(r"\s+(read( more)?|apply( now)?|more)$", "", title, flags=re.I)[:260]
         if len(title) < 12:
             continue
+        if NOT_A_JOB.search(title):
+            continue
         if require_job_words and not JOB_WORDS.search(title + " " + context):
             continue
         key = url if url.rstrip("/") != base_url.rstrip("/") else url + "#" + title[:60]
@@ -159,9 +167,10 @@ def from_wp_json(posts: list) -> list[dict]:
     for p in posts or []:
         title = _clean(BeautifulSoup((p.get("title") or {}).get("rendered", ""), "lxml").get_text(" "))
         excerpt = _clean(BeautifulSoup((p.get("excerpt") or {}).get("rendered", ""), "lxml").get_text(" "))
-        if title and p.get("link"):
+        content = _clean(BeautifulSoup((p.get("content") or {}).get("rendered", ""), "lxml").get_text(" "))
+        if title and p.get("link") and not NOT_A_JOB.search(title):
             out.append({"title": title[:260], "url": p["link"], "context": excerpt[:900],
-                        "published": (p.get("date") or "")[:10] or None})
+                        "full_text": content, "published": (p.get("date") or "")[:10] or None})
     return out
 
 

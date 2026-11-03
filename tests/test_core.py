@@ -33,6 +33,8 @@ def test_deadline(text, expected):
     ("Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance", "permanent"),
     ("DBT Ramalingaswami Re-entry Fellowship 2026", "fellowship"),
     ("Research Fellow in Bioinformatics (ITD-DIB-2026-04)", "postdoc"),
+    ("Project Research Scientist-I (Biostatistics)", "project"),
+    ("Project Research Scientist at RGCB, Thiruvananthapuram", "project"),
 ])
 def test_category(title, cat):
     assert classify.categorise(title) == cat
@@ -75,3 +77,11 @@ def test_html_cards():
     assert len(items) == 2   # PhD-only card has no job words → dropped
     pd = next(i for i in items if "multi-omics" in i["title"])
     assert extract.find_deadline(pd["title"] + " " + pd["context"], TODAY) == "2026-11-15"
+
+
+def test_result_notices_dropped():
+    html = """<ul><li><a href="/r.pdf">Result for Research Scientist of RN No THS/RN/20/2026</a></li>
+    <li><a href="/s.pdf">Shortlisted candidates for Scientist-C interview</a></li>
+    <li><a href="/a.pdf">Advertisement for Scientist-C (Computational Biology) posts</a></li></ul>"""
+    titles = [i["title"] for i in extract.from_html(html, "https://thsti.res.in/")]
+    assert titles == ["Advertisement for Scientist-C (Computational Biology) posts"]

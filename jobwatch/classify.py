@@ -9,7 +9,7 @@ R = lambda p: re.compile(p, re.I)  # noqa: E731
 PHD = R(r"\bph\.?\s?d\.?\s*(student|position|scholarship|fellowship|candidate|program|studentship|opportunit)|"
         r"doctoral (student|candidate|researcher position)|predoctoral|pre-doctoral|doktorand|"
         r"\bdoctoral (position|scholarship)|studentship|master'?s? (student|thesis)|internship")
-PROJECT = R(r"project (scientist|associate|assistant|staff|research|manager|technical|coordinator)|"
+PROJECT = R(r"project[\s-]+(research[\s-]+)?(scientist|associate|assistant|staff|research|manager|technical|coordinator|fellow)|"
             r"\bjrf\b|\bsrf\b|junior research fellow|senior research fellow|young professional|"
             r"field (worker|investigator)|technical assistant|lab(oratory)? (assistant|technician)|"
             r"research assistant|data entry|technician|consultant|research engineer")
@@ -51,7 +51,7 @@ def categorise(title: str, context: str = "", default: str | None = None) -> str
     tc = f"{t} {context or ''}"
     if PHD.search(t) and not POSTDOC.search(t):
         return "phd"
-    if PROJECT.search(t) and not PERMANENT.search(re.sub(PROJECT, "", t)):
+    if PROJECT.search(t) and not re.search(r"professor|faculty|lecturer", t, re.I):
         return "project"
     if POSTDOC.search(t):
         return "postdoc"

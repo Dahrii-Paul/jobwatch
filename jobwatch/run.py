@@ -42,7 +42,7 @@ def _collect_wordpress(src: dict) -> tuple[list[dict], str]:
         for term in src.get("wp_search", WP_SEARCH_TERMS):
             q = term.replace(" ", "+")
             posts = fetch.get_json(f"{base}/wp-json/wp/v2/posts?search={q}&per_page=40"
-                                   f"&_fields=link,title,date,excerpt")
+                                   f"&_fields=link,title,date,excerpt,content")
             items += extract.from_wp_json(posts)
         if items:
             return items, f"{base}/wp-json"
@@ -140,6 +140,10 @@ def build_item(raw: dict, src: dict, profile: dict, today: dt.date) -> dict:
         "source_id": src["id"], "source_name": src["name"], "published": raw.get("published"),
     }
     it["deadline"] = extract.find_deadline(f"{raw['title']} {raw.get('context', '')}", today)
+    if raw.get("full_text"):                      # WordPress posts arrive with their full text
+        it["details"] = _snippet(raw["full_text"], profile)
+        it["details_checked"] = True
+        it["deadline"] = it["deadline"] or extract.find_deadline(raw["full_text"], today)
     return it
 
 
@@ -215,6 +219,8 @@ def main(argv=None) -> int:
     a = ap.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO,
                         format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
+    for noisy in ("pypdf", "urllib3"):
+        logging.getLogger(noisy).setLevel(logging.ERROR)
 
     now = dt.datetime.now(ZoneInfo(os.getenv("JOBWATCH_TZ", "Asia/Kolkata")))
     today = now.date()
@@ -223,6 +229,7 @@ def main(argv=None) -> int:
     if a.only:
         sources = [s for s in sources if s["id"] in a.only]
     db = store.load(DATA / "jobs.json")
+    db = {k: v for k, v in db.items() if not extract.NOT_A_JOB.search(v.get("title", ""))}
 
     # 1. collect listings (plain sites in parallel, browser-rendered ones sequentially)
     plain = [s for s in sources if not s.get("render")]
@@ -263,7 +270,7 @@ def main(argv=None) -> int:
                 continue
             if it.get("deadline") and it["score"] >= 60 and not it["check_advt"]:
                 continue
-            if per_src.get(src["id"], 0) >= 15 or len(todo) >= budget:
+            if per_src.get(src["id"], 0) >= src.get("max_details", 15) or len(todo) >= budget:
                 continue
             per_src[src["id"]] = per_src.get(src["id"], 0) + 1
             todo.append(it)

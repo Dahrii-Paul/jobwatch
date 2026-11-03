@@ -153,6 +153,7 @@ sources:
   region: mixed            # posts cover India and abroad — classifier decides
   type: wordpress
   urls: ["https://researchersjob.com"]
+  max_details: 60
   wp_categories:           # used if the WordPress search API is blocked
     - category/faculty
     - category/research-scientist
@@ -165,6 +166,7 @@ sources:
   region: india
   type: wordpress
   urls: ["https://www.biotecnika.org"]
+  max_details: 60
   verified: false
 
 # ═════════════════════  ABROAD — aggregators  ═════════════════════
