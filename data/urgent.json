@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T22:16+05:30",
+  "updated": "2026-11-03T22:29+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,17 +10,17 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 1558,
-   "open_matches": 206,
-   "urgent": 30,
-   "new_this_run": 57,
+   "total_indexed": 1791,
+   "open_matches": 225,
+   "urgent": 34,
+   "new_this_run": 32,
    "saved": 0,
-   "permanent_india": 60,
-   "postdoc_india": 13,
+   "permanent_india": 79,
+   "postdoc_india": 16,
    "postdoc_abroad": 61,
    "permanent_abroad": 24,
-   "sources_ok": 100,
-   "sources_total": 163
+   "sources_ok": 123,
+   "sources_total": 158
   }
  },
  "jobs": [
@@ -136,6 +136,75 @@
    "new": false,
    "details": "Designation/Position- Scientist Position in ICMR ICMR, Mumbai, India invites Scientist Position in ICMR from eligible and interested candidates About- Applications are invited for various project-based positions under the Indian Council of Medical Research (ICMR) funded project titled “Development of Snake Venom Research and Testing Centre” (Project ID: IIRPIG-2025-01-02077) . The project aims to strengthen research related to snake venom analysi … NGS & Bioinformatics Public health and health technology assessment Rural health research Drone-enabled healthcare delivery and telemedicine Protein cloning, expression and purification Molecular biology and immunology Malaria sero-surveillance Sickle cell disease clinical research Digital diabetes prevention and mHealth Community and field-based health research Dengue immunology, virology and pathophysiology Public health surveys and data analysis Laboratory investigations and blood collection For example, the Project Research Scientist-II position under ADOPT-HTAIn (Health Technology Assessment in India) involves NGS/bioinformatics analy",
    "details_checked": true
+  },
+  {
+   "id": "611c521de838",
+   "title": "Advertisement (English) ( 702.00 KB) View",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf",
+   "context": "Serial Number: 10 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-11-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
+   "id": "ebfcd10e0ae9",
+   "title": "Advertisement (Hindi) ( 870.93 KB) View",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf",
+   "context": "Serial Number: 10 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-11-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
+   "id": "d35bfa36a99d",
+   "title": "Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026)",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf",
+   "context": "Serial Number: 10 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-11-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "27a548cf9f6b",
@@ -382,7 +451,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2cdcc83938cb",
@@ -491,7 +560,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "26ae6feaa1f2",
@@ -726,6 +795,35 @@
    "new": false
   },
   {
+   "id": "753d833e417f",
+   "title": "Associate or Senior Editor, Genome Biology",
+   "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 4 days ago",
+   "source_id": "naturecareers",
+   "source_name": "Nature Careers",
+   "published": null,
+   "deadline": "2026-11-16",
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 59,
+   "matched": [
+    "bioinformatic",
+    "epigenomic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 59,
+   "details": "Associate or Senior Editor, Genome Biology Employer Springer Nature Ltd Location London (Greater) (GB) Salary Competitive salary + excellent benefits package Closing date 16 Nov 2026 View more categories View less categories Discipline Computing , Life Science Job Type Editor Employment - Hours Full time Duration Permanent Qualification PhD Sector Industry Apply on website (This will open in a new window from which you will be automatically redir … Visit biomedcentral.com and follow @BioMedCentral About the Role As one of the BioMed Central flagship journals, Genome Biology publishes outstanding research in all areas of biology and biomedicine studied from a genomic and post-genomic perspective. … bioinformatics; … functional genomics; … epigenomics;",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "aec739a23a5f",
    "title": "Click here to",
    "url": "https://recruitment.icmr.org.in/scientist-d-mednine-ots/index.php/logout",
@@ -748,7 +846,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "a625d9d2dd4a",
@@ -773,7 +871,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "7a54752a1b71",
@@ -853,7 +951,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false,
+   "details": null
   }
  ]
 }
