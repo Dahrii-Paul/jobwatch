@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T17:06+05:30",
+  "updated": "2026-11-03T18:04+05:30",
   "match_threshold": 40,
   "include_categories": [
    "permanent",
@@ -8,7 +8,7 @@
    "fellowship"
   ],
   "counts": {
-   "total_indexed": 669,
+   "total_indexed": 674,
    "open_matches": 151,
    "urgent": 25,
    "new_this_run": 0,
@@ -16,7 +16,7 @@
    "postdoc_india": 9,
    "postdoc_abroad": 60,
    "permanent_abroad": 23,
-   "sources_ok": 45,
+   "sources_ok": 46,
    "sources_total": 67
   }
  },
@@ -30,7 +30,7 @@
    "count": 1,
    "url": "https://www.icmr.gov.in/recruitment-portal",
    "error": "",
-   "seconds": 3.1
+   "seconds": 3.2
   },
   {
    "id": "dbt",
@@ -52,7 +52,7 @@
    "count": 0,
    "url": "https://www.dst.gov.in/",
    "error": "https://dst.gov.in/whatsnew/recruitment: 0 job-like links; https://dst.gov.in/: 0 job-like links",
-   "seconds": 2.2
+   "seconds": 2.5
   },
   {
    "id": "bric",
@@ -63,7 +63,7 @@
    "count": 0,
    "url": "https://bric.nic.in/recruitment",
    "error": "https://bric.nic.in/recruitment: SSLError; https://bric.nic.in/: SSLError",
-   "seconds": 24.3
+   "seconds": 24.2
   },
   {
    "id": "asrb",
@@ -74,7 +74,7 @@
    "count": 0,
    "url": "https://www.asrb.org.in/",
    "error": "https://www.asrb.org.in/: ConnectTimeout",
-   "seconds": 131.2
+   "seconds": 131.8
   },
   {
    "id": "upsc",
@@ -96,7 +96,7 @@
    "count": 1,
    "url": "https://www.csir.res.in/en/notification",
    "error": "",
-   "seconds": 1.9
+   "seconds": 1.8
   },
   {
    "id": "ncbs",
@@ -107,7 +107,7 @@
    "count": 6,
    "url": "https://www.ncbs.res.in/",
    "error": "",
-   "seconds": 2.9
+   "seconds": 2.8
   },
   {
    "id": "ccmb",
@@ -118,7 +118,7 @@
    "count": 5,
    "url": "https://www.ccmb.res.in/",
    "error": "",
-   "seconds": 63.6
+   "seconds": 21.3
   },
   {
    "id": "igib",
@@ -140,7 +140,7 @@
    "count": 12,
    "url": "https://www.nibmg.ac.in/",
    "error": "",
-   "seconds": 2.3
+   "seconds": 2.2
   },
   {
    "id": "rgcb",
@@ -162,7 +162,7 @@
    "count": 0,
    "url": "https://www.cdfd.org.in/careers",
    "error": "https://www.cdfd.org.in/careers: SSLError; https://www.cdfd.org.in/: SSLError",
-   "seconds": 22.7
+   "seconds": 23.0
   },
   {
    "id": "thsti",
@@ -173,7 +173,7 @@
    "count": 20,
    "url": "https://thsti.res.in/",
    "error": "",
-   "seconds": 11.1
+   "seconds": 15.5
   },
   {
    "id": "nii",
@@ -184,7 +184,7 @@
    "count": 3,
    "url": "https://www.nii.res.in/",
    "error": "",
-   "seconds": 2.4
+   "seconds": 3.0
   },
   {
    "id": "instem",
@@ -193,20 +193,20 @@
    "verified": false,
    "ok": true,
    "count": 2,
-   "url": "https://instem.res.in/opportunities/",
+   "url": "https://instem.res.in/opportunities",
    "error": "",
-   "seconds": 2.9
+   "seconds": 2.6
   },
   {
    "id": "icgeb",
    "name": "ICGEB New Delhi",
    "region": "india",
    "verified": false,
-   "ok": true,
-   "count": 4,
+   "ok": false,
+   "count": 0,
    "url": "https://www.icgeb.org/",
-   "error": "",
-   "seconds": 3.0
+   "error": "https://www.icgeb.org/careers/: 0 job-like links; https://www.icgeb.org/: 0 job-like links",
+   "seconds": 1.4
   },
   {
    "id": "researchersjob",
@@ -217,7 +217,7 @@
    "count": 280,
    "url": "https://researchersjob.com/wp-json",
    "error": "",
-   "seconds": 25.6
+   "seconds": 30.7
   },
   {
    "id": "biotecnika",
@@ -228,7 +228,7 @@
    "count": 280,
    "url": "https://www.biotecnika.org/wp-json",
    "error": "",
-   "seconds": 27.6
+   "seconds": 31.3
   },
   {
    "id": "scilifelab",
@@ -239,7 +239,7 @@
    "count": 6,
    "url": "https://www.scilifelab.se/careers/?filter=researchers-research-engineers-and-postdocs",
    "error": "",
-   "seconds": 1.6
+   "seconds": 1.3
   },
   {
    "id": "euraxess",
@@ -250,7 +250,7 @@
    "count": 9,
    "url": "https://euraxess.ec.europa.eu/jobs/search?keywords=bioinformatics",
    "error": "",
-   "seconds": 1.3
+   "seconds": 0.3
   },
   {
    "id": "jobsacuk",
@@ -261,7 +261,7 @@
    "count": 15,
    "url": "https://www.jobs.ac.uk/search/?keywords=bioinformatics",
    "error": "",
-   "seconds": 1.3
+   "seconds": 1.2
   },
   {
    "id": "naturecareers",
@@ -294,7 +294,7 @@
    "count": 29,
    "url": "https://ki.se/en/vacancies",
    "error": "",
-   "seconds": 2.4
+   "seconds": 2.8
   },
   {
    "id": "uu",
@@ -316,7 +316,7 @@
    "count": 0,
    "url": "https://www.kth.se/en/om/work-at-kth/lediga-jobb",
    "error": "https://www.kth.se/en/om/work-at-kth/lediga-jobb: RetryError",
-   "seconds": 12.0
+   "seconds": 11.8
   },
   {
    "id": "chalmers",
@@ -327,7 +327,7 @@
    "count": 1,
    "url": "https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/",
    "error": "",
-   "seconds": 1.0
+   "seconds": 0.9
   },
   {
    "id": "lund",
@@ -335,10 +335,10 @@
    "region": "abroad",
    "verified": false,
    "ok": true,
-   "count": 48,
+   "count": 51,
    "url": "https://www.lunduniversity.lu.se/vacancies",
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.6
   },
   {
    "id": "liu",
@@ -349,7 +349,7 @@
    "count": 0,
    "url": "https://liu.se/en/work-at-liu/vacancies",
    "error": "https://liu.se/en/work-at-liu/vacancies: 0 job-like links",
-   "seconds": 0.8
+   "seconds": 0.7
   },
   {
    "id": "unibas",
@@ -360,7 +360,7 @@
    "count": 0,
    "url": "https://www.unibas.ch/de/Jobs-und-Karriere/Offene-Stellen.html",
    "error": "https://jobs.unibas.ch/: 0 job-like links",
-   "seconds": 3.2
+   "seconds": 3.3
   },
   {
    "id": "uzh",
@@ -371,7 +371,7 @@
    "count": 0,
    "url": "https://www.uzh.ch/de/explore/work/jobs",
    "error": "https://www.jobs.uzh.ch/: 0 job-like links",
-   "seconds": 2.1
+   "seconds": 2.4
   },
   {
    "id": "psi",
@@ -382,7 +382,7 @@
    "count": 0,
    "url": "https://www.psi.ch/en/pa/job-opportunities",
    "error": "https://www.psi.ch/en/pa/job-opportunities: HTTP 403",
-   "seconds": 0.6
+   "seconds": 0.2
   },
   {
    "id": "mpg",
@@ -393,7 +393,7 @@
    "count": 0,
    "url": "https://www.mpg.de/en/career/jobboard",
    "error": "https://www.mpg.de/en/career/jobboard: HTTP 404",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "id": "leibniz",
@@ -404,7 +404,7 @@
    "count": 0,
    "url": "https://www.leibniz-gemeinschaft.de/en/career/job-offers",
    "error": "https://www.leibniz-gemeinschaft.de/en/career/job-offers: HTTP 404",
-   "seconds": 0.8
+   "seconds": 0.7
   },
   {
    "id": "dkfz",
@@ -426,7 +426,7 @@
    "count": 4,
    "url": "https://www.dtu.dk/english/about/job-and-career/vacant-positions",
    "error": "",
-   "seconds": 1.3
+   "seconds": 1.0
   },
   {
    "id": "aau",
@@ -437,7 +437,7 @@
    "count": 3,
    "url": "https://www.vacancies.aau.dk/",
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "id": "sdu",
@@ -448,7 +448,7 @@
    "count": 0,
    "url": "https://www.sdu.dk/en/om-sdu/job-sdu",
    "error": "https://www.sdu.dk/en/service/ledige_stillinger: 0 job-like links",
-   "seconds": 1.5
+   "seconds": 1.4
   },
   {
    "id": "univie",
@@ -459,7 +459,7 @@
    "count": 1,
    "url": "https://jobs.univie.ac.at/",
    "error": "",
-   "seconds": 1.4
+   "seconds": 1.5
   },
   {
    "id": "ista",
@@ -470,7 +470,7 @@
    "count": 1,
    "url": "https://ist.ac.at/en/jobs/",
    "error": "",
-   "seconds": 1.2
+   "seconds": 1.1
   },
   {
    "id": "uq",
@@ -503,7 +503,7 @@
    "count": 8,
    "url": "https://www.academictransfer.com/en/jobs/?q=bioinformatics",
    "error": "",
-   "seconds": 5.8
+   "seconds": 5.3
   },
   {
    "id": "ethz",
@@ -514,7 +514,7 @@
    "count": 60,
    "url": "https://jobs.ethz.ch/",
    "error": "",
-   "seconds": 4.8
+   "seconds": 3.6
   },
   {
    "id": "epfl",
@@ -525,7 +525,7 @@
    "count": 0,
    "url": "https://careers.epfl.ch/",
    "error": "https://careers.epfl.ch/: 0 job-like links",
-   "seconds": 3.8
+   "seconds": 3.6
   },
   {
    "id": "embl",
@@ -536,7 +536,7 @@
    "count": 5,
    "url": "https://embl.wd103.myworkdayjobs.com/EMBL",
    "error": "",
-   "seconds": 6.6
+   "seconds": 5.2
   },
   {
    "id": "nus",
@@ -547,7 +547,7 @@
    "count": 3,
    "url": "https://careers.nus.edu.sg/NUS/",
    "error": "",
-   "seconds": 4.6
+   "seconds": 4.7
   },
   {
    "id": "usyd",
@@ -558,16 +558,16 @@
    "count": 0,
    "url": "https://usyd.wd3.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE",
    "error": "https://usyd.wd3.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE: HTTP 500",
-   "seconds": 3.6
+   "seconds": 3.3
   },
   {
    "id": "prog:anrf-npdf",
    "name": "ANRF National Post-Doctoral Fellowship (N-PDF)",
    "region": "india",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "url": "https://anrfonline.in/",
-   "error": "ConnectionError",
+   "error": "",
    "verified": false,
    "seconds": 0
   },
@@ -575,10 +575,10 @@
    "id": "prog:anrf-ramanujan",
    "name": "ANRF Ramanujan Fellowship (faculty-track re-entry)",
    "region": "india",
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "url": "https://anrfonline.in/",
-   "error": "ConnectionError",
+   "error": "",
    "verified": false,
    "seconds": 0
   },
