@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T23:22+05:30",
+  "updated": "2026-11-03T23:40+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,8 +10,8 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2047,
-   "open_matches": 296,
+   "total_indexed": 2049,
+   "open_matches": 297,
    "urgent": 56,
    "new_this_run": 0,
    "saved": 0,
@@ -19,7 +19,7 @@
    "postdoc_india": 17,
    "postdoc_abroad": 118,
    "permanent_abroad": 35,
-   "sources_ok": 166,
+   "sources_ok": 165,
    "sources_total": 209
   }
  },
@@ -13069,6 +13069,34 @@
    "details": null
   },
   {
+   "id": "603a74004174",
+   "title": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles ",
+   "url": "https://www.nibmg.ac.in/uploads/aa0662d843a5a56e78632430642f9314.pdf",
+   "context": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles from human metalistic colorectal cancer(CRC) cells: contribution to CRC Pathogenesis.” PI-Dr. Kaushik Das Funding Agency-SERB",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [
+    "proteomics",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "1 | P a g e  \n \n \n \nAdvertisement No: NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/205                                           Date: 24-10-2025 \n \nPosition available \nApplications are invited for the position of Project Associate-I for extramural projects as per the details \ngiven below. \nProject Name: Coagulation factor activated  factor X promotes the release of extracellular vesicles \nfrom human metastatic colorectal cancer (CRC) cells: contribution t … Detecting the driving factor(s) of \nthe EVs by proteomics, transcriptomics, lipidomics, or metabolomics approach may aid in  developing a \nnovel therapeutic strategy in limiting CRC pathogenesis via targeting the EVs.",
+   "details_checked": true
+  },
+  {
    "id": "af2133a9a2dd",
    "title": "BRIC-NIPGR Recruitment: Candidates from Life Science or Related fields Attend the Walk-in Interview",
    "url": "https://www.biotecnika.org/2025/12/bric-nipgr-recruitment-candidates-from-life-science-or-related-fields-attend-the-walk-in-interview/",
@@ -13805,6 +13833,33 @@
    "match": false,
    "new": false,
    "details": " \n \n \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/216                                   Date: 06-11-2025 \nPosition available: Online Interview \nProject Title: Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnolog … Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnology, Government of India. … This is the first institution in \nIndia explicitly devoted to research, training, translation & service and capacity -building in Biomedical \nGenomics. … BRIC-NIBMG was an important core laboratory and inte gral partner of Indian SARS -CoV-2 Genomic \nConsortium (INSACOG) from its establishment during the COVID-19 pandemic, Dece",
+   "details_checked": true
+  },
+  {
+   "id": "1f5194b0a59e",
+   "title": "Applications are invited for the post of Project Associate-I(Wet Lab) and Project Associate-I(Dry Lab) against Advertisement No. NIBMG/ADMIN/ESTB/2025-26/226 dtd. 10/11/2025 for Project entitled Diabetic Retinopathy Microbiome Study-India(DRMS-India) PI-Dr.Sou",
+   "url": "https://www.nibmg.ac.in/uploads/a0a58efe7f732b34f67162b4329c7c6e.pdf",
+   "context": "Applications are invited for the post of Project Associate-I(Wet Lab) and Project Associate-I(Dry Lab) against Advertisement No. NIBMG/ADMIN/ESTB/2025-26/226 dtd. 10/11/2025 for Project entitled Diabetic Retinopathy Microbiome Study-India(DRMS-India) PI-Dr.Souvik Mukherjee Funding Agency- LVPEI",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 33,
+   "matched": [
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 33,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": " \n \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/226                              Date: 10-11-2025 \n \n   \nPositions available \n \nNational Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, Ministry of \nScience & Technology, Department of Biotechnology. The Institute has created necessary physical \ninfrastructure and critical platform technologies to support research, translation and training in biomedical \ngeno … 10-11-2025 \n \n   \nPositions available \n \nNational Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, Ministry of \nScience & Technology, Department of Biotechnology. … The Institute has created necessary physical \ninfrastructure and critical platform technologies to support research, translation and training in biomedical \ngenomics. … Applications are invited for the position of Project Linked Pe rsons for extramural projects to be executed by \nthe National institute of Biomedical Genomics, Kalyani. … He/she will catalogue the changes in bacterial, viral and fungal composition and its gene \nfamilies, pa",
    "details_checked": true
   },
   {
@@ -17494,7 +17549,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "e1ca7d45acd4",
@@ -17520,52 +17576,6 @@
    "new": false,
    "details": "0BRrG\nsrrtrn\n\\.i:l{.1n. rratiLta l'\nJr jar{--Oici I 9t: l':nci\nfk{ q.zn.f. No NrBMG/ADMTN/ESTB/NoIice/ 2025-26 / X\\5 Dt:6)-72-2025\nNOTICE\nPanel of Selected Candidates for the post of Proiect Assosiate-I (One) against\nAdvertisement No. NIBMG/ADMIN/ESTB/PROI.RECT/2025-26/205 dtd. Z+1rcjZOiS forProject entitled \"coagulation factor activated factor X promotes the release ofextracellular vesicles from human metastatic colorectal cancer (CRC) cells:\nco",
    "details_checked": true
-  },
-  {
-   "id": "1f5194b0a59e",
-   "title": "Applications are invited for the post of Project Associate-I(Wet Lab) and Project Associate-I(Dry Lab) against Advertisement No. NIBMG/ADMIN/ESTB/2025-26/226 dtd. 10/11/2025 for Project entitled Diabetic Retinopathy Microbiome Study-India(DRMS-India) PI-Dr.Sou",
-   "url": "https://www.nibmg.ac.in/uploads/a0a58efe7f732b34f67162b4329c7c6e.pdf",
-   "context": "Applications are invited for the post of Project Associate-I(Wet Lab) and Project Associate-I(Dry Lab) against Advertisement No. NIBMG/ADMIN/ESTB/2025-26/226 dtd. 10/11/2025 for Project entitled Diabetic Retinopathy Microbiome Study-India(DRMS-India) PI-Dr.Souvik Mukherjee Funding Agency- LVPEI",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
-   "id": "603a74004174",
-   "title": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles ",
-   "url": "https://www.nibmg.ac.in/uploads/aa0662d843a5a56e78632430642f9314.pdf",
-   "context": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles from human metalistic colorectal cancer(CRC) cells: contribution to CRC Pathogenesis.” PI-Dr. Kaushik Das Funding Agency-SERB",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
   },
   {
    "id": "54a44fec11e6",
@@ -20022,7 +20032,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \n \n \n \nReference: RES/7/2025-PATHO DEPT       Date- 14.10.2025 \n \n \nRecommendation of the selection committee for walk-in & online interview for the post of \nProject Research Scientist II (Non-Medical) \n \n \nTitle of the project - “Exploring the Pathobiology of Brain Aging in Indian population: developing a \npublic domain reference atlas and spatial transcriptome facility for aging research” sanctioned under \nICMR Centre for Advance Research proj",
+   "details_checked": true
   },
   {
    "id": "46b750af15c2",
@@ -23293,7 +23305,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "c8c2095c6b48",
@@ -23316,7 +23329,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "b81be514a848",
@@ -23666,12 +23680,62 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "42f2dff2d29c",
    "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
    "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3Mjg0NjM=",
+   "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "04556a92abfd",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTM3Mjk1MTQ=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "3f5581d20fb5",
+   "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
+   "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3Mjk1MTQ=",
    "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
    "source_id": "sctimst",
    "source_name": "SCTIMST Thiruvananthapuram",
@@ -45624,7 +45688,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "  1 \nJAWAHARLAL NEHRU UNIVERSITY \n  \nMEMBERS OF THE COURT \n          \nUpdated as on 29th October, 2026 \n         \n(i) Under Statute 11(1): \n \n(i) The Chancellor \n \n1. Shri Amb. Kanwal Sibal \nChancellor, JNU  \nFormer Foreign Secretary of India  \nE-mail: kanwalsibal@gmail.com       \n \n19.09.2023 to 18.09.2028 \n \n(ii)  The Vice Chancellor: \n \n2. Prof. Santishree Dhulipudi Pandit \nVice-Chancellor   \nJawaharlal Nehru University \nNEW DELHI-110067 \nE-ma",
+   "details_checked": true
   },
   {
    "id": "8c8afa8d5a67",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T23:22+05:30",
+  "updated": "2026-11-03T23:40+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,8 +10,8 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2047,
-   "open_matches": 296,
+   "total_indexed": 2049,
+   "open_matches": 297,
    "urgent": 56,
    "new_this_run": 0,
    "saved": 0,
@@ -19,7 +19,7 @@
    "postdoc_india": 17,
    "postdoc_abroad": 118,
    "permanent_abroad": 35,
-   "sources_ok": 166,
+   "sources_ok": 165,
    "sources_total": 209
   }
  },
@@ -8155,6 +8155,34 @@
    "match": true,
    "new": false,
    "details": null
+  },
+  {
+   "id": "603a74004174",
+   "title": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles ",
+   "url": "https://www.nibmg.ac.in/uploads/aa0662d843a5a56e78632430642f9314.pdf",
+   "context": "Applications are invited for the post of Project Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/ 205 dtd. 24/10/2025 for Project entitled : “Coagulation factor activated factor X promotes the release of extracellular vesicles from human metalistic colorectal cancer(CRC) cells: contribution to CRC Pathogenesis.” PI-Dr. Kaushik Das Funding Agency-SERB",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [
+    "proteomics",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "1 | P a g e  \n \n \n \nAdvertisement No: NIBMG/ADMIN/ESTB/PROJ.RECT/2025-26/205                                           Date: 24-10-2025 \n \nPosition available \nApplications are invited for the position of Project Associate-I for extramural projects as per the details \ngiven below. \nProject Name: Coagulation factor activated  factor X promotes the release of extracellular vesicles \nfrom human metastatic colorectal cancer (CRC) cells: contribution t … Detecting the driving factor(s) of \nthe EVs by proteomics, transcriptomics, lipidomics, or metabolomics approach may aid in  developing a \nnovel therapeutic strategy in limiting CRC pathogenesis via targeting the EVs.",
+   "details_checked": true
   }
  ]
 }
