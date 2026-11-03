@@ -102,6 +102,8 @@ def collect(src: dict) -> tuple[list[dict], dict]:
                 if items:
                     break
                 errors.append(f"{url}: 0 job-like links")
+                if not pg.is_pdf:            # record what *was* on the page, to help fix the source
+                    h["seen_links"] = extract.link_sample(pg.text, pg.url)
             h["error"] = "; ".join(errors) if not items else ""
         h["ok"] = bool(items)
     except Exception as e:

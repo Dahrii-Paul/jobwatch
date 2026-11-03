@@ -166,6 +166,21 @@ def careers_links(html: str, base_url: str, limit: int = 3) -> list[str]:
     return sorted(out, key=rank)[:limit]
 
 
+def link_sample(html: str, base_url: str, n: int = 40) -> list[str]:
+    """First links on a page as 'text -> url' (diagnostics for sources that return nothing)."""
+    soup = BeautifulSoup(html, "lxml")
+    out = []
+    for a in soup.find_all("a", href=True):
+        text = _clean(a.get_text(" ", strip=True)) or _clean(a.get("title", ""))
+        href = a["href"].strip()
+        if text and not SKIP_HREF.match(href):
+            out.append(f"{text[:60]} -> {urljoin(base_url, href)[:120]}")
+        if len(out) >= n:
+            break
+    frames = [urljoin(base_url, f["src"]) for f in soup.find_all(["iframe", "frame"], src=True)][:5]
+    return out + [f"[frame] {f}" for f in frames] + [f"[page size {len(html)} chars]"]
+
+
 def from_rss(xml_text: str) -> list[dict]:
     """Parse RSS 2.0 or Atom without extra dependencies."""
     items = []
