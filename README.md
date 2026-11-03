@@ -1,4 +1,4 @@
-# JobWatch 🧬
+# [JobWatch 🧬](https://dahrii-paul.github.io/jobwatch/)
 
 **An AI job-search agent for bioinformatics, computational biology and genomics.**
 It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPSC, institutes) for **permanent Scientist and Assistant Professor posts**, and Indian + international sites (SciLifeLab, EURAXESS, jobs.ac.uk, Nature Careers, universities in Sweden, the Netherlands, Switzerland, Germany, Denmark, Austria, Singapore, Australia, UK) for **postdocs and fellowships** — with deadlines.
