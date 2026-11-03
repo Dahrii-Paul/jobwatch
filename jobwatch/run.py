@@ -284,6 +284,7 @@ def main(argv=None) -> int:
     cache_path = DATA / "ai_cache.json"
     cache = json.loads(cache_path.read_text()) if cache_path.exists() else {}
     if not a.no_ai:
+        log.info(ai.selftest())
         cand = sorted([it for it in items if (it["score"] >= 15 or it["check_advt"]) and it["category"] != "phd"],
                       key=lambda x: -x["score"])
         cache = ai.screen(cand, profile, cache)

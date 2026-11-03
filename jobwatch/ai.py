@@ -54,29 +54,71 @@ def cache_key(item: dict) -> str:
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
 
+# GitHub Models has two public addresses; try both unless the user configured their own.
+GITHUB_ENDPOINTS = [
+    ("https://models.github.ai/inference", "openai/gpt-4.1-mini"),
+    ("https://models.inference.ai.azure.com", "gpt-4o-mini"),
+]
+_working: tuple[str, str] | None = None
+
+
+def _endpoints() -> list[tuple[str, str]]:
+    if _working:
+        return [_working]
+    if os.getenv("LLM_BASE_URL"):
+        return [(os.getenv("LLM_BASE_URL").rstrip("/"), os.getenv("LLM_MODEL", "gpt-4o-mini"))]
+    if os.getenv("LLM_MODEL"):
+        return [(b, os.getenv("LLM_MODEL")) for b, _ in GITHUB_ENDPOINTS]
+    return GITHUB_ENDPOINTS
+
+
+def _post(base: str, body: dict):
+    import requests
+    return requests.post(
+        f"{base}/chat/completions",
+        headers={"Authorization": f"Bearer {_key()}", "Content-Type": "application/json",
+                 "Accept": "application/json", "X-GitHub-Api-Version": "2022-11-28"},
+        json=body, timeout=120, allow_redirects=False,
+    )
+
+
 def _call(messages: list[dict]) -> str:
-    base = os.getenv("LLM_BASE_URL", "https://models.github.ai/inference").rstrip("/")
-    model = os.getenv("LLM_MODEL", "openai/gpt-4.1-mini")
-    body = {"model": model, "messages": messages, "temperature": 0,
-            "response_format": {"type": "json_object"}}
-    for attempt in range(2):
-        r = fetch.session().post(
-            f"{base}/chat/completions",
-            headers={"Authorization": f"Bearer {_key()}", "Content-Type": "application/json",
-                     "Accept": "application/json"},
-            json=body, timeout=120,
-        )
-        try:
-            data = r.json()
-        except ValueError:
-            data = None
-        if r.status_code < 400 and data and data.get("choices"):
-            return data["choices"][0]["message"]["content"] or ""
-        if attempt == 0 and r.status_code in (400, 422) or data is None:
-            body.pop("response_format", None)     # some models/endpoints reject it
-            continue
-        break
-    raise RuntimeError(f"LLM HTTP {r.status_code} from {base} ({model}): {r.text[:300]!r}")
+    global _working
+    errors = []
+    for base, model in _endpoints():
+        body = {"model": model, "messages": messages, "temperature": 0,
+                "response_format": {"type": "json_object"}}
+        for attempt in range(2):
+            try:
+                r = _post(base, body)
+            except Exception as e:
+                errors.append(f"{base}: {type(e).__name__}")
+                break
+            try:
+                data = r.json()
+            except ValueError:
+                data = None
+            if r.status_code < 300 and data and data.get("choices"):
+                _working = (base, model)
+                return data["choices"][0]["message"]["content"] or ""
+            if attempt == 0 and (r.status_code in (400, 422) or (r.status_code < 300 and data is None)):
+                body.pop("response_format", None)     # some models/endpoints reject JSON mode
+                continue
+            loc = r.headers.get("location", "")
+            errors.append(f"{base} ({model}): HTTP {r.status_code}{' → ' + loc if loc else ''} {r.text[:160]!r}")
+            break
+    raise RuntimeError(" | ".join(errors))
+
+
+def selftest() -> str:
+    """One tiny request; returns a human-readable status line for the log."""
+    if not enabled():
+        return "AI self-test: no key available — keyword scoring only"
+    try:
+        out = _call([{"role": "user", "content": 'Reply with JSON {"ok": true}'}])
+        return f"AI self-test OK via {_working[0]} ({_working[1]}): {out[:60]!r}"
+    except Exception as e:
+        return f"AI self-test FAILED: {e}"
 
 
 def _parse(text: str) -> list[dict]:
