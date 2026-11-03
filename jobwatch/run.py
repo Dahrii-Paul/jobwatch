@@ -271,7 +271,7 @@ def main(argv=None) -> int:
     # 1. collect listings (plain sites in parallel, browser-rendered ones sequentially)
     plain = [s for s in sources if not s.get("render")]
     rendered = [s for s in sources if s.get("render")]
-    with ThreadPoolExecutor(8) as ex:
+    with ThreadPoolExecutor(16) as ex:      # different sites in parallel; each site is still rate-limited
         results = list(ex.map(collect, plain))
     results += [collect(s) for s in rendered]
     fetch.close()
@@ -302,7 +302,7 @@ def main(argv=None) -> int:
 
     # 2. open promising job pages / PDFs for deadline + subject (budgeted)
     if not a.no_details:
-        budget = int(os.getenv("MAX_DETAIL_FETCHES", "200"))
+        budget = int(os.getenv("MAX_DETAIL_FETCHES", "350"))
         per_src: dict[str, int] = {}
         todo = []
         for it in sorted(items, key=lambda x: -x["score"]):
@@ -318,7 +318,7 @@ def main(argv=None) -> int:
             per_src[src["id"]] = per_src.get(src["id"], 0) + 1
             todo.append(it)
         log.info("Opening %d job pages for details", len(todo))
-        with ThreadPoolExecutor(8) as ex:
+        with ThreadPoolExecutor(12) as ex:
             list(ex.map(lambda it: enrich(it, profile, today), todo))
         for it in todo:
             classify_item(it, it["_src"], profile)

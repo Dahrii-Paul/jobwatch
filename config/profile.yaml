@@ -7,20 +7,27 @@ name: "Bioinformatics / Computational Biology candidate"
 
 # One paragraph the AI reads to judge fit. Be specific.
 summary: >
-  PhD-level researcher in bioinformatics and computational biology with
-  hands-on genomics and NGS data analysis (WGS/WES, RNA-seq, single-cell,
-  variant calling, metagenomics), pipeline development (Nextflow/Snakemake),
-  R/Python, Linux/HPC and statistical / machine-learning methods for omics.
-  Looking for (1) permanent positions in India — Scientist B/C/D (ICMR, DBT/BRIC,
-  CSIR, DST, ICAR), Assistant Professor / faculty in bioinformatics,
-  biotechnology or allied life sciences; and (2) postdoctoral positions and
-  fellowships in India and abroad in bioinformatics, computational biology,
-  genomics and allied areas.
+  PhD in Bioinformatics. Expertise in machine learning, genomics, NGS,
+  computational biology and multi-omics: ML-based biomarker discovery,
+  urinary and blood proteomics, and current tuberculosis whole-genome
+  sequencing (WGS) / pathogen genomics work at JIPMER. Hands-on R/Python,
+  Linux/HPC and NGS pipelines.
+  Track A — permanent posts in India: Assistant / Associate Professor,
+  Scientist B/C/D/E (ICMR, DBT/BRIC, CSIR, DST, ICAR), research scientist and
+  equivalent scientific posts.
+  Track B — research positions in India and abroad: Postdoctoral Fellow,
+  Institute Postdoctoral Fellow, Research Associate I/II/III, Project Research
+  Scientist I/II/III, and DBT/DST/ICMR/ANRF-funded fellowships.
+  Relevant departments are not only Bioinformatics but also Computational
+  Biology, Genomics, Systems Biology, Biotechnology, Life/Biological/Biomedical
+  Sciences and Data Science. Not interested in JRF/SRF, project assistant,
+  technician or PhD positions.
 
 # Which kinds of posts to show by default on the dashboard
 # (others are still collected and can be toggled on).
-include_categories: [permanent, postdoc, fellowship]
-# Other categories the classifier knows: project (JRF/SRF/project scientist), phd, other
+include_categories: [permanent, postdoc, fellowship, project]
+# project = Project Research Scientist / Project Associate (PhD-level project posts).
+# Also known but hidden: junior (JRF, SRF, project assistant, technician), phd, other
 
 # Minimum relevance (0–100) for a job to count as a "match"
 match_threshold: 40
@@ -64,6 +71,18 @@ core_keywords:
   - precision medicine
   - cancer genomics
   - human genetics
+  - pathogen genomics
+  - microbial genomics
+  - tb genomics
+  - tuberculosis genomics
+  - whole genome sequencing
+  - whole-genome sequencing
+  - wgs
+  - biomarker
+  - immunoinformatics
+  - genome analyst
+  - biomedical data scientist
+  - ai/ml scientist
 
 # Allied subjects — moderate signal
 allied_keywords:
@@ -87,6 +106,12 @@ allied_keywords:
   - plant biology
   - evolution
   - epidemiology
+  - tuberculosis
+  - infectious disease
+  - biological sciences
+  - biosciences
+  - biomedical sciences
+  - quantitative biology
 
 # Words that make a post clearly irrelevant to you
 negative_keywords:

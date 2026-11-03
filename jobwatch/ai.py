@@ -23,18 +23,19 @@ from . import fetch
 log = logging.getLogger(__name__)
 
 BATCH = 12
-CATS = {"permanent", "postdoc", "fellowship", "project", "phd", "other"}
+CATS = {"permanent", "postdoc", "fellowship", "project", "junior", "phd", "other"}
 
 SYSTEM = """You screen academic job adverts for one candidate. Be strict and factual.
 For each job return an object:
   id: same id as given
   score: 0-100 fit for the candidate (subject fit AND career stage; 0 = unrelated field)
-  category: one of permanent | postdoc | fellowship | project | phd | other
+  category: one of permanent | postdoc | fellowship | project | junior | phd | other
      permanent = regular/tenure(-track) post: Scientist B/C/D..., Assistant/Associate Professor,
                  faculty, lecturer, staff scientist, group leader
      postdoc   = postdoctoral researcher / research associate / research fellow
      fellowship= named postdoctoral fellowship scheme
-     project   = JRF/SRF/project scientist/assistant/technician/contract project post
+     project   = PhD-level project post: Project Research Scientist I/II/III, project associate
+     junior    = JRF/SRF/project assistant/technician/research assistant
   deadline: application deadline as YYYY-MM-DD if stated in the text, else null (never guess)
   country: country of the post, or null
   reason: <= 18 words on why it does / doesn't fit

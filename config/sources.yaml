@@ -37,7 +37,7 @@ sources:
 - id: dbt
   name: DBT Vacancies
   region: india
-  urls: ["https://dbtindia.gov.in/whats-new/vacancies"]
+  urls: ["https://dbtindia.gov.in/whats-new/vacancies", "https://dbtindia.gov.in/"]
   life_science: true
   verified: true
 
@@ -51,7 +51,7 @@ sources:
 - id: bric
   name: BRIC (DBT autonomous institutes)
   region: india
-  urls: ["https://bric.nic.in/recruitment", "https://bric.nic.in/"]
+  urls: ["https://www.bric.nic.in/ibric-advertisements/", "https://bric.nic.in/"]
   life_science: true
   verified: false
 
@@ -93,21 +93,21 @@ sources:
 - id: igib
   name: CSIR-IGIB Delhi
   region: india
-  urls: ["https://www.igib.res.in/?q=Jobs", "https://www.igib.res.in/"]
+  urls: ["https://www.igib.in/projects_positions", "https://www.igib.in/", "https://www.igib.res.in/"]
   life_science: true
   verified: false
 
 - id: nibmg
   name: BRIC-NIBMG Kalyani (genomics)
   region: india
-  urls: ["https://www.nibmg.ac.in/careers", "https://www.nibmg.ac.in/"]
+  urls: ["https://www.nibmg.ac.in/p/career", "https://www.nibmg.ac.in/"]
   life_science: true
   verified: false
 
 - id: rgcb
   name: BRIC-RGCB Thiruvananthapuram
   region: india
-  urls: ["https://rgcb.res.in/jobs.php", "https://rgcb.res.in/"]
+  urls: ["https://rgcb.res.in/jobs.php", "https://www.rgcb.res.in/"]
   life_science: true
   verified: false
 
@@ -257,3 +257,108 @@ sources:
 - {id: uq, name: University of Queensland, region: abroad, country: Australia, urls: ["https://careers.uq.edu.au/"]}
 # UK
 - {id: sanger, name: Wellcome Sanger Institute, region: abroad, country: United Kingdom, urls: ["https://www.sanger.ac.uk/about/careers/"]}
+
+
+# ═════════════════════  INDIA — added from your institute list  ═════════════════════
+# ── ICMR / national portals ──
+- {id: icmr-emp, name: "ICMR employment opportunities (all institutes)", region: india, urls: ["https://www.icmr.gov.in/employment-opportunities"], life_science: true}
+- {id: bric-work, name: "BRIC — work with us", region: india, urls: ["https://www.bric.nic.in/work-with-us/"], life_science: true}
+- {id: icmr-portal, name: "ICMR online recruitment", region: india, urls: ["https://recruitment.icmr.org.in/"], life_science: true, render: true}
+- {id: ugc, name: "UGC", region: india, urls: ["https://www.ugc.gov.in/"]}
+- {id: moe, name: "Ministry of Education", region: india, urls: ["https://www.education.gov.in/"]}
+- {id: ncs, name: "National Career Service — govt vacancies", region: india, urls: ["https://www.ncs.gov.in/pages/govt-job-vacancies.aspx"], render: true}
+- {id: anrf, name: "ANRF (Anusandhan National Research Foundation)", region: india, urls: ["https://anrf.gov.in/"]}
+- {id: birac, name: "BIRAC", region: india, urls: ["https://birac.nic.in/"], life_science: true}
+- {id: cu-chayan, name: "CU-CHAYAN central university faculty portal", region: india, urls: ["https://curec.samarth.ac.in/"], render: true, default_category: permanent}
+# ── IITs ──
+- {id: iit-madras, name: "IIT Madras", region: india, urls: ["https://www.iitm.ac.in/careers", "https://www.iitm.ac.in/"]}
+- {id: iit-delhi, name: "IIT Delhi", region: india, urls: ["https://home.iitd.ac.in/jobs-iitd/index.php", "https://home.iitd.ac.in/"]}
+- {id: iit-bombay, name: "IIT Bombay", region: india, urls: ["https://www.iitb.ac.in/career", "https://www.iitb.ac.in/"]}
+- {id: iit-hyderabad, name: "IIT Hyderabad", region: india, urls: ["https://www.iith.ac.in/careers/", "https://www.iith.ac.in/"]}
+- {id: iit-kanpur, name: "IIT Kanpur", region: india, urls: ["https://www.iitk.ac.in/new/recruitment", "https://www.iitk.ac.in/"]}
+- {id: iit-kgp, name: "IIT Kharagpur", region: india, urls: ["https://www.iitkgp.ac.in/positions", "https://www.iitkgp.ac.in/"]}
+- {id: iit-guwahati, name: "IIT Guwahati", region: india, urls: ["https://www.iitg.ac.in/"]}
+- {id: iit-roorkee, name: "IIT Roorkee", region: india, urls: ["https://www.iitr.ac.in/"]}
+- {id: iit-indore, name: "IIT Indore", region: india, urls: ["https://www.iiti.ac.in/"]}
+- {id: iit-jodhpur, name: "IIT Jodhpur", region: india, urls: ["https://www.iitj.ac.in/"]}
+- {id: iit-ropar, name: "IIT Ropar", region: india, urls: ["https://www.iitrpr.ac.in/"]}
+- {id: iit-mandi, name: "IIT Mandi", region: india, urls: ["https://www.iitmandi.ac.in/"]}
+- {id: iit-bbs, name: "IIT Bhubaneswar", region: india, urls: ["https://www.iitbbs.ac.in/"]}
+- {id: iit-gn, name: "IIT Gandhinagar", region: india, urls: ["https://iitgn.ac.in/careers", "https://iitgn.ac.in/"]}
+- {id: iit-patna, name: "IIT Patna", region: india, urls: ["https://www.iitp.ac.in/"]}
+- {id: iit-bhu, name: "IIT (BHU) Varanasi", region: india, urls: ["https://www.iitbhu.ac.in/"]}
+- {id: iit-palakkad, name: "IIT Palakkad", region: india, urls: ["https://iitpkd.ac.in/"]}
+- {id: iit-tirupati, name: "IIT Tirupati", region: india, urls: ["https://www.iittp.ac.in/"]}
+- {id: iit-dharwad, name: "IIT Dharwad", region: india, urls: ["https://www.iitdh.ac.in/"]}
+- {id: iit-jammu, name: "IIT Jammu", region: india, urls: ["https://www.iitjammu.ac.in/"]}
+- {id: iit-bhilai, name: "IIT Bhilai", region: india, urls: ["https://www.iitbhilai.ac.in/"]}
+- {id: iit-goa, name: "IIT Goa", region: india, urls: ["https://iitgoa.ac.in/"]}
+- {id: iit-ism, name: "IIT (ISM) Dhanbad", region: india, urls: ["https://www.iitism.ac.in/"]}
+# ── IISc, IISERs, NISER ──
+- {id: iisc, name: "IISc Bangalore", region: india, urls: ["https://www.iisc.ac.in/careers/", "https://www.iisc.ac.in/"]}
+- {id: iiser-pune, name: "IISER Pune", region: india, urls: ["https://www.iiserpune.ac.in/"]}
+- {id: iiser-kol, name: "IISER Kolkata", region: india, urls: ["https://apply.iiserkol.ac.in/career.html", "https://www.iiserkol.ac.in/"]}
+- {id: iiser-mohali, name: "IISER Mohali", region: india, urls: ["https://www.iisermohali.ac.in/"]}
+- {id: iiser-bhopal, name: "IISER Bhopal", region: india, urls: ["https://www.iiserb.ac.in/"]}
+- {id: iiser-tvm, name: "IISER Thiruvananthapuram", region: india, urls: ["https://www.iisertvm.ac.in/openings/active_openings", "https://www.iisertvm.ac.in/"]}
+- {id: iiser-tirupati, name: "IISER Tirupati", region: india, urls: ["https://www.iisertirupati.ac.in/"]}
+- {id: niser, name: "NISER Bhubaneswar", region: india, urls: ["https://www.niser.ac.in/"]}
+# ── BRIC / DBT institutes ──
+- {id: nccs, name: "BRIC-NCCS Pune", region: india, urls: ["https://www.nccs.res.in/"], life_science: true}
+- {id: nipgr, name: "BRIC-NIPGR New Delhi", region: india, urls: ["https://www.nipgr.ac.in/"], life_science: true}
+- {id: nbrc, name: "BRIC-NBRC Manesar", region: india, urls: ["https://nbrc.ac.in/"], life_science: true}
+- {id: ils, name: "BRIC-ILS Bhubaneswar", region: india, urls: ["https://www.ils.res.in/"], life_science: true}
+- {id: niab, name: "BRIC-NIAB Hyderabad", region: india, urls: ["https://www.niab.org.in/"], life_science: true}
+- {id: nabi, name: "BRIC-NABI Mohali", region: india, urls: ["https://nabi.res.in/"], life_science: true}
+- {id: ibsd, name: "BRIC-IBSD Imphal", region: india, urls: ["https://ibsd.gov.in/"], life_science: true}
+- {id: rcb, name: "Regional Centre for Biotechnology", region: india, urls: ["https://www.rcb.res.in/"], life_science: true}
+# ── CSIR laboratories ──
+- {id: imtech, name: "CSIR-IMTECH Chandigarh", region: india, urls: ["https://www.imtech.res.in/"], life_science: true}
+- {id: cdri, name: "CSIR-CDRI Lucknow", region: india, urls: ["https://cdri.res.in/"], life_science: true}
+- {id: iicb, name: "CSIR-IICB Kolkata", region: india, urls: ["https://iicb.res.in/"], life_science: true}
+- {id: cftri, name: "CSIR-CFTRI Mysuru", region: india, urls: ["https://cftri.res.in/"], life_science: true}
+- {id: neeri, name: "CSIR-NEERI Nagpur", region: india, urls: ["https://www.neeri.res.in/"], life_science: true}
+- {id: clri, name: "CSIR-CLRI Chennai", region: india, urls: ["https://clri.org/"], life_science: true}
+# ── Medical & biomedical institutes ──
+- {id: aiims-delhi, name: "AIIMS New Delhi", region: india, urls: ["https://www.aiims.edu/"]}
+- {id: aiims-jodhpur, name: "AIIMS Jodhpur", region: india, urls: ["https://www.aiimsjodhpur.edu.in/"]}
+- {id: aiims-rishikesh, name: "AIIMS Rishikesh", region: india, urls: ["https://aiimsrishikesh.edu.in/"]}
+- {id: aiims-bhopal, name: "AIIMS Bhopal", region: india, urls: ["https://aiimsbhopal.edu.in/"]}
+- {id: aiims-bbs, name: "AIIMS Bhubaneswar", region: india, urls: ["https://aiimsbhubaneswar.nic.in/"]}
+- {id: aiims-patna, name: "AIIMS Patna", region: india, urls: ["https://aiimspatna.edu.in/"]}
+- {id: aiims-raipur, name: "AIIMS Raipur", region: india, urls: ["https://www.aiimsraipur.edu.in/"]}
+- {id: jipmer, name: "JIPMER Puducherry", region: india, urls: ["https://jipmer.edu.in/employee-corner/recruitment", "https://jipmer.edu.in/"]}
+- {id: pgimer, name: "PGIMER Chandigarh", region: india, urls: ["https://pgimer.edu.in/"]}
+- {id: nimhans, name: "NIMHANS Bengaluru", region: india, urls: ["https://nimhans.ac.in/"]}
+- {id: sctimst, name: "SCTIMST Thiruvananthapuram", region: india, urls: ["https://www.sctimst.ac.in/"]}
+- {id: niper, name: "NIPER Mohali", region: india, urls: ["https://niper.gov.in/"]}
+- {id: actrec, name: "ACTREC Navi Mumbai", region: india, urls: ["https://actrec.gov.in/"], life_science: true}
+- {id: tmc, name: "Tata Memorial Centre", region: india, urls: ["https://tmc.gov.in/"], life_science: true}
+- {id: tifr, name: "TIFR Mumbai", region: india, urls: ["https://www.tifr.res.in/"]}
+# ── ICMR institutes & other government research ──
+- {id: nirt, name: "ICMR-NIRT Chennai (TB research)", region: india, urls: ["https://nirt.res.in/"], life_science: true}
+- {id: nie, name: "ICMR-NIE Chennai", region: india, urls: ["https://nie.gov.in/"], life_science: true}
+- {id: niv, name: "ICMR-NIV Pune", region: india, urls: ["https://niv.co.in/"], life_science: true}
+- {id: nirrch, name: "ICMR-NIRRCH Mumbai", region: india, urls: ["https://nirrch.res.in/"], life_science: true}
+- {id: ncdir, name: "ICMR-NCDIR Bengaluru", region: india, urls: ["https://ncdirindia.org/"], life_science: true}
+- {id: nib, name: "National Institute of Biologicals", region: india, urls: ["https://nib.gov.in/"], life_science: true}
+- {id: ncdc, name: "National Centre for Disease Control", region: india, urls: ["https://ncdc.mohfw.gov.in/"], life_science: true}
+- {id: insa, name: "INSA", region: india, urls: ["https://insaindia.res.in/"], life_science: true}
+# ── Central universities ──
+- {id: uohyd, name: "University of Hyderabad", region: india, urls: ["https://uohyd.ac.in/"]}
+- {id: jnu, name: "Jawaharlal Nehru University", region: india, urls: ["https://www.jnu.ac.in/career", "https://www.jnu.ac.in/"]}
+- {id: pondiuni, name: "Pondicherry University", region: india, urls: ["https://www.pondiuni.edu.in/"]}
+- {id: bhu, name: "Banaras Hindu University", region: india, urls: ["https://www.bhu.ac.in/"]}
+- {id: du, name: "University of Delhi", region: india, urls: ["https://www.du.ac.in/"]}
+- {id: amu, name: "Aligarh Muslim University", region: india, urls: ["https://www.amu.ac.in/"]}
+- {id: tezu, name: "Tezpur University", region: india, urls: ["https://www.tezu.ernet.in/"]}
+- {id: curaj, name: "Central University of Rajasthan", region: india, urls: ["https://curaj.ac.in/"]}
+- {id: cup, name: "Central University of Punjab", region: india, urls: ["https://cup.edu.in/"]}
+- {id: cutn, name: "Central University of Tamil Nadu", region: india, urls: ["https://cutn.ac.in/"]}
+- {id: nehu, name: "North-Eastern Hill University", region: india, urls: ["https://nehu.ac.in/"]}
+- {id: aus, name: "Assam University", region: india, urls: ["https://www.aus.ac.in/"]}
+- {id: cuk, name: "Central University of Kerala", region: india, urls: ["https://www.cukerala.ac.in/"]}
+# ── Job aggregators ──
+- {id: zoombio, name: "Zoombio — bioinformatics jobs India", region: mixed, urls: ["https://zoombio.org/jobs/bioinformatics/india"], topic_filtered: true, max_details: 40}
+# ── Science Careers ──
+- {id: sciencecareers, name: "Science Careers", region: abroad, urls: ["https://jobs.sciencecareers.org/jobs/bioinformatics/", "https://jobs.sciencecareers.org/jobs/?keywords=bioinformatics"], topic_filtered: true, country: International}

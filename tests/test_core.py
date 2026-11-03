@@ -29,6 +29,8 @@ def test_deadline(text, expected):
     ("Research Associate Position in RGCB, Thiruvananthapuram", "postdoc"),
     ("Project Scientist Position at IISER Bhopal", "project"),
     ("PhD position in Molecular Biology", "phd"),
+    ("Recruitment of JRF and Project Assistant at IIT Madras", "junior"),
+    ("Institute Postdoctoral Fellow in Computational Biology, IISc", "postdoc"),
     ("Staff scientist to BioMS", "permanent"),
     ("Associate Senior Lecturer (SciLifeLab Fellow) in Antimicrobial Resistance", "permanent"),
     ("DBT Ramalingaswami Re-entry Fellowship 2026", "fellowship"),

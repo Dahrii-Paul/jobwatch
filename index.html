@@ -112,7 +112,7 @@ footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
       <span><i style="background:var(--perm)"></i>Permanent / faculty</span>
       <span><i style="background:var(--post)"></i>Postdoc</span>
       <span><i style="background:var(--fel)"></i>Fellowship</span>
-      <span><i style="background:var(--proj)"></i>Project post</span>
+      <span><i style="background:var(--proj)"></i>Project scientist</span>
     </div>
   </section>
 
@@ -142,6 +142,7 @@ footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
         <button aria-pressed="true" data-v="all">All types</button>
         <button aria-pressed="false" data-v="permanent">Permanent</button>
         <button aria-pressed="false" data-v="postdoc">Postdoc &amp; fellowship</button>
+        <button aria-pressed="false" data-v="project">Project scientist</button>
       </div>
       <input type="search" id="q" placeholder="Search title, institute, country…" aria-label="Search jobs">
       <select id="sort" aria-label="Sort by">
@@ -149,7 +150,7 @@ footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
         <option value="score">Best match</option>
         <option value="new">Newest found</option>
       </select>
-      <label class="chk"><input type="checkbox" id="showAll"> Include weaker matches &amp; project posts</label>
+      <label class="chk"><input type="checkbox" id="showAll"> Include weaker matches &amp; JRF/SRF posts</label>
       <label class="chk"><input type="checkbox" id="showClosed"> Show closed</label>
     </div>
     <ul class="jobs" id="list"></ul>
@@ -169,7 +170,7 @@ footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
 </div>
 
 <script>
-const CAT={permanent:["Permanent / faculty","--perm"],postdoc:["Postdoc","--post"],fellowship:["Fellowship","--fel"],project:["Project post","--proj"],phd:["PhD","--other"],other:["Other","--other"]};
+const CAT={permanent:["Permanent / faculty","--perm"],postdoc:["Postdoc","--post"],fellowship:["Fellowship","--fel"],project:["Project scientist","--proj"],junior:["JRF / SRF / assistant","--other"],phd:["PhD","--other"],other:["Other","--other"]};
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const today=new Date(new Date().toDateString());
@@ -201,6 +202,7 @@ function visible(){
     if(state.where!=="all" && j.region!==state.where) return false;
     if(state.type==="permanent" && j.category!=="permanent") return false;
     if(state.type==="postdoc" && !["postdoc","fellowship"].includes(j.category)) return false;
+    if(state.type==="project" && j.category!=="project") return false;
     if(q && !`${j.title} ${j.source_name} ${j.country} ${(j.matched||[]).join(" ")}`.toLowerCase().includes(q)) return false;
     return true});
   const s=state.sort;

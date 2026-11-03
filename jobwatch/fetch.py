@@ -38,7 +38,7 @@ def session() -> requests.Session:
     global _session
     if _session is None:
         s = requests.Session()
-        retry = Retry(total=3, backoff_factor=1.5, status_forcelist=(429, 500, 502, 503, 504),
+        retry = Retry(total=2, backoff_factor=1.5, status_forcelist=(429, 500, 502, 503, 504),
                       allowed_methods=("GET", "POST"))
         s.mount("https://", HTTPAdapter(max_retries=retry))
         s.mount("http://", HTTPAdapter(max_retries=retry))
@@ -68,7 +68,7 @@ def pdf_to_text(data: bytes, max_pages: int = 6) -> str:
         return ""
 
 
-def get(url: str, timeout: int = 30, render: bool = False) -> Page:
+def get(url: str, timeout: int = 25, render: bool = False) -> Page:
     """Fetch a URL. PDFs are converted to text. `render` uses Playwright if installed."""
     if render:
         page = _render(url, timeout)

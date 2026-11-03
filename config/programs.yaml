@@ -8,6 +8,10 @@
 programs:
 
 # ── India ──
+- {id: fellowships-portal, name: "Common Fellowship Portal (Govt of India postdoc schemes)", region: india, url: "https://fellowships.gov.in/"}
+- {id: anrf-calls, name: "ANRF — open calls and fellowships", region: india, url: "https://anrf.gov.in/"}
+- {id: iisc-pdf, name: "IISc postdoctoral fellowships", region: india, url: "https://www.iisc.ac.in/careers/"}
+- {id: iiserk-pdf, name: "IISER Kolkata postdoctoral fellowships", region: india, url: "https://apply.iiserkol.ac.in/career.html"}
 - {id: anrf-npdf,   name: "ANRF National Post-Doctoral Fellowship (N-PDF)", region: india, url: "https://anrfonline.in/"}
 - {id: anrf-ramanujan, name: "ANRF Ramanujan Fellowship (faculty-track re-entry)", region: india, url: "https://anrfonline.in/"}
 - {id: inspire-fac, name: "DST INSPIRE Faculty Fellowship", region: india, url: "https://online-inspire.gov.in/"}

@@ -9,10 +9,11 @@ R = lambda p: re.compile(p, re.I)  # noqa: E731
 PHD = R(r"\bph\.?\s?d\.?\s*(student|position|scholarship|fellowship|candidate|program|studentship|opportunit)|"
         r"doctoral (student|candidate|researcher position)|predoctoral|pre-doctoral|doktorand|"
         r"\bdoctoral (position|scholarship)|studentship|master'?s? (student|thesis)|internship")
-PROJECT = R(r"project[\s-]+(research[\s-]+)?(scientist|associate|assistant|staff|research|manager|technical|coordinator|fellow)|"
-            r"\bjrf\b|\bsrf\b|junior research fellow|senior research fellow|young professional|"
-            r"field (worker|investigator)|technical assistant|lab(oratory)? (assistant|technician)|"
-            r"research assistant|data entry|technician|consultant|research engineer")
+JUNIOR = R(r"\bjrf\b|\bsrf\b|junior research fellow|senior research fellow|project[\s-]+(assistant|technical|technician|staff\b)|"
+           r"young professional|field (worker|investigator)|technical assistant|lab(oratory)? (assistant|technician)|"
+           r"research assistant|data entry|technician|multi[\s-]?tasking|\bmts\b|internship|trainee")
+PROJECT = R(r"project[\s-]+(research[\s-]+)?(scientist|associate|manager|coordinator|fellow|officer)|"
+            r"project (scientist|associate)|consultant|research engineer|scientific (consultant|manager)")
 POSTDOC = R(r"post-?doc|post[\s-]?doctoral|research associate|\bRA[\s-]?(i{1,3}|[123])\b|\bn-?pdf\b|"
             r"research fellow\b|postdoktor|university assistant\s*\(?post-?doc|"
             r"early[\s-]career (researcher|fellow)")
@@ -51,6 +52,8 @@ def categorise(title: str, context: str = "", default: str | None = None) -> str
     tc = f"{t} {context or ''}"
     if PHD.search(t) and not POSTDOC.search(t):
         return "phd"
+    if JUNIOR.search(t) and not re.search(r"professor|faculty|lecturer|scientist|post-?doc|research associate", t, re.I):
+        return "junior"
     if PROJECT.search(t) and not re.search(r"professor|faculty|lecturer", t, re.I):
         return "project"
     if POSTDOC.search(t):
@@ -68,6 +71,8 @@ def categorise(title: str, context: str = "", default: str | None = None) -> str
         return "postdoc"
     if PROJECT.search(tc):
         return "project"
+    if JUNIOR.search(tc):
+        return "junior"
     if PERMANENT.search(tc):
         return "permanent"
     return default or "other"
@@ -122,7 +127,7 @@ def score(item: dict, profile: dict, source: dict) -> dict:
         s += 25
     check_advt = False
     cat = item.get("category")
-    if cat in ("permanent", "postdoc", "fellowship"):
+    if cat in ("permanent", "postdoc", "fellowship", "project"):
         s += 10                     # right career stage
     if source.get("life_science") and cat in ("permanent", "fellowship") and not (core_t or core_b):
         # e.g. "Advertisement for 30 vacancies of Scientist-B at ICMR" — subject list is inside the PDF
@@ -132,7 +137,7 @@ def score(item: dict, profile: dict, source: dict) -> dict:
         s -= 60
     if neg_b and not (core_t or core_b):
         s -= min(30, 15 * len(neg_b))
-    if cat in ("phd", "other"):
+    if cat in ("phd", "other", "junior"):
         s -= 15
     s = max(0, min(100, s))
     return {"score": s, "matched": sorted(set(core_t + core_b + all_t))[:8], "check_advt": check_advt}
