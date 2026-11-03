@@ -93,6 +93,18 @@ For government adverts like *"30 vacancies of Scientist-B at ICMR"* the subject 
 
 ---
 
+## Save a job you found yourself (LinkedIn, X, ResearchGate…)
+
+LinkedIn, X and ResearchGate block automated reading, so JobWatch doesn't scan them. Instead, when you spot a post there:
+
+1. Paste its link into **"Found a job on LinkedIn, X, ResearchGate or anywhere else?"** on the dashboard and press **Save job** (or open *Issues → New issue → Save a job*).
+2. Fill in the job title (and the deadline if you know it) and submit.
+3. About two minutes later the job is on your dashboard and in the feed, tagged **Saved by you**, with a deadline countdown and a match score. JobWatch replies on the issue and closes it.
+
+For normal websites (university pages, PDFs) the agent reads the title and deadline itself. Edit the issue to change a saved job. Only you, the repo owner, can add jobs.
+
+---
+
 ## Make it yours
 
 - **`config/profile.yaml`** — your summary (the AI reads this), keywords, things to exclude, match threshold, countries of interest.
