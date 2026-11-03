@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-03 16:40
+## Live stats · updated 2026-11-03 17:06
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **414** |
-| 🏛️ Permanent posts — India | **331** |
-| 🔬 Postdocs / fellowships — India | **4** |
-| ✈️ Postdocs / fellowships — abroad | **46** |
-| 🌍 Permanent / faculty — abroad | **20** |
-| ⏰ Closing within 14 days | **16** |
-| 🆕 New this run | **420** |
-| 📡 Sources working | **47 / 67** |
+| 🎯 Open matches | **151** |
+| 🏛️ Permanent posts — India | **31** |
+| 🔬 Postdocs / fellowships — India | **9** |
+| ✈️ Postdocs / fellowships — abroad | **60** |
+| 🌍 Permanent / faculty — abroad | **23** |
+| ⏰ Closing within 14 days | **25** |
+| 🆕 New this run | **0** |
+| 📡 Sources working | **45 / 67** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
 | 🔴 **0d** | [Distinguished Professors, Young Faculty, Postdoctoral Researchers](https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing) | postdoc | China | 2026-11-03 |
+| 🔴 **1d** | [PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denma](https://researchersjob.com/phd-scholarship-in-rna-structure/) | phd | Denmark | 2026-11-04 |
 | 🔴 **3d** | [Postdoc Researcher AI/Machine Learn for Multimodal Cardiovasc Data (VASCUL-AID) Are you a ](https://www.academictransfer.com/en/jobs/365056/postdoc-researcher-aimachine-learn-for-multimodal-cardiovasc-data-vascul-aid/) | postdoc | Netherlands | 2026-11-06 |
-| 🟠 **6d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
+| 🟠 **4d** | [BioTecNika Times 28.10.2026: ₹80,400 Job at PGIMER, ₹67,000 Job at BHU, ₹37,000 Job at IIS](https://www.biotecnika.org/2026/10/biotecnika-times-28-10-2026-%e2%82%b980400-job-at-pgimer-%e2%82%b967000-job-at-bhu-%e2%82%b937000-job-at-iiser-more/) | postdoc | India | 2026-11-07 |
+| 🟠 **5d** | [Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland](https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/) | postdoc | Finland | 2026-11-08 |
+| 🟠 **5d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
+| 🟠 **5d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
+| 🟠 **5d** | [Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, De](https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/) | postdoc | Denmark | 2026-11-08 |
+| 🟠 **6d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | project | United Kingdom | 2026-11-09 |
 | 🟠 **7d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |
+| 🟠 **7d** | [IIT Bombay Postdoc Vacancy 2026 / Apply Online Now](https://www.biotecnika.org/2026/10/iit-bombay-postdoc-vacancy-2026/) | postdoc | India | 2026-11-10 |
 | 🟠 **8d** | [Research Fellow (Maternity Cover)](https://www.jobs.ac.uk/job/DTM042/research-fellow-maternity-cover) | postdoc | United Kingdom | 2026-11-11 |
-| 🟠 **9d** | [Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Bio](https://www.jobs.ac.uk/job/DTL498/research-associate-senior-research-associate-in-ai-enabled-enzyme-engineering-for-pet-biorecycling) | postdoc | United Kingdom | 2026-11-12 |
+| 🟠 **8d** | [Research Associate Position at IIT Gandhinagar: India](https://researchersjob.com/research-associate-position-at-iit/) | postdoc | India | 2026-11-11 |
 | 🟠 **9d** | [Post-doc position on Multi-omics Post-doc Position on Multi-omics in Hereditary Fibrinogen](https://www.academictransfer.com/en/jobs/364732/post-doc-position-on-multi-omics/) | postdoc | Netherlands | 2026-11-12 |
-| 🟠 **10d** | [Bioinformatician](https://www.jobs.ac.uk/job/DTH816/bioinformatician) | other | United Kingdom | 2026-11-13 |
-| 🟠 **10d** | [(Senior) Postdoctoral Research Scientist](https://www.jobs.ac.uk/job/DTE706/senior-postdoctoral-research-scientist) | postdoc | United Kingdom | 2026-11-13 |
-| 🟡 **12d** | [Postdoc in Multi-Omics Machine Learning and Computational Cancer Biology at KTH Royal Inst](https://researchersjob.com/postdoc-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
-| 🟡 **12d** | [Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology, Sw](https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
-| 🟡 **12d** | [Postdoc in multi-omics machine learning and computational cancer biology KTH](https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/) | postdoc | Sweden | 2026-11-15 |
-| 🟡 **12d** | [Postdoctoral Researcher: Reset Aged Vascular Function Welcome to Maastricht University! Wh](https://www.academictransfer.com/en/jobs/364997/postdoctoral-researcher-reset-aged-vascular-function/) | postdoc | Netherlands | 2026-11-15 |
-| 🟡 **13d** | [Research Associate in Cancer Biology](https://www.jobs.ac.uk/job/DTK336/research-associate-in-cancer-biology) | postdoc | United Kingdom | 2026-11-16 |
-| 🟡 **14d** | [Genomics Bioinformatician (Fixed Term)](https://www.jobs.ac.uk/job/DTK809/genomics-bioinformatician-fixed-term) | other | United Kingdom | 2026-11-17 |
+| 🟠 **9d** | [Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Bio](https://www.jobs.ac.uk/job/DTL498/research-associate-senior-research-associate-in-ai-enabled-enzyme-engineering-for-pet-biorecycling) | postdoc | United Kingdom | 2026-11-12 |
 <!-- STATS:END -->
 
 ---

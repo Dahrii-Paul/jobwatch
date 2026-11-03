@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:40+05:30",
+ "updated": "2026-11-03T17:06+05:30",
  "match_threshold": 40,
  "include_categories": [
   "permanent",
@@ -7,15 +7,15 @@
   "fellowship"
  ],
  "counts": {
-  "total_indexed": 1239,
-  "open_matches": 414,
-  "urgent": 16,
-  "new_this_run": 420,
-  "permanent_india": 331,
-  "postdoc_india": 4,
-  "postdoc_abroad": 46,
-  "permanent_abroad": 20,
-  "sources_ok": 47,
+  "total_indexed": 669,
+  "open_matches": 151,
+  "urgent": 25,
+  "new_this_run": 0,
+  "permanent_india": 31,
+  "postdoc_india": 9,
+  "postdoc_abroad": 60,
+  "permanent_abroad": 23,
+  "sources_ok": 45,
   "sources_total": 67
  }
 }

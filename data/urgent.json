@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T16:40+05:30",
+  "updated": "2026-11-03T17:06+05:30",
   "match_threshold": 40,
   "include_categories": [
    "permanent",
@@ -8,15 +8,15 @@
    "fellowship"
   ],
   "counts": {
-   "total_indexed": 1239,
-   "open_matches": 414,
-   "urgent": 16,
-   "new_this_run": 420,
-   "permanent_india": 331,
-   "postdoc_india": 4,
-   "postdoc_abroad": 46,
-   "permanent_abroad": 20,
-   "sources_ok": 47,
+   "total_indexed": 669,
+   "open_matches": 151,
+   "urgent": 25,
+   "new_this_run": 0,
+   "permanent_india": 31,
+   "postdoc_india": 9,
+   "postdoc_abroad": 60,
+   "permanent_abroad": 23,
+   "sources_ok": 45,
    "sources_total": 67
   }
  },
@@ -46,7 +46,37 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "c3da7d3a746d",
+   "title": "PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denmark",
+   "url": "https://researchersjob.com/phd-scholarship-in-rna-structure/",
+   "context": "The University of Copenhagen is inviting applications for a PhD position in RNA structure computational analysis and neural sublocalization of transcripts. This research project is hosted by the Gorodkin lab at the Section for Health Data Science and AI, Department of Public Health. Summary This PhD project aims to develop a predictive computational framework to […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-10-22",
+   "deadline": "2026-11-04",
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Denmark",
+   "kw_score": 42,
+   "matched": [
+    "bioinformatic",
+    "computational biology",
+    "high-throughput sequencing",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 42,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "The University of Copenhagen is inviting applications for a PhD position in RNA structure computational analysis and neural sublocalization of transcripts. This research project is hosted by the Gorodkin lab at the Section for Health Data Science and AI, Department of Public Health. Summary This PhD project aims to develop a predictive computational framework to understand the subcellular localization of polyadenylated RNAs (mRNAs and long noncod … 31,850 DKK / 4,260 EUR (plus pension) Start Date February 1, 2027 Research Area Bioinformatics, Computational Biology, RNA Biology, Machine Learning, and Neuroscience. … A Master’s degree (equivalent to 120 ECTS) in bioinformatics, computer science, computational biology, or a related field . … Experience with deep learning, high-throughput sequencing (transcriptomics, CLIP-seq), and RNA-protein interactions.",
+   "details_checked": true
   },
   {
    "id": "21f8e7981d69",
@@ -74,7 +104,147 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "4c4b5754ed19",
+   "title": "BioTecNika Times 28.10.2026: ₹80,400 Job at PGIMER, ₹67,000 Job at BHU, ₹37,000 Job at IISER & More",
+   "url": "https://www.biotecnika.org/2026/10/biotecnika-times-28-10-2026-%e2%82%b980400-job-at-pgimer-%e2%82%b967000-job-at-bhu-%e2%82%b937000-job-at-iiser-more/",
+   "context": "BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Hi {{name}}, Here are the latest posts from BioTecNika Times. We kept this edition short, text-first, and easy to scan. Story 1 | 28 Oct 2026 | Biochemistry Jobs BRIC-CDFD Hyderabad Recruitment 2026 | Earn Rs 1.6 Lakh Per Month […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-10-28",
+   "deadline": "2026-11-07",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Hi {{name}}, Here are the latest posts from BioTecNika Times. We kept this edition short, text-first, and easy to scan. Story 1 | 28 Oct 2026 | Biochemistry Jobs Table of Contents Toggle BRIC-CDFD Hyderabad Recruitment 2026 | Earn Rs 1.6 Lakh Per Month Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month Research Jobs at BHU … Read the full post Story 2 | 28 Oct 2026 | Biochemistry Jobs Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month Research Scientist Job | PGIMER Recruitment Looking for a research scientist job with an attractive salary and an opportunity to work on advanced genomics research? PGIMER Chandigarh has announced a recruitment opportunity under an ICMR-funded project, offering ₹80,400 per month. … Open link Story 5 | 28 Oct 2026 | Bioinformatics Jobs IIT Bombay Postdoc Vacancy 2026 | Apply Online Now IIT Bombay Postdoc Vacancy 2026 Looking for an IIT Bombay postdoc vacancy where you can contribute to innovative environmental biotech",
+   "details_checked": true
+  },
+  {
+   "id": "27a548cf9f6b",
+   "title": "Faculty Positions in Systems Hub, HKUST (GZ)",
+   "url": "https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing",
+   "context": "Faculty Positions in Systems Hub, HKUST (GZ) Guangzhou, Guangdong (CN) Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 5 days left",
+   "source_id": "naturecareers",
+   "source_name": "Nature Careers",
+   "published": null,
+   "deadline": "2026-11-08",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Hong Kong",
+   "kw_score": 73,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 73,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Faculty Positions in Systems Hub, HKUST (GZ) Employer The Hong Kong University of Science and Technology (Guangzhou) Location Guangzhou, Guangdong (CN) Salary Salary is highly competitive of international standard and will be commensurate with qualifications and experience. Closing date 8 Nov 2026 View more categories View less categories Discipline Applied Science , Biomedicine , Computing , Engineering , Life Science Job Type Faculty Member , P … Cell and tissue biology Tissue engineering Neuroscience Chemical biology Synthetic biology Biomaterial science Bioengineering Biomedical engineering Bioinformatics and computational biology Applications from distinguished individuals specializing in other subfields of bioscience, bioengineering, and biomedical engineering will also be actively considered. … Advanced air mobility (AAM) AI-empowered transportation Connected and autonomous vehicles (CAV) Human factors in transportation Logistics and freight transportation Mobility as a service (MaaS) Transportation Economics Transportation electrification and sustainable transportation Transp",
+   "details_checked": true
+  },
+  {
+   "id": "f2908b9e1ef0",
+   "title": "Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, Denmark",
+   "url": "https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/",
+   "context": "Job Summary Novo Nordisk is seeking a dedicated Postdoctoral Researcher to join the R&D Real World Evidence (RWE) area. This role is part of the PROBE project, an Innovative Health Initiative (IHI) public-private partnership focused on advancing patient-relevant osteoarthritis endpoints using big data. The successful candidate will focus on analyzing patient characteristics, identifying progression factors, […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-10-26",
+   "deadline": "2026-11-08",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Denmark",
+   "kw_score": 52,
+   "matched": [
+    "biostatistic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 52,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Job Summary Novo Nordisk is seeking a dedicated Postdoctoral Researcher to join the R&D Real World Evidence (RWE) area. This role is part of the PROBE project, an Innovative Health Initiative (IHI) public-private partnership focused on advancing patient-relevant osteoarthritis endpoints using big data. The successful candidate will focus on analyzing patient characteristics, identifying progression factors, and developing patient subgroups using  … A PhD in epidemiology, biostatistics, data science, biomedical informatics, computational biology, public health, or a related field . … Ability to formulate research questions, interpret results, and explain findings to both technical and non-technical audiences in fluent English. … Translating research findings into scientific reports, presentations, and peer-reviewed publications. … About the PROBE Project PROBE brings together patient data and expertise across academic, healthcare, industry, and patient partners.",
+   "details_checked": true
+  },
+  {
+   "id": "01132a61610c",
+   "title": "Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland",
+   "url": "https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/",
+   "context": "VTT Technical Research Centre of Finland is inviting applications for a Postdoctoral Researcher in Machine Learning & Cheminformatics to join the Rise to Challenge project, “Q-GEN: Quantum computing applications for future genomes and biomaterials.” This two-year position offers a unique opportunity to work at the intersection of machine learning, physics-based simulations, and quantum computing to […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-10-23",
+   "deadline": "2026-11-08",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 50,
+   "matched": [
+    "cheminformatic",
+    "machine learning"
+   ],
+   "check_advt": false,
+   "score": 50,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "VTT Technical Research Centre of Finland is inviting applications for a Postdoctoral Researcher in Machine Learning & Cheminformatics to join the Rise to Challenge project, “Q-GEN: Quantum computing applications for future genomes and biomaterials.” This two-year position offers a unique opportunity to work at the intersection of machine learning, physics-based simulations, and quantum computing to innovate wood-based biopolymers. Job Overview De … VTT Technical Research Centre of Finland is inviting applications for a Postdoctoral Researcher in Machine Learning & Cheminformatics to join the Rise to Challenge project, “Q-GEN: … Job Overview Designation Postdoctoral Researcher Research Area Machine Learning, Cheminformatics, and Biomaterials Location Tekniikantie 21, Espoo, Finland Employment Type Full-time, 2-year fixed term Application Deadline November 8, 2026 Job Description In this role, you will develop a data-driven screening workflow for biomaterial design. … Interpreting results alongside chemists and physicists to identify promising candidates for wet-lab experiments. … Coll",
+   "details_checked": true
+  },
+  {
+   "id": "5f451d95bfdc",
+   "title": "Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay | Freshers Eligible",
+   "url": "https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/",
+   "context": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-10-23",
+   "deadline": "2026-11-08",
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 45,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 45,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have a background in bioinformatics, comput … Bioinformatics Jobs | St. … Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. … John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. … If you have a background in bioinformatics, computational biology, or related disciplines, this St.",
+   "details_checked": true
   },
   {
    "id": "c9a6c3f7ca86",
@@ -85,23 +255,23 @@
    "source_name": "jobs.ac.uk (UK)",
    "published": null,
    "deadline": "2026-11-09",
-   "category": "permanent",
+   "category": "project",
    "contract": false,
    "region": "abroad",
    "country": "United Kingdom",
-   "kw_score": 53,
+   "kw_score": 43,
    "matched": [
     "cancer biology"
    ],
    "check_advt": false,
-   "score": 53,
+   "score": 43,
    "details": "Skip to main content Back to search results Research Assistant - AI Scientist & Computational Cancer Biology University of Oxford - Oxford Centre for Immuno-Oncology Location: Oxford Salary: £35,681 to £41,636 with a discretionary range to £46,476 p.a. (pro rata). This is inclusive of a pensionable Oxford University Weighting of £1,730 per year (pro rata). Hours: Full Time Contract Type: Fixed-Term/Contract Placed On: 27th October 2026 Closes: 9t … The project brings together sovereign AI supercomputing, AI Scientists, automated laboratories, and immunology to develop and manufacture safer, more precise and more effective personalised cancer vaccines. … By integrating advanced machine learning with robotic laboratory automation, experimental findings are rapidly fed back to the AI scientist, enabling increasingly accurate predictions and accelerating the pace at which new scientific discoveries can be translated towards patient benefit. … It is supported by major UK research funders and government organisations, including ARIA, the Medical Research Council, UK Research and Innovation",
    "details_checked": true,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "57175b4a3b09",
@@ -126,7 +296,35 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "bda7b2fecdbe",
+   "title": "IIT Bombay Postdoc Vacancy 2026 | Apply Online Now",
+   "url": "https://www.biotecnika.org/2026/10/iit-bombay-postdoc-vacancy-2026/",
+   "context": "IIT Bombay Postdoc Vacancy 2026 Looking for an IIT Bombay postdoc vacancy where you can contribute to innovative environmental biotechnology research? IIT Bombay is offering an opportunity to join a newly established laboratory studying microbial biofilms and wastewater treatment. If you’re exploring research jobs in biotechnology, bioinformatics or bioprocess engineering, this IIT Bombay recruitment could […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-10-28",
+   "deadline": "2026-11-10",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "omics"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "IIT Bombay Postdoc Vacancy 2026 Looking for an IIT Bombay postdoc vacancy where you can contribute to innovative environmental biotechnology research? IIT Bombay is offering an opportunity to join a newly established laboratory studying microbial biofilms and wastewater treatment. If you’re exploring research jobs in biotechnology, bioinformatics or bioprocess engineering, this IIT Bombay recruitment could be an exciting next step. Discover the e … If you’re exploring research jobs in biotechnology, bioinformatics or bioprocess engineering, this IIT Bombay recruitment could be an exciting next step. … Biotechnology Bioprocess engineering Bioinformatics/omics Soft-matter analysis (FTIR/NMR) How to Apply? Send a 1-page CV plus 5 lines on why you are a good fit via the PI’s original post or by email to sharada.navada@iitb.ac.in . … The latest IIT Bombay recruitment is relevant to PhD-level researchers with expertise in biotechnology, bioprocess engineering, bioinformatics or soft-matter analysis.",
+   "details_checked": true
   },
   {
    "id": "a1c0d9fdb3be",
@@ -155,7 +353,35 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "2cdcc83938cb",
+   "title": "Research Associate Position at IIT Gandhinagar: India",
+   "url": "https://researchersjob.com/research-associate-position-at-iit/",
+   "context": "Research Associate Position at IIT Gandhinagar Designation/Position- Research Associate Position at IIT IIT Gandhinagar, Gujarat, India invites application for Research Associate Position at IIT from eligible and interested candidates About- IIT Gandhinagar offers a unique undergraduate and graduate education experience in India with unmatched innovations in curriculum. We take pride in our student-centric philosophy resulting in a […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-10-31",
+   "deadline": "2026-11-11",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Research Associate Position at IIT Gandhinagar Designation/Position- Research Associate Position at IIT IIT Gandhinagar, Gujarat, India invites application for Research Associate Position at IIT from eligible and interested candidates About- IIT Gandhinagar offers a unique undergraduate and graduate education experience in India with unmatched innovations in curriculum. We take pride in our student-centric philosophy resulting in a safe, nurturin … Research Associate Position at IIT Research/Job Area- Pharmacy, Pharmacology, Bioinformatics, Computational Biology, Computational Chemistry, Biophysics, or allied disciplines Location- IIT Gandhinagar, Gujarat, India Eligibility/Qualification– Essential Qualification/Experience as per the norms 1 Ph.D./MD/MS/MDS or equivalent degree or having 3 years of research, teaching and design and development experience after MVSc/M.Pharm/ME/M.Tech with at least one research paper in Science Citation Indexed (SCI) journal. … Desirable Qualification/Experience Research experience in Pharmacy, Pharmacology, Bioinformatics, Computational Biology, Compu",
+   "details_checked": true
   },
   {
    "id": "c0ee5b81f3d9",
@@ -181,7 +407,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "983c26b6e78c",
@@ -208,7 +434,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "26ae6feaa1f2",
@@ -237,7 +463,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9f8da8315de1",
@@ -265,7 +491,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d39a82d77089",
@@ -295,7 +521,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "71b1a426a2f0",
@@ -325,7 +551,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "bb1f9b02577d",
@@ -355,7 +581,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "40c1941f95a5",
@@ -382,7 +608,35 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "aa5deea31739",
+   "title": "Research Associate Vacancy at ICRISAT Hyderabad | PhD Fresher Apply Now",
+   "url": "https://www.biotecnika.org/2026/10/icrisat-research-associate-vacancy-oilseeds-pre-breeding-genomics/",
+   "context": "Research Associate Vacancy at ICRISAT Hyderabad ICRISAT is hiring a Research Associate for groundnut pre-breeding on a 36-month project position at Patancheru, Hyderabad. This ICRISAT Research Associate vacancy is open to candidates with a PhD in Genetics and Plant Breeding. The qualification required is a PhD in Genetics and Plant Breeding, with 0-1 year of […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-10-30",
+   "deadline": "2026-11-15",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "computational genomics"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Table of Contents Toggle Research Associate Vacancy at ICRISAT Hyderabad About ICRISAT Job Details Role Purpose Key Responsibilities: Essential Qualifications: Terms of Appointment How to apply? Why ICRISAT? Research Associate Vacancy at ICRISAT Hyderabad ICRISAT is hiring a Research Associate for groundnut pre-breeding on a 36-month project position at Patancheru, Hyderabad. This ICRISAT Research Associate vacancy is open to candidates with a Ph … Supervision of bioinformatic analysis of a de novo genome assembly for synthetic genotype; … Integrate bioinformatic pipelines and genomic datasets to identify candidate genes conferring durable stem rot resistance; … Bridge classical plant breeding, cytogenetics, and computational genomics to transition validated, high-value pre-breeding lines and synthetic derivatives into national downstream breeding pipelines. … Publish research findings in peer reviewed journals.",
+   "details_checked": true
   },
   {
    "id": "7c75c6b447d8",
@@ -412,7 +666,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "7a54752a1b71",
@@ -440,7 +694,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "8e38ca7aa39a",
@@ -466,7 +720,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   }
  ]
 }
