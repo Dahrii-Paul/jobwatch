@@ -5,6 +5,11 @@ on:
     # 08:17 and 18:17 IST (02:47 and 12:47 UTC)
     - cron: "47 2 * * *"
     - cron: "47 12 * * *"
+  # also scan whenever the agent's code or config changes
+  # (the bot's own data commits don't re-trigger this)
+  push:
+    branches: [main]
+    paths: ["config/**", "jobwatch/**", ".github/workflows/scan.yml"]
   workflow_dispatch:
     inputs:
       only:
