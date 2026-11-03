@@ -1,0 +1,257 @@
+# ─────────────────────────────────────────────────────────────
+#  Sources the agent watches.  Add / remove / disable freely.
+#
+#  Fields
+#   id               unique short id
+#   name             display name
+#   region           india | abroad
+#   country          country name (for abroad)
+#   type             html (default) | rss | wordpress
+#   urls             one or more URLs, tried in order until one works
+#   topic_filtered   true if the listing is already a bioinformatics search
+#   life_science     true for life-science institutes (permanent "Scientist"
+#                    adverts there are flagged as possibly relevant even if
+#                    the title does not name the subject)
+#   link_pattern     optional regex — only links whose URL matches are kept
+#   default_category optional — permanent | postdoc | fellowship
+#   follow_details   open each candidate's page/PDF to find deadline & subject (default true)
+#   render           true = load with a headless browser (JS-only sites)
+#   verified         true = URL & structure confirmed when this repo was built
+#   enabled          false to skip
+#
+#  After your first run, open  data/health.json  (or the "Sources" tab on the
+#  dashboard) to see which sources returned items and fix any that return 0.
+# ─────────────────────────────────────────────────────────────
+
+sources:
+
+# ═════════════════════  INDIA — permanent posts  ═════════════════════
+
+- id: icmr
+  name: ICMR Recruitment Portal
+  region: india
+  urls: ["https://icmr.gov.in/recruitment-portal"]
+  life_science: true
+  verified: true
+
+- id: dbt
+  name: DBT Vacancies
+  region: india
+  urls: ["https://dbtindia.gov.in/whats-new/vacancies"]
+  life_science: true
+  verified: true
+
+- id: dst
+  name: DST Recruitment
+  region: india
+  urls: ["https://dst.gov.in/whatsnew/recruitment", "https://dst.gov.in/"]
+  life_science: false
+  verified: false
+
+- id: bric
+  name: BRIC (DBT autonomous institutes)
+  region: india
+  urls: ["https://bric.nic.in/recruitment", "https://bric.nic.in/"]
+  life_science: true
+  verified: false
+
+- id: asrb
+  name: ASRB / ICAR Scientist recruitment
+  region: india
+  urls: ["https://www.asrb.org.in/"]
+  life_science: true
+  verified: false
+
+- id: upsc
+  name: UPSC Recruitment Advertisements
+  region: india
+  urls: ["https://upsc.gov.in/recruitment/recruitment-advertisement"]
+  life_science: false
+  verified: false
+
+- id: csir
+  name: CSIR Notifications
+  region: india
+  urls: ["https://www.csir.res.in/en/notification", "https://www.csir.res.in/"]
+  life_science: false
+  verified: false
+
+- id: ncbs
+  name: NCBS Bengaluru
+  region: india
+  urls: ["https://www.ncbs.res.in/positions-open", "https://www.ncbs.res.in/"]
+  life_science: true
+  verified: false
+
+- id: ccmb
+  name: CSIR-CCMB Hyderabad
+  region: india
+  urls: ["https://www.ccmb.res.in/Careers", "https://www.ccmb.res.in/"]
+  life_science: true
+  verified: false
+
+- id: igib
+  name: CSIR-IGIB Delhi
+  region: india
+  urls: ["https://www.igib.res.in/?q=Jobs", "https://www.igib.res.in/"]
+  life_science: true
+  verified: false
+
+- id: nibmg
+  name: BRIC-NIBMG Kalyani (genomics)
+  region: india
+  urls: ["https://www.nibmg.ac.in/careers", "https://www.nibmg.ac.in/"]
+  life_science: true
+  verified: false
+
+- id: rgcb
+  name: BRIC-RGCB Thiruvananthapuram
+  region: india
+  urls: ["https://rgcb.res.in/jobs.php", "https://rgcb.res.in/"]
+  life_science: true
+  verified: false
+
+- id: cdfd
+  name: BRIC-CDFD Hyderabad
+  region: india
+  urls: ["https://www.cdfd.org.in/careers", "https://www.cdfd.org.in/"]
+  life_science: true
+  verified: false
+
+- id: thsti
+  name: BRIC-THSTI Faridabad
+  region: india
+  urls: ["https://thsti.res.in/en/job-opportunities", "https://thsti.res.in/"]
+  life_science: true
+  verified: false
+
+- id: nii
+  name: BRIC-NII New Delhi
+  region: india
+  urls: ["https://www.nii.res.in/en/jobs", "https://www.nii.res.in/"]
+  life_science: true
+  verified: false
+
+- id: instem
+  name: inStem Bengaluru
+  region: india
+  urls: ["https://instem.res.in/opportunities", "https://instem.res.in/"]
+  life_science: true
+  verified: false
+
+- id: icgeb
+  name: ICGEB New Delhi
+  region: india
+  urls: ["https://www.icgeb.org/careers/", "https://www.icgeb.org/"]
+  life_science: true
+  verified: false
+
+# ═════════════════════  INDIA — aggregators  ═════════════════════
+
+- id: researchersjob
+  name: Researchersjob.com
+  region: mixed            # posts cover India and abroad — classifier decides
+  type: wordpress
+  urls: ["https://researchersjob.com"]
+  wp_categories:           # used if the WordPress search API is blocked
+    - category/faculty
+    - category/research-scientist
+    - category/post-doc-fellowship/postdoc-india
+    - category/postdoc-abroad
+  verified: true
+
+- id: biotecnika
+  name: Biotecnika (life-science job news)
+  region: india
+  type: wordpress
+  urls: ["https://www.biotecnika.org"]
+  verified: false
+
+# ═════════════════════  ABROAD — aggregators  ═════════════════════
+
+- id: scilifelab
+  name: SciLifeLab Careers (Sweden)
+  region: abroad
+  country: Sweden
+  urls: ["https://www.scilifelab.se/careers/?filter=researchers-research-engineers-and-postdocs", "https://www.scilifelab.se/careers/"]
+  link_pattern: "/career/"
+  verified: true
+
+- id: euraxess
+  name: EURAXESS (EU-wide)
+  region: abroad
+  country: Europe
+  urls: ["https://euraxess.ec.europa.eu/jobs/search?keywords=bioinformatics"]
+  topic_filtered: true
+  link_pattern: "/jobs/\\d+"
+  verified: false
+
+- id: jobsacuk
+  name: jobs.ac.uk (UK)
+  region: abroad
+  country: United Kingdom
+  urls: ["https://www.jobs.ac.uk/search/?keywords=bioinformatics"]
+  topic_filtered: true
+  link_pattern: "/job/"
+  verified: false
+
+- id: naturecareers
+  name: Nature Careers
+  region: abroad
+  country: International
+  urls: ["https://www.nature.com/naturecareers/jobs/search?keywords=bioinformatics"]
+  topic_filtered: true
+  link_pattern: "/naturecareers/job/"
+  verified: false
+
+- id: academictransfer
+  name: AcademicTransfer (Netherlands)
+  region: abroad
+  country: Netherlands
+  urls: ["https://www.academictransfer.com/en/jobs/?q=bioinformatics"]
+  topic_filtered: true
+  link_pattern: "/en/jobs/\\d+"
+  render: true
+  verified: false
+
+- id: academicpositions
+  name: AcademicPositions (Europe)
+  region: abroad
+  country: Europe
+  urls: ["https://academicpositions.com/jobs/field/bioinformatics"]
+  topic_filtered: true
+  link_pattern: "/ad/"
+  verified: false
+
+# ═════════════════════  ABROAD — institutions  ═════════════════════
+# Sweden
+- {id: ki, name: Karolinska Institutet, region: abroad, country: Sweden, urls: ["https://ki.se/en/vacancies"]}
+- {id: uu, name: Uppsala University, region: abroad, country: Sweden, urls: ["https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies"]}
+- {id: kth, name: KTH Royal Institute of Technology, region: abroad, country: Sweden, urls: ["https://www.kth.se/en/om/work-at-kth/lediga-jobb"]}
+- {id: chalmers, name: Chalmers University of Technology, region: abroad, country: Sweden, urls: ["https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/"]}
+- {id: lund, name: Lund University, region: abroad, country: Sweden, urls: ["https://www.lunduniversity.lu.se/vacancies"]}
+- {id: liu, name: Linköping University, region: abroad, country: Sweden, urls: ["https://liu.se/en/work-at-liu/vacancies"]}
+# Switzerland
+- {id: unibas, name: University of Basel, region: abroad, country: Switzerland, urls: ["https://jobs.unibas.ch/"]}
+- {id: ethz, name: ETH Zurich, region: abroad, country: Switzerland, urls: ["https://jobs.ethz.ch/"], render: true}
+- {id: epfl, name: EPFL, region: abroad, country: Switzerland, urls: ["https://careers.epfl.ch/"], render: true}
+- {id: uzh, name: University of Zurich, region: abroad, country: Switzerland, urls: ["https://www.jobs.uzh.ch/"]}
+- {id: psi, name: Paul Scherrer Institute, region: abroad, country: Switzerland, urls: ["https://www.psi.ch/en/pa/job-opportunities"]}
+# Germany
+- {id: mpg, name: Max Planck Society job board, region: abroad, country: Germany, urls: ["https://www.mpg.de/en/career/jobboard"]}
+- {id: leibniz, name: Leibniz Association, region: abroad, country: Germany, urls: ["https://www.leibniz-gemeinschaft.de/en/career/job-offers"]}
+- {id: embl, name: EMBL (incl. EMBL-EBI), region: abroad, country: Germany, urls: ["https://www.embl.org/jobs/"], render: true}
+- {id: dkfz, name: DKFZ Heidelberg, region: abroad, country: Germany, urls: ["https://www.dkfz.de/en/stellenangebote/"]}
+# Denmark
+- {id: dtu, name: Technical University of Denmark, region: abroad, country: Denmark, urls: ["https://www.dtu.dk/english/about/job-and-career/vacant-positions"]}
+- {id: aau, name: Aalborg University, region: abroad, country: Denmark, urls: ["https://www.vacancies.aau.dk/"]}
+- {id: sdu, name: University of Southern Denmark, region: abroad, country: Denmark, urls: ["https://www.sdu.dk/en/service/ledige_stillinger"]}
+# Austria
+- {id: univie, name: University of Vienna, region: abroad, country: Austria, urls: ["https://jobs.univie.ac.at/"]}
+- {id: ista, name: Institute of Science and Technology Austria, region: abroad, country: Austria, urls: ["https://ist.ac.at/en/jobs/"]}
+# Singapore / Australia (Workday sites need a browser)
+- {id: nus, name: National University of Singapore, region: abroad, country: Singapore, urls: ["https://careers.nus.edu.sg/NUS/"], render: true}
+- {id: usyd, name: University of Sydney, region: abroad, country: Australia, urls: ["https://usyd.wd3.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE"], render: true}
+- {id: uq, name: University of Queensland, region: abroad, country: Australia, urls: ["https://careers.uq.edu.au/"]}
+# UK
+- {id: sanger, name: Wellcome Sanger Institute, region: abroad, country: United Kingdom, urls: ["https://www.sanger.ac.uk/about/careers/"]}

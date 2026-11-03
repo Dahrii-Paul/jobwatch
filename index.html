@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JobWatch</title>
+<meta name="description" content="Bioinformatics and computational biology jobs, postdocs and fellowships in India and abroad, with deadlines.">
+<link rel="alternate" type="application/atom+xml" title="JobWatch feed" href="data/feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#F3F6F5; --surface:#FFFFFF; --ink:#13201F; --muted:#5A6B69; --line:#D7E0DE;
+  /* category colours borrow genome-browser base colours */
+  --perm:#1F64A8; --post:#22814A; --fel:#B86E00; --proj:#A83443; --other:#6B7A78;
+  --urgent:#B42318; --focus:#1F64A8;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0F1716; --surface:#16211F; --ink:#E4EEEC; --muted:#93A6A3; --line:#2A3A37;
+  --perm:#6FA8E0; --post:#5CC287; --fel:#E3A548; --proj:#E57683; --other:#93A6A3; --urgent:#FF7A6E; --focus:#6FA8E0;
+}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 "Atkinson Hyperlegible",system-ui,sans-serif;font-variant-numeric:tabular-nums}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+header{padding:28px 0 8px;display:flex;flex-wrap:wrap;gap:12px 24px;align-items:baseline;justify-content:space-between}
+h1{font-size:1.75rem;margin:0;letter-spacing:-.01em}
+h1 small{display:block;font-size:.95rem;font-weight:400;color:var(--muted);letter-spacing:0}
+.updated{color:var(--muted);font-size:.9rem}
+.updated a{color:var(--muted)}
+
+/* the memorable bit: a deadline track, like a genome browser lane */
+.track{margin:20px 0 8px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px 10px}
+.track h2{font-size:1rem;margin:0 0 10px}
+.lane{position:relative;height:64px;border-bottom:1px solid var(--line)}
+.tick{position:absolute;bottom:0;width:6px;margin-left:-3px;border-radius:2px 2px 0 0;cursor:pointer;opacity:.85;border:0;padding:0}
+.tick:hover,.tick:focus-visible{opacity:1;width:9px;margin-left:-4px}
+.scale{position:relative;height:20px;font-size:.8rem;color:var(--muted)}
+.scale span{position:absolute;transform:translateX(-50%);white-space:nowrap}
+.scale span:first-child{transform:none}
+.legend{display:flex;flex-wrap:wrap;gap:4px 16px;font-size:.85rem;color:var(--muted);margin-top:6px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+
+.stats{display:flex;flex-wrap:wrap;gap:8px 28px;margin:14px 0 4px;color:var(--muted)}
+.stats b{color:var(--ink);font-size:1.25rem;margin-right:4px}
+
+nav.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);margin-top:20px}
+nav.tabs button{font:inherit;background:none;border:0;padding:10px 14px;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent;margin-bottom:-1px}
+nav.tabs button[aria-selected="true"]{color:var(--ink);border-color:var(--ink);font-weight:700}
+
+.controls{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;padding:14px 0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;font-size:.9rem;border:0;background:none;padding:6px 12px;cursor:pointer;color:var(--ink)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.chk{display:inline-flex;align-items:center;gap:6px;font-size:.9rem;cursor:pointer}
+.chk input{accent-color:var(--ink)}
+input[type=search],select{font:inherit;font-size:.95rem;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+input[type=search]{flex:1 1 220px;min-width:0}
+
+ul.jobs{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+.job{display:grid;grid-template-columns:72px 1fr;gap:4px 16px;padding:14px 16px;border-top:1px solid var(--line);border-left:4px solid var(--c,var(--other))}
+.job:first-child{border-top:0;border-top-left-radius:10px}
+.job:last-child{border-bottom-left-radius:10px}
+.left{text-align:right}
+.left .n{display:block;font-size:1.5rem;font-weight:700;line-height:1.1}
+.left .u{font-size:.78rem;color:var(--muted)}
+.left.urgent .n{color:var(--urgent)}
+.title{font-weight:700;text-decoration:none;font-size:1.05rem}
+.title:hover{text-decoration:underline}
+.meta{color:var(--muted);font-size:.9rem;display:flex;flex-wrap:wrap;gap:2px 14px;margin-top:2px}
+.cat{color:var(--c);font-weight:700}
+.why{font-size:.9rem;margin-top:4px}
+.kw{display:inline-block;font-size:.8rem;border:1px solid var(--line);border-radius:4px;padding:0 6px;margin:4px 4px 0 0;color:var(--muted)}
+.flag{font-size:.8rem;border-radius:4px;padding:0 6px;background:var(--bg);border:1px solid var(--line)}
+.score{font-size:.85rem;color:var(--muted)}
+.empty{padding:28px 16px;color:var(--muted)}
+table.src{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:.92rem}
+.src th,.src td{text-align:left;padding:8px 12px;border-top:1px solid var(--line);vertical-align:top}
+.src th{background:var(--bg);border-top:0}
+.ok{color:var(--post);font-weight:700}.bad{color:var(--urgent);font-weight:700}
+.src td.err{color:var(--muted);font-size:.85rem;word-break:break-word}
+footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
+@media (max-width:600px){
+  .job{grid-template-columns:52px 1fr;gap:4px 12px;padding:12px}
+  .left .n{font-size:1.25rem}
+  .src .hide-sm{display:none}
+  .scale .d7{display:none}
+}
+@media (prefers-reduced-motion:no-preference){ .tick{transition:width .12s} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>JobWatch <small>Bioinformatics, computational biology and genomics positions — India and abroad</small></h1>
+    <div class="updated" id="updated">Loading…</div>
+  </header>
+
+  <section class="track" aria-labelledby="trackh">
+    <h2 id="trackh">Deadlines in the next 60 days</h2>
+    <div class="lane" id="lane" role="list"></div>
+    <div class="scale" id="scale" aria-hidden="true"></div>
+    <div class="legend">
+      <span><i style="background:var(--perm)"></i>Permanent / faculty</span>
+      <span><i style="background:var(--post)"></i>Postdoc</span>
+      <span><i style="background:var(--fel)"></i>Fellowship</span>
+      <span><i style="background:var(--proj)"></i>Project post</span>
+    </div>
+  </section>
+
+  <div class="stats" id="stats"></div>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" aria-selected="true" data-tab="jobs">Matching jobs</button>
+    <button role="tab" aria-selected="false" data-tab="programs">Fellowship programmes</button>
+    <button role="tab" aria-selected="false" data-tab="sources">Sources</button>
+  </nav>
+
+  <section id="tab-jobs">
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Where" id="where">
+        <button aria-pressed="true" data-v="all">Everywhere</button>
+        <button aria-pressed="false" data-v="india">India</button>
+        <button aria-pressed="false" data-v="abroad">Abroad</button>
+      </div>
+      <div class="seg" role="group" aria-label="Position type" id="type">
+        <button aria-pressed="true" data-v="all">All types</button>
+        <button aria-pressed="false" data-v="permanent">Permanent</button>
+        <button aria-pressed="false" data-v="postdoc">Postdoc &amp; fellowship</button>
+      </div>
+      <input type="search" id="q" placeholder="Search title, institute, country…" aria-label="Search jobs">
+      <select id="sort" aria-label="Sort by">
+        <option value="deadline">Closing soonest</option>
+        <option value="score">Best match</option>
+        <option value="new">Newest found</option>
+      </select>
+      <label class="chk"><input type="checkbox" id="showAll"> Include weaker matches &amp; project posts</label>
+      <label class="chk"><input type="checkbox" id="showClosed"> Show closed</label>
+    </div>
+    <ul class="jobs" id="list"></ul>
+  </section>
+
+  <section id="tab-programs" hidden>
+    <p class="updated" style="margin:14px 0">Recurring postdoctoral schemes. The agent reads each official page; when no current call date is printed there, it says so.</p>
+    <ul class="jobs" id="plist"></ul>
+  </section>
+
+  <section id="tab-sources" hidden>
+    <p class="updated" style="margin:14px 0">Every site the agent checked on the last run. A source returning nothing usually means its page moved — edit <code>config/sources.yaml</code>.</p>
+    <table class="src"><thead><tr><th>Source</th><th>Status</th><th>Items</th><th class="hide-sm">Notes</th></tr></thead><tbody id="slist"></tbody></table>
+  </section>
+
+  <footer>Data is gathered automatically from public recruitment pages and may be incomplete or out of date. Always confirm eligibility and the deadline in the official advertisement. <a href="data/feed.xml">Atom feed</a> · <a href="data/open.json">JSON</a></footer>
+</div>
+
+<script>
+const CAT={permanent:["Permanent / faculty","--perm"],postdoc:["Postdoc","--post"],fellowship:["Fellowship","--fel"],project:["Project post","--proj"],phd:["PhD","--other"],other:["Other","--other"]};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const today=new Date(new Date().toDateString());
+const daysLeft=d=>d?Math.round((new Date(d+"T00:00:00")-today)/864e5):null;
+const fmt=d=>new Date(d+"T00:00:00").toLocaleDateString("en-GB",{day:"numeric",month:"short",year:"numeric"});
+const state={where:"all",type:"all",q:"",sort:"deadline",all:false,closed:false};
+let JOBS=[],META={};
+
+function pref(k,v){try{if(v===undefined)return JSON.parse(localStorage.getItem("jw:"+k));localStorage.setItem("jw:"+k,JSON.stringify(v))}catch(e){return null}}
+
+async function load(){
+  try{
+    const [j,p,h]=await Promise.all(["jobs","programs","health"].map(n=>fetch(`data/${n}.json`,{cache:"no-store"}).then(r=>r.ok?r.json():null)));
+    if(!j){$("#updated").textContent="No data yet — run the “Scan for jobs” workflow once from the Actions tab.";return}
+    JOBS=j.jobs; META=j.meta;
+    const u=new Date(META.updated);
+    $("#updated").innerHTML=`Last scan ${u.toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})} · <a href="data/feed.xml">feed</a>`;
+    const c=META.counts;
+    $("#stats").innerHTML=[[c.open_matches,"open matches"],[c.permanent_india,"permanent in India"],[c.postdoc_india,"postdocs in India"],[c.postdoc_abroad,"postdocs abroad"],[c.urgent,"closing in 14 days"],[c.new_this_run,"new this scan"]].map(([n,l])=>`<span><b>${n}</b>${l}</span>`).join("");
+    drawTrack(); render(); renderPrograms(p?.programs||[]); renderSources(h?.sources||[]);
+  }catch(e){$("#updated").textContent="Couldn't load data/jobs.json. Open this page through GitHub Pages, not as a local file."}
+}
+
+function visible(){
+  const thr=META.match_threshold??40, q=state.q.toLowerCase();
+  let r=JOBS.filter(j=>{
+    if(!state.closed && j.status!=="open") return false;
+    if(!state.all && (j.score<thr || !(META.include_categories||[]).includes(j.category))) return false;
+    if(state.where!=="all" && j.region!==state.where) return false;
+    if(state.type==="permanent" && j.category!=="permanent") return false;
+    if(state.type==="postdoc" && !["postdoc","fellowship"].includes(j.category)) return false;
+    if(q && !`${j.title} ${j.source_name} ${j.country} ${(j.matched||[]).join(" ")}`.toLowerCase().includes(q)) return false;
+    return true});
+  const s=state.sort;
+  r.sort((a,b)=> s==="score"? b.score-a.score : s==="new"? (b.first_seen||"").localeCompare(a.first_seen||"")||b.score-a.score
+    : (a.deadline||"9999").localeCompare(b.deadline||"9999")||b.score-a.score);
+  return r;
+}
+
+function row(j){
+  const [label,col]=CAT[j.category]||CAT.other, d=daysLeft(j.deadline);
+  const left = d===null? `<div class="left"><span class="n">—</span><span class="u">no date found</span></div>`
+    : d<0? `<div class="left"><span class="n">0</span><span class="u">closed</span></div>`
+    : `<div class="left ${d<=7?"urgent":""}"><span class="n">${d}</span><span class="u">${d===1?"day left":"days left"}</span></div>`;
+  const flags=[j.new?"<span class=flag>New</span>":"", j.contract?"<span class=flag>Contract / temporary</span>":"",
+    j.check_advt?"<span class=flag>Subject not in title — check the advert</span>":""].join(" ");
+  return `<li class="job" style="--c:var(${col})">${left}<div>
+    <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+    <div class="meta"><span class="cat">${label}</span><span>${esc(j.source_name)}</span><span>${esc(j.country||(j.region==="india"?"India":""))}</span>
+      ${j.deadline?`<span>Deadline ${fmt(j.deadline)}</span>`:""}<span class="score">Match ${j.score}/100</span> ${flags}</div>
+    ${j.ai_reason?`<div class="why">${esc(j.ai_reason)}</div>`:""}
+    ${(j.matched||[]).map(k=>`<span class="kw">${esc(k)}</span>`).join("")}
+  </div></li>`;
+}
+
+function render(){
+  const r=visible();
+  $("#list").innerHTML=r.length? r.map(row).join("")
+    : `<li class="empty">Nothing matches these filters. Try “Everywhere”, clear the search, or tick “Include weaker matches”.</li>`;
+}
+
+function drawTrack(){
+  const W=60, lane=$("#lane"), thr=META.match_threshold??40;
+  const js=JOBS.filter(j=>j.status==="open"&&j.score>=thr&&j.deadline).map(j=>[j,daysLeft(j.deadline)]).filter(([,d])=>d>=0&&d<=W);
+  const stack={};
+  lane.innerHTML=js.map(([j,d])=>{
+    const h=Math.min(60,22+j.score*0.38), [label,col]=CAT[j.category]||CAT.other;
+    stack[d]=(stack[d]||0)+1;
+    return `<button class="tick" role="listitem" style="left:calc(${(d/W*100).toFixed(2)}% + ${(stack[d]-1)*6}px);height:${h}px;background:var(${col})"
+      title="${esc(j.title)} — ${d} days" aria-label="${esc(label)}: ${esc(j.title)}, ${d} days left" data-id="${j.id}"></button>`}).join("")
+    || `<p class="updated" style="margin:0;padding-top:20px">No matched deadlines in the next 60 days.</p>`;
+  $("#scale").innerHTML=[0,7,14,30,45,60].map(d=>`<span class="d${d}" style="left:${d/W*100}%">${d===0?"today":d+"d"}</span>`).join("");
+  lane.onclick=e=>{const t=e.target.closest(".tick"); if(!t)return;
+    const j=JOBS.find(x=>x.id===t.dataset.id); if(j) window.open(j.url,"_blank","noopener")};
+}
+
+function renderPrograms(ps){
+  $("#plist").innerHTML=ps.length? ps.sort((a,b)=>(a.deadline||"9999").localeCompare(b.deadline||"9999")).map(p=>{
+    const d=daysLeft(p.deadline);
+    const left=d!==null? `<div class="left ${d<=14?"urgent":""}"><span class="n">${d}</span><span class="u">days left</span></div>`
+      : `<div class="left"><span class="n">—</span><span class="u">check page</span></div>`;
+    const note=p.deadline?`Call closes ${fmt(p.deadline)}`: p.last_deadline?`Last call closed ${fmt(p.last_deadline)} — watch for the next round`
+      : p.ok? "No call date printed on the page" : `Page unreachable (${esc(p.error||"error")})`;
+    return `<li class="job" style="--c:var(--fel)">${left}<div><a class="title" href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.name)}</a>
+      <div class="meta"><span>${p.region==="india"?"India":esc(p.country||"Abroad")}</span><span>${note}</span></div></div></li>`}).join("")
+    : `<li class="empty">No programmes configured. Add them in config/programs.yaml.</li>`;
+}
+
+function renderSources(hs){
+  $("#slist").innerHTML=hs.sort((a,b)=>a.ok-b.ok||a.name.localeCompare(b.name)).map(h=>`<tr>
+    <td><a href="${esc(h.url)}" target="_blank" rel="noopener">${esc(h.name)}</a></td>
+    <td class="${h.ok?"ok":"bad"}">${h.ok?"Working":"Needs a look"}</td><td>${h.count}</td>
+    <td class="err hide-sm">${esc(h.error||"")}</td></tr>`).join("");
+}
+
+function seg(id,key){
+  $(id).addEventListener("click",e=>{const b=e.target.closest("button"); if(!b)return;
+    $(id).querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+    state[key]=b.dataset.v; pref(key,state[key]); render()});
+  const saved=pref(key); if(saved){state[key]=saved; $(id).querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",x.dataset.v===saved))}
+}
+seg("#where","where"); seg("#type","type");
+$("#q").addEventListener("input",e=>{state.q=e.target.value; render()});
+$("#sort").addEventListener("change",e=>{state.sort=e.target.value; render()});
+$("#showAll").addEventListener("change",e=>{state.all=e.target.checked; render()});
+$("#showClosed").addEventListener("change",e=>{state.closed=e.target.checked; render()});
+document.querySelectorAll("nav.tabs button").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
+  ["jobs","programs","sources"].forEach(t=>$("#tab-"+t).hidden=t!==b.dataset.tab)}));
+load();
+</script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+# ─────────────────────────────────────────────────────────────
+#  Your candidate profile — the agent scores every job against this.
+#  Edit freely; no code changes needed.
+# ─────────────────────────────────────────────────────────────
+
+name: "Bioinformatics / Computational Biology candidate"
+
+# One paragraph the AI reads to judge fit. Be specific.
+summary: >
+  PhD-level researcher in bioinformatics and computational biology with
+  hands-on genomics and NGS data analysis (WGS/WES, RNA-seq, single-cell,
+  variant calling, metagenomics), pipeline development (Nextflow/Snakemake),
+  R/Python, Linux/HPC and statistical / machine-learning methods for omics.
+  Looking for (1) permanent positions in India — Scientist B/C/D (ICMR, DBT/BRIC,
+  CSIR, DST, ICAR), Assistant Professor / faculty in bioinformatics,
+  biotechnology or allied life sciences; and (2) postdoctoral positions and
+  fellowships in India and abroad in bioinformatics, computational biology,
+  genomics and allied areas.
+
+# Which kinds of posts to show by default on the dashboard
+# (others are still collected and can be toggled on).
+include_categories: [permanent, postdoc, fellowship]
+# Other categories the classifier knows: project (JRF/SRF/project scientist), phd, other
+
+# Minimum relevance (0–100) for a job to count as a "match"
+match_threshold: 40
+
+# Core subject keywords — strongest signal
+core_keywords:
+  - bioinformatic
+  - computational biology
+  - computational biologist
+  - genomics
+  - genomic
+  - ngs
+  - next-generation sequencing
+  - next generation sequencing
+  - high-throughput sequencing
+  - sequencing data
+  - transcriptomic
+  - rna-seq
+  - single-cell
+  - single cell
+  - spatial transcriptomics
+  - multi-omics
+  - multiomics
+  - omics
+  - proteomics
+  - metagenomic
+  - systems biology
+  - biostatistic
+  - statistical genetics
+  - population genetics
+  - epigenomic
+  - variant calling
+  - genome analysis
+  - data-driven life science
+  - computational genomics
+  - machine learning in biology
+  - biomedical data science
+  - structural bioinformatics
+  - computational drug discovery
+  - cheminformatic
+  - precision medicine
+  - cancer genomics
+  - human genetics
+
+# Allied subjects — moderate signal
+allied_keywords:
+  - biotechnology
+  - molecular biology
+  - life science
+  - life sciences
+  - microbiology
+  - genetics
+  - biochemistry
+  - biomedical
+  - immunology
+  - cancer biology
+  - infectious disease
+  - data science
+  - machine learning
+  - artificial intelligence
+  - deep learning
+  - statistics
+  - biophysics
+  - plant biology
+  - evolution
+  - epidemiology
+
+# Words that make a post clearly irrelevant to you
+negative_keywords:
+  - mechanical engineering
+  - civil engineering
+  - electrical engineering
+  - electrochemistry
+  - chemical engineering
+  - architecture
+  - law
+  - management studies
+  - english literature
+  - economics
+  - accountant
+  - driver
+  - multi tasking staff
+  - stenographer
+  - nursing officer
+  - security officer
+  - estate officer
+  - administrative officer
+  - finance officer
+  - hindi officer
+  - photonics
+  - geology
+  - astronomy
+  - quantum
+  - gas sensing
+  - robotics
+
+# Countries you are interested in for abroad postdocs (empty = all)
+countries_of_interest: []

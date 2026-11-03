@@ -1,0 +1,71 @@
+name: Scan for jobs
+
+on:
+  schedule:
+    # 08:17 and 18:17 IST (02:47 and 12:47 UTC)
+    - cron: "47 2 * * *"
+    - cron: "47 12 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Only these source ids (space-separated, blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write     # commit data/ and README
+  issues: write       # new-job alert issues (GitHub e-mails you)
+  models: read        # free AI screening via GitHub Models
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          pip install -r requirements.txt
+          # headless browser for JS-only career sites (Workday, ETH, EMBL ...)
+          pip install playwright && python -m playwright install --with-deps chromium
+
+      - name: Run agent
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MODEL_TOKEN: ${{ secrets.MODEL_TOKEN }}              # optional PAT (Models: read) if GITHUB_TOKEN gets 403
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}              # optional: any OpenAI-compatible key
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ONLY: ${{ github.event.inputs.only }}
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: |
+          # empty repo variables arrive as "" — drop them so defaults apply
+          [ -z "$LLM_BASE_URL" ] && unset LLM_BASE_URL
+          [ -z "$LLM_MODEL" ] && unset LLM_MODEL
+          [ -z "$LLM_API_KEY" ] && unset LLM_API_KEY
+          [ -z "$MODEL_TOKEN" ] && unset MODEL_TOKEN
+          if [ -n "$ONLY" ]; then
+            python -m jobwatch.run --only $ONLY
+          else
+            python -m jobwatch.run
+          fi
+
+      - name: Commit results
+        run: |
+          git config user.name  "jobwatch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data README.md
+          git diff --cached --quiet || git commit -m "Scan $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

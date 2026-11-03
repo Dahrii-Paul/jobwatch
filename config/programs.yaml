@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────
+#  Recurring postdoctoral FELLOWSHIP PROGRAMMES (not single job adverts).
+#  The agent visits each page every run and tries to read the current
+#  call deadline. If it can't find one, the dashboard shows "check page".
+#  Add your own; pages occasionally move — data/health.json flags 404s.
+# ─────────────────────────────────────────────────────────────
+
+programs:
+
+# ── India ──
+- {id: anrf-npdf,   name: "ANRF National Post-Doctoral Fellowship (N-PDF)", region: india, url: "https://anrfonline.in/"}
+- {id: anrf-ramanujan, name: "ANRF Ramanujan Fellowship (faculty-track re-entry)", region: india, url: "https://anrfonline.in/"}
+- {id: inspire-fac, name: "DST INSPIRE Faculty Fellowship", region: india, url: "https://online-inspire.gov.in/"}
+- {id: dbt-ra,      name: "DBT Research Associateship (DBT-RA)", region: india, url: "https://rcb.res.in/DBTRA/"}
+- {id: india-alliance, name: "DBT/Wellcome India Alliance Early Career Fellowship", region: india, url: "https://www.indiaalliance.org/"}
+- {id: csir-ra,     name: "CSIR Research Associateship", region: india, url: "https://csirhrdg.res.in/"}
+- {id: icmr-pdf,    name: "ICMR Post-Doctoral Fellowship", region: india, url: "https://www.icmr.gov.in/"}
+- {id: ugc-dsk,     name: "UGC Dr. D.S. Kothari Postdoctoral Fellowship", region: india, url: "https://www.ugc.gov.in/"}
+
+# ── Abroad ──
+- {id: embo-pf,     name: "EMBO Postdoctoral Fellowships", region: abroad, country: Europe, url: "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/"}
+- {id: msca-pf,     name: "Marie Skłodowska-Curie Postdoctoral Fellowships", region: abroad, country: Europe, url: "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"}
+- {id: hfsp-ltf,    name: "HFSP Postdoctoral Fellowships", region: abroad, country: International, url: "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships"}
+- {id: humboldt,    name: "Humboldt Research Fellowship for Postdocs", region: abroad, country: Germany, url: "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship"}
+- {id: jsps,        name: "JSPS Postdoctoral Fellowships for Research in Japan", region: abroad, country: Japan, url: "https://www.jsps.go.jp/english/e-fellow/"}
+- {id: scilife-pulse, name: "SciLifeLab PULSE postdoctoral programme", region: abroad, country: Sweden, url: "https://www.scilifelab.se/research/pulse/"}
+- {id: embl-eipod,  name: "EMBL EIPOD postdoctoral programme", region: abroad, country: Germany, url: "https://www.embl.org/about/info/eipod/"}
+- {id: newton,      name: "Royal Society Newton International Fellowships", region: abroad, country: United Kingdom, url: "https://royalsociety.org/grants/newton-international/"}
+- {id: swiss-esk,   name: "Swiss Government Excellence Scholarships (postdoc)", region: abroad, country: Switzerland, url: "https://www.sbfi.admin.ch/scholarships_eng"}
+- {id: fulbright-nehru, name: "Fulbright-Nehru Postdoctoral Research Fellowships", region: abroad, country: United States, url: "https://www.usief.org.in/"}
