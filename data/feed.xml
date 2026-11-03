@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-03T16:16:03Z</updated>
+  <updated>2026-11-03T16:46:26Z</updated>
   <entry>
     <title>Distinguished Professors, Young Faculty, Postdoctoral Researchers</title>
     <link href="https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing"/>
@@ -25,11 +25,11 @@
     <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-06 · score 65</summary>
   </entry>
   <entry>
-    <title>BioTecNika Times 28.10.2026: ₹80,400 Job at PGIMER, ₹67,000 Job at BHU, ₹37,000 Job at IISER &amp; More</title>
-    <link href="https://www.biotecnika.org/2026/10/biotecnika-times-28-10-2026-%e2%82%b980400-job-at-pgimer-%e2%82%b967000-job-at-bhu-%e2%82%b937000-job-at-iiser-more/"/>
-    <id>urn:jobwatch:4c4b5754ed19</id>
+    <title>Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India</title>
+    <link href="https://researchersjob.com/scientist-position-in-icmr-2/"/>
+    <id>urn:jobwatch:abf88b23bdac</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline 2026-11-07 · score 44</summary>
+    <summary>[project] Researchersjob.com · India · Deadline 2026-11-06 · score 48</summary>
   </entry>
   <entry>
     <title>Faculty Positions in Systems Hub, HKUST (GZ)</title>
@@ -37,6 +37,13 @@
     <id>urn:jobwatch:27a548cf9f6b</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Nature Careers · Hong Kong · Deadline 2026-11-08 · score 73</summary>
+  </entry>
+  <entry>
+    <title>Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay | Freshers Eligible</title>
+    <link href="https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/"/>
+    <id>urn:jobwatch:5f451d95bfdc</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-08 · score 55</summary>
   </entry>
   <entry>
     <title>Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, Denmark</title>
@@ -53,18 +60,11 @@
     <summary>[postdoc] Researchersjob.com · Finland · Deadline 2026-11-08 · score 50</summary>
   </entry>
   <entry>
-    <title>Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay | Freshers Eligible</title>
-    <link href="https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/"/>
-    <id>urn:jobwatch:5f451d95bfdc</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-08 · score 45</summary>
-  </entry>
-  <entry>
     <title>Research Assistant - AI Scientist &amp; Computational Cancer Biology</title>
     <link href="https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology"/>
     <id>urn:jobwatch:c9a6c3f7ca86</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-09 · score 43</summary>
+    <summary>[permanent] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-09 · score 53</summary>
   </entry>
   <entry>
     <title>Bioinformatics Research Associate</title>
@@ -88,6 +88,13 @@
     <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-11 · score 80</summary>
   </entry>
   <entry>
+    <title>राष्ट्रीय सर्वेक्षण के लिए CDER द्वारा 'नेशनल ओरल हेल्थ प्रोग्राम' के अंतर्गत प्रोजेक्ट रिसर्च साइंटिस्ट-I (बायोस्टैटिस्टिशियन) के पद पर भर्ती; यह कार्य नॉन-मेडिकल क्षेत्र से संबंधित है।/Vacancy for Project Research Scientist-I Biostatistician, Non Medical fie</title>
+    <link href="https://zoombio.org/jobs/cder-i-vacancy-for-project-research-scientist-i-biostatistician-non-medical-field-based-if7bpck"/>
+    <id>urn:jobwatch:5db08da69f75</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2026-11-11 · score 80</summary>
+  </entry>
+  <entry>
     <title>Research Associate Position at IIT Gandhinagar: India</title>
     <link href="https://researchersjob.com/research-associate-position-at-iit/"/>
     <id>urn:jobwatch:2cdcc83938cb</id>
@@ -107,6 +114,13 @@
     <id>urn:jobwatch:983c26b6e78c</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-12 · score 54</summary>
+  </entry>
+  <entry>
+    <title>Official Faculty Recruitment Advertisement (PDF)</title>
+    <link href="https://careers.iith.ac.in/documents/IITH_Faculty_Recruitment_Advt-Oct_2026-final.pdf"/>
+    <id>urn:jobwatch:ecbdfa70130c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] IIT Hyderabad · India · Deadline 2026-11-12 · score 44</summary>
   </entry>
   <entry>
     <title>(Senior) Postdoctoral Research Scientist</title>
@@ -165,6 +179,20 @@
     <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-16 · score 98</summary>
   </entry>
   <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-mednine-ots/index.php/logout"/>
+    <id>urn:jobwatch:aec739a23a5f</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-16 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-nmnine-ots/index.php/logout"/>
+    <id>urn:jobwatch:a625d9d2dd4a</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-16 · score 40</summary>
+  </entry>
+  <entry>
     <title>Bioinformatics Professor</title>
     <link href="https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/"/>
     <id>urn:jobwatch:7a54752a1b71</id>
@@ -179,11 +207,11 @@
     <summary>[other] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-17 · score 70</summary>
   </entry>
   <entry>
-    <title>Senior Research Fellow in AI applied to Genomic Medicine</title>
-    <link href="https://www.jobs.ac.uk/job/DTJ054/senior-research-fellow-in-ai-applied-to-genomic-medicine"/>
-    <id>urn:jobwatch:fa24b48a119f</id>
+    <title>JRF, SRF &amp; Fellowships Junior and Senior Research Fellowships, Post-Doctoral and other fellowships in research projects and schemes.</title>
+    <link href="https://zoombio.org/jobs/jrf-srf-and-fellowships-junior-and-senior-research-fellowships-post-doctoral-and-other-67tr9ni"/>
+    <id>urn:jobwatch:5fcf10cca925</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-18 · score 74</summary>
+    <summary>[postdoc] Zoombio — bioinformatics jobs India · India · Deadline 2026-11-17 · score 50</summary>
   </entry>
   <entry>
     <title>Postdoctoral researcher in Neurobiology Multiple Sclerosis Multiple sclerosis (MS) is a chronic progressive demyelinating disease of the central nervous system characterized by neuroinflammation and neurodegeneration. Current disease-modifying therapies are no</title>
@@ -193,6 +221,13 @@
     <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-18 · score 65</summary>
   </entry>
   <entry>
+    <title>Senior Research Fellow in AI applied to Genomic Medicine</title>
+    <link href="https://www.jobs.ac.uk/job/DTJ054/senior-research-fellow-in-ai-applied-to-genomic-medicine"/>
+    <id>urn:jobwatch:fa24b48a119f</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[junior] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-18 · score 59</summary>
+  </entry>
+  <entry>
     <title>Postdoc Position in Medicinal Chemistry Bring your expertise in synthetic and computation medicinal chemistry and help us develop novel compounds for Sickel cell disease.</title>
     <link href="https://www.academictransfer.com/en/jobs/365018/postdoc-position-in-medicinal-chemistry/"/>
     <id>urn:jobwatch:068c2b152a0c</id>
@@ -200,11 +235,11 @@
     <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-18 · score 50</summary>
   </entry>
   <entry>
-    <title>BioTecNika Times: 29-10-2026 – Internship at ICON, CrisprBits , Dr Reddy’s Sashakt Scholarship, Drug Development with Claude &amp; Many More</title>
-    <link href="https://www.biotecnika.org/2026/10/biotecnika-times-29-10-2026-internship-at-icon-crisprbits-dr-reddys-sashakt-scholarship-drug-development-with-claude-many-more/"/>
-    <id>urn:jobwatch:8a810d97eb5b</id>
+    <title>Biotech Project Research Scientist Jobs at ILBS Delhi | Earn up to Rs 1,01,400/-</title>
+    <link href="https://www.biotecnika.org/2026/11/biotech-jobs-delhi-ilbs-research-scientist-2026/"/>
+    <id>urn:jobwatch:c0f4c01a6215</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] Biotecnika (life-science job news) · India · Deadline 2026-11-18 · score 42</summary>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-18 · score 40</summary>
   </entry>
   <entry>
     <title>Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark</title>
@@ -235,18 +270,18 @@
     <summary>[permanent] Nature Careers · International · Deadline 2026-11-21 · score 65</summary>
   </entry>
   <entry>
+    <title>PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine learning to a national genomic census</title>
+    <link href="https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census"/>
+    <id>urn:jobwatch:91942571457c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-23 · score 64</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Position in Structure-Based Drug Design at Uppsala University, Sweden</title>
     <link href="https://researchersjob.com/postdoctoral-position-in-structure-based-drug-design/"/>
     <id>urn:jobwatch:ccd7468be3ab</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-23 · score 63</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine learning to a national genomic census</title>
-    <link href="https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census"/>
-    <id>urn:jobwatch:91942571457c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-23 · score 50</summary>
   </entry>
   <entry>
     <title>PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany</title>
@@ -268,6 +303,48 @@
     <id>urn:jobwatch:31788693fa1b</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2026-11-26 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout"/>
+    <id>urn:jobwatch:942a7ce0ef21</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout"/>
+    <id>urn:jobwatch:b7b7044829fb</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout"/>
+    <id>urn:jobwatch:1724d0c2e5f1</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout"/>
+    <id>urn:jobwatch:8f78620b8c57</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout"/>
+    <id>urn:jobwatch:73622b3944a6</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout"/>
+    <id>urn:jobwatch:c9b6d710a12d</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
   </entry>
   <entry>
     <title>Open PI Positions at Shenzhen Bay Laboratory</title>
@@ -407,7 +484,7 @@
     <link href="https://www.jobs.ac.uk/job/DTJ423/phd-studentship-evolutionary-genomics-of-mimicry-in-neotropical-catfishes"/>
     <id>urn:jobwatch:cb840a7107fc</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-12-16 · score 50</summary>
+    <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-12-16 · score 54</summary>
   </entry>
   <entry>
     <title>PhD Studentship: Virome Dynamics and Viral Discovery in Rehabilitated Bats Revealed by Longitudinal Metagenomics</title>
@@ -421,7 +498,7 @@
     <link href="https://www.biotecnika.org/2026/10/bric-ils-bhubaneswar-jrf-vacancy-phd-program-2026/"/>
     <id>urn:jobwatch:06c90edc47aa</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-12-22 · score 57</summary>
+    <summary>[junior] Biotecnika (life-science job news) · India · Deadline 2026-12-22 · score 42</summary>
   </entry>
   <entry>
     <title>Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain</title>
@@ -466,6 +543,13 @@
     <summary>[postdoc] Nature Careers · International · Deadline 2027-01-31 · score 62</summary>
   </entry>
   <entry>
+    <title>Project Associate II – Wastewater Surveillance of SARS‑CoV‑2 and Antimicrobial Resistance</title>
+    <link href="https://zoombio.org/jobs/project-associate-ii-wastewater-surveillance-of-sars-cov-2-and-antimicrobial-resistance-ndts7k6"/>
+    <id>urn:jobwatch:4925fd4d1876</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-03-02 · score 62</summary>
+  </entry>
+  <entry>
     <title>Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month</title>
     <link href="https://www.biotecnika.org/2026/10/pgimer-research-scientist-jobs/"/>
     <id>urn:jobwatch:5949ed78a38b</id>
@@ -487,6 +571,13 @@
     <summary>[permanent] Nature Careers · China · Deadline 2027-05-14 · score 75</summary>
   </entry>
   <entry>
+    <title>Inviting applications for Research Associate-I (two posts): under Dr. Debasis Chattopadhyay</title>
+    <link href="https://zoombio.org/jobs/inviting-applications-for-research-associate-i-two-posts-under-dr-debasis-chattopadhyay-ov6i6dk"/>
+    <id>urn:jobwatch:eea95f7f5d94</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-22 · score 69</summary>
+  </entry>
+  <entry>
     <title>China National Center for Bioinformation Announces Global Recruitment for High-Level Talents</title>
     <link href="https://www.nature.com/naturecareers/job/12860964/china-national-center-for-bioinformation-announces-global-recruitment-for-high-level-talents/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:1b2bb4c3003f</id>
@@ -494,11 +585,25 @@
     <summary>[postdoc] Nature Careers · China · Deadline 2027-06-23 · score 69</summary>
   </entry>
   <entry>
-    <title>Biotecnika Times Newsletter 05.08.2026 – ₹2.65 Lakh Govt Jobs at DoP, Fresher’s Job at TCS &amp; Immuneel Therapeutics, Biocon Biologics Jobs, KPSC Recruitment &amp; More</title>
-    <link href="https://www.biotecnika.org/2026/08/biotecnika-times-newsletter-05-08-2026/"/>
-    <id>urn:jobwatch:628fbcec80fa</id>
+    <title>Applications are invited for the post of Sr. Project Associate against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/094 dtd. 25/06/2026 for Project entitled: An Integrative-genomics framework to identify core genes casually driving complex trait risk. PI-Dr.Sams</title>
+    <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-sr-project-associate-against-advertisement-no-sntjlpe"/>
+    <id>urn:jobwatch:62da619c520e</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2027-08-05 · score 59</summary>
+    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-25 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2</title>
+    <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-pa-i-against-advertisement-no-nibmg-admin-estb-du4oh7r"/>
+    <id>urn:jobwatch:821135a953ed</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-25 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Walk in Interview for Project Associate 1, in Development of an Ultra-Low Power Analog Front-End Circuit and Machine Learning Assisted Processing Unit for Assessment of Air Filter Performance in an IAQM System, Chips to Start Up Program --- Department of Radio</title>
+    <link href="https://zoombio.org/jobs/walk-in-interview-for-project-associate-1-in-development-of-an-ultra-low-power-analog-ep0b9cw"/>
+    <id>urn:jobwatch:c74af39b72dd</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-08-19 · score 60</summary>
   </entry>
   <entry>
     <title>Faculty Positions (Life Science and Technology)</title>
@@ -564,6 +669,13 @@
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 88</summary>
   </entry>
   <entry>
+    <title>Biostatistician to the Clinical Memory Research group (PA2026/2860)</title>
+    <link href="https://lu.varbi.com/en/what:job/jobID:975207/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:32a1d48f1fe9</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] Lund University · Sweden · Deadline: see advert · score 82</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Opportunities in Statistical Genetics and Method Development, USA</title>
     <link href="https://researchersjob.com/postdoctoral-opportunities-in-statistical-genetics/"/>
     <id>urn:jobwatch:9d993b5d3132</id>
@@ -606,18 +718,11 @@
     <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 74</summary>
   </entry>
   <entry>
-    <title>NGS &amp; Molecular Biology Job at Oneomics | M.Sc Biotech / Microbiology</title>
-    <link href="https://www.biotecnika.org/2026/10/oneomics-tiruchirappalli-lab-technician-ngs-molecular-biology/"/>
-    <id>urn:jobwatch:b83da62578f9</id>
+    <title>How Life Science Students Can Gain Research Experience</title>
+    <link href="https://www.biotecnika.org/2026/09/how-life-science-students-can-gain-research-experience/"/>
+    <id>urn:jobwatch:790ffd6d1028</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 73</summary>
-  </entry>
-  <entry>
-    <title>Admissions Open 2026-27 at JIIT Noida for MSc Microbiology, MSc Bioinformatics &amp; MTech Biotechnology</title>
-    <link href="https://www.biotecnika.org/2026/05/admissions-open-2026-at-jiit-noida-for-msc-microbiology-bioinformatics-mtech-biotechnology/"/>
-    <id>urn:jobwatch:e53c705a0835</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 72</summary>
   </entry>
   <entry>
     <title>How to Build a Career Combining AI and Bioinformatics</title>
@@ -632,6 +737,20 @@
     <id>urn:jobwatch:ece03c223513</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 70</summary>
+  </entry>
+  <entry>
+    <title>Bioinformatics-AI Data Innovation Centre</title>
+    <link href="https://www.nccs.res.in/Facilities/Bioinformatics"/>
+    <id>urn:jobwatch:50d3bcf8b22c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] BRIC-NCCS Pune · India · Deadline: see advert · score 70</summary>
+  </entry>
+  <entry>
+    <title>Bioinformatics &amp; Computational Biology 11</title>
+    <link href="https://zoombio.org/jobs/india"/>
+    <id>urn:jobwatch:872f9ab5c56f</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[other] Zoombio — bioinformatics jobs India · abroad · Deadline: see advert · score 70</summary>
   </entry>
   <entry>
     <title>Bioinformatics Jobs at Syngene – Life Science Candidates Apply Now</title>
@@ -667,13 +786,6 @@
     <id>urn:jobwatch:e0dc70c35e1e</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 68</summary>
-  </entry>
-  <entry>
-    <title>Biostatistician to the Clinical Memory Research group (PA2026/2860)</title>
-    <link href="https://lu.varbi.com/en/what:job/jobID:975207/type:job/where:4/apply:1"/>
-    <id>urn:jobwatch:32a1d48f1fe9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Lund University · Sweden · Deadline: see advert · score 67</summary>
   </entry>
   <entry>
     <title>Scientific Faculty</title>
@@ -718,11 +830,18 @@
     <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 63</summary>
   </entry>
   <entry>
-    <title>How Life Science Students Can Gain Research Experience</title>
-    <link href="https://www.biotecnika.org/2026/09/how-life-science-students-can-gain-research-experience/"/>
-    <id>urn:jobwatch:790ffd6d1028</id>
+    <title>Postdoctoral Research Fellow Position (3 Years) at Centre for Cancer Biomarkers (CCBIO), University of Bergen, Norway</title>
+    <link href="https://researchersjob.com/postdoctoral-research-fellow-position-3-years/"/>
+    <id>urn:jobwatch:a98772c65145</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 63</summary>
+    <summary>[postdoc] Researchersjob.com · Norway · Deadline: see advert · score 63</summary>
+  </entry>
+  <entry>
+    <title>Applications are invited for the posts of RA-III , Project Associate-I and Field Assistant against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/092 dtd. 25/06/2026 for Project entitled: Uncovering the functional significance of novel genetic variations in multi-</title>
+    <link href="https://www.nibmg.ac.in/uploads/6d06d244c71cf97d1f3a9e63806f1be0.pdf"/>
+    <id>urn:jobwatch:358d76d99ec4</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] BRIC-NIBMG Kalyani (genomics) · India · Deadline: see advert · score 63</summary>
   </entry>
   <entry>
     <title>Science Staff</title>
@@ -746,11 +865,18 @@
     <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 59</summary>
   </entry>
   <entry>
-    <title>Biotech Project Assistant at IIT Roorkee | Earn Rs 30,600/-</title>
-    <link href="https://www.biotecnika.org/2026/11/iit-roorkee-project-position-2026/"/>
-    <id>urn:jobwatch:f8a33ac19d86</id>
+    <title>Faculty Recruitments</title>
+    <link href="https://www.iisermohali.ac.in/faculty-positions"/>
+    <id>urn:jobwatch:73447b45afbd</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 57</summary>
+    <summary>[permanent] IISER Mohali · India · Deadline: see advert · score 59</summary>
+  </entry>
+  <entry>
+    <title>NGS &amp; Molecular Biology Job at Oneomics | M.Sc Biotech / Microbiology</title>
+    <link href="https://www.biotecnika.org/2026/10/oneomics-tiruchirappalli-lab-technician-ngs-molecular-biology/"/>
+    <id>urn:jobwatch:b83da62578f9</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[junior] Biotecnika (life-science job news) · India · Deadline: see advert · score 58</summary>
   </entry>
   <entry>
     <title>Thermo Fisher Scientific Hiring Scientist – Single Cell Sorting (Antibody Development) – Bangalore | Req R-01372949 | Master’s 0–4y or recent PhD</title>
@@ -781,11 +907,39 @@
     <summary>[permanent] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 55</summary>
   </entry>
   <entry>
+    <title>Publication of result for the post of Project Research Scientist-II 01(One) against Advertisement No.NIBMG/ADMIN/ESTB /2025-26/286 dtd. 29/01/2026 for Project entitled : “Identification of potentially aggressive CTCs(Circulating Tumour Cells) using single cell</title>
+    <link href="https://www.nibmg.ac.in/uploads/f3888961b9f181cb65c26555acc7816c.pdf"/>
+    <id>urn:jobwatch:d01b22410b5a</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] BRIC-NIBMG Kalyani (genomics) · India · Deadline: see advert · score 55</summary>
+  </entry>
+  <entry>
+    <title>Applications are invited for the post of Project Research Scientist-II 01(One) against Advertisement No. NIBMG/ADMIN/ACADEMIC/PRJ.RECT /2025-26/ 286 dtd. 2/01/2026 for Project entitled : “Identification of potentially aggressive CTCs(Circulating Tumour Cells) </title>
+    <link href="https://www.nibmg.ac.in/uploads/6867c1d03cc6b1870773fee57f227efe.pdf"/>
+    <id>urn:jobwatch:8f7b4c09e556</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] BRIC-NIBMG Kalyani (genomics) · India · Deadline: see advert · score 55</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Position in Fungal Cell Biology or Biochemistry / Structural Biology of Starship Transposons 100%, Zurich 25.09.2026 | Institute of Integrative Biology</title>
     <link href="https://jobs.ethz.ch/job/view/JOPG_ethz_rgVE2FhLWXhKVwySd6"/>
     <id>urn:jobwatch:542d3e8823c6</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] ETH Zurich · Switzerland · Deadline: see advert · score 54</summary>
+  </entry>
+  <entry>
+    <title>Life Sciences Project Associate / Research Associate Jobs at BRIC-NIBMG Kalyani | Oral Cancer Digital Twin Project | Earn up to Rs 58,000/- + HRA</title>
+    <link href="https://www.biotecnika.org/2026/11/nibmg-project-associate-jobs-kalyani/"/>
+    <id>urn:jobwatch:c51f4abb8e45</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 54</summary>
+  </entry>
+  <entry>
+    <title>SGPGIMS Recruitment 2026 – Life Sciences Research Vacancies | Apply Online</title>
+    <link href="https://www.biotecnika.org/2026/09/sgpgims-life-sciences-research-jobs-2026/"/>
+    <id>urn:jobwatch:5975c73ade7f</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 54</summary>
   </entry>
   <entry>
     <title>African genomics leaders meet in Pretoria to advance public health</title>
@@ -816,6 +970,13 @@
     <summary>[other] Biotecnika (life-science job news) · India · Deadline: see advert · score 52</summary>
   </entry>
   <entry>
+    <title>Professor Shekhar C. Mande (2026-)</title>
+    <link href="https://insaindia.res.in/president/"/>
+    <id>urn:jobwatch:d5217a72e679</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] INSA · India · Deadline: see advert · score 52</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Research Fellow – Brain Tumor Biology, RNA Splicing, and Cancer Immunology, USA</title>
     <link href="https://researchersjob.com/postdoctoral-research-fellow-brain-tumor-biology/"/>
     <id>urn:jobwatch:b30b23444734</id>
@@ -842,6 +1003,20 @@
     <id>urn:jobwatch:c34797ff1914</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 50</summary>
+  </entry>
+  <entry>
+    <title>Advertisement for Engagement of Guest Faculty (Statistics / Biostatistics) – reg.</title>
+    <link href="https://aiimsbhubaneswar.nic.in/wp-content/uploads/2025/08/Advertisement-Guest-Faculty-Statistics.pdf"/>
+    <id>urn:jobwatch:203893cdc4a9</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] AIIMS Bhubaneswar · India · Deadline: see advert · score 50</summary>
+  </entry>
+  <entry>
+    <title>Genomics &amp; Genetics 5</title>
+    <link href="https://zoombio.org/jobs/genomics/india"/>
+    <id>urn:jobwatch:52c603f8125e</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[other] Zoombio — bioinformatics jobs India · abroad · Deadline: see advert · score 50</summary>
   </entry>
   <entry>
     <title>Cellular Genomics</title>
@@ -877,180 +1052,5 @@
     <id>urn:jobwatch:9ec234f551c2</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Lund University · Sweden · Deadline: see advert · score 48</summary>
-  </entry>
-  <entry>
-    <title>Bioinformatician – Structural Proteomics &amp; Integrative Modelling</title>
-    <link href="https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Hinxton-Cambridgeshire/Bioinformatician---Structural-Proteomics---Integrative-Modelling_JR4589"/>
-    <id>urn:jobwatch:cd199f66fc1e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[other] EMBL (incl. EMBL-EBI) · Germany · Deadline: see advert · score 45</summary>
-  </entry>
-  <entry>
-    <title>All Sanger Staff</title>
-    <link href="https://www.sanger.ac.uk/people/people-directory/"/>
-    <id>urn:jobwatch:079f54bfc545</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Life Sciences Project Associate / Research Associate Jobs at BRIC-NIBMG Kalyani | Oral Cancer Digital Twin Project | Earn up to Rs 58,000/- + HRA</title>
-    <link href="https://www.biotecnika.org/2026/11/nibmg-project-associate-jobs-kalyani/"/>
-    <id>urn:jobwatch:c51f4abb8e45</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in Microfluidic RNAseq-Based Screening at EPFL, Switzerland</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-microfluidic/"/>
-    <id>urn:jobwatch:bacc35321a36</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Switzerland · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>SGPGIMS Recruitment 2026 – Life Sciences Research Vacancies | Apply Online</title>
-    <link href="https://www.biotecnika.org/2026/09/sgpgims-life-sciences-research-jobs-2026/"/>
-    <id>urn:jobwatch:5975c73ade7f</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Biotecnika Times Newsletter 19.11.2025 – Govt DST Jobs, SGPGIMS, Amgen, BRIC-NABI, Lambda Hiring + Jobs at Presidency, IVRI, Fortrea, Sartorius &amp; More</title>
-    <link href="https://www.biotecnika.org/2025/11/biotecnika-times-newsletter-19-11-2025/"/>
-    <id>urn:jobwatch:fc3d0063f046</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Researcher in hybridization and copy number variation (PA2026/3098)</title>
-    <link href="https://lu.varbi.com/en/what:job/jobID:983731/type:job/where:4/apply:1"/>
-    <id>urn:jobwatch:96efc193066f</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Lund University · Sweden · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Institute Scientific Advisory Board</title>
-    <link href="https://www.sanger.ac.uk/about/institute-scientific-advisory-board/"/>
-    <id>urn:jobwatch:994fce7ad23c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Our  conceive and deliver our science. Within our strategic framework the Institute’s scientific aspirations are driven by their vision, imagination and intellectual energy.</title>
-    <link href="https://www.sanger.ac.uk/people/faculty/"/>
-    <id>urn:jobwatch:075a4ba04e5d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>Dr Soumyashree Das elected as EMBO Global Investigator</title>
-    <link href="https://news.ncbs.res.in/spotlight/dr-soumyashree-das-elected-embo-global-investigator"/>
-    <id>urn:jobwatch:5a6c9b42e6e9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[fellowship] NCBS Bengaluru · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Our Scientists Our scientists work in biology across scales – from the atomic structural details of biomolecules to their functions to how living cells, organisms and populations operate to how ecosystems thrive.</title>
-    <link href="https://www.ccmb.res.in/categories/?lan-code-id=1"/>
-    <id>urn:jobwatch:6427c4397f58</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] CSIR-CCMB Hyderabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Recruitment for Senior Research Scientist (Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1781160816img.pdf"/>
-    <id>urn:jobwatch:d41bc874744c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Supplementary list of Provisionally shortlisted candidates for the post of Associate Professor (Clinical) and Associate Professor (Non-Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1750755488img.pdf"/>
-    <id>urn:jobwatch:29d94076b775</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Ineligible Candidates for the post of Associate Professor (Non-Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1750091203img.pdf"/>
-    <id>urn:jobwatch:c9c4c5134324</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Eligible Candidates for the post of Associate Professor (Non-Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1750091143img.pdf"/>
-    <id>urn:jobwatch:78f93399ef1e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Ineligible Candidates for the post of Associate Professor (Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1750091064img.pdf"/>
-    <id>urn:jobwatch:b7661aac8974</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Eligible Candidates for the post of Associate Professor (Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1750090951img.pdf"/>
-    <id>urn:jobwatch:a5f4b55b9d6e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Eligible Candidates for the post of Assistant Professor (Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1724386925img.pdf"/>
-    <id>urn:jobwatch:b80d5cb10e88</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Ineligible Candidates for the post of Assistant Professor (Clinical)</title>
-    <link href="https://thsti.res.in/public/upload/news/1724331780img.pdf"/>
-    <id>urn:jobwatch:2c72cc505d28</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC-THSTI Faridabad · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Staff Positions</title>
-    <link href="https://www.instem.res.in/jobportal"/>
-    <id>urn:jobwatch:40474c5717ba</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] inStem Bengaluru · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Bioinformatics Scientific Officer Jobs at ACTREC | Earn up to Rs 67,700/- Per Month</title>
-    <link href="https://www.biotecnika.org/2026/10/actrec-bioinformatics-recruitment/"/>
-    <id>urn:jobwatch:393ed53d47d5</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Bioinformatics Freelancing: Skills, Platforms, Rates and How to Start.</title>
-    <link href="https://www.biotecnika.org/2026/10/bioinformatics-freelancing-skills-platforms-rates-and-how-to-start/"/>
-    <id>urn:jobwatch:06c7e27b2484</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>We tackle some of the most difficult challenges in genomic research. This demands science at scale; a visionary and creative approach to research that pushes the boundaries of our understanding in ever new and exciting ways.</title>
-    <link href="https://www.sanger.ac.uk/about/"/>
-    <id>urn:jobwatch:9e6ef2591d27</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>We are committed to training the next generation of pioneering genome scientists and clinicians. At the Wellome Sanger Institute we give PhD students and postdocs all the tools they need to succeed in the field of genomics research.</title>
-    <link href="https://www.sanger.ac.uk/about/study/"/>
-    <id>urn:jobwatch:efb9a3a38419</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Wellcome Sanger Institute · United Kingdom · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral fellow in Organic Chemistry (PA2026/3000)</title>
-    <link href="https://lu.varbi.com/en/what:job/jobID:980483/type:job/where:4/apply:1"/>
-    <id>urn:jobwatch:7dd53cf4a46e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Lund University · Sweden · Deadline: see advert · score 40</summary>
   </entry>
 </feed>

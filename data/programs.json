@@ -1,26 +1,71 @@
 {
  "meta": {
-  "updated": "2026-11-03T21:46+05:30",
+  "updated": "2026-11-03T22:16+05:30",
+  "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
    "permanent",
    "postdoc",
-   "fellowship"
+   "fellowship",
+   "project"
   ],
   "counts": {
-   "total_indexed": 686,
-   "open_matches": 152,
-   "urgent": 25,
-   "new_this_run": 1,
-   "permanent_india": 32,
-   "postdoc_india": 9,
-   "postdoc_abroad": 60,
-   "permanent_abroad": 23,
-   "sources_ok": 45,
-   "sources_total": 67
+   "total_indexed": 1558,
+   "open_matches": 206,
+   "urgent": 30,
+   "new_this_run": 57,
+   "saved": 0,
+   "permanent_india": 60,
+   "postdoc_india": 13,
+   "postdoc_abroad": 61,
+   "permanent_abroad": 24,
+   "sources_ok": 100,
+   "sources_total": 163
   }
  },
  "programs": [
+  {
+   "id": "fellowships-portal",
+   "name": "Common Fellowship Portal (Govt of India postdoc schemes)",
+   "region": "india",
+   "url": "https://fellowships.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": false,
+   "error": "SSLError"
+  },
+  {
+   "id": "anrf-calls",
+   "name": "ANRF — open calls and fellowships",
+   "region": "india",
+   "url": "https://anrf.gov.in/",
+   "deadline": "2026-12-02",
+   "status": "open",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "iisc-pdf",
+   "name": "IISc postdoctoral fellowships",
+   "region": "india",
+   "url": "https://www.iisc.ac.in/careers/",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2024-02-08",
+   "ok": true
+  },
+  {
+   "id": "iiserk-pdf",
+   "name": "IISER Kolkata postdoctoral fellowships",
+   "region": "india",
+   "url": "https://apply.iiserkol.ac.in/career.html",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
   {
    "id": "anrf-npdf",
    "name": "ANRF National Post-Doctoral Fellowship (N-PDF)",
@@ -39,7 +84,8 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
-   "ok": true
+   "ok": false,
+   "error": "ConnectionError"
   },
   {
    "id": "inspire-fac",
@@ -90,8 +136,7 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
-   "ok": false,
-   "error": "ConnectionError"
+   "ok": true
   },
   {
    "id": "ugc-dsk",
@@ -215,7 +260,8 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-03",
-   "ok": true
+   "ok": false,
+   "error": "ConnectionError"
   }
  ]
 }

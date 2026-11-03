@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-03 21:46
+## Live stats · updated 2026-11-03 22:16
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **152** |
-| 🏛️ Permanent posts — India | **32** |
-| 🔬 Postdocs / fellowships — India | **9** |
-| ✈️ Postdocs / fellowships — abroad | **60** |
-| 🌍 Permanent / faculty — abroad | **23** |
-| ⏰ Closing within 14 days | **25** |
-| 🆕 New this run | **1** |
-| 📡 Sources working | **45 / 67** |
+| 🎯 Open matches | **206** |
+| 🏛️ Permanent posts — India | **60** |
+| 🔬 Postdocs / fellowships — India | **13** |
+| ✈️ Postdocs / fellowships — abroad | **61** |
+| 🌍 Permanent / faculty — abroad | **24** |
+| ⏰ Closing within 14 days | **30** |
+| 🆕 New this run | **57** |
+| 📡 Sources working | **100 / 163** |
 
 ### ⏳ Closing within 30 days
 
@@ -26,18 +26,18 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **0d** | [Distinguished Professors, Young Faculty, Postdoctoral Researchers](https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing) | postdoc | China | 2026-11-03 |
 | 🔴 **1d** | [PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denma](https://researchersjob.com/phd-scholarship-in-rna-structure/) | phd | Denmark | 2026-11-04 |
 | 🔴 **3d** | [Postdoc Researcher AI/Machine Learn for Multimodal Cardiovasc Data (VASCUL-AID) Are you a ](https://www.academictransfer.com/en/jobs/365056/postdoc-researcher-aimachine-learn-for-multimodal-cardiovasc-data-vascul-aid/) | postdoc | Netherlands | 2026-11-06 |
-| 🟠 **4d** | [BioTecNika Times 28.10.2026: ₹80,400 Job at PGIMER, ₹67,000 Job at BHU, ₹37,000 Job at IIS](https://www.biotecnika.org/2026/10/biotecnika-times-28-10-2026-%e2%82%b980400-job-at-pgimer-%e2%82%b967000-job-at-bhu-%e2%82%b937000-job-at-iiser-more/) | postdoc | India | 2026-11-07 |
+| 🔴 **3d** | [Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India](https://researchersjob.com/scientist-position-in-icmr-2/) | project | India | 2026-11-06 |
 | 🟠 **5d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
 | 🟠 **5d** | [Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, De](https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/) | postdoc | Denmark | 2026-11-08 |
 | 🟠 **5d** | [Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland](https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/) | postdoc | Finland | 2026-11-08 |
 | 🟠 **5d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
-| 🟠 **6d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | project | United Kingdom | 2026-11-09 |
+| 🟠 **6d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
 | 🟠 **7d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |
 | 🟠 **7d** | [IIT Bombay Postdoc Vacancy 2026 / Apply Online Now](https://www.biotecnika.org/2026/10/iit-bombay-postdoc-vacancy-2026/) | postdoc | India | 2026-11-10 |
 | 🟠 **8d** | [Research Fellow (Maternity Cover)](https://www.jobs.ac.uk/job/DTM042/research-fellow-maternity-cover) | postdoc | United Kingdom | 2026-11-11 |
 | 🟠 **8d** | [Research Associate Position at IIT Gandhinagar: India](https://researchersjob.com/research-associate-position-at-iit/) | postdoc | India | 2026-11-11 |
+| 🟠 **8d** | [राष्ट्रीय सर्वेक्षण के लिए CDER द्वारा 'नेशनल ओरल हेल्थ प्रोग्राम' के अंतर्गत प्रोजेक्ट रि](https://zoombio.org/jobs/cder-i-vacancy-for-project-research-scientist-i-biostatistician-non-medical-field-based-if7bpck) | project | India | 2026-11-11 |
 | 🟠 **9d** | [Post-doc position on Multi-omics Post-doc Position on Multi-omics in Hereditary Fibrinogen](https://www.academictransfer.com/en/jobs/364732/post-doc-position-on-multi-omics/) | postdoc | Netherlands | 2026-11-12 |
-| 🟠 **9d** | [Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Bio](https://www.jobs.ac.uk/job/DTL498/research-associate-senior-research-associate-in-ai-enabled-enzyme-engineering-for-pet-biorecycling) | postdoc | United Kingdom | 2026-11-12 |
 <!-- STATS:END -->
 
 ---

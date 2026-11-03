@@ -1,23 +1,26 @@
 {
  "meta": {
-  "updated": "2026-11-03T21:46+05:30",
+  "updated": "2026-11-03T22:16+05:30",
+  "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
    "permanent",
    "postdoc",
-   "fellowship"
+   "fellowship",
+   "project"
   ],
   "counts": {
-   "total_indexed": 686,
-   "open_matches": 152,
-   "urgent": 25,
-   "new_this_run": 1,
-   "permanent_india": 32,
-   "postdoc_india": 9,
-   "postdoc_abroad": 60,
-   "permanent_abroad": 23,
-   "sources_ok": 45,
-   "sources_total": 67
+   "total_indexed": 1558,
+   "open_matches": 206,
+   "urgent": 30,
+   "new_this_run": 57,
+   "saved": 0,
+   "permanent_india": 60,
+   "postdoc_india": 13,
+   "postdoc_abroad": 61,
+   "permanent_abroad": 24,
+   "sources_ok": 100,
+   "sources_total": 163
   }
  },
  "jobs": [
@@ -107,31 +110,31 @@
    "new": false
   },
   {
-   "id": "4c4b5754ed19",
-   "title": "BioTecNika Times 28.10.2026: ₹80,400 Job at PGIMER, ₹67,000 Job at BHU, ₹37,000 Job at IISER & More",
-   "url": "https://www.biotecnika.org/2026/10/biotecnika-times-28-10-2026-%e2%82%b980400-job-at-pgimer-%e2%82%b967000-job-at-bhu-%e2%82%b937000-job-at-iiser-more/",
-   "context": "BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Hi {{name}}, Here are the latest posts from BioTecNika Times. We kept this edition short, text-first, and easy to scan. Story 1 | 28 Oct 2026 | Biochemistry Jobs BRIC-CDFD Hyderabad Recruitment 2026 | Earn Rs 1.6 Lakh Per Month […]",
-   "source_id": "biotecnika",
-   "source_name": "Biotecnika (life-science job news)",
-   "published": "2026-10-28",
-   "deadline": "2026-11-07",
-   "category": "postdoc",
+   "id": "abf88b23bdac",
+   "title": "Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India",
+   "url": "https://researchersjob.com/scientist-position-in-icmr-2/",
+   "context": "Designation/Position- Scientist Position in ICMR ICMR, Mumbai, India invites Scientist Position in ICMR from eligible and interested candidates About- Applications are invited for various project-based positions under the Indian Council of Medical Research (ICMR) funded project titled “Development of Snake Venom Research and Testing Centre” (Project ID: IIRPIG-2025-01-02077). The project aims to strengthen research related to snake […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-10-25",
+   "deadline": "2026-11-06",
+   "category": "project",
    "contract": false,
    "region": "india",
    "country": "India",
-   "kw_score": 44,
+   "kw_score": 48,
    "matched": [
     "bioinformatic",
-    "genomics"
+    "ngs"
    ],
    "check_advt": false,
-   "score": 44,
+   "score": 48,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
    "new": false,
-   "details": "BioTecNika Times | Online | Bangalore BioTecNika Times For bioscience professionals and biotech industry updates Hi {{name}}, Here are the latest posts from BioTecNika Times. We kept this edition short, text-first, and easy to scan. Story 1 | 28 Oct 2026 | Biochemistry Jobs Table of Contents Toggle BRIC-CDFD Hyderabad Recruitment 2026 | Earn Rs 1.6 Lakh Per Month Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month Research Jobs at BHU … Read the full post Story 2 | 28 Oct 2026 | Biochemistry Jobs Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month Research Scientist Job | PGIMER Recruitment Looking for a research scientist job with an attractive salary and an opportunity to work on advanced genomics research? PGIMER Chandigarh has announced a recruitment opportunity under an ICMR-funded project, offering ₹80,400 per month. … Open link Story 5 | 28 Oct 2026 | Bioinformatics Jobs IIT Bombay Postdoc Vacancy 2026 | Apply Online Now IIT Bombay Postdoc Vacancy 2026 Looking for an IIT Bombay postdoc vacancy where you can contribute to innovative environmental biotech",
+   "details": "Designation/Position- Scientist Position in ICMR ICMR, Mumbai, India invites Scientist Position in ICMR from eligible and interested candidates About- Applications are invited for various project-based positions under the Indian Council of Medical Research (ICMR) funded project titled “Development of Snake Venom Research and Testing Centre” (Project ID: IIRPIG-2025-01-02077) . The project aims to strengthen research related to snake venom analysi … NGS & Bioinformatics Public health and health technology assessment Rural health research Drone-enabled healthcare delivery and telemedicine Protein cloning, expression and purification Molecular biology and immunology Malaria sero-surveillance Sickle cell disease clinical research Digital diabetes prevention and mHealth Community and field-based health research Dengue immunology, virology and pathophysiology Public health surveys and data analysis Laboratory investigations and blood collection For example, the Project Research Scientist-II position under ADOPT-HTAIn (Health Technology Assessment in India) involves NGS/bioinformatics analy",
    "details_checked": true
   },
   {
@@ -160,6 +163,34 @@
    "match": true,
    "new": false,
    "details": "Faculty Positions in Systems Hub, HKUST (GZ) Employer The Hong Kong University of Science and Technology (Guangzhou) Location Guangzhou, Guangdong (CN) Salary Salary is highly competitive of international standard and will be commensurate with qualifications and experience. Closing date 8 Nov 2026 View more categories View less categories Discipline Applied Science , Biomedicine , Computing , Engineering , Life Science Job Type Faculty Member , P … Cell and tissue biology Tissue engineering Neuroscience Chemical biology Synthetic biology Biomaterial science Bioengineering Biomedical engineering Bioinformatics and computational biology Applications from distinguished individuals specializing in other subfields of bioscience, bioengineering, and biomedical engineering will also be actively considered. … Advanced air mobility (AAM) AI-empowered transportation Connected and autonomous vehicles (CAV) Human factors in transportation Logistics and freight transportation Mobility as a service (MaaS) Transportation Economics Transportation electrification and sustainable transportation Transp",
+   "details_checked": true
+  },
+  {
+   "id": "5f451d95bfdc",
+   "title": "Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay | Freshers Eligible",
+   "url": "https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/",
+   "context": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-10-23",
+   "deadline": "2026-11-08",
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 55,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 55,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have a background in bioinformatics, comput … Bioinformatics Jobs | St. … Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. … John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. … If you have a background in bioinformatics, computational biology, or related disciplines, this St.",
    "details_checked": true
   },
   {
@@ -219,34 +250,6 @@
    "details_checked": true
   },
   {
-   "id": "5f451d95bfdc",
-   "title": "Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay | Freshers Eligible",
-   "url": "https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/",
-   "context": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have […]",
-   "source_id": "biotecnika",
-   "source_name": "Biotecnika (life-science job news)",
-   "published": "2026-10-23",
-   "deadline": "2026-11-08",
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 45,
-   "matched": [
-    "bioinformatic",
-    "computational biology"
-   ],
-   "check_advt": false,
-   "score": 45,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": true,
-   "new": false,
-   "details": "Bioinformatics Jobs | St. Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. This contract-based opportunity is open to freshers and experienced candidates, with preference given to applicants with relevant experience. If you have a background in bioinformatics, comput … Bioinformatics Jobs | St. … Johns Recruitment Looking for promising bioinformatics jobs in Bangalore? St. … John’s Research Institute is inviting applications for the position of Project Research Scientist-I (Bioinformatician) under the ICMR CAR MANASI Project. … If you have a background in bioinformatics, computational biology, or related disciplines, this St.",
-   "details_checked": true
-  },
-  {
    "id": "c9a6c3f7ca86",
    "title": "Research Assistant - AI Scientist & Computational Cancer Biology",
    "url": "https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology",
@@ -255,16 +258,16 @@
    "source_name": "jobs.ac.uk (UK)",
    "published": null,
    "deadline": "2026-11-09",
-   "category": "project",
+   "category": "permanent",
    "contract": false,
    "region": "abroad",
    "country": "United Kingdom",
-   "kw_score": 43,
+   "kw_score": 53,
    "matched": [
     "cancer biology"
    ],
    "check_advt": false,
-   "score": 43,
+   "score": 53,
    "details": "Skip to main content Back to search results Research Assistant - AI Scientist & Computational Cancer Biology University of Oxford - Oxford Centre for Immuno-Oncology Location: Oxford Salary: £35,681 to £41,636 with a discretionary range to £46,476 p.a. (pro rata). This is inclusive of a pensionable Oxford University Weighting of £1,730 per year (pro rata). Hours: Full Time Contract Type: Fixed-Term/Contract Placed On: 27th October 2026 Closes: 9t … The project brings together sovereign AI supercomputing, AI Scientists, automated laboratories, and immunology to develop and manufacture safer, more precise and more effective personalised cancer vaccines. … By integrating advanced machine learning with robotic laboratory automation, experimental findings are rapidly fed back to the AI scientist, enabling increasingly accurate predictions and accelerating the pace at which new scientific discoveries can be translated towards patient benefit. … It is supported by major UK research funders and government organisations, including ARIA, the Medical Research Council, UK Research and Innovation",
    "details_checked": true,
    "first_seen": "2026-11-03",
@@ -356,6 +359,32 @@
    "new": false
   },
   {
+   "id": "5db08da69f75",
+   "title": "राष्ट्रीय सर्वेक्षण के लिए CDER द्वारा 'नेशनल ओरल हेल्थ प्रोग्राम' के अंतर्गत प्रोजेक्ट रिसर्च साइंटिस्ट-I (बायोस्टैटिस्टिशियन) के पद पर भर्ती; यह कार्य नॉन-मेडिकल क्षेत्र से संबंधित है।/Vacancy for Project Research Scientist-I Biostatistician, Non Medical fie",
+   "url": "https://zoombio.org/jobs/cder-i-vacancy-for-project-research-scientist-i-biostatistician-non-medical-field-based-if7bpck",
+   "context": "AD AIIMS Delhi · New Delhi, Delhi राष्ट्रीय सर्वेक्षण के लिए CDER द्वारा 'नेशनल ओरल हेल्थ प्रोग्राम' के अंतर्गत प्रोजेक्ट रिसर्च साइंटिस्ट-I (बायोस्टैटिस्टिशियन) के पद पर भर्ती; यह कार्य नॉन-मेडिकल क्षेत्र से संबंधित है।/Vacancy for Project Research Scientist-I Biostatistician, Non Medical field based work under National Oral Health Program by CDER for National Survey Project Scientist Bioinformatics Deadline 11 Nov Posted 30 Oct",
+   "source_id": "zoombio",
+   "source_name": "Zoombio — bioinformatics jobs India",
+   "published": null,
+   "deadline": "2026-11-11",
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 80,
+   "matched": [
+    "bioinformatic",
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 80,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "2cdcc83938cb",
    "title": "Research Associate Position at IIT Gandhinagar: India",
    "url": "https://researchersjob.com/research-associate-position-at-iit/",
@@ -435,6 +464,34 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "ecbdfa70130c",
+   "title": "Official Faculty Recruitment Advertisement (PDF)",
+   "url": "https://careers.iith.ac.in/documents/IITH_Faculty_Recruitment_Advt-Oct_2026-final.pdf",
+   "context": "Start Date: 16-Oct-2026, 00:00 hrs | Advertisement / Announcements: Regular Recruitment Drive for various Faculty positions Official Faculty Recruitment Advertisement (PDF) Please visit our careers portal for more details: https://careers.iith.ac.in/ Recruitment-related queries: faculty.recruitment@iith.ac.in Technical support: erpsupport.hr@comp.iith.ac.in | End Date: 12-Nov-2026, 11:59 pm",
+   "source_id": "iit-hyderabad",
+   "source_name": "IIT Hyderabad",
+   "published": null,
+   "deadline": "2026-11-12",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "details": "Page 1 of 9  \n \n \nIndian Institute of Technology Hyderabad \nAdvertisement No. IITH/HR/Faculty Rectt (R)/1/2026-27, dt. 16.Oct.2026 \n \n   Date of Commencement of receipt of applications: 16-Oct-2026  \n  Closing date & time for receipt of applications: 12-Nov-2026, 11:59 pm. \n \n1. General Information: \n \n1.1  IIT Hyderabad (IITH), established in 2008, is ranked 7th among the Indian Engineering Institutes \nand is ranked 6th in Innovation in the NIRF … 1.1  IIT Hyderabad (IITH), established in 2008, is ranked 7th among the Indian Engineering Institutes \nand is ranked 6th in Innovation in the NIRF-2025 rankings. … in Biotechnology, Bioinformatics or any other area of science and \nengineering with a strong publication record in Biotechnology. … The applicants should preferably have PhD/Post doc in the area of computer science/mathematics/ \ncomputational biology with proven track record in research in the development and application of AI \nin Biology and Health \n  \nFor more details about the department, please visit https://biotech.iith.ac.in/  \n \n4.4 Chemical Engineering: … ● AI/ML with ap",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "26ae6feaa1f2",
@@ -669,6 +726,56 @@
    "new": false
   },
   {
+   "id": "aec739a23a5f",
+   "title": "Click here to",
+   "url": "https://recruitment.icmr.org.in/scientist-d-mednine-ots/index.php/logout",
+   "context": "Sr. No.: 7 | Post Name: Scientist-D (Medical)(ICMR-NINE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 16-11-2026 5:30 PM | Action: Click here to Apply",
+   "source_id": "icmr-portal",
+   "source_name": "ICMR online recruitment",
+   "published": null,
+   "deadline": "2026-11-16",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "details": "ICMR Recruitment Portal Login for the post of Scientist-D (Medical)(ICMR-NINE) Forgot Password New User Registration",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
+   "id": "a625d9d2dd4a",
+   "title": "Click here to",
+   "url": "https://recruitment.icmr.org.in/scientist-d-nmnine-ots/index.php/logout",
+   "context": "Sr. No.: 8 | Post Name: Scientist-D (Non-Medical)(ICMR-NINE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 16-11-2026 5:30 PM | Action: Click here to Apply",
+   "source_id": "icmr-portal",
+   "source_name": "ICMR online recruitment",
+   "published": null,
+   "deadline": "2026-11-16",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "details": "ICMR Recruitment Portal Login for the post of Scientist-D (Non-Medical)(ICMR-NINE) Forgot Password New User Registration",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
@@ -721,6 +828,32 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "5fcf10cca925",
+   "title": "JRF, SRF & Fellowships Junior and Senior Research Fellowships, Post-Doctoral and other fellowships in research projects and schemes.",
+   "url": "https://zoombio.org/jobs/jrf-srf-and-fellowships-junior-and-senior-research-fellowships-post-doctoral-and-other-67tr9ni",
+   "context": "UH University of Hyderabad · Hyderabad, Telangana JRF, SRF & Fellowships Junior and Senior Research Fellowships, Post-Doctoral and other fellowships in research projects and schemes. Postdoc Bioinformatics Deadline 17 Nov Added 23 Oct",
+   "source_id": "zoombio",
+   "source_name": "Zoombio — bioinformatics jobs India",
+   "published": null,
+   "deadline": "2026-11-17",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 50,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 50,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
   }
  ]
 }
