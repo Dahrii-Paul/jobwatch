@@ -105,6 +105,30 @@ For normal websites (university pages, PDFs) the agent reads the title and deadl
 
 ---
 
+## LinkedIn job alerts → your dashboard (automatic)
+
+LinkedIn has no public jobs API and forbids scraping, but it will e-mail you new jobs for saved searches. A small script in your Gmail forwards those alert e-mails' jobs to JobWatch every hour. Jobs that match your profile appear on the dashboard tagged **LinkedIn alert**; LinkedIn gives no deadline, so they drop off 30 days after they arrive.
+
+**1. Turn on LinkedIn job alerts** (signed in to LinkedIn with the Gmail address you'll use)
+Search LinkedIn Jobs for e.g. *postdoctoral bioinformatics* (India), *computational biology postdoc* (Europe), *scientist genomics* (India), and switch on **Job alert** for each search. Choose *Daily* and *Email*.
+
+**2. Create a GitHub token** (lets the script add jobs to this repo, nothing else)
+github.com → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → *Generate new token*
+- Expiration: 1 year · Repository access: **Only select repositories → jobwatch**
+- Permissions → Repository permissions → **Contents: Read and write** (leave everything else as is)
+- Generate and copy the token (starts with `github_pat_`).
+
+**3. Install the Gmail script**
+- Go to https://script.google.com (signed in to that Gmail) → **New project**.
+- Delete the sample code, paste the whole of [`tools/gmail-linkedin-alerts.gs`](tools/gmail-linkedin-alerts.gs), click 💾 Save.
+- ⚙️ **Project Settings** → *Script properties* → **Add script property**: `GITHUB_TOKEN` = the token → Save.
+- Back in the editor, choose **testWithoutSending** in the function menu → **Run**. Google asks you to authorise the script (it needs to read Gmail): *Review permissions → your account → Advanced → Go to project → Allow*. The log lists the jobs found in your recent alert e-mails.
+- Choose **installHourlyCheck** → **Run**. Done — it now checks every hour.
+
+To stop it: in script.google.com open the project → ⏰ Triggers → delete the trigger.
+
+---
+
 ## Make it yours
 
 - **`config/profile.yaml`** — your summary (the AI reads this), keywords, things to exclude, match threshold, countries of interest.

@@ -1,0 +1,41 @@
+name: Jobs from e-mail alerts
+
+# Started by the Gmail script (tools/gmail-linkedin-alerts.gs) every time
+# LinkedIn job-alert e-mails arrive. It sends the jobs it found as the payload.
+on:
+  repository_dispatch:
+    types: [email-alert-jobs]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  save:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - name: Save the jobs
+        env:
+          ALERT_PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+          AI_DISABLED: "1"
+        run: python -m jobwatch.save_alerts
+      - name: Commit
+        run: |
+          git config user.name  "jobwatch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Jobs from e-mail alerts"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q && break; sleep 5; done
+
+  publish:
+    needs: save
+    uses: ./.github/workflows/pages.yml

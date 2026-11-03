@@ -26,6 +26,8 @@ def load(path: Path) -> dict[str, dict]:
 
 def status_of(job: dict, today: dt.date) -> str:
     if job.get("saved") and not job.get("deadline"):
+        if job.get("expires") and job["expires"] < today.isoformat():
+            return "closed"
         return "open"
     if job.get("deadline"):
         return "open" if job["deadline"] >= today.isoformat() else "closed"

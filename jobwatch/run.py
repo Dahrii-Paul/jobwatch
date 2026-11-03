@@ -241,6 +241,7 @@ def load_saved(profile: dict, today: dt.date) -> list[dict]:
               "context": s.get("notes", "")[:600], "details": s.get("details", ""), "details_checked": True,
               "source_id": "saved", "source_name": s.get("site") or "Saved by you",
               "published": s.get("added"), "deadline": s.get("deadline"), "saved": True,
+              "via": s.get("via", "manual"), "expires": s.get("expires"),
               "issue": s.get("issue"), "_src": SAVED_SOURCE}
         if s.get("region"):
             it["region"] = s["region"]

@@ -216,7 +216,7 @@ function row(j){
   const left = d===null? `<div class="left"><span class="n">—</span><span class="u">no date found</span></div>`
     : d<0? `<div class="left"><span class="n">0</span><span class="u">closed</span></div>`
     : `<div class="left ${d<=7?"urgent":""}"><span class="n">${d}</span><span class="u">${d===1?"day left":"days left"}</span></div>`;
-  const flags=[j.saved?"<span class='flag mine'>Saved by you</span>":"", j.new&&!j.saved?"<span class=flag>New</span>":"", j.contract?"<span class=flag>Contract / temporary</span>":"",
+  const flags=[j.saved?`<span class='flag mine'>${j.via==="linkedin-alert"?"LinkedIn alert":"Saved by you"}</span>`:"", j.new&&!j.saved?"<span class=flag>New</span>":"", j.contract?"<span class=flag>Contract / temporary</span>":"",
     j.check_advt?"<span class=flag>Subject not in title — check the advert</span>":""].join(" ");
   return `<li class="job" style="--c:var(${col})">${left}<div>
     <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>

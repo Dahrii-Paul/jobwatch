@@ -32,7 +32,8 @@ def write_all(data_dir: Path, db: dict, programs: list, health: list, profile: d
     thr = profile.get("match_threshold", 40)
     jobs = sorted(db.values(), key=sort_key)
     for j in jobs:
-        j["match"] = j.get("score", 0) >= thr or bool(j.get("saved"))
+        # jobs you saved by hand always show; e-mail alert jobs must match your profile
+        j["match"] = j.get("score", 0) >= thr or (bool(j.get("saved")) and j.get("via", "manual") == "manual")
         j["new"] = j["id"] in new_ids
     open_match = [j for j in jobs if j["status"] == "open" and j["match"]]
     urgent = [j for j in open_match if (d := days_left(j, today)) is not None and 0 <= d <= URGENT_DAYS]
