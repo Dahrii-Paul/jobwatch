@@ -6,7 +6,7 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-04 00:05
+## Live stats · updated 2026-11-04 01:20
 
 | Metric | Count |
 |---|---|

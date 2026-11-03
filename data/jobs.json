@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-04T00:05+05:30",
+  "updated": "2026-11-04T01:20+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,7 +10,7 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2050,
+   "total_indexed": 2051,
    "open_matches": 296,
    "urgent": 63,
    "new_this_run": 0,
@@ -7305,6 +7305,33 @@
    "new": false
   },
   {
+   "id": "4f8f1c8a05c5",
+   "title": "Postdoctoral Researcher, Abdulla Unit Posted on 07 October 2026 Analysis and Partial Differential Equations Unit Postdoc Applications",
+   "url": "https://www.oist.jp/careers/postdoctoral-researcher-abdulla-unit",
+   "context": "Postdoctoral Researcher, Abdulla Unit Posted on 07 October 2026 Analysis and Partial Differential Equations Unit Postdoc Applications deadline will continue until the position is filled.",
+   "source_id": "oist",
+   "source_name": "OIST",
+   "published": null,
+   "deadline": "2027-01-01",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Japan",
+   "kw_score": 25,
+   "matched": [
+    "systems biology"
+   ],
+   "check_advt": false,
+   "score": 25,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": "Breadcrumb Postdoctoral Researcher, Abdulla Unit The position There are two openings for the postdoctoral researcher position at the Analysis and Partial Differential Equations (PDE) unit led by Professor Ugur G. Abdulla. The aim of the Analysis & PDE unit is to reveal and analyze the mathematical principles reflecting natural phenomena expressed by PDEs. Research focuses on fundamental analysis of PDEs, regularity theory of elliptic and paraboli … Breadcrumb Postdoctoral Researcher, Abdulla Unit The position There are two openings for the postdoctoral researcher position at the Analysis and Partial Differential Equations (PDE) unit led by Professor Ugur G. … identification of parameters in large-scale models of systems biology; … OIST is a dynamic new graduate university of science and technology in Okinawa Prefecture, Japan which offers a 5-year PhD program and brings together outstanding researchers from across the country and across disciplines to conduct cutting-edge scientific research.",
+   "details_checked": true
+  },
+  {
    "id": "794643d6a8c1",
    "title": "BRIC-RGCB PhD Admissions – January 2027 | Applications Invited",
    "url": "https://www.biotecnika.org/2026/10/bric-rgcb-phd-admissions-2027-january/",
@@ -13240,7 +13267,7 @@
    "details": "Postdoctoral studies in uncovering novel therapeutic targets and differentiation strategies in MYC-driven tumors (scholarship) Login and apply Do you want to contribute to top quality medical research? The Department of Microbiology, Tumor and Cell Biology (MTC) at Karolinska Institutet conducts research and teaching within immunology, infection biology, cell biology and cancer. MTC have about 40 research groups and our key words are multidiscipl … Advanced mammalian cell culture, drug testing and immunofluorescence 3D cell culture and tumor spheroid models Molecular biology techniques, including PCR, cloning and Western blotting Lentiviral transduction and genetic manipulation Protein-protein interaction assays, including proximity ligation assays Imaging techniques and quantitative image analysis Lipidomics, proteomics and RNA sequencing sample preparation Basic analysis and interpretation of omics data Experimental validation of candidate compounds and drug-response assays In vivo studies in mice, tumor monitoring and tissue collection Immunohistochemistry and analysis of tumor sa",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open",
    "match": false,
    "new": false
@@ -17550,7 +17577,9 @@
    "last_seen": "2026-11-04",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "@BRrG ;',ii:1;' xr\n'\\.i:ra i.r. n!l ir. lir f'\njj.)t-rr{j L: : ,,r' l -lj c -\nTi(rf H.ner. No NrBMG/ADMTN/ESrB/Notice/2 0zs-26/B{ frqiOTou tell -06-202s\nNOTICE\nPanel of Selected Candidates for the post of Proiect Associate -I [One) against\nAdvertisement No. NIBMG/ADMIN/ESTB /2025-26/47 dtd. 22/05/2025 for Project\nentitled \"Evaluation of Spatial Ecology of Tie2-activated Myofibroblastic-CAFs as\nPotential Target Against Aggressive Oral Cancer\" unde",
+   "details_checked": true
   },
   {
    "id": "348dd2a9e8a3",
@@ -17946,7 +17975,7 @@
    "details": "Home Academics Study @ IITM Exchange Programmes Exchange Programmes The World is Flat, goes the title of the best-seller by Thomas L. Friedman. In this interconnected society, collaborative learning and research are virtual imperatives. To enable these, IIT Madras has entered into Student Exchange Agreements with more than 100 of the top higher-education institutions around the world. A student enrolled at IIT Madras can spend a semester at these … Yamini brings her clinical\nexperience and her understanding of students and families into a simple and practical framework. … It brings\ntogether well-established research in attachment, motivation, resilience, developmental psychology,\nand mental health into a practical framework that parents can use in everyday life. … Behind that single moment lies a story of early mornings, late nights,\ncoaching classes, examinations, encouragement, setbacks and unwavering hope. … Alongside these opportunities come significant pressures.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open",
    "match": false,
    "new": false
@@ -22621,29 +22650,6 @@
    "new": false
   },
   {
-   "id": "4f8f1c8a05c5",
-   "title": "Postdoctoral Researcher, Abdulla Unit Posted on 07 October 2026 Analysis and Partial Differential Equations Unit Postdoc Applications",
-   "url": "https://www.oist.jp/careers/postdoctoral-researcher-abdulla-unit",
-   "context": "Postdoctoral Researcher, Abdulla Unit Posted on 07 October 2026 Analysis and Partial Differential Equations Unit Postdoc Applications deadline will continue until the position is filled.",
-   "source_id": "oist",
-   "source_name": "OIST",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "Japan",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-04",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "afd4c8c8500b",
    "title": "Postdoctoral Scholar, Neurobiology Research Unit Posted on 04 September 2026 Neurobiology Research Unit Postdoc Applications",
    "url": "https://www.oist.jp/careers/postdoctoral-scholar-neurobiology-research-unit",
@@ -23642,29 +23648,6 @@
    "new": false
   },
   {
-   "id": "5e7e2d6b8c18",
-   "title": "Current Openings",
-   "url": "https://apply.iiserkol.ac.in/pdf/",
-   "context": "Post-doctoral Fellowship (PDF) Programme Current Openings NEW",
-   "source_id": "iiser-kol",
-   "source_name": "IISER Kolkata",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04",
-   "status": "open",
-   "match": false,
-   "new": true
-  },
-  {
    "id": "bb532c50d2db",
    "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
    "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTM3MzEwMDQ=",
@@ -23687,12 +23670,62 @@
    "last_seen": "2026-11-04",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "35b66bf68bb0",
    "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
    "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3MzEwMDQ=",
+   "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "4d3da55e6c40",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTM3MzU1MjM=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "59f04f8cbc1d",
+   "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
+   "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3MzU1MjM=",
    "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
    "source_id": "sctimst",
    "source_name": "SCTIMST Thiruvananthapuram",
@@ -28000,7 +28033,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "status": "open",
    "match": false,
    "new": false
