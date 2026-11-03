@@ -1,0 +1,220 @@
+{
+ "meta": {
+  "updated": "2026-11-03T16:40+05:30",
+  "match_threshold": 40,
+  "include_categories": [
+   "permanent",
+   "postdoc",
+   "fellowship"
+  ],
+  "counts": {
+   "total_indexed": 1239,
+   "open_matches": 414,
+   "urgent": 16,
+   "new_this_run": 420,
+   "permanent_india": 331,
+   "postdoc_india": 4,
+   "postdoc_abroad": 46,
+   "permanent_abroad": 20,
+   "sources_ok": 47,
+   "sources_total": 67
+  }
+ },
+ "programs": [
+  {
+   "id": "anrf-npdf",
+   "name": "ANRF National Post-Doctoral Fellowship (N-PDF)",
+   "region": "india",
+   "url": "https://anrfonline.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "anrf-ramanujan",
+   "name": "ANRF Ramanujan Fellowship (faculty-track re-entry)",
+   "region": "india",
+   "url": "https://anrfonline.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "inspire-fac",
+   "name": "DST INSPIRE Faculty Fellowship",
+   "region": "india",
+   "url": "https://online-inspire.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": false,
+   "error": "SSLError"
+  },
+  {
+   "id": "dbt-ra",
+   "name": "DBT Research Associateship (DBT-RA)",
+   "region": "india",
+   "url": "https://rcb.res.in/DBTRA/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "india-alliance",
+   "name": "DBT/Wellcome India Alliance Early Career Fellowship",
+   "region": "india",
+   "url": "https://www.indiaalliance.org/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "csir-ra",
+   "name": "CSIR Research Associateship",
+   "region": "india",
+   "url": "https://csirhrdg.res.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "icmr-pdf",
+   "name": "ICMR Post-Doctoral Fellowship",
+   "region": "india",
+   "url": "https://www.icmr.gov.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "ugc-dsk",
+   "name": "UGC Dr. D.S. Kothari Postdoctoral Fellowship",
+   "region": "india",
+   "url": "https://www.ugc.gov.in/",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2023-03-21",
+   "ok": true
+  },
+  {
+   "id": "embo-pf",
+   "name": "EMBO Postdoctoral Fellowships",
+   "region": "abroad",
+   "country": "Europe",
+   "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "msca-pf",
+   "name": "Marie Skłodowska-Curie Postdoctoral Fellowships",
+   "region": "abroad",
+   "country": "Europe",
+   "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "hfsp-ltf",
+   "name": "HFSP Postdoctoral Fellowships",
+   "region": "abroad",
+   "country": "International",
+   "url": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2026-09-24",
+   "ok": true
+  },
+  {
+   "id": "humboldt",
+   "name": "Humboldt Research Fellowship for Postdocs",
+   "region": "abroad",
+   "country": "Germany",
+   "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "jsps",
+   "name": "JSPS Postdoctoral Fellowships for Research in Japan",
+   "region": "abroad",
+   "country": "Japan",
+   "url": "https://www.jsps.go.jp/english/e-fellow/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "scilife-pulse",
+   "name": "SciLifeLab PULSE postdoctoral programme",
+   "region": "abroad",
+   "country": "Sweden",
+   "url": "https://www.scilifelab.se/research/pulse/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "embl-eipod",
+   "name": "EMBL EIPOD postdoctoral programme",
+   "region": "abroad",
+   "country": "Germany",
+   "url": "https://www.embl.org/about/info/eipod/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "id": "newton",
+   "name": "Royal Society Newton International Fellowships",
+   "region": "abroad",
+   "country": "United Kingdom",
+   "url": "https://royalsociety.org/grants/newton-international/",
+   "deadline": null,
+   "status": "closed",
+   "checked": "2026-11-03",
+   "last_deadline": "2026-03-11",
+   "ok": true
+  },
+  {
+   "id": "swiss-esk",
+   "name": "Swiss Government Excellence Scholarships (postdoc)",
+   "region": "abroad",
+   "country": "Switzerland",
+   "url": "https://www.sbfi.admin.ch/scholarships_eng",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  },
+  {
+   "id": "fulbright-nehru",
+   "name": "Fulbright-Nehru Postdoctoral Research Fellowships",
+   "region": "abroad",
+   "country": "United States",
+   "url": "https://www.usief.org.in/",
+   "deadline": null,
+   "status": "check",
+   "checked": "2026-11-03",
+   "ok": true
+  }
+ ]
+}

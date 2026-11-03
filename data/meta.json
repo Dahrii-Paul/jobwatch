@@ -1,0 +1,21 @@
+{
+ "updated": "2026-11-03T16:40+05:30",
+ "match_threshold": 40,
+ "include_categories": [
+  "permanent",
+  "postdoc",
+  "fellowship"
+ ],
+ "counts": {
+  "total_indexed": 1239,
+  "open_matches": 414,
+  "urgent": 16,
+  "new_this_run": 420,
+  "permanent_india": 331,
+  "postdoc_india": 4,
+  "postdoc_abroad": 46,
+  "permanent_abroad": 20,
+  "sources_ok": 47,
+  "sources_total": 67
+ }
+}
