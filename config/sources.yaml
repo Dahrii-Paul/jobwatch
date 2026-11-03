@@ -262,6 +262,7 @@ sources:
 
 # ═════════════════════  INDIA — added from your institute list  ═════════════════════
 # ── ICMR / national portals ──
+- {id: employmentnews, name: "Employment News (Govt of India)", region: india, urls: ["https://employmentnews.gov.in/NewEmp/Home.aspx", "https://employmentnews.gov.in/"], max_details: 30}
 - {id: icmr-emp, name: "ICMR employment opportunities (all institutes)", region: india, urls: ["https://www.icmr.gov.in/employment-opportunities"], life_science: true}
 - {id: bric-work, name: "BRIC — work with us", region: india, urls: ["https://www.bric.nic.in/work-with-us/"], life_science: true}
 - {id: icmr-portal, name: "ICMR online recruitment", region: india, urls: ["https://recruitment.icmr.org.in/"], life_science: true, render: true}
