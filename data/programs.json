@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T23:40+05:30",
+  "updated": "2026-11-04T00:05+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,14 +10,14 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2049,
-   "open_matches": 297,
-   "urgent": 56,
+   "total_indexed": 2050,
+   "open_matches": 296,
+   "urgent": 63,
    "new_this_run": 0,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 17,
-   "postdoc_abroad": 118,
+   "postdoc_abroad": 116,
    "permanent_abroad": 35,
    "sources_ok": 165,
    "sources_total": 209
@@ -31,7 +31,7 @@
    "url": "https://fellowships.gov.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -41,7 +41,7 @@
    "url": "https://anrf.gov.in/",
    "deadline": "2026-12-02",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -51,7 +51,7 @@
    "url": "https://www.iisc.ac.in/careers/",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2024-02-08",
    "ok": true
   },
@@ -62,7 +62,7 @@
    "url": "https://apply.iiserkol.ac.in/career.html",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -72,7 +72,7 @@
    "url": "https://serbonline.in/ANRF/npdf",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -82,7 +82,7 @@
    "url": "https://anrfonline.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -92,7 +92,7 @@
    "url": "https://online-inspire.gov.in/",
    "deadline": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -102,7 +102,7 @@
    "url": "https://rcb.res.in/DBTRA/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -112,7 +112,7 @@
    "url": "https://www.indiaalliance.org/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -122,7 +122,7 @@
    "url": "https://csirhrdg.res.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -132,7 +132,7 @@
    "url": "https://www.icmr.gov.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -142,7 +142,7 @@
    "url": "https://www.ugc.gov.in/",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2023-03-21",
    "ok": true
   },
@@ -153,7 +153,7 @@
    "url": "https://www.icts.res.in/opportunities",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -163,7 +163,7 @@
    "url": "https://fellowships.gov.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -173,7 +173,7 @@
    "url": "https://dbtindia.gov.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": false,
    "error": "ConnectionError"
   },
@@ -184,7 +184,7 @@
    "url": "https://www.ugc.gov.in/",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2023-03-21",
    "ok": true
   },
@@ -195,7 +195,7 @@
    "url": "https://dae.gov.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -205,7 +205,7 @@
    "url": "https://www.iist.ac.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -215,7 +215,7 @@
    "url": "https://www.prl.res.in/",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2026-09-30",
    "ok": true
   },
@@ -227,7 +227,7 @@
    "url": "https://www.hfsp.org/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -238,7 +238,7 @@
    "url": "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards",
    "deadline": "2027-01-14",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -249,7 +249,7 @@
    "url": "https://ibro.org/",
    "deadline": "2027-01-15",
    "status": "open",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -260,7 +260,7 @@
    "url": "https://www.daad.de/en/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": false,
    "error": "HTTP 403"
   },
@@ -272,7 +272,7 @@
    "url": "https://www.kaust.edu.sa/en/about/careers",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -283,7 +283,7 @@
    "url": "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -294,7 +294,7 @@
    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -305,7 +305,7 @@
    "url": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2026-09-24",
    "ok": true
   },
@@ -317,7 +317,7 @@
    "url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -328,7 +328,7 @@
    "url": "https://www.jsps.go.jp/english/e-fellow/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -339,7 +339,7 @@
    "url": "https://www.scilifelab.se/research/pulse/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -350,7 +350,7 @@
    "url": "https://www.embl.org/about/info/eipod/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": false,
    "error": "HTTP 404"
   },
@@ -362,7 +362,7 @@
    "url": "https://royalsociety.org/grants/newton-international/",
    "deadline": null,
    "status": "closed",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "last_deadline": "2026-03-11",
    "ok": true
   },
@@ -374,7 +374,7 @@
    "url": "https://www.sbfi.admin.ch/scholarships_eng",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": true
   },
   {
@@ -385,7 +385,7 @@
    "url": "https://www.usief.org.in/",
    "deadline": null,
    "status": "check",
-   "checked": "2026-11-03",
+   "checked": "2026-11-04",
    "ok": false,
    "error": "ConnectTimeout"
   }

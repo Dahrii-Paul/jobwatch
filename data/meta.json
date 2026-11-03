@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T23:40+05:30",
+ "updated": "2026-11-04T00:05+05:30",
  "repo": "Dahrii-Paul/jobwatch",
  "match_threshold": 40,
  "include_categories": [
@@ -9,14 +9,14 @@
   "project"
  ],
  "counts": {
-  "total_indexed": 2049,
-  "open_matches": 297,
-  "urgent": 56,
+  "total_indexed": 2050,
+  "open_matches": 296,
+  "urgent": 63,
   "new_this_run": 0,
   "saved": 0,
   "permanent_india": 78,
   "postdoc_india": 17,
-  "postdoc_abroad": 118,
+  "postdoc_abroad": 116,
   "permanent_abroad": 35,
   "sources_ok": 165,
   "sources_total": 209

@@ -2,21 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-03T18:10:22Z</updated>
-  <entry>
-    <title>Postdoc - Stem Cell Disease Modeling and Precision Medicine - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
-    <link href="https://www.openpostdoc.org/position/954b2f2c-b870-474d-842e-e719387ec589"/>
-    <id>urn:jobwatch:25d95652199b</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-03 · score 95</summary>
-  </entry>
-  <entry>
-    <title>Distinguished Professors, Young Faculty, Postdoctoral Researchers</title>
-    <link href="https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:1ff747d05d22</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Nature Careers · China · Deadline 2026-11-03 · score 62</summary>
-  </entry>
+  <updated>2026-11-03T18:35:15Z</updated>
   <entry>
     <title>PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denmark</title>
     <link href="https://researchersjob.com/phd-scholarship-in-rna-structure/"/>
@@ -1052,5 +1038,19 @@
     <id>urn:jobwatch:2f1d7c407cc9</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine ·</title>
+    <link href="https://www.openpostdoc.org/position/bc6c2fa7-d304-448f-ad16-2fca2b4775f3"/>
+    <id>urn:jobwatch:515c02f81b4c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Open Positions - Project Scientist Series University of California, Irvine · Irvine ·</title>
+    <link href="https://www.openpostdoc.org/position/e8bd1cdf-abbb-4c6a-b844-c446f0f46643"/>
+    <id>urn:jobwatch:4c95b9001701</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
   </entry>
 </feed>
