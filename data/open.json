@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T23:09+05:30",
+  "updated": "2026-11-03T23:22+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2045,
-   "open_matches": 295,
+   "total_indexed": 2047,
+   "open_matches": 296,
    "urgent": 56,
-   "new_this_run": 1,
+   "new_this_run": 0,
    "saved": 0,
    "permanent_india": 78,
-   "postdoc_india": 16,
+   "postdoc_india": 17,
    "postdoc_abroad": 118,
    "permanent_abroad": 35,
-   "sources_ok": 165,
+   "sources_ok": 166,
    "sources_total": 209
   }
  },
@@ -3524,6 +3524,36 @@
    "details_checked": true
   },
   {
+   "id": "6d6e437e5188",
+   "title": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality scr",
+   "url": "https://www.nibmg.ac.in/uploads/5c47aab1ed66b60ce5420d76ce692bb0.pdf",
+   "context": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality screen which targets the major DNA repair pathways in colon and lung cancer. PI-Dr. Sagar Sengupta Funding Agency- CEFIPRA",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": "2026-12-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 59,
+   "matched": [
+    "genomics",
+    "next generation sequencing",
+    "single-cell",
+    "spatial transcriptomics"
+   ],
+   "check_advt": false,
+   "score": 59,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "             _____________________________________________________________________ \nKalyani, PIN: 741251, West Bengal, India \nTel: +91-33-29772151, +91-33-66422111; Website: www.nibmg.ac.in \n \n \n \n                                                       \n \nसंदभª स./Ref. No NIBMG/ADMIN/ESTB/PHD PROG/ADVT/2026-27/004    िदनांक/Date 06-04-2026. \n \n                      \nINFORMATION FOR STUDENTS INTERESTED TO PURSUE DOCTORAL RESEARCH AT THE \nBRIC-NATIO … INFORMATION FOR STUDENTS INTERESTED TO PURSUE DOCTORAL RESEARCH AT THE \nBRIC-NATIONAL INSTITUTE OF BIOMEDICAL GENOMICS (NIBMG), KALYANI \n \nApplications are invited from suitable candidates to pursue doctoral research at NIBMG. … The \nselected students are expected to work on human diseases with emphasis on gaining genomics \nand biological insights into disease mechanisms using clinical samples and appropriate models, \nboth in silico, in-vitro and in vivo. … NIBMG is equipped with state-of-the-art technologies which \ninclude single-cell sequencing, spatial transcriptomics and next generation sequencing platforms, \nrobotics platforms, high-e",
+   "details_checked": true
+  },
+  {
    "id": "ac99eef18c59",
    "title": "Postdoctoral Scholar: Translational Cancer Biomarkers and Molecular Assay Development University of California, Los Angeles · Los Angeles ·",
    "url": "https://www.openpostdoc.org/position/66e3ccb3-d9de-4550-987a-b61fb31e23a3",
@@ -5938,7 +5968,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 54,
    "matched": [
     "biostatistic"
@@ -6053,7 +6083,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 52,
    "matched": [
     "bioinformatic",
@@ -8123,7 +8153,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false,
+   "details": null
   }
  ]
 }

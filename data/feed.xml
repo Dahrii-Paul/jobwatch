@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-03T17:39:27Z</updated>
+  <updated>2026-11-03T17:52:55Z</updated>
   <entry>
     <title>Postdoc - Stem Cell Disease Modeling and Precision Medicine - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
     <link href="https://www.openpostdoc.org/position/954b2f2c-b870-474d-842e-e719387ec589"/>
@@ -900,6 +900,13 @@
     <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2026-12-31 · score 67</summary>
   </entry>
   <entry>
+    <title>Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality scr</title>
+    <link href="https://www.nibmg.ac.in/uploads/5c47aab1ed66b60ce5420d76ce692bb0.pdf"/>
+    <id>urn:jobwatch:6d6e437e5188</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] BRIC-NIBMG Kalyani (genomics) · India · Deadline 2026-12-31 · score 59</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Scholar: Translational Cancer Biomarkers and Molecular Assay Development University of California, Los Angeles · Los Angeles ·</title>
     <link href="https://www.openpostdoc.org/position/66e3ccb3-d9de-4550-987a-b61fb31e23a3"/>
     <id>urn:jobwatch:ac99eef18c59</id>
@@ -1043,13 +1050,6 @@
     <title>Open Positions - Specialist Series University of California, Irvine · Irvine ·</title>
     <link href="https://www.openpostdoc.org/position/14347aec-1609-4c71-aafb-85cef8a09c6f"/>
     <id>urn:jobwatch:2f1d7c407cc9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine ·</title>
-    <link href="https://www.openpostdoc.org/position/bc6c2fa7-d304-448f-ad16-2fca2b4775f3"/>
-    <id>urn:jobwatch:515c02f81b4c</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
   </entry>

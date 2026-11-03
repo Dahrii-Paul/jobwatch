@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T23:09+05:30",
+  "updated": "2026-11-03T23:22+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2045,
-   "open_matches": 295,
+   "total_indexed": 2047,
+   "open_matches": 296,
    "urgent": 56,
-   "new_this_run": 1,
+   "new_this_run": 0,
    "saved": 0,
    "permanent_india": 78,
-   "postdoc_india": 16,
+   "postdoc_india": 17,
    "postdoc_abroad": 118,
    "permanent_abroad": 35,
-   "sources_ok": 165,
+   "sources_ok": 166,
    "sources_total": 209
   }
  },
@@ -5806,7 +5806,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "b59f6b2cec86",
@@ -6797,7 +6798,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "d44c9486b9c0",
@@ -6821,7 +6823,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "e0e99c2ce99d",
@@ -7148,6 +7151,36 @@
    "details_checked": true
   },
   {
+   "id": "6d6e437e5188",
+   "title": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality scr",
+   "url": "https://www.nibmg.ac.in/uploads/5c47aab1ed66b60ce5420d76ce692bb0.pdf",
+   "context": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality screen which targets the major DNA repair pathways in colon and lung cancer. PI-Dr. Sagar Sengupta Funding Agency- CEFIPRA",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": "2026-12-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 59,
+   "matched": [
+    "genomics",
+    "next generation sequencing",
+    "single-cell",
+    "spatial transcriptomics"
+   ],
+   "check_advt": false,
+   "score": 59,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "             _____________________________________________________________________ \nKalyani, PIN: 741251, West Bengal, India \nTel: +91-33-29772151, +91-33-66422111; Website: www.nibmg.ac.in \n \n \n \n                                                       \n \nसंदभª स./Ref. No NIBMG/ADMIN/ESTB/PHD PROG/ADVT/2026-27/004    िदनांक/Date 06-04-2026. \n \n                      \nINFORMATION FOR STUDENTS INTERESTED TO PURSUE DOCTORAL RESEARCH AT THE \nBRIC-NATIO … INFORMATION FOR STUDENTS INTERESTED TO PURSUE DOCTORAL RESEARCH AT THE \nBRIC-NATIONAL INSTITUTE OF BIOMEDICAL GENOMICS (NIBMG), KALYANI \n \nApplications are invited from suitable candidates to pursue doctoral research at NIBMG. … The \nselected students are expected to work on human diseases with emphasis on gaining genomics \nand biological insights into disease mechanisms using clinical samples and appropriate models, \nboth in silico, in-vitro and in vivo. … NIBMG is equipped with state-of-the-art technologies which \ninclude single-cell sequencing, spatial transcriptomics and next generation sequencing platforms, \nrobotics platforms, high-e",
+   "details_checked": true
+  },
+  {
    "id": "8c11ec154ffe",
    "title": "Recruitment of Faculty at CDFD",
    "url": "https://cdfd.org.in/APPS/recruit2026/",
@@ -7271,7 +7304,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "ed2735dabf5e",
@@ -7295,7 +7329,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "02cbd592f909",
@@ -7840,7 +7875,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "f3ac803086a1",
@@ -7864,7 +7900,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "302632898615",
@@ -7888,7 +7925,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "ed59b2d47e77",
@@ -8639,7 +8677,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "09ffef529d1a",
@@ -8663,7 +8702,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "0f127feb0a67",
@@ -10840,7 +10880,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 54,
    "matched": [
     "biostatistic"
@@ -10955,7 +10995,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 52,
    "matched": [
     "bioinformatic",
@@ -13025,7 +13065,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "af2133a9a2dd",
@@ -13138,6 +13179,34 @@
    "match": false,
    "new": false,
    "details": "PhD Life Sciences Fellowship – at Mahindra University in Hyderabad Mahindra University, in collaboration with Virginia Tech, invites applications for a Postdoctoral Fellow (PDF) position in the Interdisciplinary Advanced Research Center for Transformative Technologies (I2T2). Based at the Hyderabad campus, this cutting-edge cancer research project focuses on biomarker discovery and validation for early detection of head and neck cancers. This two … This two-year position offers a unique opportunity to work on translational cancer biology using molecular tools and bioinformatics. … Design and execute molecular experiments including RNA sequencing, RT-qPCR, proteomics, and ELISA-based assays. … Analyze data using bioinformatics tools to identify differentially expressed biomarkers.",
+   "details_checked": true
+  },
+  {
+   "id": "4af879db01ca",
+   "title": "Applications are invited for the position of Project Assistant against the project \"Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India\" under the",
+   "url": "https://www.nibmg.ac.in/uploads/157b72c311ded7bba75a134ada5e0f65.pdf",
+   "context": "Applications are invited for the position of Project Assistant against the project \"Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India\" under the guidance of Dr. Souvik Mukherjee of Funding Agency- SERB .",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "junior",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 38,
+   "matched": [
+    "epigenomic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 38,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": " \n \n                                                        \n \nAdvertisement No. NIBMG/ADMIN/ESTB/PROJ.RECT/2024 -25/223 Date:04-09-2024 \n \nPositions available \n \nNational Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India,  \nMinistry of Science & Technology, Department of Biotechnology. The Institute has created the necessary \nphysical infrastructure and critical platform technologies to support research, tra … NIBMG/ADMIN/ESTB/PROJ.RECT/2024 -25/223 Date:04-09-2024 \n \nPositions available \n \nNational Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India,  \nMinistry of Science & Technology, Department of Biotechnology. … The Institute has created the necessary \nphysical infrastructure and critical platform technologies to support research, translation and training \nin biomedical genomics. … Applications are invited for the position of  Project Linked Persons for  extramural projects to be  \nexecuted by the National institute of Biomedical Genomics, Kalyani. … Investigating the Gut Microbiome and Host Epigenomic Pr",
    "details_checked": true
   },
   {
@@ -14062,7 +14131,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "42cb76312972",
@@ -14088,7 +14158,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "6cfcb46241b0",
@@ -15611,32 +15682,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
-  },
-  {
-   "id": "4af879db01ca",
-   "title": "Applications are invited for the position of Project Assistant against the project \"Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India\" under the",
-   "url": "https://www.nibmg.ac.in/uploads/157b72c311ded7bba75a134ada5e0f65.pdf",
-   "context": "Applications are invited for the position of Project Assistant against the project \"Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India\" under the guidance of Dr. Souvik Mukherjee of Funding Agency- SERB .",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "junior",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 15,
-   "matched": [
-    "epigenomic"
-   ],
-   "check_advt": false,
-   "score": 15,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "b8706ccead54",
@@ -15687,7 +15734,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "eb3dbce0a791",
@@ -15713,7 +15761,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "6a4a2d40c6d8",
@@ -17424,29 +17473,6 @@
    "details_checked": true
   },
   {
-   "id": "6d6e437e5188",
-   "title": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality scr",
-   "url": "https://www.nibmg.ac.in/uploads/5c47aab1ed66b60ce5420d76ce692bb0.pdf",
-   "context": "Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality screen which targets the major DNA repair pathways in colon and lung cancer. PI-Dr. Sagar Sengupta Funding Agency- CEFIPRA",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "6c1d904733a8",
    "title": "Publication of the name of Provisionally selected candidate of NIBMG Fellow against Advertisement No. NIBMG/Admn/Estb/Rectt. /2025-26/292 dtd. 14/01/2026",
    "url": "https://www.nibmg.ac.in/uploads/21e2180e1bc97da4aefe0b68631c8b75.pdf",
@@ -17467,7 +17493,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "e1ca7d45acd4",
@@ -17490,7 +17517,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "0BRrG\nsrrtrn\n\\.i:l{.1n. rratiLta l'\nJr jar{--Oici I 9t: l':nci\nfk{ q.zn.f. No NrBMG/ADMTN/ESTB/NoIice/ 2025-26 / X\\5 Dt:6)-72-2025\nNOTICE\nPanel of Selected Candidates for the post of Proiect Assosiate-I (One) against\nAdvertisement No. NIBMG/ADMIN/ESTB/PROI.RECT/2025-26/205 dtd. Z+1rcjZOiS forProject entitled \"coagulation factor activated factor X promotes the release ofextracellular vesicles from human metastatic colorectal cancer (CRC) cells:\nco",
+   "details_checked": true
   },
   {
    "id": "1f5194b0a59e",
@@ -19968,7 +19997,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "1 \n \n \n   \n                                                 \n \n \n \nअखिल भारतीय आयुर्विज्ञान संस्थान, भुवनेश्वर \nAll India Institute of Medical Sciences, Bhubaneswar \nस्वास्थ्य एवं पररवार कल्याण मंत्रालय, भारत सरकार क े  तत्वावधान में एक सांविधिक निकाय \n(A Statutory Body under aegis of Ministry of H & F.W., Govt. of India) \nसिजुआ, डाक- :ड ू मुडुमा, भुवनेश्वर - 751019 \nSijua, Post: Dumuduma, Bhubaneswar- 751019 \n____________________________________",
+   "details_checked": true
   },
   {
    "id": "df0a62776b19",
@@ -23213,7 +23244,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "We use cookies to improve your experience on our site and show you information relevant to your requirements. To find out more, read our Privacy Policy and Cookie Policy Accept Close Skip to main content Home Early Professionals Experienced Professionals Search Jobs Drop off your CV/Resume Home Early Professionals Experienced Professionals Search Jobs Drop off your CV/Resume View profile Select how often (in days) to receive an alert: Create Aler",
+   "details_checked": true
   },
   {
    "id": "b5a2f6a2dbaa",
@@ -23259,7 +23292,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "c8c2095c6b48",
@@ -23307,7 +23341,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0e8fcab6956a",
@@ -23332,7 +23366,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "510eab45ed3f",
@@ -23357,7 +23391,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6c2230e4c09d",
@@ -23381,7 +23415,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "2038d457e07c",
@@ -23405,7 +23440,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "e79d35770dba",
@@ -23430,7 +23466,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a616d541f9e1",
@@ -23455,7 +23491,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "332e8b25edb5",
@@ -23480,7 +23516,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0d413a218716",
@@ -23504,7 +23540,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "40eb1572c253",
@@ -23528,7 +23565,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "73ddf1797bf9",
@@ -23552,7 +23590,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "eb101e1b32d3",
@@ -23577,7 +23616,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "76c13203399b",
@@ -23597,6 +23636,56 @@
    "check_advt": false,
    "score": 10,
    "details": "Skip to main content University of Helsinki tenure track The University of Helsinki attracts top international researchers with its transparent tenure track system. The goal is to increase the predictability, competitiveness and attractiveness of academic careers. A tailored career path and a transparent international recruitment process promote first-class research in a unique research and teaching environment. Tailored career paths on the tenur … Disqualified persons cannot participate in proceedings or be present during discussions.",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "ee3df0e2d223",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTM3Mjg0NjM=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "42f2dff2d29c",
+   "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
+   "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3Mjg0NjM=",
+   "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
    "details_checked": true,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
@@ -44983,7 +45072,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e7fbc1cd6b6b",
@@ -45006,7 +45095,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "59273a4d4512",
@@ -45029,7 +45118,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e219758f73b6",
@@ -45052,7 +45141,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "227458f85d46",
@@ -45075,7 +45164,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c7c9226e7ac6",
@@ -45098,7 +45187,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c4e79d502fa8",
@@ -45121,7 +45210,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fd93c4310039",
@@ -45144,7 +45233,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6d402311dc15",
@@ -45167,7 +45256,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "31195df23a22",
@@ -45190,7 +45279,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "80d993bc39c7",
@@ -46176,6 +46265,34 @@
    "details": null
   },
   {
+   "id": "a6606d80f743",
+   "title": "View source →",
+   "url": "https://www.academictransfer.com/en/jobs/363294/postdoc-position-on-antarctic-mixotrophic-microalgae/",
+   "context": "Position / programme: Postdoc on Antarctic Mixotrophic Microalgae | Organization: University of Amsterdam | Type: Postdoctoral researcher | Location: Netherlands | Field / focus: How Antarctic mixotrophic protists respond to environmental stressors and influence carbon and sulfur cycles | Funding / salary: €3,706–€5,760 gross/month plus 8% holiday and 8.3% year-end allowances; 1 year, extendable by 15 months after positive evaluation. | Deadline: 2026-09-28 | Official source: View source →",
+   "source_id": "biochondrion",
+   "source_name": "Biochondrion Opportunity Explorer",
+   "published": null,
+   "deadline": "2026-09-28",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Netherlands",
+   "kw_score": 44,
+   "matched": [
+    "bioinformatic",
+    "omics"
+   ],
+   "check_advt": false,
+   "score": 44,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "closed",
+   "match": true,
+   "new": false,
+   "details": "For candidates For employers For members AcademicTransfer en English (EN) Nederlands (NL) Please note: You cannot apply for this job anymore (deadline was 28 Sep). Current job offers Postdoc position on Antarctic Mixotrophic Microalgae Deadline 28 Sep ’26 Published 14 Aug ’26 Vacancy ID 15402 Research fields Environmental science; Biological sciences Job types Postdoc Education level Doctorate Weekly hours 38 hours per week Salary indication €370 … Presentation of the results in the department, at meetings of the Netherlands Polar Program, and at (international) scientific conferences; … Experience with omics-techniques and bioinformatic/computational analyses are a plus; … Furthermore, IBED has a dedicated computational support team with specialized knowledge of bioinformatics, (geo)database management and scientific programming.",
+   "details_checked": true
+  },
+  {
    "id": "922a5fe351ec",
    "title": "Advertisement for the Post of Project Research Scientist – 1 in ICMR sponsored project, IIT Hyderabad",
    "url": "https://www.iith.ac.in/assets/files/careers/staff/ICMR_Intermediate_RA_AKR3.pdf",
@@ -46274,29 +46391,6 @@
    "new": false
   },
   {
-   "id": "a6606d80f743",
-   "title": "View source →",
-   "url": "https://www.academictransfer.com/en/jobs/363294/postdoc-position-on-antarctic-mixotrophic-microalgae/",
-   "context": "Position / programme: Postdoc on Antarctic Mixotrophic Microalgae | Organization: University of Amsterdam | Type: Postdoctoral researcher | Location: Netherlands | Field / focus: How Antarctic mixotrophic protists respond to environmental stressors and influence carbon and sulfur cycles | Funding / salary: €3,706–€5,760 gross/month plus 8% holiday and 8.3% year-end allowances; 1 year, extendable by 15 months after positive evaluation. | Deadline: 2026-09-28 | Official source: View source →",
-   "source_id": "biochondrion",
-   "source_name": "Biochondrion Opportunity Explorer",
-   "published": null,
-   "deadline": "2026-09-28",
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "Netherlands",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "closed",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "49548bd78c29",
    "title": "View source →",
    "url": "https://aripune.res.in/jobs/",
@@ -46317,7 +46411,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "Home » Jobs JOBS LISTINGS Job Advt Number Title Upload Date Last Date for receiving application Description ADVT/ Rect.P/Scientist-C/01/2026 [279.78 KB | English | pdf] October 21, 2026 RECRUITMENT OF SCIENTISTS ADVT. No.: Rect.T/18/PAA/2026-27 [492.29 KB | English | pdf] Project Administrative Assistant October 15, 2026 30.10.2026 Applications are invited from Indian citizens for filling up posts of Project Administrative Assistant (2 No.) purel … Home » Jobs JOBS LISTINGS Job Advt Number Title Upload Date Last Date for receiving application Description ADVT/ Rect.P/Scientist-C/01/2026 [279.78 KB | English | pdf] October 21, 2026 RECRUITMENT OF SCIENTISTS ADVT. … Required documents and \napplicable fees  \nContact \ndetails of \nresponsible \nofficers \nAgharkar Herbarium \n(AHMA) \nMaintenance of Plant Specimens and their Identification \nService specific details are \navailable on www.aripune.org \n020-25325057 \nAjrekar Mycological \nHerbarium (AMH) \nMaintenance of Fungal and Lichen Specimens and their \nIdentification \n020-25325103 \nNational Fungal \nCulture Collection of \nIndia (NFCCI) \nDepos",
+   "details_checked": true
   },
   {
    "id": "ed15504b0264",
@@ -50149,6 +50245,31 @@
    "details_checked": true
   },
   {
+   "id": "f065f54d0383",
+   "title": "View source →",
+   "url": "https://www.h-its.org/research/independent-postdoc-program/",
+   "context": "Position / programme: HITS Independent Postdoc Program | Organization: Heidelberg Institute for Theoretical Studies | Type: Postdoc | Location: Heidelberg, Germany | Field / focus: Independent data-driven research across mathematics, computer science and natural sciences | Funding / salary: Two years with possible one-year extension; competitive salary and allowances | Deadline: 2026-11-01 | Official source: View source →",
+   "source_id": "biochondrion",
+   "source_name": "Biochondrion Opportunity Explorer",
+   "published": null,
+   "deadline": "2026-11-01",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Germany",
+   "kw_score": 14,
+   "matched": [],
+   "check_advt": false,
+   "score": 14,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "closed",
+   "match": false,
+   "new": false,
+   "details": "HITS Independent Postdoc Program Group About People HITS Independent Postdoc Program HITS Independent Postdoc Program About People HITS Independent Postdoc Program The HITS Independent Postdoc Program offers a great opportunity for highly talented young scientists wanting to transition from PhD student to junior group leader. It supports young scientists in exploring their own ideas and testing new hypotheses. High-risk, high-gain projects are en … jobs@h-its.org This page is only available in English Switch to the German homepage or stay on this page × Privacy settings We use cookies on our website. … You can revoke or adjust your selection at any time under Settings . … Privacy settings Essential Statistics External media Accept all Save Accept only essential cookies Individuelle Datenschutzeinstellungen Cookie-Details Datenschutzerklärung Privacy settings If you are under 16 and wish to give consent to optional services, you must ask your legal guardians for permission. … Accept all Save Accept only essential cookies Back Privacy settings Essential (1) Essential cookies enable bas",
+   "details_checked": true
+  },
+  {
    "id": "75eba4a2794b",
    "title": "View source →",
    "url": "https://www.lifescience-graduateschool.uzh.ch/en/application",
@@ -50199,29 +50320,6 @@
    "new": false,
    "details": "The University of Oslo (UiO) invites applications for a 3-year, full-time Postdoctoral Research Fellow position at the Department of Informatics. The project, funded by the TRUST – Norwegian Centre for Trustworthy AI , focuses on developing Action-Oriented Modeling , a methodological framework for making AI systems more adaptable, transparent, governable, and useful in real-world organizational settings. Postdoctoral Research Fellow – Action-Orie … The project, funded by the TRUST – Norwegian Centre for Trustworthy AI , focuses on developing Action-Oriented Modeling , a methodological framework for making AI systems more adaptable, transparent, governable, and useful in real-world organizational settings. … Demonstrated experience with engaged qualitative research methods in organizational settings, such as: … Publish research findings in high-quality academic journals and conferences.",
    "details_checked": true
-  },
-  {
-   "id": "f065f54d0383",
-   "title": "View source →",
-   "url": "https://www.h-its.org/research/independent-postdoc-program/",
-   "context": "Position / programme: HITS Independent Postdoc Program | Organization: Heidelberg Institute for Theoretical Studies | Type: Postdoc | Location: Heidelberg, Germany | Field / focus: Independent data-driven research across mathematics, computer science and natural sciences | Funding / salary: Two years with possible one-year extension; competitive salary and allowances | Deadline: 2026-11-01 | Official source: View source →",
-   "source_id": "biochondrion",
-   "source_name": "Biochondrion Opportunity Explorer",
-   "published": null,
-   "deadline": "2026-11-01",
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "Germany",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "closed",
-   "match": false,
-   "new": false
   },
   {
    "id": "8f5e429ae6e4",
