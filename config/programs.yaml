@@ -12,7 +12,7 @@ programs:
 - {id: anrf-calls, name: "ANRF — open calls and fellowships", region: india, url: "https://anrf.gov.in/"}
 - {id: iisc-pdf, name: "IISc postdoctoral fellowships", region: india, url: "https://www.iisc.ac.in/careers/"}
 - {id: iiserk-pdf, name: "IISER Kolkata postdoctoral fellowships", region: india, url: "https://apply.iiserkol.ac.in/career.html"}
-- {id: anrf-npdf,   name: "ANRF National Post-Doctoral Fellowship (N-PDF)", region: india, url: "https://anrfonline.in/"}
+- {id: anrf-npdf,   name: "ANRF National Post-Doctoral Fellowship (N-PDF)", region: india, url: "https://serbonline.in/ANRF/npdf"}
 - {id: anrf-ramanujan, name: "ANRF Ramanujan Fellowship (faculty-track re-entry)", region: india, url: "https://anrfonline.in/"}
 - {id: inspire-fac, name: "DST INSPIRE Faculty Fellowship", region: india, url: "https://online-inspire.gov.in/"}
 - {id: dbt-ra,      name: "DBT Research Associateship (DBT-RA)", region: india, url: "https://rcb.res.in/DBTRA/"}
@@ -21,7 +21,20 @@ programs:
 - {id: icmr-pdf,    name: "ICMR Post-Doctoral Fellowship", region: india, url: "https://www.icmr.gov.in/"}
 - {id: ugc-dsk,     name: "UGC Dr. D.S. Kothari Postdoctoral Fellowship", region: india, url: "https://www.ugc.gov.in/"}
 
+- {id: icts-pdf,    name: "ICTS Postdoctoral Program (incl. ICTS–NCBS AI in Biology)", region: india, url: "https://www.icts.res.in/opportunities"}
+- {id: mk-bhan,     name: "DBT MK Bhan Young Researcher Fellowship", region: india, url: "https://fellowships.gov.in/"}
+- {id: dbt-biocare, name: "DBT BioCARe (women scientists)", region: india, url: "https://dbtindia.gov.in/"}
+- {id: ugc-sr-pdf,  name: "UGC Dr. S. Radhakrishnan Postdoctoral Fellowship", region: india, url: "https://www.ugc.gov.in/"}
+- {id: dae-ra,      name: "DAE Research Associateship", region: india, url: "https://dae.gov.in/"}
+- {id: iist-pdf,    name: "IIST Postdoctoral Fellowship", region: india, url: "https://www.iist.ac.in/"}
+- {id: prl-pdf,     name: "PRL Postdoctoral Fellowship", region: india, url: "https://www.prl.res.in/"}
+
 # ── Abroad ──
+- {id: hfsp-cdf,    name: "HFSP Cross-Disciplinary Fellowship", region: abroad, country: International, url: "https://www.hfsp.org/"}
+- {id: wellcome-eca, name: "Wellcome Early-Career Awards", region: abroad, country: United Kingdom, url: "https://wellcome.org/research-funding/schemes/wellcome-early-career-awards"}
+- {id: ibro-pdf,    name: "IBRO Postdoctoral Fellowship", region: abroad, country: International, url: "https://ibro.org/"}
+- {id: daad-pdf,    name: "DAAD research grants and postdoc programmes", region: abroad, country: Germany, url: "https://www.daad.de/en/"}
+- {id: kaust-pdf,   name: "KAUST postdoctoral fellowships", region: abroad, country: Saudi Arabia, url: "https://www.kaust.edu.sa/en/about/careers"}
 - {id: embo-pf,     name: "EMBO Postdoctoral Fellowships", region: abroad, country: Europe, url: "https://www.embo.org/funding/fellowships-grants-and-career-support/postdoctoral-fellowships/"}
 - {id: msca-pf,     name: "Marie Skłodowska-Curie Postdoctoral Fellowships", region: abroad, country: Europe, url: "https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"}
 - {id: hfsp-ltf,    name: "HFSP Postdoctoral Fellowships", region: abroad, country: International, url: "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships"}

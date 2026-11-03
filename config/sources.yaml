@@ -228,7 +228,7 @@ sources:
 
 # ═════════════════════  ABROAD — institutions  ═════════════════════
 # Sweden
-- {id: ki, name: Karolinska Institutet, region: abroad, country: Sweden, urls: ["https://ki.se/en/vacancies"]}
+- {id: ki, name: Karolinska Institutet, region: abroad, country: Sweden, urls: ["https://ki.se/en/vacancies", "https://ki.se/en/work-at-ki"]}
 - {id: uu, name: Uppsala University, region: abroad, country: Sweden, urls: ["https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies"]}
 - {id: kth, name: KTH Royal Institute of Technology, region: abroad, country: Sweden, urls: ["https://www.kth.se/en/om/work-at-kth/lediga-jobb", "https://www.kth.se/en"]}
 - {id: chalmers, name: Chalmers University of Technology, region: abroad, country: Sweden, urls: ["https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/"]}
@@ -237,14 +237,14 @@ sources:
 # Switzerland
 - {id: unibas, name: University of Basel, region: abroad, country: Switzerland, urls: ["https://jobs.unibas.ch/", "https://www.unibas.ch/en.html"]}
 - {id: ethz, name: ETH Zurich, region: abroad, country: Switzerland, urls: ["https://jobs.ethz.ch/"], render: true}
-- {id: epfl, name: EPFL, region: abroad, country: Switzerland, urls: ["https://careers.epfl.ch/", "https://www.epfl.ch/en/"], render: true}
-- {id: uzh, name: University of Zurich, region: abroad, country: Switzerland, urls: ["https://www.jobs.uzh.ch/", "https://www.uzh.ch/en.html"]}
+- {id: epfl, name: EPFL, region: abroad, country: Switzerland, urls: ["https://www.epfl.ch/about/working/", "https://careers.epfl.ch/", "https://www.epfl.ch/en/"], render: true}
+- {id: uzh, name: University of Zurich, region: abroad, country: Switzerland, urls: ["https://www.uzh.ch/en/jobs.html", "https://www.jobs.uzh.ch/", "https://www.uzh.ch/en.html"]}
 - {id: psi, enabled: false, name: Paul Scherrer Institute, region: abroad, country: Switzerland, urls: ["https://www.psi.ch/en/pa/job-opportunities"]}
 # Germany
-- {id: mpg, name: Max Planck Society job board, region: abroad, country: Germany, urls: ["https://www.mpg.de/en/career/jobboard", "https://www.mpg.de/en"]}
+- {id: mpg, name: Max Planck Society job board, region: abroad, country: Germany, urls: ["https://www.mpg.de/jobboard", "https://www.mpg.de/en/career/jobboard", "https://www.mpg.de/en"]}
 - {id: leibniz, name: Leibniz Association, region: abroad, country: Germany, urls: ["https://www.leibniz-gemeinschaft.de/en/career/job-offers", "https://www.leibniz-gemeinschaft.de/en"]}
 - {id: embl, name: EMBL (incl. EMBL-EBI), region: abroad, country: Germany, urls: ["https://www.embl.org/jobs/"], render: true}
-- {id: dkfz, name: DKFZ Heidelberg, region: abroad, country: Germany, urls: ["https://www.dkfz.de/en/stellenangebote/", "https://www.dkfz.de/en/"]}
+- {id: dkfz, name: DKFZ Heidelberg, region: abroad, country: Germany, urls: ["https://www.dkfz.de/en/career", "https://www.dkfz.de/en/stellenangebote/", "https://www.dkfz.de/en/"]}
 # Denmark
 - {id: dtu, name: Technical University of Denmark, region: abroad, country: Denmark, urls: ["https://www.dtu.dk/english/about/job-and-career/vacant-positions"]}
 - {id: aau, name: Aalborg University, region: abroad, country: Denmark, urls: ["https://www.vacancies.aau.dk/"]}
@@ -363,3 +363,60 @@ sources:
 - {id: zoombio, name: "Zoombio — bioinformatics jobs India", region: mixed, urls: ["https://zoombio.org/jobs/bioinformatics/india"], topic_filtered: true, max_details: 40}
 # ── Science Careers ──
 - {id: sciencecareers, enabled: false, name: "Science Careers", region: abroad, urls: ["https://jobs.sciencecareers.org/jobs/bioinformatics/", "https://jobs.sciencecareers.org/jobs/?keywords=bioinformatics"], topic_filtered: true, country: International}
+
+# ═════════════════════  Added from your postdoc list  ═════════════════════
+# ── INDIA — postdoc programmes & institutes ──
+- {id: icts, name: "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)", region: india, urls: ["https://www.icts.res.in/opportunities"], default_category: postdoc}
+- {id: iist, name: "IIST Thiruvananthapuram", region: india, urls: ["https://www.iist.ac.in/"]}
+- {id: prl, name: "PRL Ahmedabad", region: india, urls: ["https://www.prl.res.in/"]}
+- {id: dae, name: "Department of Atomic Energy", region: india, urls: ["https://dae.gov.in/"]}
+# ── ABROAD — postdoc job boards ──
+- {id: openpostdoc, name: "OpenPostdoc — bioinformatics", region: abroad, country: "International", urls: ["https://www.openpostdoc.org/postdoc/bioinformatics"], topic_filtered: true, default_category: postdoc, max_details: 40}
+- {id: findapostdoc, name: "FindAPostDoc", region: abroad, country: "International", urls: ["https://www.findapostdoc.com/search/?keywords=bioinformatics", "https://www.findapostdoc.com/"], topic_filtered: true, default_category: postdoc}
+- {id: thejobs, name: "Times Higher Education Jobs", region: abroad, country: "International", urls: ["https://www.timeshighereducation.com/unijobs/listings/?keywords=bioinformatics", "https://www.timeshighereducation.com/unijobs/"], topic_filtered: true}
+- {id: biochondrion, name: "Biochondrion Opportunity Explorer", region: abroad, country: "International", urls: ["https://biochondrion.com/opportunity-explorer/"], render: true}
+# ── ABROAD — Germany ──
+- {id: daad, name: "DAAD", region: abroad, country: "Germany", urls: ["https://www.daad.de/en/"]}
+# ── ABROAD — United Kingdom ──
+- {id: crick, name: "Francis Crick Institute", region: abroad, country: "United Kingdom", urls: ["https://www.crick.ac.uk/careers-study"]}
+- {id: oxford, name: "University of Oxford jobs", region: abroad, country: "United Kingdom", urls: ["https://www.jobs.ox.ac.uk/"]}
+- {id: cambridge, name: "University of Cambridge jobs", region: abroad, country: "United Kingdom", urls: ["https://www.jobs.cam.ac.uk/"]}
+- {id: imperial, name: "Imperial College London", region: abroad, country: "United Kingdom", urls: ["https://www.imperial.ac.uk/jobs/"]}
+# ── ABROAD — United States ──
+- {id: nih-jobs, name: "NIH Careers", region: abroad, country: "United States", urls: ["https://jobs.nih.gov/"]}
+- {id: nih-oite, name: "NIH Intramural training (postdocs)", region: abroad, country: "United States", urls: ["https://www.training.nih.gov/"], default_category: postdoc}
+- {id: broad, name: "Broad Institute", region: abroad, country: "United States", urls: ["https://www.broadinstitute.org/careers"], render: true}
+- {id: harvard, name: "Harvard academic positions", region: abroad, country: "United States", urls: ["https://academicpositions.harvard.edu/"]}
+- {id: stanford, name: "Stanford University", region: abroad, country: "United States", urls: ["https://careersearch.stanford.edu/"], render: true}
+- {id: mit, name: "MIT Careers", region: abroad, country: "United States", urls: ["https://careers.mit.edu/"], render: true}
+- {id: ucsf, name: "UCSF Careers", region: abroad, country: "United States", urls: ["https://jobs.ucsf.edu/"], render: true}
+- {id: jhu, name: "Johns Hopkins", region: abroad, country: "United States", urls: ["https://jobs.jhu.edu/"], render: true}
+- {id: uc, name: "University of California careers", region: abroad, country: "United States", urls: ["https://www.ucop.edu/careers/"]}
+# ── ABROAD — Singapore ──
+- {id: astar, name: "A*STAR Careers", region: abroad, country: "Singapore", urls: ["https://careers.a-star.edu.sg/"], render: true}
+- {id: gis, name: "Genome Institute of Singapore", region: abroad, country: "Singapore", urls: ["https://www.a-star.edu.sg/gis"]}
+- {id: bii, name: "A*STAR Bioinformatics Institute", region: abroad, country: "Singapore", urls: ["https://www.a-star.edu.sg/bii"]}
+- {id: ntu, name: "NTU Singapore", region: abroad, country: "Singapore", urls: ["https://www.ntu.edu.sg/about-us/careers"]}
+- {id: duke-nus, name: "Duke-NUS Medical School", region: abroad, country: "Singapore", urls: ["https://www.duke-nus.edu.sg/"]}
+# ── ABROAD — Japan ──
+- {id: riken, name: "RIKEN", region: abroad, country: "Japan", urls: ["https://www.riken.jp/en/careers/"]}
+- {id: oist, name: "OIST", region: abroad, country: "Japan", urls: ["https://www.oist.jp/careers"]}
+- {id: utokyo, name: "University of Tokyo", region: abroad, country: "Japan", urls: ["https://www.u-tokyo.ac.jp/en/"]}
+- {id: kyoto, name: "Kyoto University", region: abroad, country: "Japan", urls: ["https://www.kyoto-u.ac.jp/en"]}
+# ── ABROAD — Switzerland ──
+- {id: fmi, name: "Friedrich Miescher Institute", region: abroad, country: "Switzerland", urls: ["https://www.fmi.ch/careers/"]}
+# ── ABROAD — Nordics ──
+- {id: ku, name: "University of Copenhagen", region: abroad, urls: ["https://employment.ku.dk/"], country: "Denmark"}
+- {id: helsinki, name: "University of Helsinki", region: abroad, urls: ["https://www.helsinki.fi/en/about-us/careers"], country: "Finland"}
+# ── ABROAD — Australia & Canada ──
+- {id: wehi, name: "WEHI Melbourne", region: abroad, urls: ["https://www.wehi.edu.au/careers/"], country: "Australia"}
+- {id: garvan, name: "Garvan Institute", region: abroad, urls: ["https://www.garvan.org.au/about/careers"], country: "Australia"}
+- {id: unimelb, name: "University of Melbourne", region: abroad, urls: ["https://jobs.unimelb.edu.au/"], country: "Australia"}
+- {id: utoronto, name: "University of Toronto", region: abroad, urls: ["https://jobs.utoronto.ca/"], country: "Canada"}
+- {id: ubc, name: "University of British Columbia", region: abroad, urls: ["https://hr.ubc.ca/careers"], country: "Canada"}
+- {id: mcgill, name: "McGill University", region: abroad, urls: ["https://www.mcgill.ca/hr/careers"], country: "Canada"}
+# ── ABROAD — Middle East ──
+- {id: kaust, name: "KAUST Careers", region: abroad, urls: ["https://www.kaust.edu.sa/en/about/careers"], country: "Saudi Arabia"}
+- {id: kaust-sfb, name: "KAUST Structural & Functional Bioinformatics", region: abroad, urls: ["https://sfb.kaust.edu.sa/join-us", "https://sfb.kaust.edu.sa/"], country: "Saudi Arabia", topic_filtered: true}
+- {id: qu, name: "Qatar University", region: abroad, urls: ["https://www.qu.edu.qa/"], country: "Qatar"}
+- {id: mbzuai, name: "MBZUAI", region: abroad, urls: ["https://mbzuai.ac.ae/careers/"], country: "United Arab Emirates"}

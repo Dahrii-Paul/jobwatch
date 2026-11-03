@@ -7,7 +7,7 @@ name: "Bioinformatics / Computational Biology candidate"
 
 # One paragraph the AI reads to judge fit. Be specific.
 summary: >
-  PhD in Bioinformatics. Expertise in machine learning, genomics, NGS,
+  PhD in Bioinformatics (defended October 2026). Expertise in machine learning, genomics, NGS,
   computational biology and multi-omics: ML-based biomarker discovery,
   urinary and blood proteomics, and current tuberculosis whole-genome
   sequencing (WGS) / pathogen genomics work at JIPMER. Hands-on R/Python,
@@ -80,6 +80,11 @@ core_keywords:
   - wgs
   - biomarker
   - immunoinformatics
+  - network biology
+  - computational proteomics
+  - cancer bioinformatics
+  - ai in biology
+  - data integration
   - genome analyst
   - biomedical data scientist
   - ai/ml scientist
