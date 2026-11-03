@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-03T12:34:17Z</updated>
+  <updated>2026-11-03T16:16:03Z</updated>
   <entry>
     <title>Distinguished Professors, Young Faculty, Postdoctoral Researchers</title>
     <link href="https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing"/>
@@ -599,6 +599,13 @@
     <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 74</summary>
   </entry>
   <entry>
+    <title>Regeneron Hyderabad Scientist 2 (Bioinformatics / Computational Biology, 4+ yrs) | R49654</title>
+    <link href="https://www.biotecnika.org/2026/11/regeneron-scientist-2-job-hyderabad/"/>
+    <id>urn:jobwatch:ad97c3a1738e</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 74</summary>
+  </entry>
+  <entry>
     <title>NGS &amp; Molecular Biology Job at Oneomics | M.Sc Biotech / Microbiology</title>
     <link href="https://www.biotecnika.org/2026/10/oneomics-tiruchirappalli-lab-technician-ngs-molecular-biology/"/>
     <id>urn:jobwatch:b83da62578f9</id>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:7dd53cf4a46e</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Lund University · Sweden · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Biotecnika Times Newsletter 14.05.2026 – Top Hiring Alerts! Freshers Opening at Thermo Fisher &amp; Clarivate, Lupin, RCB, IISER, ICAR, Apotex &amp; Life Science Research Jobs</title>
-    <link href="https://www.biotecnika.org/2026/05/biotecnika-times-newsletter-14-05-2026-top-hiring-alerts/"/>
-    <id>urn:jobwatch:cdd2cda6157b</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[other] Biotecnika (life-science job news) · India · Deadline: see advert · score 40</summary>
   </entry>
 </feed>

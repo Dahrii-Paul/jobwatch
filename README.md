@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-03 18:04
+## Live stats · updated 2026-11-03 21:46
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **151** |
-| 🏛️ Permanent posts — India | **31** |
+| 🎯 Open matches | **152** |
+| 🏛️ Permanent posts — India | **32** |
 | 🔬 Postdocs / fellowships — India | **9** |
 | ✈️ Postdocs / fellowships — abroad | **60** |
 | 🌍 Permanent / faculty — abroad | **23** |
 | ⏰ Closing within 14 days | **25** |
-| 🆕 New this run | **0** |
-| 📡 Sources working | **46 / 67** |
+| 🆕 New this run | **1** |
+| 📡 Sources working | **45 / 67** |
 
 ### ⏳ Closing within 30 days
 

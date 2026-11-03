@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T18:04+05:30",
+  "updated": "2026-11-03T21:46+05:30",
   "match_threshold": 40,
   "include_categories": [
    "permanent",
@@ -8,15 +8,15 @@
    "fellowship"
   ],
   "counts": {
-   "total_indexed": 674,
-   "open_matches": 151,
+   "total_indexed": 686,
+   "open_matches": 152,
    "urgent": 25,
-   "new_this_run": 0,
-   "permanent_india": 31,
+   "new_this_run": 1,
+   "permanent_india": 32,
    "postdoc_india": 9,
    "postdoc_abroad": 60,
    "permanent_abroad": 23,
-   "sources_ok": 46,
+   "sources_ok": 45,
    "sources_total": 67
   }
  },
@@ -2439,6 +2439,34 @@
    "new": false,
    "details": "Bioinformatics Job at Syngene Are you ready to level up your Bioinformatics Job search with a premium Scientist Job in India? This exciting role at Syngene offers an exceptional opportunity for life science graduates to work on cutting-edge computational drug discovery. If you are passionate about bioinformatics, cheminformatics, and data-driven science, this could be your gateway to a high-growth career in the biotech industry. About the Company … Bioinformatics Job at Syngene Are you ready to level up your Bioinformatics Job search with a premium Scientist Job in India? This exciting role at Syngene offers an exceptional opportunity for life science graduates to work on cutting-edge computational drug discovery. … If you are passionate about bioinformatics, cheminformatics, and data-driven science, this could be your gateway to a high-growth career in the biotech industry. … Core Responsibilities Lead and ensure timely delivery of CADD projects in compliance with quality standards and SOPs Apply computational and data-driven approaches to drug discovery and development Utilize mole",
    "details_checked": true
+  },
+  {
+   "id": "ad97c3a1738e",
+   "title": "Regeneron Hyderabad Scientist 2 (Bioinformatics / Computational Biology, 4+ yrs) | R49654",
+   "url": "https://www.biotecnika.org/2026/11/regeneron-scientist-2-job-hyderabad/",
+   "context": "Regeneron Hiring Scientist 2 in Hyderabad (R49654) Regeneron is hiring Scientist 2 (R49654) in Hyderabad. The role requires a Bachelor’s in Bioinformatics, Computer Science, Computational Biology or Life Sciences, plus 4+ years programming in biotech, pharma or healthcare. Job Details Company: Regeneron Position: Scientist 2 Location: Hyderabad Reference: R49654 Eligibility Criteria Bachelor’s in Bioinformatics, Computer […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-11-03",
+   "deadline": null,
+   "details": "Table of Contents Toggle Regeneron Hiring Scientist 2 in Hyderabad (R49654) Job Details Eligibility Criteria Required Skills How to Apply Regeneron Hiring Scientist 2 in Hyderabad (R49654) Regeneron is hiring Scientist 2 (R49654) in Hyderabad. The role requires a Bachelor’s in Bioinformatics, Computer Science, Computational Biology or Life Sciences, plus 4+ years programming in biotech, pharma or healthcare. Job Details Company: Regeneron Positio … The role requires a Bachelor’s in Bioinformatics, Computer Science, Computational Biology or Life Sciences, plus 4+ years programming in biotech, pharma or healthcare. … R49654 Eligibility Criteria Bachelor’s in Bioinformatics, Computer Science, Computational Biology or Life Sciences (Master’s preferred) 4+ years programming in biotech, pharma or healthcare Required Skills Molecular/clinical dataset experience R, Python, R Shiny, Bash Git Statistical modeling (linear/logistic/survival, multiple testing) How to Apply Apply via the official Regeneron careers job page.",
+   "details_checked": true,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 74,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 74,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "b83da62578f9",
