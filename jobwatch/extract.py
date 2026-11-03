@@ -28,6 +28,7 @@ NOT_A_JOB = re.compile(
     r"^\s*(shortlisted|short[\s-]?list|list of|result|final result|selection list|selected candidates|"
     r"answer key|admit card|call letter|minutes|marks|merit list|interview schedule|schedule of interview|"
     r"status of|rejected|provisional|cancell?ation|tender|quotation|eoi\b)"
+    r"|^\s*(how|why|what|when|top \d+|\d+ (tips|ways|reasons))\b|\b(tips|guide) (for|to)\b"
     r"|newsletter|biotecnika times|admissions? (open|notice)|\bcourses?\b|webinar|workshop"
     r"|\b(publication|declaration) of results?\b|\bresults? (for|of) the\b|\bshort[\s-]?listed\b|"
     r"\binterview (result|schedule)\b|\bcorrigendum\b.*\bresult|\bnominations?\b|\bawards?\b|"

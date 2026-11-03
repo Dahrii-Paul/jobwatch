@@ -280,7 +280,8 @@ def main(argv=None) -> int:
     if a.saved_only:
         sources = []
     db = store.load(DATA / "jobs.json")
-    db = {k: v for k, v in db.items() if not extract.NOT_A_JOB.search(v.get("title", ""))}
+    db = {k: v for k, v in db.items() if v.get("saved") or not (extract.NOT_A_JOB.search(v.get("title", ""))
+                                                                or extract._not_english(v.get("title", "")))}
 
     # 1. collect listings (plain sites in parallel, browser-rendered ones sequentially)
     plain = [s for s in sources if not s.get("render")]
