@@ -1,0 +1,38 @@
+name: Save a job
+description: Add a job you found yourself (LinkedIn, X, ResearchGate, e-mail…) to your JobWatch list
+title: "Save job: "
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Job link
+      description: Paste the link to the post or advert. If the post links to the official advert, that link works best.
+      placeholder: https://www.linkedin.com/jobs/view/...
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Job title
+      description: Needed for LinkedIn, X and ResearchGate links — those sites don't show their pages to bots.
+      placeholder: Postdoc in single-cell genomics, Karolinska Institutet
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      description: Any format, e.g. 2026-12-15 or 15 December 2026. Leave blank if unknown.
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where
+      options: ["Let JobWatch decide", "India", "Abroad"]
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: ["Let JobWatch decide", "Permanent / faculty", "Postdoc", "Fellowship", "Project post"]
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Optional — paste the post text here too; it helps the match score and finding the deadline.

@@ -32,13 +32,14 @@ def write_all(data_dir: Path, db: dict, programs: list, health: list, profile: d
     thr = profile.get("match_threshold", 40)
     jobs = sorted(db.values(), key=sort_key)
     for j in jobs:
-        j["match"] = j.get("score", 0) >= thr
+        j["match"] = j.get("score", 0) >= thr or bool(j.get("saved"))
         j["new"] = j["id"] in new_ids
     open_match = [j for j in jobs if j["status"] == "open" and j["match"]]
     urgent = [j for j in open_match if (d := days_left(j, today)) is not None and 0 <= d <= URGENT_DAYS]
 
     meta = {
         "updated": now.isoformat(timespec="minutes"),
+        "repo": __import__("os").getenv("GITHUB_REPOSITORY", ""),
         "match_threshold": thr,
         "include_categories": profile.get("include_categories", []),
         "counts": {
@@ -46,6 +47,7 @@ def write_all(data_dir: Path, db: dict, programs: list, health: list, profile: d
             "open_matches": len(open_match),
             "urgent": len(urgent),
             "new_this_run": sum(1 for j in jobs if j["new"] and j["match"]),
+            "saved": sum(1 for j in jobs if j.get("saved") and j["status"] == "open"),
             "permanent_india": sum(1 for j in open_match if j["category"] == "permanent" and j["region"] == "india"),
             "postdoc_india": sum(1 for j in open_match if j["category"] in ("postdoc", "fellowship") and j["region"] == "india"),
             "postdoc_abroad": sum(1 for j in open_match if j["category"] in ("postdoc", "fellowship") and j["region"] == "abroad"),

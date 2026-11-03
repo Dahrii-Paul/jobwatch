@@ -27,7 +27,8 @@ GENERIC_LINK_TEXT = re.compile(
 NOT_A_JOB = re.compile(
     r"^\s*(shortlisted|short[\s-]?list|list of|result|final result|selection list|selected candidates|"
     r"answer key|admit card|call letter|minutes|marks|merit list|interview schedule|schedule of interview|"
-    r"status of|rejected|provisional|cancell?ation|tender|quotation|eoi\b)",
+    r"status of|rejected|provisional|cancell?ation|tender|quotation|eoi\b)"
+    r"|newsletter|biotecnika times|admissions? (open|notice)|\bcourses?\b|webinar|workshop",
     re.I,
 )
 SKIP_HREF = re.compile(r"^(#|javascript:|mailto:|tel:|whatsapp:)", re.I)

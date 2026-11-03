@@ -81,6 +81,12 @@ table.src{width:100%;border-collapse:collapse;background:var(--surface);border:1
 .src th{background:var(--bg);border-top:0}
 .ok{color:var(--post);font-weight:700}.bad{color:var(--urgent);font-weight:700}
 .src td.err{color:var(--muted);font-size:.85rem;word-break:break-word}
+.save{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 16px;margin:16px 0 0}
+.save label{font-weight:700;flex:1 1 100%}
+.save p{margin:0;flex:1 1 100%;color:var(--muted);font-size:.88rem}
+.save input{flex:1 1 260px;min-width:0;font:inherit;font-size:.95rem;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink)}
+.save button{font:inherit;font-size:.95rem;padding:7px 16px;border:0;border-radius:8px;background:var(--ink);color:var(--bg);cursor:pointer}
+.flag.mine{border-color:var(--fel);color:var(--fel)}
 footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
 @media (max-width:600px){
   .job{grid-template-columns:52px 1fr;gap:4px 12px;padding:12px}
@@ -111,6 +117,13 @@ footer{color:var(--muted);font-size:.85rem;padding:32px 0 40px}
   </section>
 
   <div class="stats" id="stats"></div>
+
+  <form class="save" id="saveForm">
+    <label for="saveUrl">Found a job on LinkedIn, X, ResearchGate or anywhere else?</label>
+    <input type="url" id="saveUrl" placeholder="Paste the job link" required>
+    <button type="submit">Save job</button>
+    <p>Opens a short form on GitHub. Submit it and the job appears here and in your feed within about two minutes.</p>
+  </form>
 
   <nav class="tabs" role="tablist">
     <button role="tab" aria-selected="true" data-tab="jobs">Matching jobs</button>
@@ -201,7 +214,7 @@ function row(j){
   const left = d===null? `<div class="left"><span class="n">—</span><span class="u">no date found</span></div>`
     : d<0? `<div class="left"><span class="n">0</span><span class="u">closed</span></div>`
     : `<div class="left ${d<=7?"urgent":""}"><span class="n">${d}</span><span class="u">${d===1?"day left":"days left"}</span></div>`;
-  const flags=[j.new?"<span class=flag>New</span>":"", j.contract?"<span class=flag>Contract / temporary</span>":"",
+  const flags=[j.saved?"<span class='flag mine'>Saved by you</span>":"", j.new&&!j.saved?"<span class=flag>New</span>":"", j.contract?"<span class=flag>Contract / temporary</span>":"",
     j.check_advt?"<span class=flag>Subject not in title — check the advert</span>":""].join(" ");
   return `<li class="job" style="--c:var(${col})">${left}<div>
     <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
@@ -266,6 +279,20 @@ $("#showClosed").addEventListener("change",e=>{state.closed=e.target.checked; re
 document.querySelectorAll("nav.tabs button").forEach(b=>b.addEventListener("click",()=>{
   document.querySelectorAll("nav.tabs button").forEach(x=>x.setAttribute("aria-selected",x===b));
   ["jobs","programs","sources"].forEach(t=>$("#tab-"+t).hidden=t!==b.dataset.tab)}));
+
+function repoSlug(){
+  if(META.repo) return META.repo;
+  const h=location.hostname.match(/^([^.]+)\.github\.io$/), seg=location.pathname.split("/").filter(Boolean)[0];
+  return h&&seg? `${h[1]}/${seg}` : "";
+}
+$("#saveForm").addEventListener("submit",e=>{
+  e.preventDefault();
+  const repo=repoSlug(), url=$("#saveUrl").value.trim();
+  if(!repo){alert("Open this page from GitHub Pages to save jobs.");return}
+  const q=new URLSearchParams({template:"save-job.yml",title:"Save job: "+url.replace(/^https?:\/\//,"").slice(0,60),link:url});
+  window.open(`https://github.com/${repo}/issues/new?${q}`,"_blank","noopener");
+  $("#saveUrl").value="";
+});
 load();
 </script>
 </body>

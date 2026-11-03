@@ -25,6 +25,8 @@ def load(path: Path) -> dict[str, dict]:
 
 
 def status_of(job: dict, today: dt.date) -> str:
+    if job.get("saved") and not job.get("deadline"):
+        return "open"
     if job.get("deadline"):
         return "open" if job["deadline"] >= today.isoformat() else "closed"
     last = dt.date.fromisoformat(job.get("last_seen", today.isoformat()))
@@ -58,6 +60,6 @@ def merge(db: dict[str, dict], fresh: list[dict], today: dt.date) -> tuple[dict,
         if j.get("deadline"):
             if (today - dt.date.fromisoformat(j["deadline"])).days > KEEP_DAYS_AFTER_CLOSE:
                 del db[jid]
-        elif (today - dt.date.fromisoformat(j["last_seen"])).days > 120:
+        elif not j.get("saved") and (today - dt.date.fromisoformat(j["last_seen"])).days > 120:
             del db[jid]
     return db, new

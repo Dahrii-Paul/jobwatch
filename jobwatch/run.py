@@ -206,6 +206,37 @@ def check_programs(today: dt.date) -> tuple[list[dict], list[dict]]:
     return out, health
 
 
+# ───────────────────────── saved jobs ─────────────────────────
+
+SAVED_SOURCE = {"id": "saved", "name": "Saved by you", "region": "mixed"}
+
+
+def _read(path: Path) -> dict:
+    try:
+        return json.loads(path.read_text("utf-8"))
+    except Exception:
+        return {}
+
+
+def load_saved(profile: dict, today: dt.date) -> list[dict]:
+    out = []
+    for s in _read(DATA / "saved.json").get("saved", []):
+        it = {"id": store.job_id(s["url"], s["title"]), "title": s["title"], "url": s["url"],
+              "context": s.get("notes", "")[:600], "details": s.get("details", ""), "details_checked": True,
+              "source_id": "saved", "source_name": s.get("site") or "Saved by you",
+              "published": s.get("added"), "deadline": s.get("deadline"), "saved": True,
+              "issue": s.get("issue"), "_src": SAVED_SOURCE}
+        if s.get("region"):
+            it["region"] = s["region"]
+        classify_item(it, SAVED_SOURCE, profile)
+        if s.get("region") in ("india", "abroad"):
+            it["region"] = s["region"]
+        if s.get("category"):
+            it["category"] = s["category"]
+        out.append(it)
+    return out
+
+
 # ───────────────────────── main ─────────────────────────
 
 def main(argv=None) -> int:
@@ -215,8 +246,12 @@ def main(argv=None) -> int:
     ap.add_argument("--no-details", action="store_true")
     ap.add_argument("--no-notify", action="store_true")
     ap.add_argument("--no-programs", action="store_true")
+    ap.add_argument("--saved-only", action="store_true",
+                    help="don't scan sites; just add saved jobs and republish (used by the Save-a-job form)")
     ap.add_argument("-v", "--verbose", action="store_true")
     a = ap.parse_args(argv)
+    if a.saved_only:
+        a.no_programs = a.no_details = a.no_notify = True
     logging.basicConfig(level=logging.DEBUG if a.verbose else logging.INFO,
                         format="%(asctime)s %(levelname)s %(message)s", datefmt="%H:%M:%S")
     for noisy in ("pypdf", "urllib3"):
@@ -228,6 +263,8 @@ def main(argv=None) -> int:
     sources = [s for s in load_yaml("sources.yaml")["sources"] if s.get("enabled", True)]
     if a.only:
         sources = [s for s in sources if s["id"] in a.only]
+    if a.saved_only:
+        sources = []
     db = store.load(DATA / "jobs.json")
     db = {k: v for k, v in db.items() if not extract.NOT_A_JOB.search(v.get("title", ""))}
 
@@ -256,6 +293,12 @@ def main(argv=None) -> int:
             classify_item(it, src, profile)
             it["_src"] = src
             items.append(it)
+
+    # 1b. jobs you saved yourself (from the dashboard's "Save a job" box)
+    saved_items = load_saved(profile, today)
+    items += saved_items
+    keep = {s["id"] for s in saved_items}            # forget saved jobs you've edited/removed
+    db = {k: v for k, v in db.items() if not v.get("saved") or k in keep}
 
     # 2. open promising job pages / PDFs for deadline + subject (budgeted)
     if not a.no_details:
@@ -298,7 +341,13 @@ def main(argv=None) -> int:
     for it in items:
         it.pop("_src", None)
     db, new = store.merge(db, items, today)
-    programs, p_health = ([], []) if a.no_programs else check_programs(today)
+    if a.no_programs:     # keep last run's programme results instead of wiping them
+        programs = _read(DATA / "programs.json").get("programs", [])
+        p_health = [h for h in _read(DATA / "health.json").get("sources", []) if h["id"].startswith("prog:")]
+    else:
+        programs, p_health = check_programs(today)
+    if a.saved_only:      # no sites were scanned: keep last run's source health
+        health = [h for h in _read(DATA / "health.json").get("sources", []) if not h["id"].startswith("prog:")]
     meta = outputs.write_all(DATA, db, programs, health + p_health, profile, now, [j["id"] for j in new])
     outputs.update_readme(ROOT / "README.md", meta, db, today)
 
