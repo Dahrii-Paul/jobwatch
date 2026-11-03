@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T22:56+05:30",
+  "updated": "2026-11-03T23:09+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,17 +10,17 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2016,
-   "open_matches": 289,
+   "total_indexed": 2045,
+   "open_matches": 295,
    "urgent": 56,
-   "new_this_run": 73,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 16,
-   "postdoc_abroad": 116,
-   "permanent_abroad": 32,
-   "sources_ok": 159,
-   "sources_total": 215
+   "postdoc_abroad": 118,
+   "permanent_abroad": 35,
+   "sources_ok": 165,
+   "sources_total": 209
   }
  },
  "jobs": [
@@ -48,7 +48,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1ff747d05d22",
@@ -133,7 +133,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5378b5bf9262",
@@ -161,7 +161,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "174b2d522f88",
@@ -189,7 +189,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d66b1cd93bbb",
@@ -214,7 +214,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "21f8e7981d69",
@@ -267,7 +267,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "abf88b23bdac",
@@ -426,7 +426,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5f451d95bfdc",
@@ -551,7 +551,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -564,7 +564,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5ec57ba366c3",
@@ -615,7 +615,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "57175b4a3b09",
@@ -665,7 +665,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "01dbb78c9c86",
@@ -690,7 +690,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "bda7b2fecdbe",
@@ -775,7 +775,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0460187f5b09",
@@ -789,7 +789,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -802,7 +802,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "eb0c2e8e385a",
@@ -829,7 +829,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2cdcc83938cb",
@@ -910,7 +910,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9615b67fcbf1",
@@ -935,7 +935,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "40c1cf89b395",
@@ -960,7 +960,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "983c26b6e78c",
@@ -1014,7 +1014,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "082940ddd59d",
@@ -1041,7 +1041,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ecbdfa70130c",
@@ -1126,7 +1126,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9f8da8315de1",
@@ -1181,7 +1181,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b561ed0f496f",
@@ -1206,7 +1206,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d39a82d77089",

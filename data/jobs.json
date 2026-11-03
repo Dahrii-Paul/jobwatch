@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T22:56+05:30",
+  "updated": "2026-11-03T23:09+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,17 +10,17 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2016,
-   "open_matches": 289,
+   "total_indexed": 2045,
+   "open_matches": 295,
    "urgent": 56,
-   "new_this_run": 73,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 16,
-   "postdoc_abroad": 116,
-   "permanent_abroad": 32,
-   "sources_ok": 159,
-   "sources_total": 215
+   "postdoc_abroad": 118,
+   "permanent_abroad": 35,
+   "sources_ok": 165,
+   "sources_total": 209
   }
  },
  "jobs": [
@@ -48,7 +48,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1ff747d05d22",
@@ -181,7 +181,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5378b5bf9262",
@@ -209,7 +209,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "174b2d522f88",
@@ -237,7 +237,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d66b1cd93bbb",
@@ -262,7 +262,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "6bde5bf1ce74",
@@ -388,7 +388,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "abf88b23bdac",
@@ -749,7 +749,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5f451d95bfdc",
@@ -1004,7 +1004,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -1017,7 +1017,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5ec57ba366c3",
@@ -1172,7 +1172,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "57175b4a3b09",
@@ -1222,7 +1222,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "01dbb78c9c86",
@@ -1247,7 +1247,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "bda7b2fecdbe",
@@ -1689,7 +1689,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0460187f5b09",
@@ -1703,7 +1703,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -1716,7 +1716,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "eb0c2e8e385a",
@@ -1743,7 +1743,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2cdcc83938cb",
@@ -1922,7 +1922,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9615b67fcbf1",
@@ -1947,7 +1947,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "40c1cf89b395",
@@ -1972,7 +1972,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "983c26b6e78c",
@@ -2026,7 +2026,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "082940ddd59d",
@@ -2053,7 +2053,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ecbdfa70130c",
@@ -2266,7 +2266,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9f8da8315de1",
@@ -2477,7 +2477,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b561ed0f496f",
@@ -2502,7 +2502,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e7b2e5ccc2af",
@@ -3495,7 +3495,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c0f4c01a6215",
@@ -3779,7 +3779,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b9840450088b",
@@ -3806,7 +3806,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "027ef2936959",
@@ -3959,7 +3959,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "6f2aabf9433f",
@@ -4140,7 +4140,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c70d4f8e4020",
@@ -4154,7 +4154,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -4168,7 +4168,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1789d60bfd9b",
@@ -4277,7 +4277,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "8faae381dc10",
@@ -4291,7 +4291,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 70,
    "matched": [
     "bioinformatic",
@@ -4305,7 +4305,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "91942571457c",
@@ -4375,7 +4375,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -4388,7 +4388,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "697f02245185",
@@ -4574,7 +4574,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e808cb834606",
@@ -4601,7 +4601,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "f0816720d62e",
@@ -5039,6 +5039,35 @@
    "new": false
   },
   {
+   "id": "0e81a8a0fac9",
+   "title": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing",
+   "context": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Abu Dhabi, United Arab Emirates NEW YORK UNIVERSITY ABU DHABI NYU Abu Dhabi invites applications for a Post-Doctoral Associate position that advances the frontiers of developmental biology ... View details Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei 5 days ago",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2026-11-28",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "United Arab Emirates",
+   "kw_score": 88,
+   "matched": [
+    "bioinformatic",
+    "omics",
+    "single-cell"
+   ],
+   "check_advt": false,
+   "score": 88,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Employer NEW YORK UNIVERSITY ABU DHABI Location Abu Dhabi, United Arab Emirates Closing date 28 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or crea … The laboratory integrates stem-cell biology, fluorescence imaging, bioinformatics, and advanced nano- and micro-engineering to decode organogenesis and early embryogenesis, translating these insights into regenerative medicine, drug discovery, and precision therapeutics. … Competitive candidates will demonstrate expertise in areas such as device design and fabrication, stem-cell culture and differentiation, high-resolution imaging, single-cell or bulk omics, or bioinformatics, together with a strong publication record, excellent communication skills, and a collaborative mindset.",
+   "details_checked": true
+  },
+  {
    "id": "9351a5c171c6",
    "title": "Open PI Positions at Shenzhen Bay Laboratory",
    "url": "https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing",
@@ -5254,7 +5283,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ee6a8c58bd5a",
@@ -5310,7 +5339,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0d5c0ba09757",
@@ -5355,7 +5384,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 65,
    "matched": [
     "bioinformatic",
@@ -5369,7 +5398,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ba1907625b83",
@@ -5776,7 +5805,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "b59f6b2cec86",
@@ -5895,7 +5925,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 62,
    "matched": [
     "bioinformatic"
@@ -5908,7 +5938,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "49a16401bb85",
@@ -6093,7 +6123,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "53840c1f89d7",
@@ -6121,7 +6151,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "11d36ada3411",
@@ -6149,7 +6179,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e5a444c2691b",
@@ -6335,7 +6365,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "7c7be095358e",
@@ -6362,7 +6392,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "053e4b0298a8",
@@ -6663,7 +6693,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "490480acad1b",
@@ -6744,6 +6774,54 @@
    "new": false,
    "details": "The University of Colorado Boulder is inviting applications for a PostDoctoral Associate position in theoretical computer science. This role involves working with Huck Bennett and his research group on advanced topics including lattices, error-correcting codes, fine-grained complexity, and algebraic and geometric algorithms. Job Overview Designation PostDoctoral Associate Research Area Theoretical Computer Science Location Boulder, Colorado Emplo … Publishing findings in leading theoretical computer science and cryptography venues.",
    "details_checked": true
+  },
+  {
+   "id": "f0f3f82d7709",
+   "title": "16 October 2026 ICTS - S. N. Bhatt Memorial Excellence Fellowship Program 2027 -- International Centre for Theoretical Sciences (ICTS-TIFR), Tata Institute of Fundamental Research, Bengaluru invites applications from academically bright and motivated students ",
+   "url": "https://www.icts.res.in/opportunities/postdoc-prog2027",
+   "context": "16 October 2026 ICTS Postdoctoral Program 2027 (Fall Cycle) -- ICTS POSTDOCTORAL PROGRAM 2027(Fall Cycle) APPLY ONLINE Application Deadline: 30 November 2026, 5:00 PM IST Referee Deadline: 15 December 2026, 5:00 PM IST International Centre for Theoretical... more | 16 October 2026 ICTS - S. N. Bhatt Memorial Excellence Fellowship Program 2027 -- International Centre for Theoretical Sciences (ICTS-TIFR), Tata Institute of Fundamental Research, Bengaluru invites applications from academically bright and motivated students for the ICTS - S. N... more",
+   "source_id": "icts",
+   "source_name": "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)",
+   "published": null,
+   "deadline": "2026-12-15",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "d44c9486b9c0",
+   "title": "16 October 2026 ICTS - S. N. Bhatt Memorial Excellence Fellowship Program 2027 -- International Centre for Theoretical Sciences (ICTS-TIFR), Tata Institute of Fundamental Research, Bengaluru invites applications from academically bright and motivated students ",
+   "url": "https://www.icts.res.in/opportunities/snbhatt2027",
+   "context": "16 October 2026 ICTS Postdoctoral Program 2027 (Fall Cycle) -- ICTS POSTDOCTORAL PROGRAM 2027(Fall Cycle) APPLY ONLINE Application Deadline: 30 November 2026, 5:00 PM IST Referee Deadline: 15 December 2026, 5:00 PM IST International Centre for Theoretical... more | 16 October 2026 ICTS - S. N. Bhatt Memorial Excellence Fellowship Program 2027 -- International Centre for Theoretical Sciences (ICTS-TIFR), Tata Institute of Fundamental Research, Bengaluru invites applications from academically bright and motivated students for the ICTS - S. N... more",
+   "source_id": "icts",
+   "source_name": "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)",
+   "published": null,
+   "deadline": "2026-12-15",
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "e0e99c2ce99d",
@@ -6993,7 +7071,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 73,
    "matched": [
     "bioinformatic",
@@ -7007,7 +7085,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ed4bc803b026",
@@ -7037,7 +7115,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0ff20a2e642c",
@@ -7144,7 +7222,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0bf018ddd0d9",
@@ -7192,7 +7270,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "ed2735dabf5e",
@@ -7215,7 +7294,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "02cbd592f909",
@@ -7288,7 +7368,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "794643d6a8c1",
@@ -7415,7 +7495,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "92fbb522f9f8",
@@ -7445,7 +7525,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2c1844d30937",
@@ -7499,7 +7579,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "73316efd646a",
@@ -7527,7 +7607,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "da59781faa9f",
@@ -7662,7 +7742,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "6fc42a465acd",
@@ -7687,7 +7768,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "46834fcc2fb4",
@@ -7758,7 +7839,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "f3ac803086a1",
@@ -7781,7 +7863,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "302632898615",
@@ -7804,7 +7887,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "ed59b2d47e77",
@@ -7857,7 +7941,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "52d848afdce6",
@@ -7882,7 +7966,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "352444636748",
@@ -7968,7 +8052,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4925fd4d1876",
@@ -8024,6 +8108,34 @@
    "match": true,
    "new": false,
    "details": "Research Scientist Job | PGIMER Recruitment Looking for a research scientist job with an attractive salary and an opportunity to work on advanced genomics research? PGIMER Chandigarh has announced a recruitment opportunity under an ICMR-funded project, offering ₹80,400 per month. If you’re exploring life sciences jobs in biotechnology, bioinformatics or human genetics, this PGIMER recruitment could be worth considering. Discover the eligibility,  … Research Scientist Job | PGIMER Recruitment Looking for a research scientist job with an attractive salary and an opportunity to work on advanced genomics research? PGIMER Chandigarh has announced a recruitment opportunity under an ICMR-funded project, offering ₹80,400 per month. … If you’re exploring life sciences jobs in biotechnology, bioinformatics or human genetics, this PGIMER recruitment could be worth considering. … First-class postgraduate degree in Bioinformatics, Human Genetics, Genomics, Stem Cell Biology, Biochemistry, Biotechnology, Microbiology, Zoology or Life Sciences with 3 years research experience, OR PhD in Bioinformat",
+   "details_checked": true
+  },
+  {
+   "id": "1b3c4c11a36c",
+   "title": "Applications are invited for the post of Project assistant 01(One) against Advertisement No. . NIBMG/ADMIN/ESTB/2025-26/ 341 dtd. 19/03/2026 for Project entitled : “ Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 ",
+   "url": "https://www.nibmg.ac.in/uploads/cbc1a5a3fb7ecce7a7f1a77c03f547b4.pdf",
+   "context": "Applications are invited for the post of Project assistant 01(One) against Advertisement No. . NIBMG/ADMIN/ESTB/2025-26/ 341 dtd. 19/03/2026 for Project entitled : “ Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India” PI-Dr. Souvik Mukherjee Funding Agency-SERB",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": "2027-03-21",
+   "category": "junior",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 38,
+   "matched": [
+    "epigenomic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 38,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": " \n______________________________________________________________________________________________________________ \n \n            Advertisement No. Advertisement No: NIBMG/ADMIN/ESTB/2025-26/  341                Date: 19/03/2026 \n \n \n                                                            Positions available \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of \nGovernment of India, Ministry of Science & Technolog … 19/03/2026 \n \n \n                                                            Positions available \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of \nGovernment of India, Ministry of Science & Technology, Department of Biotechnology. … The Institute has created the necessary physical infrastructure and critical platform \ntechnologies to support research, translation and training in biomedical genomics. … Applications are invited for the position of Project Linked Person for extramural \nprojects to be executed by the National institute of Biomedical Genomics, Kalyani. … Investigating the Gut Microbiome and Ho",
    "details_checked": true
   },
   {
@@ -8142,7 +8254,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -8155,7 +8267,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1c76637fc9d9",
@@ -8358,7 +8470,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -8372,7 +8484,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "515c02f81b4c",
@@ -8386,7 +8498,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -8400,7 +8512,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4c95b9001701",
@@ -8414,7 +8526,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -8428,7 +8540,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5c6b4b5df5ca",
@@ -8453,7 +8565,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c326952405d2",
@@ -8478,7 +8590,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1b4439ba7b09",
@@ -8503,7 +8615,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "700e5a510474",
@@ -8526,7 +8638,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "09ffef529d1a",
@@ -8549,7 +8662,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "0f127feb0a67",
@@ -8576,7 +8690,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6c19c27e9ddf",
@@ -8674,7 +8788,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Kiosk mode BCAS - Assistant Professor of Microbiology in Biological Sciences - 530532 Tuscaloosa, Alabama, United States Apply Now BCAS - Assistant Professor of Microbiology in Biological Sciences - 530532 Tuscaloosa, Alabama, United States Arts and Sciences Tenure/Tenure-Track Faculty Closing at: Aug 1 2027 - 22:55 CDT Department/Organization 204411 - Biological Sciences Rank Assistant Professor Position Summary The Department of Biological Scie … The University of Alabama affirms its longstanding commitment to institutional neutrality, free speech, and academic freedom.",
+   "details_checked": true
   },
   {
    "id": "bc359e303968",
@@ -8688,7 +8804,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 65,
    "matched": [
     "bioinformatic",
@@ -8702,7 +8818,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c74af39b72dd",
@@ -8849,7 +8965,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 84,
    "matched": [
     "bioinformatic",
@@ -8864,7 +8980,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "123cd3f1a6ac",
@@ -9136,6 +9252,33 @@
    "details_checked": true
   },
   {
+   "id": "075e83a1abb2",
+   "title": "Senior Scientist, Chemistry",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417206/senior-scientist-chemistry/?LinkSource=PremiumListing",
+   "context": "Senior Scientist, Chemistry Vienna (Landbezirke) (AT) The basic salary of EUR 5,014.30 (14 times a year for senior scientists postdoctoral) UNIVERSITY OF VIENNA Your future place is at the Institute of Physiological Chemistry at the Faculty of Chemistry. View details Senior Scientist, Chemistry",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2032-11-30",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 58,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 58,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Senior Scientist, Chemistry Employer UNIVERSITY OF VIENNA Location Vienna (Landbezirke) (AT) Salary The basic salary of EUR 5,014.30 (14 times a year for senior scientists postdoctoral) Closing date 16 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Physical Sciences , Life sciences , Chemistry Job Type Academic Posts , Principal / Senior Lecturers / Associate Professors , Research Related , Other Rese … Investigating structure–activity relationships and how the chemical structure of ligands regulates receptor activation, potentially complemented by the use of in-silico methods combined with bioinformatics data analyses.",
+   "details_checked": true
+  },
+  {
    "id": "d8133fcfd627",
    "title": "Postdoctoral Researcher in Single-Cell and Spatial Omics, Karolinska Institutet, Sweden",
    "url": "https://researchersjob.com/postdoctoral-researcher-in-single-cell-and-spatial-omics/",
@@ -9179,7 +9322,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 100,
    "matched": [
     "bioinformatic",
@@ -9195,7 +9338,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "a4dbbeb72b7d",
@@ -9226,7 +9369,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e2801737d054",
@@ -9255,7 +9398,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "afbabc6e1ada",
@@ -9549,7 +9692,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5d27d65f1bfc",
@@ -9577,7 +9720,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1d73f6f42c3e",
@@ -10164,6 +10307,34 @@
    "new": false
   },
   {
+   "id": "20011ed6bc05",
+   "title": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2",
+   "url": "https://www.nibmg.ac.in/uploads/bb64dfba918927e5fb03988ee2a39a7d.pdf",
+   "context": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2 diabetes and coronary artery disease. PI-Dr.Samsiddhi Bhattacharjee Funding Agency- DBT",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 63,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 63,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "1 | P a g e  \n \n  \nAdvertisement No. NIBMG/ADMIN/ESTB/2026-27/ 093                                                    Date: 25 -  06 -2026 \n \nPosition available: Online Interview \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology.  \nApplications are invited for the position of Project Linked Person (Senior Project Associate) for ext … Online Interview \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology. … Applications are invited for the position of Project Linked Person (Senior Project Associate) for extramural \nproject to be executed by the BRIC-National institute of Biomedical Genomics, Kalyani. … Integrative-genomics approach to identify and functionalize regulatory variants from \nGWAS data with applications to type-2 diabetes and coronary artery disease. … It is important to generate reliable \nbioinformatic predictions about potential regulatory mechan",
+   "details_checked": true
+  },
+  {
    "id": "75da3ebff293",
    "title": "Science Staff",
    "url": "https://www.sanger.ac.uk/people/science-staff/",
@@ -10369,7 +10540,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1a33830592d5",
@@ -10642,7 +10813,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "Hong Kong",
    "kw_score": 54,
    "matched": [
     "bioinformatic"
@@ -10655,7 +10826,34 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "1cbeacebd987",
+   "title": "Advanced search",
+   "url": "https://www.timeshighereducation.com/unijobs/searchjobs/",
+   "context": "Filter jobs Advanced search",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 54,
+   "matched": [
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 54,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Skip to job results Skip to refine results Found 1,123 jobs Advanced search Filter jobs Expand search Hide search Job Results New Senior Research Analytics Manager Durham, United Kingdom £48,337 - £57,666 per annum DURHAM UNIVERSITY The purpose of the Strategy, Planning and Insight Department (SPIO) is to work collaboratively to help people to make effective evidence-based ... View details Senior Research Analytics Manager New Post-doctoral Fello … View details Postdoctoral Research Associate - Digital Humanities / Philosophy of Science New Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics, School of Public Health ... … View details Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics New Banner Business Change Manager Southampton, United Kingdom £37,369 to £45,641 UNIVERSITY OF SOUTHAMPTON As a Business Change Manager, you will focus on the peopl",
+   "details_checked": true
   },
   {
    "id": "f47cd4f01d34",
@@ -10744,6 +10942,34 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "b9b24e2ccb47",
+   "title": "View source →",
+   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000150191729-protein-design-scientist",
+   "context": "Position / programme: Protein Design Scientist | Organization: Syngenta Group | Type: Industry / agricultural biotechnology | Location: Location not stated | Field / focus: AI-first protein design for crop traits using protein language models, generative design, structural prediction and active learning | Funding / salary: Not stated | Deadline: Open / deadline not stated | Official source: View source →",
+   "source_id": "biochondrion",
+   "source_name": "Biochondrion Opportunity Explorer",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 52,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 52,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Protein Design Scientist, Machine Learning Full-time Company Description At Syngenta Seeds Field Crops, we're shaping the future of agriculture and empowering farmers to meet the ever-growing demand for food and fuel. We’re a global Ag Tech powerhouse, headquartered in the United States, with passionate, local experts collaborating with farmers to deliver solutions that create market opportunities. We unite precision breeding, advanced biotechnol … Monitor the rapidly changing protein design literature and bring promising new tools and project ideas to the team Qualifications PhD with +1-year experience in bioinformatics, computational biology, biochemistry & biophysics, or a related field with a focus on protein sequence or structure modeling ML and pLM Experience: … Strong communication skills with a track record of working effectively alongside experimental/wet-lab scientists ML & Deep Learning Engineering: … 401k plan with company match, Profit Sharing & Retirement Savings Contribution.",
+   "details_checked": true
   },
   {
    "id": "b30b23444734",
@@ -10940,7 +11166,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2d1379312106",
@@ -11439,7 +11665,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "464d4388f59a",
@@ -12773,6 +12999,32 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
+   "new": false
+  },
+  {
+   "id": "cb1b19e52e15",
+   "title": "Be Part of a Meaningful Journey Join a multidisciplinary community of researchers, scientists and professionals working together to advance genomic science and translate discovery into meaningful impact.",
+   "url": "https://www.a-star.edu.sg/gis/join-us",
+   "context": "Be Part of a Meaningful Journey Join a multidisciplinary community of researchers, scientists and professionals working together to advance genomic science and translate discovery into meaningful impact. Join Us",
+   "source_id": "gis",
+   "source_name": "Genome Institute of Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 40,
+   "matched": [
+    "genomic"
+   ],
+   "check_advt": false,
+   "score": 40,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
    "new": true
   },
   {
@@ -13211,52 +13463,6 @@
    "status": "open",
    "match": false,
    "new": false
-  },
-  {
-   "id": "0e81a8a0fac9",
-   "title": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei",
-   "url": "https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing",
-   "context": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Abu Dhabi, United Arab Emirates NEW YORK UNIVERSITY ABU DHABI NYU Abu Dhabi invites applications for a Post-Doctoral Associate position that advances the frontiers of developmental biology ... View details Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei 5 days ago",
-   "source_id": "thejobs",
-   "source_name": "Times Higher Education Jobs",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "United Arab Emirates",
-   "kw_score": 35,
-   "matched": [],
-   "check_advt": false,
-   "score": 35,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": true
-  },
-  {
-   "id": "075e83a1abb2",
-   "title": "Senior Scientist, Chemistry",
-   "url": "https://www.timeshighereducation.com/unijobs/listing/417206/senior-scientist-chemistry/?LinkSource=PremiumListing",
-   "context": "Senior Scientist, Chemistry Vienna (Landbezirke) (AT) The basic salary of EUR 5,014.30 (14 times a year for senior scientists postdoctoral) UNIVERSITY OF VIENNA Your future place is at the Institute of Physiological Chemistry at the Faculty of Chemistry. View details Senior Scientist, Chemistry",
-   "source_id": "thejobs",
-   "source_name": "Times Higher Education Jobs",
-   "published": null,
-   "deadline": null,
-   "category": "permanent",
-   "contract": false,
-   "region": "abroad",
-   "country": "International",
-   "kw_score": 35,
-   "matched": [],
-   "check_advt": false,
-   "score": 35,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": true
   },
   {
    "id": "f705eef56026",
@@ -13831,6 +14037,58 @@
    "new": false,
    "details": "Top Govt Biotechnology Research Institutes in India for Jobs & PhD Opportunities Every year, thousands of life science students step into the job market with a dream of a stable and successful career. They dream of working in advanced laboratories, publishing research papers, and getting funded PhD opportunities. But the biggest challenge is that most of the students do not know where to start their careers. The govt Biotechnology Research Instit … Stable Govt jobs with good salary Fully funded PhD Opportunities Modern laboratories and research infrastructure Opportunities to publish international research papers Exposure to advanced technologies like genomics, CRISPR, AI biology, and bioinformatics Better work-life balance compared to many private companies International collaborations and conferences Most importantly, these institutes contribute directly to India’s healthcare, agriculture, environment, and pharmaceutical research sectors. … TOP Govt Biotechnology Research Institutes in India at a Glance Institute Name Location Major Research Areas Career Opportunities National Inst",
    "details_checked": true
+  },
+  {
+   "id": "7014ba195be7",
+   "title": "16 October 2026 Special Postdoctoral Positions under Simons Collaboration on Cosmic Magnetism at ICTS -- How did the Universe become magnetized? Magnetic fields are observed across the Universe: from cosmic voids and galaxies to clusters and accreting black ho",
+   "url": "https://www.icts.res.in/opportunities/calibre-prog2027",
+   "context": "16 October 2026 AI in Biology Postdoctoral Fellowship Program -- International Centre for Theoretical Sciences (ICTS), in collaboration with NCBS, Bangalore, is pleased to invite applications for the AI in Biology Postdoctoral Fellowship Program as part of CALIBRE... more | 16 October 2026 Special Postdoctoral Positions under Simons Collaboration on Cosmic Magnetism at ICTS -- How did the Universe become magnetized? Magnetic fields are observed across the Universe: from cosmic voids and galaxies to clusters and accreting black holes and yet their origin, evolution, and... more",
+   "source_id": "icts",
+   "source_name": "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 29,
+   "matched": [
+    "ai in biology"
+   ],
+   "check_advt": false,
+   "score": 29,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "42cb76312972",
+   "title": "16 October 2026 Special Postdoctoral Positions under Simons Collaboration on Cosmic Magnetism at ICTS -- How did the Universe become magnetized? Magnetic fields are observed across the Universe: from cosmic voids and galaxies to clusters and accreting black ho",
+   "url": "https://www.icts.res.in/opportunities/simons-doc2027",
+   "context": "16 October 2026 AI in Biology Postdoctoral Fellowship Program -- International Centre for Theoretical Sciences (ICTS), in collaboration with NCBS, Bangalore, is pleased to invite applications for the AI in Biology Postdoctoral Fellowship Program as part of CALIBRE... more | 16 October 2026 Special Postdoctoral Positions under Simons Collaboration on Cosmic Magnetism at ICTS -- How did the Universe become magnetized? Magnetic fields are observed across the Universe: from cosmic voids and galaxies to clusters and accreting black holes and yet their origin, evolution, and... more",
+   "source_id": "icts",
+   "source_name": "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 29,
+   "matched": [
+    "ai in biology"
+   ],
+   "check_advt": false,
+   "score": 29,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "6cfcb46241b0",
@@ -14450,7 +14708,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "55f21383f842",
@@ -14772,7 +15030,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c1d3525cb3d5",
@@ -14798,7 +15056,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "6c3089c35a84",
@@ -14824,7 +15083,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "a1795798283d",
@@ -15276,56 +15536,6 @@
    "new": false
   },
   {
-   "id": "20011ed6bc05",
-   "title": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2",
-   "url": "https://www.nibmg.ac.in/uploads/bb64dfba918927e5fb03988ee2a39a7d.pdf",
-   "context": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2 diabetes and coronary artery disease. PI-Dr.Samsiddhi Bhattacharjee Funding Agency- DBT",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "other",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 15,
-   "matched": [
-    "genomics"
-   ],
-   "check_advt": false,
-   "score": 15,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
-   "id": "1b3c4c11a36c",
-   "title": "Applications are invited for the post of Project assistant 01(One) against Advertisement No. . NIBMG/ADMIN/ESTB/2025-26/ 341 dtd. 19/03/2026 for Project entitled : “ Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 ",
-   "url": "https://www.nibmg.ac.in/uploads/cbc1a5a3fb7ecce7a7f1a77c03f547b4.pdf",
-   "context": "Applications are invited for the post of Project assistant 01(One) against Advertisement No. . NIBMG/ADMIN/ESTB/2025-26/ 341 dtd. 19/03/2026 for Project entitled : “ Investigating the Gut Microbiome and Host Epigenomic Profiles in Preterm Stunted Infants at 6 months of Age in a Low to Mid Socioeconomic Neighborhood of North India” PI-Dr. Souvik Mukherjee Funding Agency-SERB",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "junior",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 15,
-   "matched": [
-    "epigenomic"
-   ],
-   "check_advt": false,
-   "score": 15,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "90cbf24c4394",
    "title": "Applications are invited for the post of SRF 01(One) against Advertisement No. . NIBMG/ADMIN/ESTB/2025-26/ 320 dtd. 29/01/2026 for Project entitled : “ MOMI India –Genomics and Analysis Planning (Phase II).” PI-Prof. Arindam Maitra Funding Agency-BIRAC",
    "url": "https://www.nibmg.ac.in/uploads/63cbf3d61fbca3362980cae75a90690c.pdf",
@@ -15348,32 +15558,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
-  },
-  {
-   "id": "a1f3198137d4",
-   "title": "Applications are invited for the post of Senior Research Fellow against Advertisement No. NIBMG/ADMIN/ESTB/PRJ.RECT/2025-26/244 dtd. 08/12/2025 for Project entitled : “Whole Genome Sequencing of MTB Clinical Strains for determining Drug Resistance and Strain L",
-   "url": "https://www.nibmg.ac.in/uploads/bb3c8bec16e00d8d5b646de200707421.pdf",
-   "context": "Applications are invited for the post of Senior Research Fellow against Advertisement No. NIBMG/ADMIN/ESTB/PRJ.RECT/2025-26/244 dtd. 08/12/2025 for Project entitled : “Whole Genome Sequencing of MTB Clinical Strains for determining Drug Resistance and Strain Linkage in India” PI- Prof. Arindam Maitra Funding Agency-DBT",
-   "source_id": "nibmg",
-   "source_name": "BRIC-NIBMG Kalyani (genomics)",
-   "published": null,
-   "deadline": null,
-   "category": "junior",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 15,
-   "matched": [
-    "whole genome sequencing"
-   ],
-   "check_advt": false,
-   "score": 15,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
+   "new": false,
+   "details": " \n 1/1 \n \nAdvertisement No. NIBMG/ADMIN/ESTB/2025-26/ 320                                                    Date: 12-02-2026 \nPosition available \n \nProject name: “MOMI India –Genomics and Analysis Planning (Phase II)”. \n \nPrincipal Investigator’s name: Prof. Arindam Maitra \n \n Job Description:   This is a research project of the Multi Omics of Mothers and Infants (MOMI) on scaled \nup genomic analysis of mother-infant pairs in interdisciplinary G … “MOMI India –Genomics and Analysis Planning (Phase II)”. … This is a research project of the Multi Omics of Mothers and Infants (MOMI) on scaled \nup genomic analysis of mother-infant pairs in interdisciplinary Group for Advanced research on Birth \noutcomes -DBT INDIA Initiative (GARBH-Ini) cohort. … In this project, innovative sequence based \ntechnologies and genomic data analysis will be used to enable early and effective risk stratification of \nmothers who may deliver preterm and facilitate timely referral to higher level care, which we believe will \nbe a critical public health intervention. … 1) Hands on \nexperience in \nnext \ngeneration",
+   "details_checked": true
   },
   {
    "id": "92846bfd3471",
@@ -15423,7 +15610,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details_checked": true
   },
   {
    "id": "4af879db01ca",
@@ -15474,6 +15662,58 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "404cfa2cb193",
+   "title": "Two Garvan genomics researchers elected to Australian Academy of Health and Medical Sciences",
+   "url": "https://www.garvan.org.au/news-resources/news/two-garvan-genomics-researchers-elected-to-australian-academy-of-health-and-medical-sciences",
+   "context": "Two Garvan genomics researchers elected to Australian Academy of Health and Medical Sciences News 14 Oct 2026",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 15,
+   "matched": [
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 15,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "eb3dbce0a791",
+   "title": "Garvan researchers receive NHMRC funding boost to advance genomic and immune discoveries",
+   "url": "https://www.garvan.org.au/news-resources/news/garvan-researchers-receive-nhmrc-funding-boost-to-advance-genomic-and-immune-discoveries",
+   "context": "Garvan researchers receive NHMRC funding boost to advance genomic and immune discoveries News 10 Aug 2026",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 15,
+   "matched": [
+    "genomic"
+   ],
+   "check_advt": false,
+   "score": 15,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "6a4a2d40c6d8",
@@ -15974,7 +16214,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c6a16fcbe6ca",
@@ -15999,7 +16239,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c70e55c20bfb",
@@ -16024,7 +16264,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2db4898bc3c3",
@@ -16049,7 +16289,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "5f487faf6e26",
@@ -16074,7 +16314,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "77267c4dec60",
@@ -16099,7 +16339,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b5ef3cd93fbd",
@@ -16124,30 +16364,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
-  },
-  {
-   "id": "b9b24e2ccb47",
-   "title": "View source →",
-   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000150191729-protein-design-scientist",
-   "context": "Position / programme: Protein Design Scientist | Organization: Syngenta Group | Type: Industry / agricultural biotechnology | Location: Location not stated | Field / focus: AI-first protein design for crop traits using protein language models, generative design, structural prediction and active learning | Funding / salary: Not stated | Deadline: Open / deadline not stated | Official source: View source →",
-   "source_id": "biochondrion",
-   "source_name": "Biochondrion Opportunity Explorer",
-   "published": null,
-   "deadline": null,
-   "category": "permanent",
-   "contract": false,
-   "region": "abroad",
-   "country": "International",
-   "kw_score": 14,
-   "matched": [],
-   "check_advt": false,
-   "score": 14,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f260705eab73",
@@ -18311,7 +18528,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "1ccbd6ef11dc",
@@ -18360,7 +18578,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "2face84b0e59",
@@ -18409,7 +18628,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "b7209a009c4b",
@@ -18480,7 +18700,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \n \n \n                   5G/6G Research Projects at IIT Hyderabad \n                                                           \n \n \nApplications are invited from the eligible candidates for the below positions from eligible candidates purely on \nad hoc basis in the project \n \nAdvertisement for Project Associate role in 5G/6G Project IIT Hyderabad  \n \n \n1. Name of post                        Project Officer 4  \n2. Job Description  Leading all the ",
+   "details_checked": true
   },
   {
    "id": "39113e04e6d8",
@@ -18503,7 +18725,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \n \n \n                   5G/6G Research Projects at IIT Hyderabad \n                                                           \n \n \nApplications are invited from the eligible candidates for the below positions from eligible candidates purely on \nad hoc basis in the project \n \nAdvertisement for Project Associate role in 5G/6G Project IIT Hyderabad  \n \n \n1. Name of post                        Project Officer Engineer 3  \n2. Job Description  Softwar",
+   "details_checked": true
   },
   {
    "id": "6bf402316c98",
@@ -18526,7 +18750,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \n \n \n                   5G/6G Research Projects at IIT Hyderabad \n                                                           \n \n \nApplications are invited from the eligible candidates for the below positions from eligible candidates purely on \nad hoc basis in the project \n \nAdvertisement for Project Associate role in 5G/6G Project IIT Hyderabad  \n \n \n1. Name of post                    Project Associate Engineer \n2. Job Description  Software/ Ha",
+   "details_checked": true
   },
   {
    "id": "1c6ec76822e4",
@@ -18549,7 +18775,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \nIndian Institute of Technology Hyderabad \nKandi - 502 284, Telangana, India \nDate: 15.04.2025 \n \nApplications are invited from the eligible candidates for the below positions from eligible candidates purely on \nad hoc basis in the project   \n \n1. Name of post Senior Project Associate Engineer   \n2. Job Description Software/hardware design expert with B. Tech or M. Tech with an experience of \n2-3 year’s. The tasks performed are development of de",
+   "details_checked": true
   },
   {
    "id": "ba733b7c39fc",
@@ -18572,7 +18800,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \nIndian Institute of Technology Hyderabad \nKandi - 502 284, Telangana, India \nDate: 15.04.2025 \n \nApplications are invited from the eligible candidates for the below positions from eligible candidates purely on \nad hoc basis in the project   \n \n1. Name of post Project Officer 1 \n2. Job Description \"Contribute to Simulations, Development of Design, Algorithms Development, \nDevelopment of system-level-simulation tools and Development of PHY and st",
+   "details_checked": true
   },
   {
    "id": "139d795c3eab",
@@ -18595,7 +18825,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": " \nCall\n \nfor\n \nJob\n \nApplications\n \n-\n \nRAMP-Center\n \nof\n \nDesign\n \nExcellence\n \n(CoDE)\n \nat\n \nIIT\n \nHyderabad\n \nThe\n \nRAMP-\n \nCenter\n \nof\n \nDesign\n \nExcellence\n \n(CoDE)\n \nat\n \nIIT\n \nHyderabad\n \nis\n \nseeking\n \ntalented\n \nand\n \nmotivated\n \nindividuals\n \nto\n \njoin\n \nour\n \nteam.\n \nCoDE\n \nrepresents\n \na\n \nstrategic\n \ncollaboration\n \nbetween\n \nacademia\n \nand\n \nthe\n \nMSME\n \nindustry,\n \nfocusing\n \non\n \nenhancing\n \nindustrial\n \ncapabilities\n \nthrough\n \ni",
+   "details_checked": true
   },
   {
    "id": "8bac411a978c",
@@ -19691,29 +19923,6 @@
    "details_checked": true
   },
   {
-   "id": "2f7d4da5539a",
-   "title": "“Admission to Fellowship Programme: January 2026 Session”.",
-   "url": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2025/12/PDF_Rect_2026-_Jan.pdf",
-   "context": "23-12-2025 Recruitment “Admission to Fellowship Programme: January 2026 Session”.",
-   "source_id": "aiims-bbs",
-   "source_name": "AIIMS Bhubaneswar",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "f42f88e43e44",
    "title": "RECRUITMENT OF ASSISTANT PROFESSOR (GROUP ‘A’) POSTS FOR VARIOUS DEPARTMENTSOF AIIMS BHUBANESWAR ON DIRECT RECRUITMENT BASIS-2025.",
    "url": "https://aiimsbhubaneswar.nic.in/wp-content/uploads/2025/12/20637.pdf",
@@ -19734,7 +19943,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": false
+   "new": false,
+   "details": "1 | P a g e  \n \n     \n \nFile No.: RECT-11012/3/2025-RECU SEC                                                        Date: 22.12.2025  \n \nNOTIFICATION \n \nRECRUITMENT OF ASSISTANT PROFESSOR (GROUP ‘A’) POSTS FOR VARIOUS DEPARTMENTS \nOF AIIMS BHUBANESWAR ON DIRECT RECRUITMENT BASIS-20 25. \n \nAll India Institute of Medical Sciences (AIIMS), Bhubaneswar, an Autonomous Institute \nof National Importance, is one of the new AIIMS and  apex healthcare Inst",
+   "details_checked": true
   },
   {
    "id": "cbf76fa2c0db",
@@ -20977,7 +21188,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "8aeca14b08a9",
@@ -21026,7 +21238,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "10bb32dcb1b8",
@@ -21050,7 +21263,8 @@
    "status": "open",
    "match": false,
    "new": false,
-   "details_checked": true
+   "details_checked": true,
+   "details": null
   },
   {
    "id": "0b3b615fcf04",
@@ -22234,7 +22448,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fb049dacd7c4",
@@ -22259,7 +22473,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "02141840591f",
@@ -22284,30 +22498,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
-  },
-  {
-   "id": "1cbeacebd987",
-   "title": "Advanced search",
-   "url": "https://www.timeshighereducation.com/unijobs/searchjobs/",
-   "context": "Filter jobs Advanced search",
-   "source_id": "thejobs",
-   "source_name": "Times Higher Education Jobs",
-   "published": null,
-   "deadline": null,
-   "category": "other",
-   "contract": false,
-   "region": "abroad",
-   "country": "International",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "open",
-   "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "318a82e2dda8",
@@ -22330,7 +22521,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Skip to main content Get new jobs for this search by email",
+   "details_checked": true
   },
   {
    "id": "31ab1f82fe85",
@@ -22353,7 +22546,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "4a4160b08dc2",
@@ -22378,7 +22571,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "04ba6f2f8148",
@@ -22403,7 +22596,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3f81f3b9fac4",
@@ -22428,7 +22621,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1274e0a43894",
@@ -22451,7 +22644,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3f330d651be8",
@@ -22474,7 +22667,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "45bf970e2915",
@@ -22499,7 +22692,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "4f8f1c8a05c5",
@@ -22522,7 +22715,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "afd4c8c8500b",
@@ -22547,7 +22740,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "16daaa0e7c4c",
@@ -22572,7 +22765,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "493a4492837a",
@@ -22597,7 +22790,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "4d0aa65e96da",
@@ -22622,7 +22815,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "88efaa520ef4",
@@ -22647,7 +22840,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "4887cbe9b509",
@@ -22672,7 +22865,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1c298abc35a2",
@@ -22696,7 +22889,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "eb5c175cbc40",
@@ -22720,7 +22914,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "dc9690f1f60f",
@@ -22744,7 +22939,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "8ea498671c3d",
@@ -22769,7 +22965,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2e3bfe34851b",
@@ -22794,7 +22990,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "bb992ab2049e",
@@ -22819,7 +23015,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8fd3a7148654",
@@ -22844,7 +23040,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "171558af6be3",
@@ -22869,7 +23065,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a1c05292f9fa",
@@ -22894,7 +23090,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c78f2c89423c",
@@ -22918,7 +23114,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "d478aa7eb8b8",
@@ -22942,7 +23139,8 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "144d16a93dd9",
@@ -22965,7 +23163,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Opportunity Pulse Opportunity Explorer Search all active life-science jobs, international PhD programmes, postdoctoral positions and funding calls from Biochondrion’s daily tracker. Tracker snapshot 20 September 2026 0 Active in India 0 International PhD 0 Postdoctoral 0 Funding & Fellowships 0 Companies Recruiting 0 Closing Soon All opportunities Active in India International PhD Postdoctoral Funding & Fellowships Companies Recruiting Closing So … Undated listings remain visible when the tracker still marks them active.",
+   "details_checked": true
   },
   {
    "id": "6f6345f59d18",
@@ -22988,7 +23188,9 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Opportunity Pulse Opportunity Explorer Search all active life-science jobs, international PhD programmes, postdoctoral positions and funding calls from Biochondrion’s daily tracker. Tracker snapshot 20 September 2026 0 Active in India 0 International PhD 0 Postdoctoral 0 Funding & Fellowships 0 Companies Recruiting 0 Closing Soon All opportunities Active in India International PhD Postdoctoral Funding & Fellowships Companies Recruiting Closing So … Undated listings remain visible when the tracker still marks them active.",
+   "details_checked": true
   },
   {
    "id": "c0fd5ac0d466",
@@ -23011,7 +23213,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b5a2f6a2dbaa",
@@ -23034,7 +23236,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "ff8cdc807358",
@@ -23057,7 +23259,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c8c2095c6b48",
@@ -23076,6 +23278,326 @@
    "matched": [],
    "check_advt": false,
    "score": 10,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "b81be514a848",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTM3Mjc2NTk=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "0e8fcab6956a",
+   "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
+   "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTM3Mjc2NTk=",
+   "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "510eab45ed3f",
+   "title": "Learn more about the benefits of working at UC",
+   "url": "https://ucnet.universityofcalifornia.edu/compensation-and-benefits/index.html",
+   "context": "Learn more about the benefits of working at UC Faculty and academic jobs",
+   "source_id": "uc",
+   "source_name": "University of California careers",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "United States",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Employee benefits Learn more about the many benefits and perks of working at UC – and how to make the most of them. En español: Beneficios de los empleados Health & welfare UC offers a wide variety of health and welfare benefits, some covered by UC and some available at UC’s group rates. Find out what you’re eligible for and how costs are shared. Medical Dental Vision Health Flexible Spending Account (FSA) Disability Life Accidental death & disme … Supplemental savings plans give you more opportunities to prepare for retirement. … UC Retirement Choice (hired on or after July 1, 2016) UCRP 2013 Tier (hired between July 1, 2013, and June 30, 2016) UCRP 1976 Tier (hired before July 1, 2013) Retirement savings plans Retiree health & home benefits Home & family A range of benefits support and protect your family. … Eligibility Details about your health benefits Details about your retirement benefits Personalized support Roadmaps Welcome to UC! Employee benefits Expand Beneficios de los empleados Al prepararse para la jubilación Expand El retiro Beneficios de salud y vivienda para retirado",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "6c2230e4c09d",
+   "title": "Shape the next generation of thinkers and leaders Note: Some of our Faculty positions are also posted on a separate Workday platform. Please click here to apply.",
+   "url": "https://apply.ap1.interfolio.com/108/positions",
+   "context": "",
+   "source_id": "ntu",
+   "source_name": "NTU Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "2038d457e07c",
+   "title": "Shape the next generation of thinkers and leaders Note: Some of our Faculty positions are also posted on a separate Workday platform. Please click  to apply.",
+   "url": "https://ntu.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=09b383db6f9d018b6e6c440e633a4199",
+   "context": "Shape the next generation of thinkers and leaders Note: Some of our Faculty positions are also posted on a separate Workday platform. Please click here to apply.",
+   "source_id": "ntu",
+   "source_name": "NTU Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "e79d35770dba",
+   "title": "Learn more about our postdoc, early-career faculty, research and scholarship roles.",
+   "url": "https://www.ntu.edu.sg/research/research-careers",
+   "context": "Research Careers Learn more about our postdoc, early-career faculty, research and scholarship roles.",
+   "source_id": "ntu",
+   "source_name": "NTU Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "FELLOWSHIPS AND AWARDS Attracting global research talent including postdoctoral research fellows, early-career faculty members and established scientists​​ About Fellowships and Awards Fellowships and Awards (F&A) are the university’s new initiatives to facilitate the attraction of talents such as postdocs, early-career faculty members and established scientists. F&A will coordinate the management, placement, mobility, performance management and ",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "a616d541f9e1",
+   "title": "Talent is now more vital than ever before in today's unprecedented times. Building our leaders' capabilities is of utmost priority in NTU's recruitment drive and retention policy. Learn more about Lead@NTU, our executive leadership program designed to develop ",
+   "url": "https://www.ntu.edu.sg/about-us/build-a-career-at-ntu/lead-at-ntu",
+   "context": "LEAD@NTU Talent is now more vital than ever before in today's unprecedented times. Building our leaders' capabilities is of utmost priority in NTU's recruitment drive and retention policy. Learn more about Lead@NTU, our executive leadership program designed to develop our talent across faculty, research, and administration.",
+   "source_id": "ntu",
+   "source_name": "NTU Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "What is Lead@NTU? Lead@NTU is our premier career acceleration and leadership programme, and will guide you towards developing the skills, qualities and aptitude needed to thrive in your career. 3 Key Goals For the university, the Lead@NTU programme sets out to accomplish three primary goals: Gallery Throughout this 8 - to 12-month journey, participants will be engaged in: Flagship Programmes Masterclasses Conversations with leaders Coaching Sessi",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "332e8b25edb5",
+   "title": "Find researchers",
+   "url": "https://www.garvan.org.au/people/researchers",
+   "context": "Our researchers Solving the most complex scientific problems and unlocking the secrets of invisible biological processes requires the brightest minds. We bring together researchers with diverse expertise and know-how to drive discovery research. Explore all researchers Our faculty Garvan faculty members are international leaders of bold research teams, who spearhead innovative research endeavours. Our faculty members work at the intersection of world-class technical facilities and in close collaboration with hospitals and patients, both locally and globally. Explore all faculty",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Researchers We've gathered some of the best scientific minds under one roof. Fighting disease is in our DNA.",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "0d413a218716",
+   "title": "Explore all faculty",
+   "url": "https://www.garvan.org.au/people/faculty",
+   "context": "Our researchers Solving the most complex scientific problems and unlocking the secrets of invisible biological processes requires the brightest minds. We bring together researchers with diverse expertise and know-how to drive discovery research. Explore all researchers Our faculty Garvan faculty members are international leaders of bold research teams, who spearhead innovative research endeavours. Our faculty members work at the intersection of world-class technical facilities and in close collaboration with hospitals and patients, both locally and globally. Explore all faculty",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "40eb1572c253",
+   "title": "Faculty positions at ICTS-TIFR, Bangalore TIFR Advt No. 2026/01 The International Centre for Theoretical Sciences (ICTS) of the Tata Institute of Fundamental Research (TIFR) seeks applications from candidates with outstanding academic records for faculty...",
+   "url": "https://www.icts.res.in/opportunities/faculty-positions-0",
+   "context": "Faculty positions at ICTS-TIFR, Bangalore TIFR Advt No. 2026/01 The International Centre for Theoretical Sciences (ICTS) of the Tata Institute of Fundamental Research (TIFR) seeks applications from candidates with outstanding academic records for faculty... more",
+   "source_id": "icts",
+   "source_name": "ICTS-TIFR Bengaluru (incl. AI in Biology postdocs)",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "73ddf1797bf9",
+   "title": "Principal Investigators",
+   "url": "https://www.a-star.edu.sg/bii/people/our-researchers",
+   "context": "",
+   "source_id": "bii",
+   "source_name": "A*STAR Bioinformatics Institute",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "eb101e1b32d3",
+   "title": "Academic career opportunities",
+   "url": "https://www.helsinki.fi/en/about-us/careers/academic-careers",
+   "context": "Academic careers We offer a range of open positions in teaching and research. Our tenure track model is transparent and competitive. Academic career opportunities Tenure track at the University of Helsinki",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Academic careers at the University of Helsinki Join us at one of the world’s best research universities. We believe in changing the world and building a better future, through multidisciplinary cooperation and cutting-edge research. Cross-border collaboration between businesses, cities, and universities is our lifeblood, allowing us to put science into practice. Choose a truly diverse and equal community, where every research … You can change your cookie settings via the cookie management link. … Change cookie settings Allow cookies to display content This content is retrieved from www.youtube.com. … You can change your cookie settings via the cookie management link. … Change cookie settings Allow cookies to display content This content is retrieved from www.youtube.com.",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "76c13203399b",
+   "title": "Tenure track at the University of Helsinki",
+   "url": "https://www.helsinki.fi/en/about-us/careers/academic-careers/university-helsinki-tenure-track",
+   "context": "Academic careers We offer a range of open positions in teaching and research. Our tenure track model is transparent and competitive. Academic career opportunities Tenure track at the University of Helsinki",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content University of Helsinki tenure track The University of Helsinki attracts top international researchers with its transparent tenure track system. The goal is to increase the predictability, competitiveness and attractiveness of academic careers. A tailored career path and a transparent international recruitment process promote first-class research in a unique research and teaching environment. Tailored career paths on the tenur … Disqualified persons cannot participate in proceedings or be present during discussions.",
+   "details_checked": true,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",
    "status": "open",
@@ -23236,7 +23758,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0abafa9faf93",
@@ -43416,7 +43938,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "36e607368368",
@@ -43439,7 +43961,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "9b43033ebaa5",
@@ -43464,7 +43986,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1419c972a88d",
@@ -43487,7 +44009,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3b8fa59fee21",
@@ -43510,7 +44032,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "292271abfa2e",
@@ -43533,7 +44055,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2b244b058b14",
@@ -43556,7 +44078,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c31502e030f1",
@@ -43579,7 +44101,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0f75e3f2521e",
@@ -43602,7 +44124,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2875ddf1ebcc",
@@ -43625,7 +44147,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "af31392ae2bf",
@@ -43648,7 +44170,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "53b1624e1cf4",
@@ -43671,7 +44193,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e45370d3389b",
@@ -43694,7 +44216,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1edba00809e8",
@@ -43717,7 +44239,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3a73a6f612d8",
@@ -43740,7 +44262,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b60edfad8e8e",
@@ -43763,7 +44285,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b278f7b9da0f",
@@ -43786,7 +44308,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f0e3223b4f00",
@@ -43809,7 +44331,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a42276ef1933",
@@ -43832,7 +44354,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2553a06e72a7",
@@ -43855,7 +44377,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fc3d331bdd60",
@@ -43878,7 +44400,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "bdcca3afd82b",
@@ -43901,7 +44423,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "399f8a0d1469",
@@ -43926,7 +44448,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a25690907688",
@@ -43949,7 +44471,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3f455f92a634",
@@ -43974,7 +44496,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c8c059069e7e",
@@ -43997,7 +44519,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "66df7293b49a",
@@ -44020,7 +44542,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d8eef350d770",
@@ -44043,7 +44565,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0830325ef1ff",
@@ -44066,7 +44588,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8f968c976e9e",
@@ -44089,7 +44611,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "7cd3c00f6e50",
@@ -44112,7 +44634,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f8af2616c435",
@@ -44135,7 +44657,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "5a815df8ac4f",
@@ -44158,7 +44680,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "dc84146fede3",
@@ -44181,7 +44703,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "82cbd576fb00",
@@ -44204,7 +44726,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "003b7974c3e7",
@@ -44227,7 +44749,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1d47ab8d44a3",
@@ -44250,7 +44772,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c9d222633461",
@@ -44273,7 +44795,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8ec69f777145",
@@ -44296,7 +44818,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0d87a6f144e3",
@@ -44321,7 +44843,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3b3bc0beb5b5",
@@ -44346,7 +44868,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "efddc712dee2",
@@ -44369,7 +44891,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "92ffa82cf07f",
@@ -44392,7 +44914,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fa250ebf9d7f",
@@ -44415,7 +44937,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3d6209dc72c2",
@@ -44430,6 +44952,236 @@
    "contract": false,
    "region": "abroad",
    "country": "United States",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "9e6e2b324ae7",
+   "title": "Shape the future of women's health Help researchers uncover why autoimmune diseases disproportionately affect women.  Welcome to Garvan We see a future where we’re able to stop disease before it starts. See our impact Your browser does not support the video ta",
+   "url": "https://www.garvan.org.au/donate/x-chromosome",
+   "context": "Shape the future of women's health Help researchers uncover why autoimmune diseases disproportionately affect women. Learn more Welcome to Garvan We see a future where we’re able to stop disease before it starts. See our impact Your browser does not support the video tag.",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "e7fbc1cd6b6b",
+   "title": "See our impact",
+   "url": "https://www.garvan.org.au/our-impact",
+   "context": "Shape the future of women's health Help researchers uncover why autoimmune diseases disproportionately affect women. Learn more Welcome to Garvan We see a future where we’re able to stop disease before it starts. See our impact Your browser does not support the video tag.",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "59273a4d4512",
+   "title": "Garvan researcher awarded elite grant to overcome treatment resistance in breast and ovarian cancers",
+   "url": "https://www.garvan.org.au/news-resources/news/garvan-researcher-awarded-elite-grant-to-overcome-treatment-resistance-in-breast-and-ovarian-cancers",
+   "context": "Garvan researcher awarded elite grant to overcome treatment resistance in breast and ovarian cancers News 08 Oct 2026",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "e219758f73b6",
+   "title": "Immune cell engineer joins Garvan to develop next-generation cancer therapies",
+   "url": "https://www.garvan.org.au/news-resources/news/immune-cell-engineer-joins-garvan-to-develop-next-generation-cancer-therapies",
+   "context": "Immune cell engineer joins Garvan to develop next-generation cancer therapies News 17 Aug 2026",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "227458f85d46",
+   "title": "Recruiting now: study to investigate ‘sleeping' breast cancer cells",
+   "url": "https://www.garvan.org.au/news-resources/news/recruiting-now-study-to-investigate-sleeping-breast-cancer-cells",
+   "context": "Recruiting now: study to investigate ‘sleeping' breast cancer cells News 07 Aug 2026",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "c7c9226e7ac6",
+   "title": "Support our research Your support helps our researchers make scientific breakthroughs that will predict, prevent, diagnose and cure disease.",
+   "url": "https://giving.garvan.org.au/-/XXMRSFFM",
+   "context": "Support our research Your support helps our researchers make scientific breakthroughs that will predict, prevent, diagnose and cure disease. Donate now",
+   "source_id": "garvan",
+   "source_name": "Garvan Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Australia",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "c4e79d502fa8",
+   "title": "Responsible employer",
+   "url": "https://www.helsinki.fi/en/about-us/careers/being-responsible-employer",
+   "context": "Responsible employer The University of Helsinki is committed to acting responsibly towards all staff. Our values guide our recruitment and leadership of staff.",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "fd93c4310039",
+   "title": "Information for arriving international staff",
+   "url": "https://www.helsinki.fi/en/about-us/careers/welcome-finland-information-arriving-staff",
+   "context": "Welcome to the University of Helsinki The University provides support for internationally recruited staff members and their families. Information for arriving international staff Unibuddy",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "6d402311dc15",
+   "title": "Welcome to the University of Helsinki The University provides support for internationally recruited staff members and their families. Information for arriving international staff",
+   "url": "https://www.helsinki.fi/en/about-us/careers/information-arriving-international-staff/each-one-reach-one-unibuddies-term",
+   "context": "Welcome to the University of Helsinki The University provides support for internationally recruited staff members and their families. Information for arriving international staff Unibuddy",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "31195df23a22",
+   "title": "Open positions",
+   "url": "https://www.helsinki.fi/en/about-us/careers/open-positions",
+   "context": "Browse open positions Here you can find our open positions and instructions for applying. Open positions",
+   "source_id": "helsinki",
+   "source_name": "University of Helsinki",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Finland",
    "kw_score": 0,
    "matched": [],
    "check_advt": false,
@@ -44461,7 +45213,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3e36423ca9ca",
@@ -44691,7 +45443,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ebbe10f42dc4",
@@ -44714,7 +45466,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "563bba7a3e93",
@@ -44737,7 +45489,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "375f14d90ec8",
@@ -44760,7 +45512,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b5af23874162",
@@ -44783,7 +45535,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8c8afa8d5a67",
@@ -44809,7 +45561,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "7093d3f86645",
@@ -44882,7 +45634,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "cf9adb9aed19",
@@ -44933,7 +45685,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "91e192efe98a",
@@ -44958,7 +45710,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "16329816d95b",
@@ -44983,7 +45735,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c191a7f8d35e",
@@ -45006,7 +45758,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "1  \n \n \n \nAdvt. No. 34/Project/2026/HR \n             Walk-in Interview for ‘Project Research Scientist-I’ Position \n \nTitle of Project: Targeting Lipid Metabolic Pathways in Non-responder NACT-treated Luminal Breast Cancer \nPatients to Activate in Antitumour Immune Response. \nPrincipal Investigator: Prof. Avinash Bajaj \n \nDuration: One year and can be extended till the end of the project. \n \nEssential Qualifications: Ph.D in Chemistry / Biologica",
+   "details_checked": true
   },
   {
    "id": "f4e598a36632",
@@ -45029,7 +45783,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "7ce541ab8f93",
@@ -45054,7 +45808,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b1976b4cf78c",
@@ -45077,7 +45831,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f7d00cb167b2",
@@ -45100,7 +45854,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3536c1c3f256",
@@ -45123,7 +45877,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d16f86ae57dd",
@@ -45146,7 +45900,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b0a7122834b3",
@@ -45173,7 +45927,7 @@
    "details_checked": true,
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "12d4baf2df02",
@@ -45198,7 +45952,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f18969bf482f",
@@ -45221,7 +45975,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "7f961fc91210",
@@ -45244,7 +45998,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fdd1087ddaa2",
@@ -45319,7 +46073,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2a9471e45b0d",
@@ -45342,7 +46096,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fb83fd9a6732",
@@ -45418,7 +46172,8 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "922a5fe351ec",
@@ -45491,7 +46246,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0f833bb21dd6",
@@ -45539,7 +46294,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "49548bd78c29",
@@ -45562,7 +46317,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "ed15504b0264",
@@ -45610,7 +46365,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": " \n \n \n \nक्षेत्रीय जैवप्रौद्योगिकी क े न्द्र \nराष्ट्र ीय महत्ता की संस्था, जैवप्रौद्योगिकी गवभाि, \nभारत सरकार द्वारा यूनेस्को के तत्वावधान में स्थागित \n Regional Centre for Biotechnology \nAn institution of National Importance, \nEstablished by the Department of Biotechnology \nGovernment of India, Under the auspices of UNESCO \nDated: 14th August 2026 \nADVERTISEMENT NO. RCB/BSU/02/2026/Rectt./HR \nRECRUITMENT FOR CONTRACTUAL POSITIONS UNDER THE PROJEC … - Reviewing scientific data and regulatory compliance \n- Facilitating RCGM meetings and maintaining regulatory websites \n- Developing and updating guidelines for emerging biotechnologies \n- Conducting training, workshops, and capacity-building programs \n- Certifying BSL-3 facilities \n \nRCB invites applications (in online mode) from dynamic, result -oriented and dedicated eligible \ncandidates for the following contractual positions under the “BSU Phase-II” project:",
+   "details_checked": true
   },
   {
    "id": "8f535caf3e4c",
@@ -45633,7 +46390,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f6c2cdaefdac",
@@ -45661,7 +46418,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "f4d99e725984",
@@ -45688,7 +46445,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "18539580ab99",
@@ -45763,7 +46520,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c15630248fb6",
@@ -45786,7 +46543,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2d888351fd08",
@@ -45809,7 +46566,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "260166c35044",
@@ -45834,7 +46591,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a7a420b7e43c",
@@ -45857,7 +46614,35 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "a1f3198137d4",
+   "title": "Applications are invited for the post of Senior Research Fellow against Advertisement No. NIBMG/ADMIN/ESTB/PRJ.RECT/2025-26/244 dtd. 08/12/2025 for Project entitled : “Whole Genome Sequencing of MTB Clinical Strains for determining Drug Resistance and Strain L",
+   "url": "https://www.nibmg.ac.in/uploads/bb3c8bec16e00d8d5b646de200707421.pdf",
+   "context": "Applications are invited for the post of Senior Research Fellow against Advertisement No. NIBMG/ADMIN/ESTB/PRJ.RECT/2025-26/244 dtd. 08/12/2025 for Project entitled : “Whole Genome Sequencing of MTB Clinical Strains for determining Drug Resistance and Strain Linkage in India” PI- Prof. Arindam Maitra Funding Agency-DBT",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": "2026-10-05",
+   "category": "junior",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 34,
+   "matched": [
+    "genomics",
+    "whole genome sequencing"
+   ],
+   "check_advt": false,
+   "score": 34,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "closed",
+   "match": false,
+   "new": false,
+   "details": "Page 1 of 2 \n \n \n \n \n \nAdvertisement No. NIBMG/ ADMIN/ESTB/PROJ RECTT/2025-26/244           Date:  08 -  12 - 2025  \n \nPosition available \n \nOn-line Interview will be conducted  for the position of Project Linked Personnel for extramural \nprojects to be executed by BRIC-National institute of Biomedical Genomics, Kalyani. Selected \nCandidate will initially be appointed till 05.10.2026. \nProject Name & Funding Authority : “Whole Genome Sequencing o … 08 -  12 - 2025  \n \nPosition available \n \nOn-line Interview will be conducted  for the position of Project Linked Personnel for extramural \nprojects to be executed by BRIC-National institute of Biomedical Genomics, Kalyani. … “Whole Genome Sequencing of MTB Clinical Strains for \ndetermining Drug Resistance and Strain Linkage in India” (DBT) \nProject Description: … The focus of this study is nation -wide use of a whole genome sequencing -based approach to \nunderstand the  distribution of MTB strains and prevalence of drug resistance in relation to \nfavourable and unfavourable treatment outcomes in pulmonary and extra -pulmonary TB cases \nin",
+   "details_checked": true
   },
   {
    "id": "2b4ea8cb2335",
@@ -45978,7 +46763,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2f5ecde36861",
@@ -46001,7 +46786,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "5a6abcc9daca",
@@ -46024,7 +46809,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "44ae4bc50675",
@@ -46928,7 +47713,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f40c04fe1ef2",
@@ -46951,7 +47736,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "57711039e1da",
@@ -46978,7 +47763,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "34aa35c84096",
@@ -47097,7 +47882,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8cff1834571c",
@@ -47120,7 +47905,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d9fbcff488b1",
@@ -47150,29 +47935,6 @@
    "details_checked": true
   },
   {
-   "id": "0c8006459e08",
-   "title": "View source →",
-   "url": "https://www.uni-goettingen.de/en/644546.html?details=76647",
-   "context": "Position / programme: Data Scientist / Postdoc — KIForst Competence Center | Organization: Georg-August-Universität Göttingen | Type: Academic research / AI for science | Location: Göttingen, Germany | Field / focus: Machine learning, deep learning, computer vision, explainable AI and trustworthy AI for forest sciences | Funding / salary: TV-L E13 | Deadline: 2026-10-12 | Official source: View source →",
-   "source_id": "biochondrion",
-   "source_name": "Biochondrion Opportunity Explorer",
-   "published": null,
-   "deadline": "2026-10-12",
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "Germany",
-   "kw_score": 18,
-   "matched": [],
-   "check_advt": false,
-   "score": 18,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-03",
-   "status": "closed",
-   "match": false,
-   "new": true
-  },
-  {
    "id": "a5275ddda74f",
    "title": "Four 2-Year Postdoctoral Fellowships at the University of Konstanz, Germany",
    "url": "https://researchersjob.com/four-2-year-postdoctoral-fellowships/",
@@ -47195,6 +47957,31 @@
    "match": false,
    "new": false,
    "details": "Summary The University of Konstanz, a German Excellence Strategy institution, is offering four 2-year Postdoctoral Fellowships at the Zukunftskolleg—an Institute for Advanced Study designed for early-career researchers. The fellowship provides independence, professional infrastructure, an individual research allowance, and opportunities for interdisciplinary collaboration across natural sciences, humanities, and social sciences, with a potential  … Actively participate in weekly meetings, intergenerational exchanges, and interdisciplinary initiatives at the Zukunftskolleg.",
+   "details_checked": true
+  },
+  {
+   "id": "0c8006459e08",
+   "title": "View source →",
+   "url": "https://www.uni-goettingen.de/en/644546.html?details=76647",
+   "context": "Position / programme: Data Scientist / Postdoc — KIForst Competence Center | Organization: Georg-August-Universität Göttingen | Type: Academic research / AI for science | Location: Göttingen, Germany | Field / focus: Machine learning, deep learning, computer vision, explainable AI and trustworthy AI for forest sciences | Funding / salary: TV-L E13 | Deadline: 2026-10-12 | Official source: View source →",
+   "source_id": "biochondrion",
+   "source_name": "Biochondrion Opportunity Explorer",
+   "published": null,
+   "deadline": "2026-10-12",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Germany",
+   "kw_score": 3,
+   "matched": [],
+   "check_advt": false,
+   "score": 3,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "closed",
+   "match": false,
+   "new": false,
+   "details": "Vacancies Explanatory video Internal vacancies ID Title Department Salary Application deadline Start Date Time Limitation We would like to point out that the submission of the application constitutes consent under data protection law for us to process your applicant data. You can find more details on the legal basis and use of data in the information sheet on the General Data Protection Regulation (DSGVO). . Contact for job advertisement Abteilun … 13 der EU-Datenschutzgrundverordnung \n(EU-DSGVO, Verordnung 679/2016/EU) für Bewerberinnen und Bewerber  \n \nWenn Sie sich auf eine Stelle bei der Universität Göttingen bewerben, werden die von Ihnen angege-\nbenen Daten (Lebenslauf, Qualifikationen, sämtliche anderen Bewerbungsdaten) durch die Georg-Au-\ngust-Universität Göttingen, Wilhelmsplatz 1, 37073 Göttingen, verarbeitet. … b) der \nEuropäischen Datenschutzgrundverordnung (EU-DSGVO) mit dem Ziel eines Beschäftigungsverhältnis-\nses i.S.d. … Datenempfänger innerhalb der Universität sind \n• die ausschreibende Stelle (potentielle künftig vorgesetzte Person)  \n• die Personalabteilung, \n• die",
    "details_checked": true
   },
   {
@@ -47344,7 +48131,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0fb2d8aaf337",
@@ -47503,7 +48290,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Skip to Main Content Explore Academic Positions at Harvard Toggle navigation Home Search Jobs Log In /Create Account Help This posting is not available Search Jobs (Postings) Trademark Notice | Harvard University Copyright © 2025 The President & Fellows of Harvard College Accessibility | Digital Accessibility | Privacy | Report Copyright Infringement To ensure the security of your data, you will be logged out due to inactivity in 3 minutes at . A … Skip to Main Content Explore Academic Positions at Harvard Toggle navigation Home Search Jobs Log In /Create Account Help This posting is not available Search Jobs (Postings) Trademark Notice | Harvard University Copyright © 2025 The President & Fellows of Harvard College Accessibility | Digital Accessibility | Privacy | Report Copyright Infringement To ensure the security of your data, you will be logged out due to inactivity in 3 minutes at .",
+   "details_checked": true
   },
   {
    "id": "47547a2c778f",
@@ -47553,7 +48342,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1b759f49f81b",
@@ -47576,7 +48365,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "71dfbf91cc77",
@@ -47599,7 +48388,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "73e670350913",
@@ -47622,7 +48411,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e4913c997e20",
@@ -47773,7 +48562,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "4ed2ef3a11dc",
@@ -49044,7 +49833,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "7c2bc0260e94",
@@ -49355,7 +50144,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "Kiosk mode Open Rank Professor of Pharmacology, Tenured/Tenure Track- UVA School of Medicine Open Rank Professor of Pharmacology, Tenured/Tenure Track- UVA School of Medicine 193470 Charlottesville, Virginia, United States Pharmacology University of Virginia The Department of Pharmacology in the School of Medicine at the University of Virginia invites applications for two open rank tenured/tenure-track faculty positions. We are seeking candidates",
+   "details_checked": true
   },
   {
    "id": "75eba4a2794b",
@@ -49380,7 +50171,9 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false,
+   "details": "More Application Welcome to apply for a PhD Program at the Life Science Zurich Graduate School! Zoom Image Doing your PhD at the LSZ Graduate School of the ETH and the University of Zurich means that you will belong to a large and ambitious life science research community. You will receive a comprehensive and challenging education that will allow you to take further career steps within academia as well as in industry – in Switzerland or worldwide",
+   "details_checked": true
   },
   {
    "id": "7426fa1cf09d",
@@ -49428,7 +50221,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8f5e429ae6e4",
@@ -49478,7 +50271,7 @@
    "last_seen": "2026-11-03",
    "status": "closed",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6e1b9298025f",

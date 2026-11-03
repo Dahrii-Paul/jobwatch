@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-03T22:56+05:30",
+  "updated": "2026-11-03T23:09+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,17 +10,17 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2016,
-   "open_matches": 289,
+   "total_indexed": 2045,
+   "open_matches": 295,
    "urgent": 56,
-   "new_this_run": 73,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 16,
-   "postdoc_abroad": 116,
-   "permanent_abroad": 32,
-   "sources_ok": 159,
-   "sources_total": 215
+   "postdoc_abroad": 118,
+   "permanent_abroad": 35,
+   "sources_ok": 165,
+   "sources_total": 209
   }
  },
  "jobs": [
@@ -48,7 +48,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1ff747d05d22",
@@ -133,7 +133,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5378b5bf9262",
@@ -161,7 +161,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "174b2d522f88",
@@ -189,7 +189,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d66b1cd93bbb",
@@ -214,7 +214,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "21f8e7981d69",
@@ -267,7 +267,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "abf88b23bdac",
@@ -426,7 +426,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5f451d95bfdc",
@@ -551,7 +551,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -564,7 +564,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5ec57ba366c3",
@@ -615,7 +615,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "57175b4a3b09",
@@ -665,7 +665,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "01dbb78c9c86",
@@ -690,7 +690,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "bda7b2fecdbe",
@@ -775,7 +775,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0460187f5b09",
@@ -789,7 +789,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -802,7 +802,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "eb0c2e8e385a",
@@ -829,7 +829,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2cdcc83938cb",
@@ -910,7 +910,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9615b67fcbf1",
@@ -935,7 +935,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "40c1cf89b395",
@@ -960,7 +960,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "983c26b6e78c",
@@ -1014,7 +1014,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "082940ddd59d",
@@ -1041,7 +1041,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ecbdfa70130c",
@@ -1126,7 +1126,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "9f8da8315de1",
@@ -1181,7 +1181,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b561ed0f496f",
@@ -1206,7 +1206,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "d39a82d77089",
@@ -1651,7 +1651,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c0f4c01a6215",
@@ -1806,7 +1806,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b9840450088b",
@@ -1833,7 +1833,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "87832ca01a8e",
@@ -1861,7 +1861,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "6f2aabf9433f",
@@ -2017,7 +2017,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c70d4f8e4020",
@@ -2031,7 +2031,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -2045,7 +2045,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "89188a2f884c",
@@ -2074,7 +2074,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "8faae381dc10",
@@ -2088,7 +2088,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 70,
    "matched": [
     "bioinformatic",
@@ -2102,7 +2102,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "91942571457c",
@@ -2172,7 +2172,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United Kingdom",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -2185,7 +2185,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b994480809fe",
@@ -2244,7 +2244,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e808cb834606",
@@ -2271,7 +2271,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "f0816720d62e",
@@ -2480,6 +2480,35 @@
    "new": false
   },
   {
+   "id": "0e81a8a0fac9",
+   "title": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing",
+   "context": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Abu Dhabi, United Arab Emirates NEW YORK UNIVERSITY ABU DHABI NYU Abu Dhabi invites applications for a Post-Doctoral Associate position that advances the frontiers of developmental biology ... View details Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei 5 days ago",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2026-11-28",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "United Arab Emirates",
+   "kw_score": 88,
+   "matched": [
+    "bioinformatic",
+    "omics",
+    "single-cell"
+   ],
+   "check_advt": false,
+   "score": 88,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Employer NEW YORK UNIVERSITY ABU DHABI Location Abu Dhabi, United Arab Emirates Closing date 28 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or crea … The laboratory integrates stem-cell biology, fluorescence imaging, bioinformatics, and advanced nano- and micro-engineering to decode organogenesis and early embryogenesis, translating these insights into regenerative medicine, drug discovery, and precision therapeutics. … Competitive candidates will demonstrate expertise in areas such as device design and fabrication, stem-cell culture and differentiation, high-resolution imaging, single-cell or bulk omics, or bioinformatics, together with a strong publication record, excellent communication skills, and a collaborative mindset.",
+   "details_checked": true
+  },
+  {
    "id": "9351a5c171c6",
    "title": "Open PI Positions at Shenzhen Bay Laboratory",
    "url": "https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing",
@@ -2590,7 +2619,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ee6a8c58bd5a",
@@ -2646,7 +2675,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0d5c0ba09757",
@@ -2691,7 +2720,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 65,
    "matched": [
     "bioinformatic",
@@ -2705,7 +2734,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ba1907625b83",
@@ -2883,7 +2912,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 62,
    "matched": [
     "bioinformatic"
@@ -2896,7 +2925,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "49a16401bb85",
@@ -2984,7 +3013,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "11d36ada3411",
@@ -3012,7 +3041,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e5a444c2691b",
@@ -3094,7 +3123,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "7c7be095358e",
@@ -3121,7 +3150,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "a10259e5fbff",
@@ -3297,7 +3326,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "cb840a7107fc",
@@ -3418,7 +3447,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 73,
    "matched": [
     "bioinformatic",
@@ -3432,7 +3461,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ed4bc803b026",
@@ -3462,7 +3491,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0ff20a2e642c",
@@ -3517,7 +3546,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "92fbb522f9f8",
@@ -3547,7 +3576,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2c1844d30937",
@@ -3601,7 +3630,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "73316efd646a",
@@ -3629,7 +3658,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "da59781faa9f",
@@ -3741,7 +3770,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "52d848afdce6",
@@ -3766,7 +3795,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4f8223962c67",
@@ -3797,7 +3826,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4925fd4d1876",
@@ -3867,7 +3896,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 50,
    "matched": [
     "bioinformatic"
@@ -3880,7 +3909,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1c76637fc9d9",
@@ -4058,7 +4087,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -4072,7 +4101,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "515c02f81b4c",
@@ -4086,7 +4115,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -4100,7 +4129,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4c95b9001701",
@@ -4114,7 +4143,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 69,
    "matched": [
     "bioinformatic",
@@ -4128,7 +4157,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5c6b4b5df5ca",
@@ -4153,7 +4182,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c326952405d2",
@@ -4178,7 +4207,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "bc359e303968",
@@ -4192,7 +4221,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 65,
    "matched": [
     "bioinformatic",
@@ -4206,7 +4235,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c74af39b72dd",
@@ -4303,7 +4332,7 @@
    "category": "permanent",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 84,
    "matched": [
     "bioinformatic",
@@ -4318,7 +4347,34 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "075e83a1abb2",
+   "title": "Senior Scientist, Chemistry",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417206/senior-scientist-chemistry/?LinkSource=PremiumListing",
+   "context": "Senior Scientist, Chemistry Vienna (Landbezirke) (AT) The basic salary of EUR 5,014.30 (14 times a year for senior scientists postdoctoral) UNIVERSITY OF VIENNA Your future place is at the Institute of Physiological Chemistry at the Faculty of Chemistry. View details Senior Scientist, Chemistry",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2032-11-30",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 58,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 58,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Senior Scientist, Chemistry Employer UNIVERSITY OF VIENNA Location Vienna (Landbezirke) (AT) Salary The basic salary of EUR 5,014.30 (14 times a year for senior scientists postdoctoral) Closing date 16 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Physical Sciences , Life sciences , Chemistry Job Type Academic Posts , Principal / Senior Lecturers / Associate Professors , Research Related , Other Rese … Investigating structure–activity relationships and how the chemical structure of ligands regulates receptor activation, potentially complemented by the use of in-silico methods combined with bioinformatics data analyses.",
+   "details_checked": true
   },
   {
    "id": "d8133fcfd627",
@@ -4364,7 +4420,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "United States",
    "kw_score": 100,
    "matched": [
     "bioinformatic",
@@ -4380,7 +4436,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "a4dbbeb72b7d",
@@ -4411,7 +4467,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e2801737d054",
@@ -4440,7 +4496,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "afbabc6e1ada",
@@ -4734,7 +4790,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5d27d65f1bfc",
@@ -4762,7 +4818,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1d73f6f42c3e",
@@ -5349,6 +5405,34 @@
    "new": false
   },
   {
+   "id": "20011ed6bc05",
+   "title": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2",
+   "url": "https://www.nibmg.ac.in/uploads/bb64dfba918927e5fb03988ee2a39a7d.pdf",
+   "context": "Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2 diabetes and coronary artery disease. PI-Dr.Samsiddhi Bhattacharjee Funding Agency- DBT",
+   "source_id": "nibmg",
+   "source_name": "BRIC-NIBMG Kalyani (genomics)",
+   "published": null,
+   "deadline": null,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 63,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 63,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "1 | P a g e  \n \n  \nAdvertisement No. NIBMG/ADMIN/ESTB/2026-27/ 093                                                    Date: 25 -  06 -2026 \n \nPosition available: Online Interview \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology.  \nApplications are invited for the position of Project Linked Person (Senior Project Associate) for ext … Online Interview \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology. … Applications are invited for the position of Project Linked Person (Senior Project Associate) for extramural \nproject to be executed by the BRIC-National institute of Biomedical Genomics, Kalyani. … Integrative-genomics approach to identify and functionalize regulatory variants from \nGWAS data with applications to type-2 diabetes and coronary artery disease. … It is important to generate reliable \nbioinformatic predictions about potential regulatory mechan",
+   "details_checked": true
+  },
+  {
    "id": "75da3ebff293",
    "title": "Science Staff",
    "url": "https://www.sanger.ac.uk/people/science-staff/",
@@ -5554,7 +5638,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1a33830592d5",
@@ -5827,7 +5911,7 @@
    "category": "project",
    "contract": false,
    "region": "abroad",
-   "country": "International",
+   "country": "Hong Kong",
    "kw_score": 54,
    "matched": [
     "bioinformatic"
@@ -5840,7 +5924,34 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "1cbeacebd987",
+   "title": "Advanced search",
+   "url": "https://www.timeshighereducation.com/unijobs/searchjobs/",
+   "context": "Filter jobs Advanced search",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 54,
+   "matched": [
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 54,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Skip to job results Skip to refine results Found 1,123 jobs Advanced search Filter jobs Expand search Hide search Job Results New Senior Research Analytics Manager Durham, United Kingdom £48,337 - £57,666 per annum DURHAM UNIVERSITY The purpose of the Strategy, Planning and Insight Department (SPIO) is to work collaboratively to help people to make effective evidence-based ... View details Senior Research Analytics Manager New Post-doctoral Fello … View details Postdoctoral Research Associate - Digital Humanities / Philosophy of Science New Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics, School of Public Health ... … View details Post-doctoral Fellow (PDF) in the Division of Epidemiology and Biostatistics New Banner Business Change Manager Southampton, United Kingdom £37,369 to £45,641 UNIVERSITY OF SOUTHAMPTON As a Business Change Manager, you will focus on the peopl",
+   "details_checked": true
   },
   {
    "id": "f47cd4f01d34",
@@ -5929,6 +6040,34 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "b9b24e2ccb47",
+   "title": "View source →",
+   "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000150191729-protein-design-scientist",
+   "context": "Position / programme: Protein Design Scientist | Organization: Syngenta Group | Type: Industry / agricultural biotechnology | Location: Location not stated | Field / focus: AI-first protein design for crop traits using protein language models, generative design, structural prediction and active learning | Funding / salary: Not stated | Deadline: Open / deadline not stated | Official source: View source →",
+   "source_id": "biochondrion",
+   "source_name": "Biochondrion Opportunity Explorer",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 52,
+   "matched": [
+    "bioinformatic",
+    "computational biology"
+   ],
+   "check_advt": false,
+   "score": 52,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "Protein Design Scientist, Machine Learning Full-time Company Description At Syngenta Seeds Field Crops, we're shaping the future of agriculture and empowering farmers to meet the ever-growing demand for food and fuel. We’re a global Ag Tech powerhouse, headquartered in the United States, with passionate, local experts collaborating with farmers to deliver solutions that create market opportunities. We unite precision breeding, advanced biotechnol … Monitor the rapidly changing protein design literature and bring promising new tools and project ideas to the team Qualifications PhD with +1-year experience in bioinformatics, computational biology, biochemistry & biophysics, or a related field with a focus on protein sequence or structure modeling ML and pLM Experience: … Strong communication skills with a track record of working effectively alongside experimental/wet-lab scientists ML & Deep Learning Engineering: … 401k plan with company match, Profit Sharing & Retirement Savings Contribution.",
+   "details_checked": true
   },
   {
    "id": "b30b23444734",
@@ -6125,7 +6264,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "2d1379312106",
@@ -6624,7 +6763,7 @@
    "last_seen": "2026-11-03",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "464d4388f59a",
@@ -7953,6 +8092,32 @@
    "check_advt": false,
    "score": 40,
    "details": "Wang Lab @ CHOP CVI Cardiovascular development, maturation, disease, and regeneration Learn More Prev Next Latest News 1 January, 2027 Wang Lab opening at CHOP and the University of Pennsylvania 7 September, 2026 Our postnatal heart spatial atlas and in vivo PIP-seq study is published in Nature Cardiovascular Research 25 August, 2026 Wang Lab receives its first R01 grant from the National Heart, Lung, and Blood Institute See all news → Spatially  … Wang Lab @ CHOP CVI Cardiovascular development, maturation, disease, and regeneration Learn More Prev Next Latest News 1 January, 2027 Wang Lab opening at CHOP and the University of Pennsylvania 7 September, 2026 Our postnatal heart spatial atlas and in vivo PIP-seq study is published in Nature Cardiovascular Research 25 August, 2026 Wang Lab receives its first R01 grant from the National Heart, Lung, and Blood Institute See all news → Spatially guided in vivo single-cell functional genomics of postnatal heart Wang, H.",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "status": "open",
+   "match": true,
+   "new": false
+  },
+  {
+   "id": "cb1b19e52e15",
+   "title": "Be Part of a Meaningful Journey Join a multidisciplinary community of researchers, scientists and professionals working together to advance genomic science and translate discovery into meaningful impact.",
+   "url": "https://www.a-star.edu.sg/gis/join-us",
+   "context": "Be Part of a Meaningful Journey Join a multidisciplinary community of researchers, scientists and professionals working together to advance genomic science and translate discovery into meaningful impact. Join Us",
+   "source_id": "gis",
+   "source_name": "Genome Institute of Singapore",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 40,
+   "matched": [
+    "genomic"
+   ],
+   "check_advt": false,
+   "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-03",
    "last_seen": "2026-11-03",

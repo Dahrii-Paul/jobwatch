@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-03 22:56
+## Live stats · updated 2026-11-03 23:09
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **289** |
+| 🎯 Open matches | **295** |
 | 🏛️ Permanent posts — India | **78** |
 | 🔬 Postdocs / fellowships — India | **16** |
-| ✈️ Postdocs / fellowships — abroad | **116** |
-| 🌍 Permanent / faculty — abroad | **32** |
+| ✈️ Postdocs / fellowships — abroad | **118** |
+| 🌍 Permanent / faculty — abroad | **35** |
 | ⏰ Closing within 14 days | **56** |
-| 🆕 New this run | **73** |
-| 📡 Sources working | **159 / 215** |
+| 🆕 New this run | **1** |
+| 📡 Sources working | **165 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Distinguished Professors, Young Faculty, Postdoctoral Researchers](https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing) | postdoc | China | 2026-11-03 |
 | 🔴 **0d** | [Postdoc - Stem Cell Disease Modeling and Precision Medicine - Innovative Genomics Institut](https://www.openpostdoc.org/position/954b2f2c-b870-474d-842e-e719387ec589) | postdoc | International | 2026-11-03 |
+| 🔴 **0d** | [Distinguished Professors, Young Faculty, Postdoctoral Researchers](https://www.nature.com/naturecareers/job/12862946/distinguished-professors-young-faculty-postdoctoral-researchers/?LinkSource=PremiumListing) | postdoc | China | 2026-11-03 |
 | 🔴 **1d** | [PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denma](https://researchersjob.com/phd-scholarship-in-rna-structure/) | phd | Denmark | 2026-11-04 |
-| 🔴 **2d** | [Post-Doctoral Fellowship in Energy Metabolism Faculdade de Medicina de Ribeirão Preto - US](https://www.openpostdoc.org/position/121a48d2-1d31-472e-8cb2-11fe8cfcb22d) | postdoc | International | 2026-11-05 |
-| 🔴 **2d** | [Postdoctoral Researcher in Immune-Metabolism and Multi-omics of Symptom Dimensions Univers](https://www.openpostdoc.org/position/62cab703-eb59-499d-a46b-32ed17557181) | postdoc | International | 2026-11-05 |
 | 🔴 **2d** | [Biological & Life Sciences Division – Postdoc Researcher: AI for Precision Medicine and Th](https://www.timeshighereducation.com/unijobs/listing/416237/biological-and-life-sciences-division-postdoc-researcher-ai-for-precision-medicine-and-therapeutics/?LinkSource=PremiumListing) | postdoc | United Arab Emirates | 2026-11-05 |
 | 🔴 **2d** | [Biological and Life Sciences Division – Research Scientist: AI for Precision Medicine](https://www.timeshighereducation.com/unijobs/listing/416229/biological-and-life-sciences-division-research-scientist-ai-for-precision-medicine/?LinkSource=PremiumListing) | permanent | United Arab Emirates | 2026-11-05 |
+| 🔴 **2d** | [Post-Doctoral Fellowship in Energy Metabolism Faculdade de Medicina de Ribeirão Preto - US](https://www.openpostdoc.org/position/121a48d2-1d31-472e-8cb2-11fe8cfcb22d) | postdoc | International | 2026-11-05 |
+| 🔴 **2d** | [Postdoctoral Researcher in Immune-Metabolism and Multi-omics of Symptom Dimensions Univers](https://www.openpostdoc.org/position/62cab703-eb59-499d-a46b-32ed17557181) | postdoc | International | 2026-11-05 |
 | 🔴 **3d** | [Postdoc Researcher AI/Machine Learn for Multimodal Cardiovasc Data (VASCUL-AID) Are you a ](https://www.academictransfer.com/en/jobs/365056/postdoc-researcher-aimachine-learn-for-multimodal-cardiovasc-data-vascul-aid/) | postdoc | Netherlands | 2026-11-06 |
+| 🔴 **3d** | [Postdoc Employee – Systems Biology – Molecular & Cell Biology University of California, Be](https://www.openpostdoc.org/position/cd4ac711-a607-46d9-8047-b8dfa915d647) | postdoc | International | 2026-11-06 |
 | 🔴 **3d** | [Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India](https://researchersjob.com/scientist-position-in-icmr-2/) | project | India | 2026-11-06 |
 | 🔴 **3d** | [Advertisement (English) ( 702.00 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf) | permanent | India | 2026-11-06 |
 | 🔴 **3d** | [Advertisement (Hindi) ( 870.93 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf) | permanent | India | 2026-11-06 |
 | 🔴 **3d** | [Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medi](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf) | permanent | India | 2026-11-06 |
-| 🔴 **3d** | [Postdoc Employee – Systems Biology – Molecular & Cell Biology University of California, Be](https://www.openpostdoc.org/position/cd4ac711-a607-46d9-8047-b8dfa915d647) | postdoc | International | 2026-11-06 |
 | 🟠 **5d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
-| 🟠 **5d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
+| 🟠 **5d** | [Research Associate - Urinary Tract Disease Research Group](https://www.timeshighereducation.com/unijobs/listing/416934/research-associate-urinary-tract-disease-research-group/?LinkSource=PremiumListing) | postdoc | Australia | 2026-11-08 |
 <!-- STATS:END -->
 
 ---
