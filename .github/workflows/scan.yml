@@ -18,6 +18,8 @@ on:
         default: ""
 
 permissions:
+  pages: write       # publish the website after each scan
+  id-token: write
   contents: write     # commit data/ and README
   issues: write       # new-job alert issues (GitHub e-mails you)
   models: read        # free AI screening via GitHub Models
@@ -74,3 +76,7 @@ jobs:
           git add data README.md
           git diff --cached --quiet || git commit -m "Scan $(date -u +'%Y-%m-%d %H:%M') UTC"
           git push
+
+  publish:
+    needs: scan
+    uses: ./.github/workflows/pages.yml
