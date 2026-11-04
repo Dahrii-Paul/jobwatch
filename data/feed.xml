@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-04T09:52:05Z</updated>
+  <updated>2026-11-04T20:04:46Z</updated>
+  <entry>
+    <title>Postdoctoral fellowship in wearable data science, multi-omics integration, and machine learning for precision cardiovascular health</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/477749"/>
+    <id>urn:jobwatch:d15d98b35bbc</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-29 · score 100</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in AI Scientist &amp; Computational Cancer Biology at University of Oxford, UK</title>
+    <link href="https://researchersjob.com/postdoctoral-researcher-in-ai-scientist-computational-cancer-biology/"/>
+    <id>urn:jobwatch:0f589c398865</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2030-09-30 · score 73</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Associate - Infectious Diseases (JR96806-1) Washington University in St. Louis · St. Louis, MO · rolling</title>
+    <link href="https://www.openpostdoc.org/position/15e78bef-709e-494e-be60-a81d5bc33f53"/>
+    <id>urn:jobwatch:639127dee02e</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline: see advert · score 74</summary>
+  </entry>
+  <entry>
+    <title>University of Delhi South Campus Postdoc Functional Cancer Genomics 2026 | Amit Dutt Lab Liquid Biopsy</title>
+    <link href="https://www.biotecnika.org/2026/11/amit-dutt-lab-postdoc-du-south-campus-2026/"/>
+    <id>urn:jobwatch:f87c8e6155f9</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
+  </entry>
   <entry>
     <title>PhD Position in Immunology: Tuberculosis Diagnostics and Vaccines at Karolinska Institutet, Sweden</title>
     <link href="https://researchersjob.com/phd-position-in-immunology-tuberculosis-diagnostics/"/>
@@ -51,13 +79,6 @@
     <id>urn:jobwatch:8887bb109967</id>
     <updated>2026-11-04T00:00:00Z</updated>
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denmark</title>
-    <link href="https://researchersjob.com/phd-scholarship-in-rna-structure/"/>
-    <id>urn:jobwatch:c3da7d3a746d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] Researchersjob.com · Denmark · Deadline 2026-11-04 · score 42</summary>
   </entry>
   <entry>
     <title>Biological &amp; Life Sciences Division – Postdoc Researcher: AI for Precision Medicine and Therapeutics</title>
@@ -1031,26 +1052,5 @@
     <id>urn:jobwatch:5949ed78a38b</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2027-03-09 · score 67</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Scholar-Department of Dermatology University of California, Irvine · Irvine ·</title>
-    <link href="https://www.openpostdoc.org/position/a43fbe45-61e2-4d39-b3a0-3bc0b3598403"/>
-    <id>urn:jobwatch:327c12530999</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-05-13 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University</title>
-    <link href="https://www.nature.com/naturecareers/job/12856823/faculty-positions-in-center-of-bioelectronic-medicine-school-of-life-sciences-westlake-university/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:1c76637fc9d9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · China · Deadline 2027-05-14 · score 75</summary>
-  </entry>
-  <entry>
-    <title>Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine</title>
-    <link href="https://www.nature.com/naturecareers/job/12856821/faculty-positions-aging-and-neurodegeneration-westlake-laboratory-of-life-sciences-and-biomedicine/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:4b70b5548d34</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · China · Deadline 2027-05-14 · score 75</summary>
   </entry>
 </feed>
