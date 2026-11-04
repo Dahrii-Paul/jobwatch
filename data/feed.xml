@@ -2,7 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-03T19:50:37Z</updated>
+  <updated>2026-11-04T09:52:05Z</updated>
+  <entry>
+    <title>PhD Position in Immunology: Tuberculosis Diagnostics and Vaccines at Karolinska Institutet, Sweden</title>
+    <link href="https://researchersjob.com/phd-position-in-immunology-tuberculosis-diagnostics/"/>
+    <id>urn:jobwatch:c2dedb40e7ef</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Sweden · Deadline 2026-11-24 · score 43</summary>
+  </entry>
+  <entry>
+    <title>Data Scientist or Biomolecular Scientist for Data and AI-Driven Molecular Medicine Research Program</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417240/data-scientist-or-biomolecular-scientist-for-data-and-ai-driven-molecular-medicine-research-program/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:0fc8b9142586</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[permanent] Times Higher Education Jobs · Finland · Deadline 2026-11-30 · score 92</summary>
+  </entry>
+  <entry>
+    <title>Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417270/post-doctoral-fellow-in-the-department-of-obstetrics-and-gynaecology-school-of-clinical-medicine/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:b766d3ab4c7c</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2026-11-30 · score 62</summary>
+  </entry>
+  <entry>
+    <title>Senior Bioinformatics Analyst</title>
+    <link href="https://www.nature.com/naturecareers/job/12866342/senior-bioinformatics-analyst/"/>
+    <id>urn:jobwatch:c614bb6c7635</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[other] Nature Careers · International · Deadline 2027-01-02 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Fully Funded PhD Positions in Plant Specialized Metabolism at University of Lausanne (UNIL), Switzerland</title>
+    <link href="https://researchersjob.com/phd-positions-in-plant-specialized-metabolism/"/>
+    <id>urn:jobwatch:22e5c835c7dc</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Switzerland · Deadline 2027-03-01 · score 42</summary>
+  </entry>
+  <entry>
+    <title>RCB  Adjunct</title>
+    <link href="https://rcb.res.in/index.php/faculty"/>
+    <id>urn:jobwatch:c52e85f7e5ef</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
+  </entry>
+  <entry>
+    <title>Meet RCB Scientists</title>
+    <link href="https://rcb.res.in/index.php/scientist-visit-school"/>
+    <id>urn:jobwatch:8887bb109967</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
+  </entry>
   <entry>
     <title>PhD Scholarship in RNA Structure Computational Analysis at University of Copenhagen, Denmark</title>
     <link href="https://researchersjob.com/phd-scholarship-in-rna-structure/"/>
@@ -1003,54 +1052,5 @@
     <id>urn:jobwatch:4b70b5548d34</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Nature Careers · China · Deadline 2027-05-14 · score 75</summary>
-  </entry>
-  <entry>
-    <title>Inviting applications for Research Associate-I (two posts): under Dr. Debasis Chattopadhyay</title>
-    <link href="https://zoombio.org/jobs/inviting-applications-for-research-associate-i-two-posts-under-dr-debasis-chattopadhyay-ov6i6dk"/>
-    <id>urn:jobwatch:eea95f7f5d94</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-22 · score 69</summary>
-  </entry>
-  <entry>
-    <title>China National Center for Bioinformation Announces Global Recruitment for High-Level Talents</title>
-    <link href="https://www.nature.com/naturecareers/job/12860964/china-national-center-for-bioinformation-announces-global-recruitment-for-high-level-talents/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:1b2bb4c3003f</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Nature Careers · China · Deadline 2027-06-23 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Applications are invited for the post of Sr. Project Associate against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/094 dtd. 25/06/2026 for Project entitled: An Integrative-genomics framework to identify core genes casually driving complex trait risk. PI-Dr.Sams</title>
-    <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-sr-project-associate-against-advertisement-no-sntjlpe"/>
-    <id>urn:jobwatch:62da619c520e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-25 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Applications are invited for the post of PA-I against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/093dtd. 25/06/2026 for Project entitled: Integrative-genomics approach to identify and functionalize regulatory variants from GWAS data with applications to type-2</title>
-    <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-pa-i-against-advertisement-no-nibmg-admin-estb-du4oh7r"/>
-    <id>urn:jobwatch:821135a953ed</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-06-25 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Open Positions - Specialist Series University of California, Irvine · Irvine ·</title>
-    <link href="https://www.openpostdoc.org/position/14347aec-1609-4c71-aafb-85cef8a09c6f"/>
-    <id>urn:jobwatch:2f1d7c407cc9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine ·</title>
-    <link href="https://www.openpostdoc.org/position/bc6c2fa7-d304-448f-ad16-2fca2b4775f3"/>
-    <id>urn:jobwatch:515c02f81b4c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Open Positions - Project Scientist Series University of California, Irvine · Irvine ·</title>
-    <link href="https://www.openpostdoc.org/position/e8bd1cdf-abbb-4c6a-b844-c446f0f46643"/>
-    <id>urn:jobwatch:4c95b9001701</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] OpenPostdoc — bioinformatics · United States · Deadline 2027-06-30 · score 69</summary>
   </entry>
 </feed>
