@@ -2,13 +2,139 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-04T20:04:46Z</updated>
+  <updated>2026-11-05T09:51:33Z</updated>
+  <entry>
+    <title>Postdoctoral Research Associate (Fixed Term) University of Cambridge · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/5d2a4b71-60f9-4887-b3f4-403aff7c2882"/>
+    <id>urn:jobwatch:7fdfad959986</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-08 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Research Fellow University of Warwick · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/cbd7dfe6-723e-4746-8b42-ac5c65f2b0b4"/>
+    <id>urn:jobwatch:eae6ff87fda3</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-08 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Research &amp; Project Scientist Positions at ICGEB, New Delhi, India</title>
+    <link href="https://researchersjob.com/project-scientist-positions-at-icgeb/"/>
+    <id>urn:jobwatch:ddbff105ef4d</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[project] Researchersjob.com · India · Deadline 2026-11-10 · score 67</summary>
+  </entry>
+  <entry>
+    <title>Bioinformatics Research Associate Imperial College London · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/46ec0794-1fc9-4f0d-91bc-8f69c884eb62"/>
+    <id>urn:jobwatch:0db13a7b0ae8</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-10 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Research Associate in Genetic Vector Control Imperial College London · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/85f5d095-5d46-45c5-a3d6-b9a6a0d3f752"/>
+    <id>urn:jobwatch:b7a3246b7061</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-10 · score 50</summary>
+  </entry>
+  <entry>
+    <title>PhD Student Position in Plant Genetics &amp; Genomics (Ref 52/2026) at CRAG, Spain</title>
+    <link href="https://researchersjob.com/phd-student-position-in-plant-genetics-genomics/"/>
+    <id>urn:jobwatch:6c414d074612</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Spain · Deadline 2026-11-10 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Associate in Proteomics (Microbial Competition and Type VI Secretion) The University of Manchester · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/7b55db35-0132-4cce-8ad3-de9ac33aadf9"/>
+    <id>urn:jobwatch:3e3de1f1a13f</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-17 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Scientist (Data Science) Quadram Institute Bioscience · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/928c49c8-95b0-455a-b113-af9782445028"/>
+    <id>urn:jobwatch:a61d7e75fa6b</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-17 · score 64</summary>
+  </entry>
+  <entry>
+    <title>Senior Research Fellow in AI applied to Genomic Medicine University of Southampton · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/2bb37600-3b45-439a-b0a5-02cfb9c67b37"/>
+    <id>urn:jobwatch:ba402e9e4f3a</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[junior] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-18 · score 70</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c"/>
+    <id>urn:jobwatch:db2a00a69868</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-27 · score 65</summary>
+  </entry>
   <entry>
     <title>Postdoctoral fellowship in wearable data science, multi-omics integration, and machine learning for precision cardiovascular health</title>
     <link href="https://euraxess.ec.europa.eu/jobs/477749"/>
     <id>urn:jobwatch:d15d98b35bbc</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-29 · score 100</summary>
+  </entry>
+  <entry>
+    <title>Research Fellow – Bioinformatics and Data Sciences</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417319/research-fellow-bioinformatics-and-data-sciences/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:4b53ce188fd8</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · United Kingdom · Deadline 2026-11-29 · score 87</summary>
+  </entry>
+  <entry>
+    <title>Post-Doctoral Fellowship in Microbiology / Genomic Analyses / Transcriptome Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (FCFRP-USP) · Brazil ·</title>
+    <link href="https://www.openpostdoc.org/position/c71696ea-5ffc-4ed4-a794-186d03efa0ca"/>
+    <id>urn:jobwatch:2179b71733f2</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-29 · score 75</summary>
+  </entry>
+  <entry>
+    <title>Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417306/post-doctoral-fellow-in-the-department-of-clinical-oncology-school-of-clinical-medicine/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:71f6f05e97a9</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2026-11-30 · score 77</summary>
+  </entry>
+  <entry>
+    <title>Postdoc in cancer systems biology Linköping University</title>
+    <link href="https://www.scilifelab.se/career/postdoc-in-cancer-systems-biology/"/>
+    <id>urn:jobwatch:c3558a05f85a</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-11-30 · score 48</summary>
+  </entry>
+  <entry>
+    <title>Post-Doctoral Position in Ancient Pathogen Genomics – Max Planck Institute (MPI EVA), Germany</title>
+    <link href="https://researchersjob.com/post-doctoral-position-in-ancient-pathogen-genomics/"/>
+    <id>urn:jobwatch:9260058f70e9</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Germany · Deadline 2026-12-01 · score 82</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow University of Oxford · United Kingdom ·</title>
+    <link href="https://www.openpostdoc.org/position/ef252c8a-4a4b-42de-a336-853df68f6318"/>
+    <id>urn:jobwatch:35a0828ca152</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-12-02 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral researcher on the project "The role of kynurenine metabolism in immune-mediated neurodevelopmental pathology after cytomegalovirus infection" at the Centre for Proteomics</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/478036"/>
+    <id>urn:jobwatch:70f22f35cb86</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-04 · score 77</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Scholar - Research Associate - Cancer Genomics and Therapeutics University of Southern California · Los Angeles, CA ·</title>
+    <link href="https://www.openpostdoc.org/position/4423cd89-160c-47fb-b0f7-d992863f1e6f"/>
+    <id>urn:jobwatch:12b97adbcb8b</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-02-28 · score 65</summary>
   </entry>
   <entry>
     <title>Postdoctoral Researcher in AI Scientist &amp; Computational Cancer Biology at University of Oxford, UK</title>
@@ -23,6 +149,20 @@
     <id>urn:jobwatch:639127dee02e</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline: see advert · score 74</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Position in the Computational Neurobiology Lab – VIB-UAntwerp, Belgium</title>
+    <link href="https://researchersjob.com/postdoctoral-position-in-the-computational-neurobiology/"/>
+    <id>urn:jobwatch:e20a4251d3b8</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Belgium · Deadline: see advert · score 59</summary>
+  </entry>
+  <entry>
+    <title>Life Sciences Freshers Jobs at PSG Institute | Apply Online Now</title>
+    <link href="https://www.biotecnika.org/2026/11/psg-institute-recruitment-2026/"/>
+    <id>urn:jobwatch:74281cbd469b</id>
+    <updated>2026-11-05T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 47</summary>
   </entry>
   <entry>
     <title>University of Delhi South Campus Postdoc Functional Cancer Genomics 2026 | Amit Dutt Lab Liquid Biopsy</title>
@@ -107,13 +247,6 @@
     <id>urn:jobwatch:d66b1cd93bbb</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-05 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoc Researcher AI/Machine Learn for Multimodal Cardiovasc Data (VASCUL-AID) Are you a machine-learning researcher who wants your models to change how patients are treated? Do you enjoy turning complex, multimodal clinical and molecular data into prediction</title>
-    <link href="https://www.academictransfer.com/en/jobs/365056/postdoc-researcher-aimachine-learn-for-multimodal-cardiovasc-data-vascul-aid/"/>
-    <id>urn:jobwatch:21f8e7981d69</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-06 · score 65</summary>
   </entry>
   <entry>
     <title>Postdoc Employee – Systems Biology – Molecular &amp; Cell Biology University of California, Berkeley · Berkeley ·</title>
@@ -919,138 +1052,5 @@
     <id>urn:jobwatch:6083123f1405</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-12-16 · score 40</summary>
-  </entry>
-  <entry>
-    <title>JRF Vacancies at BRIC-ILS | 17 Positions Available</title>
-    <link href="https://www.biotecnika.org/2026/10/bric-ils-bhubaneswar-jrf-vacancy-phd-program-2026/"/>
-    <id>urn:jobwatch:06c90edc47aa</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[junior] Biotecnika (life-science job news) · India · Deadline 2026-12-22 · score 42</summary>
-  </entry>
-  <entry>
-    <title>Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain</title>
-    <link href="https://www.nature.com/naturecareers/job/12866060/senior-bioinformatics-research-scientist-bioinformatics-research-scientist-neurobiology-and-brain/"/>
-    <id>urn:jobwatch:415facf2dc58</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2026-12-23 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in Pulmonary - Belperio Lab 2026-2027 University of California, Los Angeles · Los Angeles ·</title>
-    <link href="https://www.openpostdoc.org/position/c6e9be34-d19d-4d89-bcb6-f34961f8bd26"/>
-    <id>urn:jobwatch:63bdb16d8269</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-30 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow (CBDS/SXY) National University of Singapore · Singapore ·</title>
-    <link href="https://www.openpostdoc.org/position/f6255658-0049-453c-b735-624e72b0b89b"/>
-    <id>urn:jobwatch:ed4bc803b026</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Singapore · Deadline 2026-12-31 · score 92</summary>
-  </entry>
-  <entry>
-    <title>BRIC-CDFD Hyderabad Recruitment 2026 | Earn Rs 1.6 Lakh Per Month</title>
-    <link href="https://www.biotecnika.org/2026/10/cdfd-recruitment-2026-scientist-iv-iii-hyderabad/"/>
-    <id>urn:jobwatch:0ff20a2e642c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2026-12-31 · score 67</summary>
-  </entry>
-  <entry>
-    <title>Applications are invited for Research Associate-I-01(One) against Advertisement No. NIBMG/ADMIN/ESTB/2026-27/ 003 dtd. 06/04/2026 for Project entitled :Identify, characterize and determine the in vivo efficacy of small molecules using a synthetic lethality scr</title>
-    <link href="https://www.nibmg.ac.in/uploads/5c47aab1ed66b60ce5420d76ce692bb0.pdf"/>
-    <id>urn:jobwatch:6d6e437e5188</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] BRIC-NIBMG Kalyani (genomics) · India · Deadline 2026-12-31 · score 59</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Scholar: Translational Cancer Biomarkers and Molecular Assay Development University of California, Los Angeles · Los Angeles ·</title>
-    <link href="https://www.openpostdoc.org/position/66e3ccb3-d9de-4550-987a-b61fb31e23a3"/>
-    <id>urn:jobwatch:ac99eef18c59</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-01-01 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Fellow in the School of Biomedical Sciences</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/416605/post-doctoral-fellow-in-the-school-of-biomedical-sciences/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:92fbb522f9f8</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2027-01-13 · score 100</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow Position – Cancer Immunotherapies</title>
-    <link href="https://www.nature.com/naturecareers/job/12865818/postdoctoral-fellow-position-cancer-immunotherapies/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:2c1844d30937</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Nature Careers · International · Deadline 2027-01-15 · score 84</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow, Computational Biology in Cancer – Chan Lab at Memorial Sloan Kettering Cancer Center Memorial Sloan Kettering Cancer Center · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/b6f60ce2-7317-4f2c-8c8d-edf73bacf162"/>
-    <id>urn:jobwatch:09ddf9171c8c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2027-01-18 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/416959/tenure-track-professor-associate-professor-assistant-professor-in-the-department-of-ophthalmology/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:73316efd646a</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Times Higher Education Jobs · Hong Kong · Deadline 2027-01-21 · score 77</summary>
-  </entry>
-  <entry>
-    <title>DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS</title>
-    <link href="https://www.nature.com/naturecareers/job/12866156/department-of-molecular-and-human-genetics-tenured-and-tenure-track-research-faculty-positions/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:da59781faa9f</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2027-01-26 · score 75</summary>
-  </entry>
-  <entry>
-    <title>The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher</title>
-    <link href="https://www.nature.com/naturecareers/job/12866116/the-university-of-osaka-immunology-frontier-research-center-postdoctoral-researcher/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:a3d60a90adda</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Nature Careers · Japan · Deadline 2027-01-29 · score 79</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral researchers and Junior group leaders</title>
-    <link href="https://www.nature.com/naturecareers/job/12866312/postdoctoral-researchers-and-junior-group-leaders-/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:e21e73c917d9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Nature Careers · International · Deadline 2027-01-31 · score 62</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow (Cancer Science Institute of Singapore, Dr Peter Yeow's Lab) 1 National University of Singapore · Singapore ·</title>
-    <link href="https://www.openpostdoc.org/position/9a2e93b4-5ac4-4b1d-850c-9c20df61ade8"/>
-    <id>urn:jobwatch:0dd4552fd8b5</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Singapore · Deadline 2027-02-04 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow (Bioinformatics) National University of Singapore · Singapore ·</title>
-    <link href="https://www.openpostdoc.org/position/64c571b2-ed5e-478a-9a23-f2cd982b494f"/>
-    <id>urn:jobwatch:52d848afdce6</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Singapore · Deadline 2027-02-07 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow (CBDS/CJM) National University of Singapore · Singapore ·</title>
-    <link href="https://www.openpostdoc.org/position/0cca3613-5440-42e3-8d47-2afd96cb180d"/>
-    <id>urn:jobwatch:4f8223962c67</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Singapore · Deadline 2027-03-02 · score 88</summary>
-  </entry>
-  <entry>
-    <title>Project Associate II – Wastewater Surveillance of SARS‑CoV‑2 and Antimicrobial Resistance</title>
-    <link href="https://zoombio.org/jobs/project-associate-ii-wastewater-surveillance-of-sars-cov-2-and-antimicrobial-resistance-ndts7k6"/>
-    <id>urn:jobwatch:4925fd4d1876</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2027-03-02 · score 62</summary>
-  </entry>
-  <entry>
-    <title>Research Scientist Job at PGIMER | Earn Up To ₹80,000 per month</title>
-    <link href="https://www.biotecnika.org/2026/10/pgimer-research-scientist-jobs/"/>
-    <id>urn:jobwatch:5949ed78a38b</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2027-03-09 · score 67</summary>
   </entry>
 </feed>
