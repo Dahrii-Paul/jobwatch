@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-06T01:59+05:30",
+  "updated": "2026-11-06T15:24+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2214,
-   "open_matches": 331,
-   "urgent": 75,
-   "new_this_run": 10,
+   "total_indexed": 2252,
+   "open_matches": 339,
+   "urgent": 76,
+   "new_this_run": 7,
    "saved": 0,
    "permanent_india": 81,
    "postdoc_india": 18,
-   "postdoc_abroad": 138,
-   "permanent_abroad": 35,
-   "sources_ok": 165,
+   "postdoc_abroad": 144,
+   "permanent_abroad": 36,
+   "sources_ok": 163,
    "sources_total": 209
   }
  },
@@ -33,7 +33,7 @@
    "count": 1,
    "url": "https://www.icmr.gov.in/recruitment-portal",
    "error": "",
-   "seconds": 4.2
+   "seconds": 4.0
   },
   {
    "id": "dbt",
@@ -44,7 +44,7 @@
    "count": 0,
    "url": "https://dbtindia.gov.in/whats-new/vacancies",
    "error": "https://dbtindia.gov.in/whats-new/vacancies: ConnectionError; https://dbtindia.gov.in/: ConnectionError",
-   "seconds": 6.2
+   "seconds": 6.1
   },
   {
    "id": "dst",
@@ -56,9 +56,9 @@
    "url": "https://www.dst.gov.in/",
    "error": "https://dst.gov.in/whatsnew/recruitment: 0 job-like links; https://dst.gov.in/: 0 job-like links",
    "seen_links": [
-    "[page size 8113 chars]"
+    "[page size 8115 chars]"
    ],
-   "seconds": 3.4
+   "seconds": 4.5
   },
   {
    "id": "bric",
@@ -70,7 +70,7 @@
    "url": "https://www.bric.nic.in/ibric-advertisements/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 11.4
+   "seconds": 11.2
   },
   {
    "id": "asrb",
@@ -81,7 +81,7 @@
    "count": 0,
    "url": "https://www.asrb.org.in/",
    "error": "https://www.asrb.org.in/: ConnectTimeout",
-   "seconds": 79.6
+   "seconds": 79.9
   },
   {
    "id": "upsc",
@@ -92,7 +92,7 @@
    "count": 0,
    "url": "https://upsc.gov.in/recruitment/recruitment-advertisement",
    "error": "https://upsc.gov.in/recruitment/recruitment-advertisement: ConnectTimeout",
-   "seconds": 78.8
+   "seconds": 78.9
   },
   {
    "id": "csir",
@@ -103,7 +103,7 @@
    "count": 1,
    "url": "https://www.csir.res.in/en/notification",
    "error": "",
-   "seconds": 1.9
+   "seconds": 2.0
   },
   {
    "id": "ncbs",
@@ -119,9 +119,9 @@
     "Anubis -> https://github.com/TecharoHQ/anubis",
     "Techaro -> https://techaro.lol",
     "CELPHASE -> https://bsky.app/profile/celphase.bsky.social",
-    "[page size 7160 chars]"
+    "[page size 7162 chars]"
    ],
-   "seconds": 1.7
+   "seconds": 1.2
   },
   {
    "id": "ccmb",
@@ -132,7 +132,7 @@
    "count": 4,
    "url": "https://www.ccmb.res.in/",
    "error": "",
-   "seconds": 18.5
+   "seconds": 40.1
   },
   {
    "id": "igib",
@@ -144,7 +144,7 @@
    "url": "https://www.igib.in/projects_positions",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 14.9
+   "seconds": 9.5
   },
   {
    "id": "nibmg",
@@ -155,7 +155,7 @@
    "count": 86,
    "url": "https://www.nibmg.ac.in/p/career",
    "error": "",
-   "seconds": 6.7
+   "seconds": 6.1
   },
   {
    "id": "rgcb",
@@ -166,7 +166,7 @@
    "count": 6,
    "url": "https://rgcb.res.in/jobs.php",
    "error": "",
-   "seconds": 1.2
+   "seconds": 1.3
   },
   {
    "id": "cdfd",
@@ -177,7 +177,7 @@
    "count": 5,
    "url": "https://www.cdfd.org.in/careers",
    "error": "",
-   "seconds": 1.0
+   "seconds": 1.2
   },
   {
    "id": "thsti",
@@ -188,7 +188,7 @@
    "count": 18,
    "url": "https://thsti.res.in/",
    "error": "",
-   "seconds": 18.0
+   "seconds": 24.3
   },
   {
    "id": "nii",
@@ -199,7 +199,7 @@
    "count": 1,
    "url": "https://www.nii.res.in/",
    "error": "",
-   "seconds": 3.1
+   "seconds": 7.1
   },
   {
    "id": "instem",
@@ -210,7 +210,7 @@
    "count": 2,
    "url": "https://instem.res.in/opportunities",
    "error": "",
-   "seconds": 1.8
+   "seconds": 1.9
   },
   {
    "id": "icgeb",
@@ -221,7 +221,7 @@
    "count": 3,
    "url": "https://www.icgeb.org/",
    "error": "",
-   "seconds": 4.7
+   "seconds": 3.7
   },
   {
    "id": "researchersjob",
@@ -232,7 +232,7 @@
    "count": 280,
    "url": "https://researchersjob.com/wp-json",
    "error": "",
-   "seconds": 49.6
+   "seconds": 59.3
   },
   {
    "id": "biotecnika",
@@ -240,10 +240,10 @@
    "region": "india",
    "verified": false,
    "ok": true,
-   "count": 202,
+   "count": 206,
    "url": "https://www.biotecnika.org/wp-json",
    "error": "",
-   "seconds": 53.1
+   "seconds": 59.6
   },
   {
    "id": "scilifelab",
@@ -254,7 +254,7 @@
    "count": 9,
    "url": "https://www.scilifelab.se/careers/?filter=researchers-research-engineers-and-postdocs",
    "error": "",
-   "seconds": 4.7
+   "seconds": 3.7
   },
   {
    "id": "euraxess",
@@ -262,10 +262,10 @@
    "region": "abroad",
    "verified": false,
    "ok": true,
-   "count": 5,
+   "count": 4,
    "url": "https://euraxess.ec.europa.eu/jobs/search?keywords=bioinformatics",
    "error": "",
-   "seconds": 5.3
+   "seconds": 3.9
   },
   {
    "id": "jobsacuk",
@@ -276,7 +276,7 @@
    "count": 10,
    "url": "https://www.jobs.ac.uk/search/?keywords=bioinformatics",
    "error": "",
-   "seconds": 14.4
+   "seconds": 12.6
   },
   {
    "id": "naturecareers",
@@ -287,7 +287,7 @@
    "count": 20,
    "url": "https://www.nature.com/naturecareers/jobs/?keywords=bioinformatics",
    "error": "",
-   "seconds": 10.0
+   "seconds": 9.5
   },
   {
    "id": "ki",
@@ -298,7 +298,7 @@
    "count": 29,
    "url": "https://ki.se/en/vacancies",
    "error": "",
-   "seconds": 4.3
+   "seconds": 7.7
   },
   {
    "id": "uu",
@@ -309,7 +309,7 @@
    "count": 7,
    "url": "https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies",
    "error": "",
-   "seconds": 4.7
+   "seconds": 4.4
   },
   {
    "id": "kth",
@@ -320,7 +320,7 @@
    "count": 3,
    "url": "https://www.kth.se/en",
    "error": "",
-   "seconds": 11.7
+   "seconds": 11.0
   },
   {
    "id": "chalmers",
@@ -331,7 +331,7 @@
    "count": 2,
    "url": "https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/",
    "error": "",
-   "seconds": 2.9
+   "seconds": 2.4
   },
   {
    "id": "lund",
@@ -342,19 +342,19 @@
    "count": 53,
    "url": "https://www.lunduniversity.lu.se/vacancies",
    "error": "",
-   "seconds": 10.0
+   "seconds": 8.1
   },
   {
    "id": "liu",
    "name": "Linköping University",
    "region": "abroad",
    "verified": false,
-   "ok": true,
-   "count": 2,
+   "ok": false,
+   "count": 0,
    "url": "https://liu.se/en",
-   "error": "",
+   "error": "https://liu.se/en/work-at-liu/vacancies: 0 job-like links; https://liu.se/en: 0 job-like links",
    "seen_links": [
-    "Svenska -> https://liu.se/jobba-pa-liu/lediga-jobb",
+    "Svenska -> https://liu.se/",
     "Education -> https://liu.se/en/education",
     "Research -> https://liu.se/en/research",
     "Collaboration -> https://liu.se/en/collaboration",
@@ -363,13 +363,7 @@
     "News -> https://liu.se/en/news",
     "Work at LiU -> https://liu.se/en/work-at-liu",
     "Contact -> https://liu.se/en/contact-liu",
-    "Work at LiU -> https://liu.se/en/work-at-liu",
-    "Help for applicants -> https://liu.se/en/work-at-liu/help-for-applicants",
-    "Employee benefits -> https://liu.se/en/work-at-liu/employee-benefits",
-    "Get to know us -> https://liu.se/en/work-at-liu/get-to-know-us",
-    "New at LiU -> https://liu.se/en/work-at-liu/new-at-liu",
-    "Contact us -> https://liu.se/en/work-at-liu/contact",
-    "Svenska -> https://liu.se/jobba-pa-liu/lediga-jobb",
+    "Svenska -> https://liu.se/",
     "Education -> https://liu.se/en/education",
     "Why LiU -> https://liu.se/en/education/why-liu",
     "Essentials -> https://liu.se/en/education/essentials",
@@ -394,9 +388,15 @@
     "Always an innovator -> https://liu.se/en/about-liu/always-an-innovator",
     "Environment and sustainability -> https://liu.se/en/about-liu/environment-and-sustainability",
     "Campus Development -> https://liu.se/en/about-liu/campus-development",
-    "[page size 57904 chars]"
+    "Quality assurance -> https://liu.se/en/about-liu/quality",
+    "News -> https://liu.se/en/news",
+    "Calendar -> https://liu.se/en/news/calendar",
+    "Archive -> https://liu.se/en/news/archive",
+    "Press Contacts -> https://liu.se/en/news/press-contacts",
+    "Work at LiU -> https://liu.se/en/work-at-liu",
+    "[page size 61647 chars]"
    ],
-   "seconds": 11.9
+   "seconds": 18.9
   },
   {
    "id": "unibas",
@@ -407,7 +407,7 @@
    "count": 1,
    "url": "https://www.unibas.ch/de/Jobs-und-Karriere/Offene-Stellen.html",
    "error": "",
-   "seconds": 10.6
+   "seconds": 18.0
   },
   {
    "id": "uzh",
@@ -462,7 +462,7 @@
     "[frame] https://ohws.prospective.ch/public/v2/careercenter/1002007/?lang=de",
     "[page size 205710 chars]"
    ],
-   "seconds": 10.3
+   "seconds": 17.1
   },
   {
    "id": "mpg",
@@ -473,7 +473,7 @@
    "count": 4,
    "url": "https://www.mpg.de/jobboard",
    "error": "",
-   "seconds": 5.2
+   "seconds": 4.8
   },
   {
    "id": "leibniz",
@@ -484,7 +484,7 @@
    "count": 2,
    "url": "https://www.leibniz-gemeinschaft.de/en",
    "error": "",
-   "seconds": 3.1
+   "seconds": 2.5
   },
   {
    "id": "dkfz",
@@ -495,7 +495,7 @@
    "count": 5,
    "url": "https://www.dkfz.de/en/career",
    "error": "",
-   "seconds": 4.9
+   "seconds": 7.1
   },
   {
    "id": "dtu",
@@ -506,7 +506,7 @@
    "count": 4,
    "url": "https://www.dtu.dk/english/about/job-and-career/vacant-positions",
    "error": "",
-   "seconds": 3.6
+   "seconds": 3.4
   },
   {
    "id": "aau",
@@ -517,7 +517,7 @@
    "count": 4,
    "url": "https://www.vacancies.aau.dk/",
    "error": "",
-   "seconds": 1.7
+   "seconds": 1.4
   },
   {
    "id": "sdu",
@@ -570,9 +570,9 @@
     "Student housing -> https://www.sdu.dk/en/uddannelse/studenthousing",
     "Fees and Funding -> https://www.sdu.dk/en/uddannelse/fees_and_funding",
     "[frame] https://www.googletagmanager.com/ns.html?id=GTM-NCMMM8",
-    "[page size 204872 chars]"
+    "[page size 205049 chars]"
    ],
-   "seconds": 9.5
+   "seconds": 13.3
   },
   {
    "id": "univie",
@@ -583,18 +583,18 @@
    "count": 1,
    "url": "https://jobs.univie.ac.at/",
    "error": "",
-   "seconds": 1.9
+   "seconds": 4.6
   },
   {
    "id": "ista",
    "name": "Institute of Science and Technology Austria",
    "region": "abroad",
    "verified": false,
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "url": "https://ist.ac.at/en/jobs/",
-   "error": "https://ist.ac.at/en/jobs/: ConnectTimeout",
-   "seconds": 79.1
+   "error": "",
+   "seconds": 3.9
   },
   {
    "id": "uq",
@@ -605,7 +605,7 @@
    "count": 4,
    "url": "https://about.uq.edu.au/careers",
    "error": "",
-   "seconds": 2.1
+   "seconds": 7.3
   },
   {
    "id": "sanger",
@@ -616,7 +616,7 @@
    "count": 21,
    "url": "https://www.sanger.ac.uk/about/careers/",
    "error": "",
-   "seconds": 1.1
+   "seconds": 3.7
   },
   {
    "id": "icmr-emp",
@@ -627,7 +627,7 @@
    "count": 23,
    "url": "https://www.icmr.gov.in/employment-opportunities",
    "error": "",
-   "seconds": 1.9
+   "seconds": 3.9
   },
   {
    "id": "bric-work",
@@ -639,7 +639,7 @@
    "url": "https://www.bric.nic.in/work-with-us/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 8.0
+   "seconds": 7.0
   },
   {
    "id": "ugc",
@@ -650,7 +650,7 @@
    "count": 6,
    "url": "https://www.ugc.gov.in/",
    "error": "",
-   "seconds": 2.3
+   "seconds": 5.6
   },
   {
    "id": "anrf",
@@ -661,7 +661,7 @@
    "count": 4,
    "url": "https://anrf.gov.in/",
    "error": "",
-   "seconds": 1.0
+   "seconds": 2.6
   },
   {
    "id": "birac",
@@ -673,7 +673,7 @@
    "url": "https://birac.nic.in/misc.php?type=v",
    "error": "",
    "note": "found via careers link",
-   "seconds": 3.2
+   "seconds": 7.6
   },
   {
    "id": "iit-madras",
@@ -684,7 +684,7 @@
    "count": 2,
    "url": "https://www.iitm.ac.in/",
    "error": "",
-   "seconds": 2.7
+   "seconds": 4.3
   },
   {
    "id": "iit-delhi",
@@ -695,7 +695,7 @@
    "count": 16,
    "url": "https://home.iitd.ac.in/jobs-iitd/index.php",
    "error": "",
-   "seconds": 2.1
+   "seconds": 3.2
   },
   {
    "id": "iit-bombay",
@@ -706,7 +706,7 @@
    "count": 1,
    "url": "https://www.iitb.ac.in/career",
    "error": "",
-   "seconds": 1.5
+   "seconds": 2.2
   },
   {
    "id": "iit-hyderabad",
@@ -717,7 +717,7 @@
    "count": 148,
    "url": "https://www.iith.ac.in/careers/",
    "error": "",
-   "seconds": 1.3
+   "seconds": 2.1
   },
   {
    "id": "iit-kanpur",
@@ -728,7 +728,7 @@
    "count": 2,
    "url": "https://www.iitk.ac.in/recruitment",
    "error": "",
-   "seconds": 4.1
+   "seconds": 4.5
   },
   {
    "id": "iit-kgp",
@@ -740,7 +740,7 @@
    "url": "https://www.iitkgp.ac.in/navpage/jobs",
    "error": "",
    "note": "found via careers link",
-   "seconds": 4.0
+   "seconds": 4.2
   },
   {
    "id": "iit-guwahati",
@@ -751,7 +751,7 @@
    "count": 16,
    "url": "https://www.iitg.ac.in/",
    "error": "",
-   "seconds": 2.2
+   "seconds": 2.6
   },
   {
    "id": "iit-roorkee",
@@ -762,7 +762,7 @@
    "count": 37,
    "url": "https://www.iitr.ac.in/",
    "error": "",
-   "seconds": 1.7
+   "seconds": 1.8
   },
   {
    "id": "iit-indore",
@@ -773,7 +773,7 @@
    "count": 2,
    "url": "https://www.iiti.ac.in/",
    "error": "",
-   "seconds": 1.2
+   "seconds": 2.6
   },
   {
    "id": "iit-jodhpur",
@@ -785,7 +785,7 @@
    "url": "https://www.iitj.ac.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 48.4
+   "seconds": 33.5
   },
   {
    "id": "iit-ropar",
@@ -799,7 +799,7 @@
    "seen_links": [
     "[page size 933 chars]"
    ],
-   "seconds": 1.1
+   "seconds": 1.3
   },
   {
    "id": "iit-mandi",
@@ -851,9 +851,9 @@
     "Mathematical and Statistical Sciences -> http://iitmandi.ac.in/schools/SMSS",
     "Physical Sciences -> http://iitmandi.ac.in/schools/SPS",
     "Indian Knowledge System and Mental Health Applications Centr -> https://iksmha.iitmandi.ac.in/",
-    "[page size 98984 chars]"
+    "[page size 98741 chars]"
    ],
-   "seconds": 80.3
+   "seconds": 80.5
   },
   {
    "id": "iit-bbs",
@@ -864,7 +864,7 @@
    "count": 2,
    "url": "https://www.iitbbs.ac.in/",
    "error": "",
-   "seconds": 1.7
+   "seconds": 3.6
   },
   {
    "id": "iit-gn",
@@ -875,7 +875,7 @@
    "count": 4,
    "url": "https://iitgn.ac.in/careers",
    "error": "",
-   "seconds": 0.9
+   "seconds": 1.0
   },
   {
    "id": "iit-patna",
@@ -887,7 +887,7 @@
    "url": "https://www.iitp.ac.in/notices",
    "error": "",
    "note": "found via careers link",
-   "seconds": 3.2
+   "seconds": 6.3
   },
   {
    "id": "iit-bhu",
@@ -951,9 +951,9 @@
     "Archives -> https://iitpkd.ac.in/archives",
     "LMS | Moodle -> https://lms.iitpkd.ac.in",
     "[frame] https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.052565408499!2d76.72327250857225!3d10.807286089298902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba86eb5b2e20413%3A0x6ac0bc1d9e6a7141!2sIIT%20Palakkad!5e0!3m2!1sen!2sin!4v1687273934671!5m2!1sen!2sin",
-    "[page size 107046 chars]"
+    "[page size 106053 chars]"
    ],
-   "seconds": 8.5
+   "seconds": 9.5
   },
   {
    "id": "iit-tirupati",
@@ -967,7 +967,7 @@
    "seen_links": [
     "[page size 1831 chars]"
    ],
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "id": "iit-dharwad",
@@ -978,7 +978,7 @@
    "count": 9,
    "url": "https://www.iitdh.ac.in/",
    "error": "",
-   "seconds": 27.4
+   "seconds": 32.2
   },
   {
    "id": "iit-jammu",
@@ -992,7 +992,7 @@
    "seen_links": [
     "[page size 8333 chars]"
    ],
-   "seconds": 6.7
+   "seconds": 2.6
   },
   {
    "id": "iit-bhilai",
@@ -1004,7 +1004,7 @@
    "url": "https://www.iitbhilai.ac.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 6.7
+   "seconds": 9.8
   },
   {
    "id": "iit-goa",
@@ -1015,7 +1015,7 @@
    "count": 8,
    "url": "https://iitgoa.ac.in/",
    "error": "",
-   "seconds": 2.6
+   "seconds": 2.5
   },
   {
    "id": "iit-ism",
@@ -1026,7 +1026,7 @@
    "count": 8,
    "url": "https://www.iitism.ac.in/",
    "error": "",
-   "seconds": 22.8
+   "seconds": 1.8
   },
   {
    "id": "iisc",
@@ -1037,7 +1037,7 @@
    "count": 17,
    "url": "https://www.iisc.ac.in/careers/",
    "error": "",
-   "seconds": 1.6
+   "seconds": 1.9
   },
   {
    "id": "iiser-pune",
@@ -1048,18 +1048,18 @@
    "count": 3,
    "url": "https://www.iiserpune.ac.in/",
    "error": "",
-   "seconds": 1.1
+   "seconds": 1.2
   },
   {
    "id": "iiser-kol",
    "name": "IISER Kolkata",
    "region": "india",
    "verified": false,
-   "ok": true,
-   "count": 4,
+   "ok": false,
+   "count": 0,
    "url": "https://apply.iiserkol.ac.in/career.html",
-   "error": "",
-   "seconds": 1.7
+   "error": "https://apply.iiserkol.ac.in/career.html: ConnectionError; https://www.iiserkol.ac.in/: ConnectionError",
+   "seconds": 54.9
   },
   {
    "id": "iiser-mohali",
@@ -1070,7 +1070,7 @@
    "count": 11,
    "url": "https://www.iisermohali.ac.in/",
    "error": "",
-   "seconds": 21.7
+   "seconds": 22.1
   },
   {
    "id": "iiser-bhopal",
@@ -1081,7 +1081,7 @@
    "count": 12,
    "url": "https://www.iiserb.ac.in/",
    "error": "",
-   "seconds": 1.5
+   "seconds": 1.8
   },
   {
    "id": "iiser-tvm",
@@ -1092,7 +1092,7 @@
    "count": 4,
    "url": "https://www.iisertvm.ac.in/openings/active_openings",
    "error": "",
-   "seconds": 1.0
+   "seconds": 4.2
   },
   {
    "id": "iiser-tirupati",
@@ -1102,52 +1102,8 @@
    "ok": false,
    "count": 0,
    "url": "https://www.iisertirupati.ac.in/",
-   "error": "https://www.iisertirupati.ac.in/: 0 job-like links",
-   "seen_links": [
-    "Old Version -> https://www.iisertirupati.ac.in/oldwebsite/",
-    "Webmail -> https://mail.gov.in",
-    "Intranet -> http://172.27.1.51/",
-    "Samarth-eGov -> https://iisertirupati.samarth.ac.in/index.php/site/login",
-    "Screen Reader -> https://www.iisertirupati.ac.in/access-screen-reader/",
-    "Login -> https://www.iisertirupati.ac.in/wp-admin/",
-    "The Institute -> https://www.iisertirupati.ac.in/about-us/",
-    "About Director -> https://www.iisertirupati.ac.in/about-director/",
-    "Board of Governors -> https://www.iisertirupati.ac.in/board-of-governors/",
-    "Senate -> https://www.iisertirupati.ac.in/senate/",
-    "ACT and Statutes -> https://www.iisertirupati.ac.in/act-and-statutes/",
-    "Records Retention Schedule -> https://www.iisertirupati.ac.in/records-retention-schedule/",
-    "Internal Committees -> https://www.iisertirupati.ac.in/internal-committees/",
-    "Annual Reports -> https://www.iisertirupati.ac.in/annual-reports/",
-    "About Logo -> https://www.iisertirupati.ac.in/about-logo/",
-    "About Tirupati -> https://www.iisertirupati.ac.in/about-tirupati/",
-    "NIRF Ranking -> https://www.iisertirupati.ac.in/nirf/",
-    "Administration -> https://www.iisertirupati.ac.in/administration-staff/",
-    "Faculty -> https://www.iisertirupati.ac.in/faculty/",
-    "On Contract -> https://www.iisertirupati.ac.in/on-contract/",
-    "Postdoctoral Research Fellows -> https://www.iisertirupati.ac.in/postdoctoral-fellows/",
-    "Prime Minister’s Research Fellowship (PMRF) -> https://www.iisertirupati.ac.in/pmrf/",
-    "Visvesvaraya PhD Scheme -> https://www.iisertirupati.ac.in/visvesvaraya-phd-scheme-list/",
-    "Students -> https://www.iisertirupati.ac.in/students/",
-    "Research -> https://www.iisertirupati.ac.in/research/",
-    "Departments -> https://www.iisertirupati.ac.in/departments/",
-    "Biology -> https://www.iisertirupati.ac.in/departments/biology/",
-    "Chemistry -> https://www.iisertirupati.ac.in/departments/chemistry/",
-    "Earth & Climate Sciences -> https://www.iisertirupati.ac.in/earth-climate-sciences/",
-    "Mathematics -> https://www.iisertirupati.ac.in/departments/mathematics/",
-    "Physics -> https://www.iisertirupati.ac.in/physics/",
-    "Humanities and Social Sciences -> https://www.iisertirupati.ac.in/humanities-and-social-sciences/",
-    "Research Facilities -> https://www.iisertirupati.ac.in/research-facilities/",
-    "Research Highlights -> https://www.iisertirupati.ac.in/research-highlights/",
-    "Publications -> https://www.iisertirupati.ac.in/publications/",
-    "Seminar/Colloquium -> https://www.iisertirupati.ac.in/colloquium/",
-    "Courses Offered -> https://www.iisertirupati.ac.in/programme/",
-    "BS-MS -> https://www.iisertirupati.ac.in/academics-bsms/",
-    "BS-ESS -> https://www.iisertirupati.ac.in/academics-bsess/",
-    "Integrated PhD -> https://www.iisertirupati.ac.in/academics-iphd/",
-    "[frame] https://www.googletagmanager.com/ns.html?id=GTM-TRSSSCM",
-    "[page size 324693 chars]"
-   ],
-   "seconds": 7.4
+   "error": "https://www.iisertirupati.ac.in/: ConnectTimeout",
+   "seconds": 78.9
   },
   {
    "id": "niser",
@@ -1158,7 +1114,7 @@
    "count": 8,
    "url": "https://www.niser.ac.in/",
    "error": "",
-   "seconds": 1.7
+   "seconds": 7.1
   },
   {
    "id": "nccs",
@@ -1169,7 +1125,7 @@
    "count": 4,
    "url": "https://www.nccs.res.in/",
    "error": "",
-   "seconds": 3.1
+   "seconds": 3.6
   },
   {
    "id": "nipgr",
@@ -1183,7 +1139,7 @@
    "seen_links": [
     "[page size 56 chars]"
    ],
-   "seconds": 1.2
+   "seconds": 3.8
   },
   {
    "id": "nbrc",
@@ -1197,7 +1153,7 @@
    "seen_links": [
     "[page size 105 chars]"
    ],
-   "seconds": 1.2
+   "seconds": 1.6
   },
   {
    "id": "ils",
@@ -1208,7 +1164,7 @@
    "count": 3,
    "url": "https://www.ils.res.in/",
    "error": "",
-   "seconds": 5.0
+   "seconds": 4.5
   },
   {
    "id": "niab",
@@ -1234,7 +1190,7 @@
    "count": 1,
    "url": "https://nabi.res.in/",
    "error": "",
-   "seconds": 2.0
+   "seconds": 2.1
   },
   {
    "id": "ibsd",
@@ -1256,7 +1212,7 @@
    "count": 10,
    "url": "https://rcb.res.in/",
    "error": "",
-   "seconds": 3.0
+   "seconds": 2.9
   },
   {
    "id": "imtech",
@@ -1310,7 +1266,7 @@
     "Patents -> https://www.imtech.res.in/achievements/patents",
     "[page size 132582 chars]"
    ],
-   "seconds": 1.8
+   "seconds": 6.2
   },
   {
    "id": "cdri",
@@ -1364,7 +1320,7 @@
     "Toxicology -> https://cdri.res.in/GLP.aspx",
     "[page size 178279 chars]"
    ],
-   "seconds": 1.9
+   "seconds": 3.2
   },
   {
    "id": "iicb",
@@ -1375,7 +1331,7 @@
    "count": 0,
    "url": "https://iicb.res.in/",
    "error": "https://iicb.res.in/: ConnectTimeout",
-   "seconds": 78.8
+   "seconds": 79.5
   },
   {
    "id": "cftri",
@@ -1383,10 +1339,10 @@
    "region": "india",
    "verified": false,
    "ok": true,
-   "count": 4,
+   "count": 3,
    "url": "https://cftri.res.in/",
    "error": "",
-   "seconds": 1.5
+   "seconds": 1.7
   },
   {
    "id": "neeri",
@@ -1398,7 +1354,7 @@
    "url": "https://www.neeri.res.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 16.6
+   "seconds": 16.4
   },
   {
    "id": "clri",
@@ -1452,9 +1408,9 @@
     "Engineering Services Department -> https://clri.org/DepartmentDetails.aspx?D=135",
     "[frame] https://clri.org/videos/14.05.08.mp4",
     "[frame] https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1943.7088380823948!2d80.2440469!3d13.009052950000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5267976f80a8fd%3A0x2a683d2afe3c7c5a!2sCentral+Leather+Research+Institute!5e0!3m2!1sen!2sin!4v1437727330756\"",
-    "[page size 665289 chars]"
+    "[page size 665406 chars]"
    ],
-   "seconds": 2.9
+   "seconds": 3.0
   },
   {
    "id": "aiims-delhi",
@@ -1466,7 +1422,7 @@
    "url": "https://www.aiims.edu/index.php/en/notices/notices",
    "error": "",
    "note": "found via careers link",
-   "seconds": 3.0
+   "seconds": 3.7
   },
   {
    "id": "aiims-jodhpur",
@@ -1477,7 +1433,7 @@
    "count": 0,
    "url": "https://www.aiimsjodhpur.edu.in/",
    "error": "https://www.aiimsjodhpur.edu.in/: ConnectionError",
-   "seconds": 3.8
+   "seconds": 4.9
   },
   {
    "id": "aiims-rishikesh",
@@ -1488,7 +1444,7 @@
    "count": 6,
    "url": "https://aiimsrishikesh.edu.in/a1_1/",
    "error": "",
-   "seconds": 0.6
+   "seconds": 0.5
   },
   {
    "id": "aiims-bhopal",
@@ -1499,7 +1455,7 @@
    "count": 0,
    "url": "https://aiimsbhopal.edu.in/",
    "error": "https://aiimsbhopal.edu.in/: ConnectTimeout",
-   "seconds": 79.7
+   "seconds": 83.4
   },
   {
    "id": "aiims-bbs",
@@ -1507,10 +1463,10 @@
    "region": "india",
    "verified": false,
    "ok": true,
-   "count": 241,
+   "count": 242,
    "url": "https://aiimsbhubaneswar.nic.in/",
    "error": "",
-   "seconds": 13.1
+   "seconds": 14.2
   },
   {
    "id": "aiims-patna",
@@ -1524,7 +1480,7 @@
    "seen_links": [
     "[page size 1359 chars]"
    ],
-   "seconds": 0.1
+   "seconds": 0.2
   },
   {
    "id": "aiims-raipur",
@@ -1535,7 +1491,7 @@
    "count": 9,
    "url": "https://www.aiimsraipur.edu.in/",
    "error": "",
-   "seconds": 1.8
+   "seconds": 1.9
   },
   {
    "id": "jipmer",
@@ -1543,11 +1499,11 @@
    "region": "india",
    "verified": false,
    "ok": true,
-   "count": 9,
+   "count": 12,
    "url": "https://jipmer.edu.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 21.1
+   "seconds": 24.2
   },
   {
    "id": "pgimer",
@@ -1562,7 +1518,7 @@
    "seen_links": [
     "[page size 446 chars]"
    ],
-   "seconds": 5.5
+   "seconds": 5.8
   },
   {
    "id": "nimhans",
@@ -1573,7 +1529,7 @@
    "count": 1,
    "url": "https://www.nimhans.ac.in/",
    "error": "",
-   "seconds": 4.6
+   "seconds": 7.3
   },
   {
    "id": "sctimst",
@@ -1584,7 +1540,7 @@
    "count": 8,
    "url": "https://www.sctimst.ac.in/",
    "error": "",
-   "seconds": 3.9
+   "seconds": 6.0
   },
   {
    "id": "niper",
@@ -1596,7 +1552,7 @@
    "url": "https://www.niper.gov.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 10.1
+   "seconds": 9.1
   },
   {
    "id": "actrec",
@@ -1607,7 +1563,7 @@
    "count": 16,
    "url": "https://actrec.gov.in/",
    "error": "",
-   "seconds": 28.2
+   "seconds": 2.1
   },
   {
    "id": "tmc",
@@ -1659,9 +1615,9 @@
     "Donate -> https://tmc.gov.in/m_donation",
     "Contact Us -> https://tmc.gov.in/contactus",
     "Search -> https://tmc.gov.in/Search",
-    "[page size 32817 chars]"
+    "[page size 33902 chars]"
    ],
-   "seconds": 4.7
+   "seconds": 6.3
   },
   {
    "id": "tifr",
@@ -1715,7 +1671,7 @@
     "Policy -> https://www.tifr.res.in/sitemap.html",
     "[page size 16721914 chars]"
    ],
-   "seconds": 5.3
+   "seconds": 6.3
   },
   {
    "id": "nirt",
@@ -1726,7 +1682,7 @@
    "count": 4,
    "url": "https://nirt.res.in/",
    "error": "",
-   "seconds": 2.8
+   "seconds": 4.8
   },
   {
    "id": "nie",
@@ -1737,7 +1693,7 @@
    "count": 2,
    "url": "https://nie.gov.in/",
    "error": "",
-   "seconds": 2.9
+   "seconds": 1.7
   },
   {
    "id": "niv",
@@ -1748,7 +1704,7 @@
    "count": 7,
    "url": "https://niv.co.in/",
    "error": "",
-   "seconds": 0.2
+   "seconds": 0.3
   },
   {
    "id": "nirrch",
@@ -1760,7 +1716,7 @@
    "url": "https://nirwoh.icmr.gov.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 17.9
+   "seconds": 11.5
   },
   {
    "id": "ncdir",
@@ -1776,7 +1732,7 @@
     "Click here to proceed to ICMR-NINE Website -> https://icmrnine.org",
     "[page size 4483 chars]"
    ],
-   "seconds": 0.8
+   "seconds": 0.9
   },
   {
    "id": "nib",
@@ -1831,7 +1787,7 @@
     "[frame] https://nib.gov.in/whatsnewhindi.aspx",
     "[page size 73030 chars]"
    ],
-   "seconds": 1.7
+   "seconds": 1.8
   },
   {
    "id": "ncdc",
@@ -1842,7 +1798,7 @@
    "count": 4,
    "url": "https://ncdc.mohfw.gov.in/",
    "error": "",
-   "seconds": 1.2
+   "seconds": 1.4
   },
   {
    "id": "insa",
@@ -1853,7 +1809,7 @@
    "count": 6,
    "url": "https://insaindia.res.in/",
    "error": "",
-   "seconds": 2.1
+   "seconds": 5.9
   },
   {
    "id": "uohyd",
@@ -1864,7 +1820,7 @@
    "count": 2,
    "url": "https://uohyd.ac.in/",
    "error": "",
-   "seconds": 1.0
+   "seconds": 1.2
   },
   {
    "id": "jnu",
@@ -1916,9 +1872,9 @@
     "Honorary Degrees -> https://www.jnu.ac.in/Academics/HonoraryDegreesToDignitaries.pdf",
     "Academic Calendar -> https://www.jnu.ac.in/content/academic-calendar",
     "Programme List -> https://www.jnu.ac.in/sites/default/files/AcademicProgrammes2025-26.pdf",
-    "[page size 130411 chars]"
+    "[page size 130787 chars]"
    ],
-   "seconds": 5.3
+   "seconds": 6.2
   },
   {
    "id": "pondiuni",
@@ -1929,7 +1885,7 @@
    "count": 2,
    "url": "https://www.pondiuni.edu.in/",
    "error": "",
-   "seconds": 5.1
+   "seconds": 5.3
   },
   {
    "id": "bhu",
@@ -1983,7 +1939,7 @@
     "[frame] https://www.bhu.ac.in/Site/Home/1_2_7047_Main-Site",
     "[page size 48020 chars]"
    ],
-   "seconds": 1.7
+   "seconds": 9.8
   },
   {
    "id": "du",
@@ -1994,23 +1950,19 @@
    "count": 47,
    "url": "https://www.du.ac.in/",
    "error": "",
-   "seconds": 3.5
+   "seconds": 4.4
   },
   {
    "id": "amu",
    "name": "Aligarh Muslim University",
    "region": "india",
    "verified": false,
-   "ok": false,
-   "count": 0,
+   "ok": true,
+   "count": 1,
    "url": "https://www.amu.ac.in/",
-   "error": "https://www.amu.ac.in/: 0 job-like links",
+   "error": "",
    "note": "site has a broken TLS certificate",
-   "seen_links": [
-    "[frame] https://www.googletagmanager.com/ns.html?id=GTM-PCVWHCR",
-    "[page size 42359 chars]"
-   ],
-   "seconds": 6.2
+   "seconds": 8.6
   },
   {
    "id": "tezu",
@@ -2021,7 +1973,7 @@
    "count": 7,
    "url": "https://www.tezu.ernet.in/",
    "error": "",
-   "seconds": 2.4
+   "seconds": 5.1
   },
   {
    "id": "curaj",
@@ -2033,7 +1985,7 @@
    "url": "https://curaj.ac.in/",
    "error": "",
    "note": "site has a broken TLS certificate",
-   "seconds": 7.9
+   "seconds": 8.0
   },
   {
    "id": "cup",
@@ -2044,7 +1996,7 @@
    "count": 6,
    "url": "https://www.cup.edu.in/",
    "error": "",
-   "seconds": 2.7
+   "seconds": 2.9
   },
   {
    "id": "cutn",
@@ -2055,7 +2007,7 @@
    "count": 3,
    "url": "https://cutn.ac.in/",
    "error": "",
-   "seconds": 3.4
+   "seconds": 3.6
   },
   {
    "id": "nehu",
@@ -2066,7 +2018,7 @@
    "count": 5,
    "url": "https://nehu.ac.in/",
    "error": "",
-   "seconds": 1.9
+   "seconds": 4.9
   },
   {
    "id": "aus",
@@ -2077,7 +2029,7 @@
    "count": 1,
    "url": "https://www.aus.ac.in/",
    "error": "",
-   "seconds": 5.3
+   "seconds": 4.7
   },
   {
    "id": "cuk",
@@ -2087,19 +2039,66 @@
    "ok": false,
    "count": 0,
    "url": "https://www.cukerala.ac.in/",
-   "error": "https://www.cukerala.ac.in/: ConnectionError",
-   "seconds": 78.2
+   "error": "https://www.cukerala.ac.in/: 0 job-like links",
+   "seen_links": [
+    "Emergency Services -> https://www.cukerala.ac.in/Facilities/Facilities_CUK_MedicalOfficer",
+    "Library -> https://library.cukerala.ac.in/",
+    "RTI -> https://www.cukerala.ac.in/CUK_RTI",
+    "Directory -> https://www.cukerala.ac.in/CUK_Directory",
+    "IT Helpdesk -> https://helpdesk.cukerala.ac.in/portal?organization_name=CUKERALA",
+    "IT Support -> https://drive.google.com/file/d/1WMGWA_aeDYa0ghtR2jBUlJa5GmbC7yZD/view?usp=sharing",
+    "ERP -> https://www.cukerala.ac.in/ERP/ERP_CUK_E-Learning",
+    "Samarth -> https://www.cukerala.ac.in/Samarth/Samarth_CUK_EmployeeLogin",
+    "Alumni Portal -> https://alumni.cukerala.ac.in/",
+    "Screen Reader -> https://www.cukerala.ac.in/CUK_ScreenReader",
+    "Hindi Version -> https://www.cukerala.ac.in/Home",
+    "INTERACT WITH VC -> https://www.cukerala.ac.in/StudentCorner/CUK_IntractVC",
+    "HOME (current) -> https://www.cukerala.ac.in/Index",
+    "About Us -> https://www.cukerala.ac.in/About/About_CUKERALA",
+    "Vision -> https://www.cukerala.ac.in/About/About_CUK_Vision",
+    "Mission -> https://www.cukerala.ac.in/About/About_CUK_Mission",
+    "Core Values -> https://www.cukerala.ac.in/About/About_CUK_CoreValues",
+    "Strategic Plans -> https://www.cukerala.ac.in/About/About_CUK_Strategic",
+    "Objectives -> https://www.cukerala.ac.in/About/About_CUK_Objectives",
+    "Logo -> https://www.cukerala.ac.in/About/About_CUK_Logo",
+    "Location -> https://www.cukerala.ac.in/About/About_CUK_Location",
+    "Milestones -> https://www.cukerala.ac.in/About/About_CUK_Milestones",
+    "Leadership -> https://www.cukerala.ac.in/About/About_CUK_OurLeaders",
+    "Roll of Honour -> https://www.cukerala.ac.in/About/About_CUK_RollOfHonour",
+    "Acts, Statutes & Ordinances -> https://www.cukerala.ac.in/About/About_CUK_ActsAndStatutes",
+    "Policies -> https://www.cukerala.ac.in/About/About_CUK_Policies",
+    "New Initiatives -> https://www.cukerala.ac.in/About/About_CUK_NewInitiatives",
+    "Annual Reports -> https://www.cukerala.ac.in/About/About_CUK_AnnualReports",
+    "MoU’s -> https://www.cukerala.ac.in/About/About_CUK_MoU",
+    "GOVERNANCE -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Main",
+    "Visitor -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Visitor",
+    "Vice Chancellor -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_VC",
+    "Registrar -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Registrar",
+    "Finance Officer -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_FO",
+    "Controller of Examinations -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_COE",
+    "Chief Vigilance Officer -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_CVO",
+    "Ombudsperson -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Ombudsperson",
+    "Officers -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Officers",
+    "Committees -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Committees",
+    "Various Cells -> https://www.cukerala.ac.in/Adminpages/Admin_CUK_Cells",
+    "[frame] https://www.youtube.com/embed/hTLWmQQP8kM?si=SAHxmE70652yYrnn",
+    "[frame] https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fmrocukerala&tabs=timeline%2Cevents&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId",
+    "[frame] https://www.youtube.com/embed/kSlP7LaaLIo?si=mOg3wGn7RKN6IrO5",
+    "[frame] https://www.youtube.com/embed/hPK24t-YPjw?si=DquT8MpDd3ChZCZR",
+    "[page size 165185 chars]"
+   ],
+   "seconds": 1.4
   },
   {
    "id": "zoombio",
    "name": "Zoombio — bioinformatics jobs India",
    "region": "mixed",
    "verified": false,
-   "ok": true,
-   "count": 10,
+   "ok": false,
+   "count": 0,
    "url": "https://zoombio.org/jobs/bioinformatics/india",
-   "error": "",
-   "seconds": 7.1
+   "error": "https://zoombio.org/jobs/bioinformatics/india: ConnectionError",
+   "seconds": 5.7
   },
   {
    "id": "iist",
@@ -2110,7 +2109,7 @@
    "count": 2,
    "url": "https://www.iist.ac.in/",
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.5
   },
   {
    "id": "prl",
@@ -2129,10 +2128,10 @@
    "region": "abroad",
    "verified": false,
    "ok": true,
-   "count": 52,
+   "count": 53,
    "url": "https://www.openpostdoc.org/postdoc/bioinformatics",
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.4
   },
   {
    "id": "thejobs",
@@ -2143,7 +2142,7 @@
    "count": 20,
    "url": "https://www.timeshighereducation.com/unijobs/listings/?keywords=bioinformatics",
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.7
   },
   {
    "id": "crick",
@@ -2154,7 +2153,7 @@
    "count": 5,
    "url": "https://www.crick.ac.uk/careers-and-study",
    "error": "",
-   "seconds": 10.9
+   "seconds": 1.9
   },
   {
    "id": "cambridge",
@@ -2165,7 +2164,7 @@
    "count": 4,
    "url": "https://www.cam.ac.uk/jobs",
    "error": "",
-   "seconds": 1.3
+   "seconds": 3.5
   },
   {
    "id": "imperial",
@@ -2176,7 +2175,7 @@
    "count": 4,
    "url": "https://www.imperial.ac.uk/jobs/",
    "error": "",
-   "seconds": 0.9
+   "seconds": 1.2
   },
   {
    "id": "nih-jobs",
@@ -2187,7 +2186,7 @@
    "count": 2,
    "url": "https://hr.nih.gov/careers",
    "error": "",
-   "seconds": 0.7
+   "seconds": 0.5
   },
   {
    "id": "nih-oite",
@@ -2198,7 +2197,7 @@
    "count": 5,
    "url": "https://www.training.nih.gov/",
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.9
   },
   {
    "id": "harvard",
@@ -2221,7 +2220,7 @@
    "url": "https://jobs.universityofcalifornia.edu/",
    "error": "",
    "note": "found via careers link",
-   "seconds": 0.9
+   "seconds": 1.6
   },
   {
    "id": "ntu",
@@ -2233,7 +2232,7 @@
    "url": "https://www.ntu.edu.sg/about-us/build-a-career-at-ntu",
    "error": "",
    "note": "found via careers link",
-   "seconds": 3.3
+   "seconds": 3.2
   },
   {
    "id": "riken",
@@ -2244,18 +2243,18 @@
    "count": 2,
    "url": "https://www.riken.jp/en/careers/",
    "error": "",
-   "seconds": 0.3
+   "seconds": 0.7
   },
   {
    "id": "oist",
    "name": "OIST",
    "region": "abroad",
    "verified": false,
-   "ok": true,
-   "count": 9,
+   "ok": false,
+   "count": 0,
    "url": "https://www.oist.jp/careers",
-   "error": "",
-   "seconds": 0.3
+   "error": "https://www.oist.jp/careers: HTTP 403",
+   "seconds": 0.4
   },
   {
    "id": "utokyo",
@@ -2266,7 +2265,7 @@
    "count": 3,
    "url": "https://www.u-tokyo.ac.jp/en/",
    "error": "",
-   "seconds": 2.9
+   "seconds": 1.9
   },
   {
    "id": "kyoto",
@@ -2274,10 +2273,10 @@
    "region": "abroad",
    "verified": false,
    "ok": true,
-   "count": 2,
+   "count": 3,
    "url": "https://www.kyoto-u.ac.jp/en",
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.7
   },
   {
    "id": "fmi",
@@ -2288,7 +2287,7 @@
    "count": 1,
    "url": "https://www.fmi.ch/careers/",
    "error": "",
-   "seconds": 1.0
+   "seconds": 0.9
   },
   {
    "id": "ku",
@@ -2299,7 +2298,7 @@
    "count": 0,
    "url": "https://employment.ku.dk/",
    "error": "https://employment.ku.dk/: ConnectTimeout",
-   "seconds": 79.5
+   "seconds": 78.6
   },
   {
    "id": "wehi",
@@ -2310,7 +2309,7 @@
    "count": 5,
    "url": "https://www.wehi.edu.au/careers/",
    "error": "",
-   "seconds": 1.6
+   "seconds": 1.9
   },
   {
    "id": "garvan",
@@ -2321,7 +2320,7 @@
    "count": 10,
    "url": "https://www.garvan.org.au/",
    "error": "",
-   "seconds": 1.1
+   "seconds": 1.7
   },
   {
    "id": "unimelb",
@@ -2332,7 +2331,7 @@
    "count": 0,
    "url": "https://jobs.unimelb.edu.au/",
    "error": "https://jobs.unimelb.edu.au/: ConnectionError",
-   "seconds": 3.4
+   "seconds": 3.6
   },
   {
    "id": "utoronto",
@@ -2343,7 +2342,7 @@
    "count": 2,
    "url": "https://jobs.utoronto.ca/",
    "error": "",
-   "seconds": 0.8
+   "seconds": 0.7
   },
   {
    "id": "ubc",
@@ -2354,7 +2353,7 @@
    "count": 10,
    "url": "https://hr.ubc.ca/careers",
    "error": "",
-   "seconds": 0.5
+   "seconds": 0.6
   },
   {
    "id": "mcgill",
@@ -2365,7 +2364,7 @@
    "count": 2,
    "url": "https://www.mcgill.ca/hr/careers",
    "error": "",
-   "seconds": 0.4
+   "seconds": 0.3
   },
   {
    "id": "kaust",
@@ -2377,7 +2376,7 @@
    "url": "https://www.kaust.edu.sa/en/about/faculty-positions",
    "error": "",
    "note": "found via careers link",
-   "seconds": 1.7
+   "seconds": 1.6
   },
   {
    "id": "kaust-sfb",
@@ -2424,9 +2423,9 @@
     "Log in -> https://sfb.kaust.edu.sa/user/login?destination=/join-us",
     "Privacy Notice -> https://www.kaust.edu.sa/en/privacy-notice",
     "[frame] https://www.googletagmanager.com/ns.html?id=GTM-PFSKTRQW",
-    "[page size 35928 chars]"
+    "[page size 35930 chars]"
    ],
-   "seconds": 1.2
+   "seconds": 1.8
   },
   {
    "id": "qu",
@@ -2480,7 +2479,7 @@
     "إدارة التدقيق والالتزام -> https://www.qu.edu.qa/ar/Offices/internal_audit/Pages/default.aspx",
     "[page size 266056 chars]"
    ],
-   "seconds": 2.7
+   "seconds": 4.6
   },
   {
    "id": "academictransfer",
@@ -2491,7 +2490,7 @@
    "count": 8,
    "url": "https://www.academictransfer.com/en/jobs/?q=bioinformatics",
    "error": "",
-   "seconds": 7.5
+   "seconds": 5.9
   },
   {
    "id": "ethz",
@@ -2502,7 +2501,7 @@
    "count": 72,
    "url": "https://jobs.ethz.ch/",
    "error": "",
-   "seconds": 4.3
+   "seconds": 4.0
   },
   {
    "id": "epfl",
@@ -2513,7 +2512,7 @@
    "count": 1,
    "url": "https://www.epfl.ch/about/working/",
    "error": "",
-   "seconds": 5.5
+   "seconds": 6.3
   },
   {
    "id": "embl",
@@ -2524,7 +2523,7 @@
    "count": 4,
    "url": "https://embl.wd103.myworkdayjobs.com/EMBL",
    "error": "",
-   "seconds": 7.9
+   "seconds": 7.2
   },
   {
    "id": "nus",
@@ -2535,7 +2534,7 @@
    "count": 3,
    "url": "https://careers.nus.edu.sg/NUS/",
    "error": "",
-   "seconds": 4.3
+   "seconds": 4.7
   },
   {
    "id": "usyd",
@@ -2546,7 +2545,7 @@
    "count": 0,
    "url": "https://usyd.wd3.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE",
    "error": "https://usyd.wd3.myworkdayjobs.com/USYD_EXTERNAL_CAREER_SITE: HTTP 500",
-   "seconds": 3.2
+   "seconds": 3.8
   },
   {
    "id": "employmentnews",
@@ -2560,7 +2559,7 @@
    "seen_links": [
     "[page size 2839 chars]"
    ],
-   "seconds": 11.1
+   "seconds": 12.0
   },
   {
    "id": "icmr-portal",
@@ -2571,7 +2570,7 @@
    "count": 12,
    "url": "https://recruitment.icmr.org.in/",
    "error": "",
-   "seconds": 4.2
+   "seconds": 4.6
   },
   {
    "id": "ncs",
@@ -2582,7 +2581,7 @@
    "count": 16,
    "url": "https://ncs.gov.in/",
    "error": "",
-   "seconds": 12.4
+   "seconds": 13.0
   },
   {
    "id": "icts",
@@ -2593,7 +2592,7 @@
    "count": 5,
    "url": "https://www.icts.res.in/opportunities",
    "error": "",
-   "seconds": 7.2
+   "seconds": 10.7
   },
   {
    "id": "dae",
@@ -2647,7 +2646,7 @@
     "Vacancy Status -> https://dae.gov.in/vacancy-status/",
     "[page size 245203 chars]"
    ],
-   "seconds": 7.4
+   "seconds": 10.0
   },
   {
    "id": "biochondrion",
@@ -2658,7 +2657,7 @@
    "count": 73,
    "url": "https://biochondrion.com/opportunity-explorer/",
    "error": "",
-   "seconds": 8.6
+   "seconds": 9.2
   },
   {
    "id": "stanford",
@@ -2672,7 +2671,7 @@
    "seen_links": [
     "[page size 367163 chars]"
    ],
-   "seconds": 25.8
+   "seconds": 25.6
   },
   {
    "id": "mit",
@@ -2683,7 +2682,7 @@
    "count": 3,
    "url": "https://hr.mit.edu/jobs",
    "error": "",
-   "seconds": 7.9
+   "seconds": 6.6
   },
   {
    "id": "ucsf",
@@ -2694,7 +2693,7 @@
    "count": 1,
    "url": "https://hr.ucsf.edu/careers/employment-ucsf",
    "error": "",
-   "seconds": 3.2
+   "seconds": 3.8
   },
   {
    "id": "astar",
@@ -2723,9 +2722,9 @@
     "Opens in a new tab. -> https://x.com/astarsg",
     "Opens in a new tab. -> https://www.youtube.com/channel/UCcyl37Tw2p4eGnvpuPRFbzQ",
     "Opens in a new tab. -> https://www.instagram.com/astarsg/",
-    "[page size 49695 chars]"
+    "[page size 49694 chars]"
    ],
-   "seconds": 4.7
+   "seconds": 4.6
   },
   {
    "id": "gis",
@@ -2736,7 +2735,7 @@
    "count": 1,
    "url": "https://www.a-star.edu.sg/gis",
    "error": "",
-   "seconds": 7.3
+   "seconds": 8.1
   },
   {
    "id": "bii",
@@ -2747,7 +2746,7 @@
    "count": 1,
    "url": "https://www.a-star.edu.sg/bii",
    "error": "",
-   "seconds": 7.9
+   "seconds": 7.2
   },
   {
    "id": "duke-nus",
@@ -2800,9 +2799,9 @@
     "Academic Programmes Management -> https://www.duke-nus.edu.sg/academic-medicine/academic-programmes-management-department-(apmd)",
     "Appointments and Development -> https://www.duke-nus.edu.sg/academic-medicine/appointments-and-development-department",
     "[frame] about:blank",
-    "[page size 153378 chars]"
+    "[page size 153428 chars]"
    ],
-   "seconds": 27.8
+   "seconds": 26.9
   },
   {
    "id": "helsinki",
@@ -2813,7 +2812,7 @@
    "count": 6,
    "url": "https://www.helsinki.fi/en/about-us/careers",
    "error": "",
-   "seconds": 5.5
+   "seconds": 5.2
   },
   {
    "id": "prog:fellowships-portal",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-06T01:59+05:30",
+  "updated": "2026-11-06T15:24+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2214,
-   "open_matches": 331,
-   "urgent": 75,
-   "new_this_run": 10,
+   "total_indexed": 2252,
+   "open_matches": 339,
+   "urgent": 76,
+   "new_this_run": 7,
    "saved": 0,
    "permanent_india": 81,
    "postdoc_india": 18,
-   "postdoc_abroad": 138,
-   "permanent_abroad": 35,
-   "sources_ok": 165,
+   "postdoc_abroad": 144,
+   "permanent_abroad": 36,
+   "sources_ok": 163,
    "sources_total": 209
   }
  },
@@ -74,7 +74,7 @@
    "last_seen": "2026-11-06",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "abf88b23bdac",
@@ -183,7 +183,7 @@
    "id": "27a548cf9f6b",
    "title": "Faculty Positions in Systems Hub, HKUST (GZ)",
    "url": "https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing",
-   "context": "Faculty Positions in Systems Hub, HKUST (GZ) Guangzhou, Guangdong (CN) Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 3 days left",
+   "context": "Faculty Positions in Systems Hub, HKUST (GZ) Guangzhou, Guangdong (CN) Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 2 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -400,7 +400,7 @@
    "last_seen": "2026-11-06",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c9a6c3f7ca86",
@@ -893,7 +893,7 @@
    "id": "9de7c72b29e7",
    "title": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute",
    "url": "https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 7 days left",
+   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 6 days left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1164,7 +1164,7 @@
    "id": "e452696be4ab",
    "title": "Faculty of Health Sciences - Precision Medicine and Health Tech",
    "url": "https://www.timeshighereducation.com/unijobs/listing/403495/faculty-of-health-sciences-precision-medicine-and-health-tech/?LinkSource=PremiumListing",
-   "context": "Faculty of Health Sciences - Precision Medicine and Health Tech Vietnam (VN) VIN UNIVERSITY ABOUT VINUNIVERSITY VinUniversity (VinUni) is a private, not-for-profit Vietnamese university established based on international standards. The un... View details Faculty of Health Sciences - Precision Medicine and Health Tech 354 days ago",
+   "context": "Faculty of Health Sciences - Precision Medicine and Health Tech Vietnam (VN) VIN UNIVERSITY ABOUT VINUNIVERSITY VinUniversity (VinUni) is a private, not-for-profit Vietnamese university established based on international standards. The un... View details Faculty of Health Sciences - Precision Medicine and Health Tech 355 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1182,7 +1182,7 @@
    "details": "Faculty of Health Sciences - Precision Medicine and Health Tech Employer VIN UNIVERSITY Location Vietnam (VN) Closing date 14 Nov 2026 View more categories View less categories Academic Discipline Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry , Other Health & Social Care Job Type Academic Posts , Professors / Chairs , Readers / Senior Research Fellows , Principal / Senior Lecturers / Associate Professors , Lecturers / Ass … Faculty of Health Sciences - Precision Medicine and Health Tech Employer VIN UNIVERSITY Location Vietnam (VN) Closing date 14 Nov 2026 View more categories View less categories Academic Discipline Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry , Other Health & Social Care Job Type Academic Posts , Professors / Chairs , Readers / Senior Research Fellows , Principal / Senior Lecturers / Associate Professors , Lecturers / Assistant Professors Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … ABOUT POSITION ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
    "status": "open",
    "match": true,
    "new": false
@@ -1260,6 +1260,35 @@
    ],
    "check_advt": false,
    "score": 40,
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "status": "open",
+   "match": true,
+   "new": false
+  },
+  {
+   "id": "4bfbe0ee96f9",
+   "title": "Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presidency University Kolkata | Rs 37,000/month",
+   "url": "https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/",
+   "context": "Project Fellow / Research Fellow (DHR TRANS-MAP Study) at Presidency University, Kolkata | Rs 37,000/month The Institute of Health Sciences, Presidency University, Kolkata invites applications for one Project Staff / Research Fellow (Project Fellow) position under a Department of Health Research (DHR) Start-up Grant. Location: New Town Campus, Kolkata. Last date for email application: 15 […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-11-06",
+   "deadline": "2026-11-15",
+   "details": "Table of Contents Toggle Project Fellow / Research Fellow (DHR TRANS-MAP Study) at Presidency University, Kolkata | Rs 37,000/month Job Details Project Details Eligibility Criteria Required Skills Salary Documents Required How to Apply Interview Details Additional Information Project Fellow / Research Fellow (DHR TRANS-MAP Study) at Presidency University, Kolkata | Rs 37,000/month The Institute of Health Sciences, Presidency University, Kolkata i … TRANS-MAP study — TRANScriptomic Mapping for Axonal Prediction of the Nerve Transcriptome to Identify Serum-Based Transcription Factors for Monitoring Peripheral Nerve Regeneration and Degeneration The work is transcriptomic and translational neuroscience focused on peripheral nerve regeneration/degeneration biomarkers. … in Human Physiology / Life Sciences / Biotechnology / Biochemistry / Molecular Biology / Computational Biology or a relevant subject from a recognized University with a first class. … Experience in molecular biology, transcriptomics, RNA isolation, quantitative PCR, cell culture, clinical sample handling Computational bio",
+   "details_checked": true,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 82,
+   "matched": [
+    "biomarker",
+    "computational biology",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 82,
    "first_seen": "2026-11-06",
    "last_seen": "2026-11-06",
    "status": "open",
@@ -1445,7 +1474,7 @@
    "id": "753d833e417f",
    "title": "Associate or Senior Editor, Genome Biology",
    "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
-   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 6 days ago",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 7 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1524,7 +1553,7 @@
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
-   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 48 days ago",
+   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 49 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1743,7 +1772,7 @@
    "id": "e5e94d37373a",
    "title": "Senior Research Fellow in AI Applied to Genomic Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing",
-   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 14 days ago",
+   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 15 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1952,7 +1981,7 @@
    "id": "87832ca01a8e",
    "title": "COLCOM - Professor in Bioinformatics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing",
-   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 16 days ago",
+   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 17 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,

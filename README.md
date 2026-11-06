@@ -6,29 +6,29 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-06 01:59
+## Live stats · updated 2026-11-06 15:24
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **331** |
+| 🎯 Open matches | **339** |
 | 🏛️ Permanent posts — India | **81** |
 | 🔬 Postdocs / fellowships — India | **18** |
-| ✈️ Postdocs / fellowships — abroad | **138** |
-| 🌍 Permanent / faculty — abroad | **35** |
-| ⏰ Closing within 14 days | **75** |
-| 🆕 New this run | **10** |
-| 📡 Sources working | **165 / 209** |
+| ✈️ Postdocs / fellowships — abroad | **144** |
+| 🌍 Permanent / faculty — abroad | **36** |
+| ⏰ Closing within 14 days | **76** |
+| 🆕 New this run | **7** |
+| 📡 Sources working | **163 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
 | 🔴 **0d** | [Postdoc Employee – Systems Biology – Molecular & Cell Biology University of California, Be](https://www.openpostdoc.org/position/cd4ac711-a607-46d9-8047-b8dfa915d647) | postdoc | International | 2026-11-06 |
+| 🔴 **0d** | [Applications are invited for the post of Project Manager, Project Scientist-I, Project Ass](https://zoombio.org/jobs/applications-are-invited-for-the-post-of-project-manager-project-scientist-i-project-bz763ud) | project | India | 2026-11-06 |
 | 🔴 **0d** | [Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India](https://researchersjob.com/scientist-position-in-icmr-2/) | project | India | 2026-11-06 |
 | 🔴 **0d** | [Advertisement (English) ( 702.00 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf) | permanent | India | 2026-11-06 |
 | 🔴 **0d** | [Advertisement (Hindi) ( 870.93 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf) | permanent | India | 2026-11-06 |
 | 🔴 **0d** | [Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medi](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf) | permanent | India | 2026-11-06 |
-| 🔴 **0d** | [Applications are invited for the post of Project Manager, Project Scientist-I, Project Ass](https://zoombio.org/jobs/applications-are-invited-for-the-post-of-project-manager-project-scientist-i-project-bz763ud) | project | India | 2026-11-06 |
 | 🔴 **2d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
 | 🔴 **2d** | [Research Associate - Urinary Tract Disease Research Group](https://www.timeshighereducation.com/unijobs/listing/416934/research-associate-urinary-tract-disease-research-group/?LinkSource=PremiumListing) | postdoc | Australia | 2026-11-08 |
 | 🔴 **2d** | [Postdoctoral Research Associate (Fixed Term) University of Cambridge · United Kingdom ·](https://www.openpostdoc.org/position/5d2a4b71-60f9-4887-b3f4-403aff7c2882) | postdoc | United Kingdom | 2026-11-08 |

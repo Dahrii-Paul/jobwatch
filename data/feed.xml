@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-05T20:29:51Z</updated>
+  <updated>2026-11-06T09:54:58Z</updated>
   <entry>
     <title>Applications are invited for the post of Project Manager, Project Scientist-I, Project Associate-II,Lab Technician, Administrative Assistant against Advertisement No. NIBMG/ADMIN/ ESTB/2025-26/216 dtd.06/11/2025 for Project entitled: “Wastewater Surveillance o</title>
     <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-project-manager-project-scientist-i-project-bz763ud"/>
@@ -23,6 +23,13 @@
     <id>urn:jobwatch:3b08e1db0737</id>
     <updated>2026-11-06T00:00:00Z</updated>
     <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-14 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presidency University Kolkata | Rs 37,000/month</title>
+    <link href="https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/"/>
+    <id>urn:jobwatch:4bfbe0ee96f9</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-15 · score 82</summary>
   </entry>
   <entry>
     <title>Applications are invited for AI Medical Imaging Engineer under Department of Biomedical Engineering, IIT Hyderabad.</title>
@@ -60,11 +67,53 @@
     <summary>[postdoc] Times Higher Education Jobs · International · Deadline 2026-12-04 · score 73</summary>
   </entry>
   <entry>
+    <title>Postdoctoral Research Fellow (Bioinformatics &amp; Research Software Engineering) The University of Queensland · Brisbane ·</title>
+    <link href="https://www.openpostdoc.org/position/1cd8a125-0259-4164-abe2-2b47c166e3b8"/>
+    <id>urn:jobwatch:0a0ded7bccd1</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-04 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Fellow (Metabolism &amp; Multi-omics Integration) The University of Queensland · Brisbane ·</title>
+    <link href="https://www.openpostdoc.org/position/2933895b-1b19-4a1a-b858-2357b1ca2f0d"/>
+    <id>urn:jobwatch:dfa3d7fa61f7</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-04 · score 65</summary>
+  </entry>
+  <entry>
+    <title>CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417403/cbs-postdoctoral-position-artificial-intelligence-applied-to-multi-omics-data-integration/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:0cc57a47096f</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · International · Deadline 2026-12-06 · score 100</summary>
+  </entry>
+  <entry>
     <title>AgBS - Post-Doctoral in Genomics and Bioinformatics</title>
     <link href="https://www.timeshighereducation.com/unijobs/listing/417336/agbs-post-doctoral-in-genomics-and-bioinformatics/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:a81f205ca100</id>
     <updated>2026-11-06T00:00:00Z</updated>
     <summary>[postdoc] Times Higher Education Jobs · International · Deadline 2027-11-05 · score 100</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in Single-Cell Epigenetics</title>
+    <link href="https://ki.varbi.com/en/what:job/jobID:982629/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:fb51dea92dde</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 85</summary>
+  </entry>
+  <entry>
+    <title>Data Analyst / Bioinformatician (m/f/d) | Proteomics and Metabolomics</title>
+    <link href="https://www.mpg.de/27072047/data-analyst-bioinformatician-for-proteomics-and-metabolomics"/>
+    <id>urn:jobwatch:7782a254c1b9</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[permanent] Max Planck Society job board · Germany · Deadline: see advert · score 82</summary>
+  </entry>
+  <entry>
+    <title>Postdoc in Adolescent Brain Development, Jens Hjerling-Leffler group (scholarship)</title>
+    <link href="https://ki.varbi.com/en/what:job/jobID:982578/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:fd36a61aba3b</id>
+    <updated>2026-11-06T00:00:00Z</updated>
+    <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 67</summary>
   </entry>
   <entry>
     <title>Postdoctoral studies in angiogenesis and cancer metabolism</title>
@@ -900,6 +949,13 @@
     <summary>[postdoc] Nature Careers · International · Deadline 2026-11-29 · score 62</summary>
   </entry>
   <entry>
+    <title>Postdoc - Stem Cell Disease Modeling and Precision Medicine - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
+    <link href="https://www.openpostdoc.org/position/954b2f2c-b870-474d-842e-e719387ec589"/>
+    <id>urn:jobwatch:25d95652199b</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-30 · score 95</summary>
+  </entry>
+  <entry>
     <title>Lecturer in Bioinformatics in the School of Biomedical Sciences</title>
     <link href="https://www.timeshighereducation.com/unijobs/listing/416859/lecturer-in-bioinformatics-in-the-school-of-biomedical-sciences/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:ba72a7c132d5</id>
@@ -996,61 +1052,5 @@
     <id>urn:jobwatch:118d0a885ffe</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[phd] Researchersjob.com · United Kingdom · Deadline 2026-12-01 · score 42</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Feixiong Cheng Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/b1cd9b85-22ee-4d1c-b577-2658837beba1"/>
-    <id>urn:jobwatch:53840c1f89d7</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Ying Ni Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/be6a504e-4a07-4a27-bb31-c0666cbd0e64"/>
-    <id>urn:jobwatch:11d36ada3411</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Post-Doctoral Associate in the Center for Interdisciplinary Data Science and Artificial Intelligence</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/476979"/>
-    <id>urn:jobwatch:e5a444c2691b</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-02 · score 55</summary>
-  </entry>
-  <entry>
-    <title>Regular Faculty Positions at Islamic University of Science &amp; Technology, India</title>
-    <link href="https://researchersjob.com/faculty-positions-at-islamic-university/"/>
-    <id>urn:jobwatch:ef04b6c58cd0</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Researchersjob.com · India · Deadline 2026-12-07 · score 67</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Research Fellow, Center for Genomic Medicine Mass General Brigham · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/63708332-127f-4bf0-bb16-ca8583206fa7"/>
-    <id>urn:jobwatch:3bf846bb1945</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-09 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Phoebe Lin Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/75780612-b4b3-469d-ab6a-bd3149051ace"/>
-    <id>urn:jobwatch:7c7be095358e</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-09 · score 58</summary>
-  </entry>
-  <entry>
-    <title>Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry</title>
-    <link href="https://www.nature.com/naturecareers/job/12866310/assistant-professor-in-biochemistry-with-specialisation-in-experimental-protein-biochemistry-/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:a10259e5fbff</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2026-12-10 · score 94</summary>
-  </entry>
-  <entry>
-    <title>Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry (SciLifeLab Fellow) Uppsala university</title>
-    <link href="https://www.scilifelab.se/career/assistant-professor-in-biochemistry-with-specialisation-in-experimental-protein-biochemistry-scilifelab-fellow/"/>
-    <id>urn:jobwatch:98996a6a2968</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-12-10 · score 69</summary>
   </entry>
 </feed>
