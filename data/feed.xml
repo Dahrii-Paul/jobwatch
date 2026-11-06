@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-06T09:54:58Z</updated>
+  <updated>2026-11-06T19:43:25Z</updated>
   <entry>
-    <title>Applications are invited for the post of Project Manager, Project Scientist-I, Project Associate-II,Lab Technician, Administrative Assistant against Advertisement No. NIBMG/ADMIN/ ESTB/2025-26/216 dtd.06/11/2025 for Project entitled: “Wastewater Surveillance o</title>
-    <link href="https://zoombio.org/jobs/applications-are-invited-for-the-post-of-project-manager-project-scientist-i-project-bz763ud"/>
-    <id>urn:jobwatch:cccb3b8696e1</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[project] Zoombio — bioinformatics jobs India · India · Deadline 2026-11-06 · score 62</summary>
+    <title>BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2026</title>
+    <link href="https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/"/>
+    <id>urn:jobwatch:3ad084242c60</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[junior] Biotecnika (life-science job news) · India · Deadline 2026-11-09 · score 42</summary>
+  </entry>
+  <entry>
+    <title>NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bolsa/Ref_14/2026</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/478573"/>
+    <id>urn:jobwatch:779cf6ec503b</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-20 · score 73</summary>
+  </entry>
+  <entry>
+    <title>Scientific &amp; Technology Project Manager – Core Technologies at CRG, Barcelona, Spain</title>
+    <link href="https://researchersjob.com/scientific-technology-project-manager/"/>
+    <id>urn:jobwatch:514628ce13f0</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[project] Researchersjob.com · Spain · Deadline 2026-11-30 · score 59</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral researcher in Rheumatology (PA2026/3023)</title>
+    <link href="https://lu.varbi.com/en/what:job/jobID:981309/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:e51708deeb71</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] Lund University · Sweden · Deadline 2027-01-01 · score 40</summary>
   </entry>
   <entry>
     <title>ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)</title>
@@ -338,41 +359,6 @@
     <id>urn:jobwatch:8887bb109967</id>
     <updated>2026-11-04T00:00:00Z</updated>
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Postdoc Employee – Systems Biology – Molecular &amp; Cell Biology University of California, Berkeley · Berkeley ·</title>
-    <link href="https://www.openpostdoc.org/position/cd4ac711-a607-46d9-8047-b8dfa915d647"/>
-    <id>urn:jobwatch:098b31825a26</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-06 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India</title>
-    <link href="https://researchersjob.com/scientist-position-in-icmr-2/"/>
-    <id>urn:jobwatch:abf88b23bdac</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] Researchersjob.com · India · Deadline 2026-11-06 · score 48</summary>
-  </entry>
-  <entry>
-    <title>Advertisement (English) ( 702.00 KB) View</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf"/>
-    <id>urn:jobwatch:611c521de838</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-06 · score 40</summary>
-  </entry>
-  <entry>
-    <title>Advertisement (Hindi) ( 870.93 KB) View</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf"/>
-    <id>urn:jobwatch:ebfcd10e0ae9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-06 · score 40</summary>
-  </entry>
-  <entry>
-    <title>Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&amp;PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026)</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf"/>
-    <id>urn:jobwatch:d35bfa36a99d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-06 · score 40</summary>
   </entry>
   <entry>
     <title>Faculty Positions in Systems Hub, HKUST (GZ)</title>
@@ -1052,5 +1038,19 @@
     <id>urn:jobwatch:118d0a885ffe</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[phd] Researchersjob.com · United Kingdom · Deadline 2026-12-01 · score 42</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow - Feixiong Cheng Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
+    <link href="https://www.openpostdoc.org/position/b1cd9b85-22ee-4d1c-b577-2658837beba1"/>
+    <id>urn:jobwatch:53840c1f89d7</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow - Ying Ni Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
+    <link href="https://www.openpostdoc.org/position/be6a504e-4a07-4a27-bb31-c0666cbd0e64"/>
+    <id>urn:jobwatch:11d36ada3411</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
   </entry>
 </feed>

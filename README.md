@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-06 15:24
+## Live stats · updated 2026-11-07 01:13
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **339** |
-| 🏛️ Permanent posts — India | **81** |
+| 🎯 Open matches | **337** |
+| 🏛️ Permanent posts — India | **78** |
 | 🔬 Postdocs / fellowships — India | **18** |
-| ✈️ Postdocs / fellowships — abroad | **144** |
+| ✈️ Postdocs / fellowships — abroad | **145** |
 | 🌍 Permanent / faculty — abroad | **36** |
-| ⏰ Closing within 14 days | **76** |
-| 🆕 New this run | **7** |
-| 📡 Sources working | **163 / 209** |
+| ⏰ Closing within 14 days | **75** |
+| 🆕 New this run | **4** |
+| 📡 Sources working | **166 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Postdoc Employee – Systems Biology – Molecular & Cell Biology University of California, Be](https://www.openpostdoc.org/position/cd4ac711-a607-46d9-8047-b8dfa915d647) | postdoc | International | 2026-11-06 |
-| 🔴 **0d** | [Applications are invited for the post of Project Manager, Project Scientist-I, Project Ass](https://zoombio.org/jobs/applications-are-invited-for-the-post-of-project-manager-project-scientist-i-project-bz763ud) | project | India | 2026-11-06 |
-| 🔴 **0d** | [Project Research Scientist Position in ICMR (Non-medical): ,Mumbai India](https://researchersjob.com/scientist-position-in-icmr-2/) | project | India | 2026-11-06 |
-| 🔴 **0d** | [Advertisement (English) ( 702.00 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf) | permanent | India | 2026-11-06 |
-| 🔴 **0d** | [Advertisement (Hindi) ( 870.93 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf) | permanent | India | 2026-11-06 |
-| 🔴 **0d** | [Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medi](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf) | permanent | India | 2026-11-06 |
-| 🔴 **2d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
-| 🔴 **2d** | [Research Associate - Urinary Tract Disease Research Group](https://www.timeshighereducation.com/unijobs/listing/416934/research-associate-urinary-tract-disease-research-group/?LinkSource=PremiumListing) | postdoc | Australia | 2026-11-08 |
-| 🔴 **2d** | [Postdoctoral Research Associate (Fixed Term) University of Cambridge · United Kingdom ·](https://www.openpostdoc.org/position/5d2a4b71-60f9-4887-b3f4-403aff7c2882) | postdoc | United Kingdom | 2026-11-08 |
-| 🔴 **2d** | [Research Fellow University of Warwick · United Kingdom ·](https://www.openpostdoc.org/position/cbd7dfe6-723e-4746-8b42-ac5c65f2b0b4) | postdoc | United Kingdom | 2026-11-08 |
-| 🔴 **2d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
-| 🔴 **2d** | [Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, De](https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/) | postdoc | Denmark | 2026-11-08 |
-| 🔴 **2d** | [Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland](https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/) | postdoc | Finland | 2026-11-08 |
-| 🔴 **2d** | [ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)](https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/) | project | India | 2026-11-08 |
-| 🔴 **3d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
+| 🔴 **1d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
+| 🔴 **1d** | [Research Associate - Urinary Tract Disease Research Group](https://www.timeshighereducation.com/unijobs/listing/416934/research-associate-urinary-tract-disease-research-group/?LinkSource=PremiumListing) | postdoc | Australia | 2026-11-08 |
+| 🔴 **1d** | [Postdoctoral Research Associate (Fixed Term) University of Cambridge · United Kingdom ·](https://www.openpostdoc.org/position/5d2a4b71-60f9-4887-b3f4-403aff7c2882) | postdoc | United Kingdom | 2026-11-08 |
+| 🔴 **1d** | [Research Fellow University of Warwick · United Kingdom ·](https://www.openpostdoc.org/position/cbd7dfe6-723e-4746-8b42-ac5c65f2b0b4) | postdoc | United Kingdom | 2026-11-08 |
+| 🔴 **1d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
+| 🔴 **1d** | [Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, De](https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/) | postdoc | Denmark | 2026-11-08 |
+| 🔴 **1d** | [Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland](https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/) | postdoc | Finland | 2026-11-08 |
+| 🔴 **1d** | [ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)](https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/) | project | India | 2026-11-08 |
+| 🔴 **2d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
+| 🔴 **2d** | [Senior Postdoctoral Research Scientist in AI for Outbreak Response University of Oxford · ](https://www.openpostdoc.org/position/6513cbef-79ba-4f5e-ab04-7619dcfdbf6e) | postdoc | United Kingdom | 2026-11-09 |
+| 🔴 **2d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-09 |
+| 🔴 **2d** | [BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2](https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/) | junior | India | 2026-11-09 |
+| 🔴 **3d** | [Postdoctoral Research Assistant in Statistical Machine Learning for Genomics University of](https://www.openpostdoc.org/position/804ccdd6-3f0e-4706-ad1a-d2bc8d45b3cd) | postdoc | International | 2026-11-10 |
+| 🔴 **3d** | [Research & Project Scientist Positions at ICGEB, New Delhi, India](https://researchersjob.com/project-scientist-positions-at-icgeb/) | project | India | 2026-11-10 |
+| 🔴 **3d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |
 <!-- STATS:END -->
 
 ---
