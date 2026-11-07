@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-07T14:45+05:30",
+  "updated": "2026-11-07T23:22+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2310,
-   "open_matches": 341,
+   "total_indexed": 2330,
+   "open_matches": 342,
    "urgent": 76,
-   "new_this_run": 4,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 18,
-   "postdoc_abroad": 149,
+   "postdoc_abroad": 150,
    "permanent_abroad": 36,
-   "sources_ok": 167,
+   "sources_ok": 165,
    "sources_total": 209
   }
  },
@@ -1282,7 +1282,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "40c1941f95a5",
@@ -2653,7 +2653,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0f5577ab1699",
@@ -2678,7 +2678,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0e81a8a0fac9",
@@ -3642,6 +3642,37 @@
    "new": false
   },
   {
+   "id": "36eda094048f",
+   "title": "Research Fellow in Genetic Epidemiology and Data Science",
+   "url": "https://euraxess.ec.europa.eu/jobs/478686",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-03",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 100,
+   "matched": [
+    "biostatistic",
+    "data science",
+    "epidemiology",
+    "genomics",
+    "statistical genetics"
+   ],
+   "check_advt": false,
+   "score": 100,
+   "details": "7 Nov 2026 Job Information Organisation/Company UNIVERSITY OF SOUTHAMPTON Research Field Biological sciences Medical sciences Researcher Profile Leading Researcher (R4) Application Deadline 3 Dec 2026 - 00:00 (UTC) Country United Kingdom Type of Contract Other Job Status Full-time Is the job funded through the EU Research Framework Programme? Not funded by a EU programme Is the Job related to staff position within a Research Infrastructure? No Of … Working alongside genetic epidemiologists, clinicians and data scientists, you will apply advanced statistical and machine learning approaches to identify distinct diabetes subtypes, investigate their genetic determinants and improve prediction of disease risk and progression. … Contribute to high-quality scientific publications, conference presentations and the dissemination of research findings. … Collaborate with multidisciplinary researchers across genetic epidemiology, genomics, clinical medicine, imaging, statistics and data science. … A PhD in in genetic epidemiology, statistical genetics, biostatistics, data science, computational ",
+   "details_checked": true,
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "c3c2490423d5",
    "title": "AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417348/agc-postdoctoral-fellow-on-bioinformatics-microbial-genomics/?LinkSource=PremiumListing",
@@ -4277,7 +4308,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,
@@ -6442,7 +6473,7 @@
    "details": "Page 1 of 7  \n \n \n \n \n \n \n \n \nAdvertisement No. NIBMG/ ACAD/PROJECT RECT./2026-27/092 Date: 25-06-2026 \n \nPosition available \nProject name: Uncovering the functional significance of novel genetic variations in multi-ancestry Indian \npopulations through integrative genomics and proteomics analysis \n       Funding Agency: Department of Biotechnology, Govt of India \n \nPrincipal Investigator’s name: Prof Analabha Basu \nProject Description: How genomi … Uncovering the functional significance of novel genetic variations in multi-ancestry Indian \npopulations through integrative genomics and proteomics analysis \n       Funding Agency: … How genomic variation impacts phenotype is a fundamental problem of disease \ngenetics. … Efforts to understand genomic variants to gene \nexpression have been Eurocentric and hence its transability in understanding disease phenotype in \nother populations, like India has been limited. … Our goal is to \nidentify functional underpinnings of these novel genetic alterations through an integrated multi-omics \napproach.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false
@@ -6468,7 +6499,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,
@@ -6619,7 +6650,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,
@@ -6850,7 +6881,7 @@
    "details": " \n \nAdvertisement No: NIBMG/ADMIN/ACADEMIC/PRJ RECT/2025-26/286            Date:02-01-2026 \n \nPosition available: Online Interview \nProject Title: Identification of potentially aggressive CTCs (Circulating Tumour Cells) using single cell \nmultiomics: Implications for prognostication and therapeutic target identification in Oral Squamous \nCell Carcinoma patients” \n \nProject Description: In this project, m ultiomic analysis of potentially aggressiv … Identification of potentially aggressive CTCs (Circulating Tumour Cells) using single cell \nmultiomics: … In this project, m ultiomic analysis of potentially aggressive circulating tumour cells  \n(OSCC) at the single-cell level will be undertaken to provide insights into the heterogeneity of CTCs and help \nidentify aggressive subpopulations of CTCs. … Demonst\nrated \nexperien\nce in \nsingle \ncell \ntranscrip\ntomics, \ncancer \ngenomics\n, human \ndisease \ngenomics \n2. … Publicati\non in at \nleast one \npeer \nreviewed \njournal   \nConduct single cell \ntranscriptomic and ATAC -\nSeq experiments and data \nanalysis, cell culture and \nother related work.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false
@@ -6913,7 +6944,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "542d3e8823c6",
@@ -7532,7 +7563,7 @@
    "details": " \n_______________________________________________________________________________________________________ \n \nAdvertisement No.: NIBMG/ ACAD/PROJECT RECT./2026-27/094                 Date:25   - 06 -2026                                                                            \n                                                   \nPosition available: Online Interview \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute  … Online Interview \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology. … The Institute has created the necessary \nphysical infrastructure and critical platform technologies to support research, translation and training\nin biomedical genomics. … Applications are invited f o r  the position o f  Project Linked Perso n (Senior Project Associate)  for \nextramural project to be executed by  the BRIC-National institute o f  Biomedical Genomics, Kalyani. … An Integrative-genomics framework to identify c o r e  genes casually driving",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false
@@ -7559,7 +7590,7 @@
    "details": " \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/325                    Date: 03-02-2026 \nPosition available: Online Interview \nProject Title: Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging Pathogens and \nAntimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and Innovation \nCouncil of Department of Biotechnology,  Government of  … Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging Pathogens and \nAntimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and Innovation \nCouncil of Department of Biotechnology,  Government of India. … This is the first institution in India explicitly devoted \nto research, training, translation & service and capacity -building in Biomedical Genomics. … BRIC-NIBMG was an important core laboratory and integral partner of Indian SARS -CoV-2 Genomic Consortium \n(INSACOG) from its establishment during the COVID-19 pandemic, Dece",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false
@@ -7586,7 +7617,7 @@
    "details": " \n \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/227     Date: 11 - 11 -2025 \nPosition available: Online Interview \nProject Title: Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnology, Government of India. This … Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnology, Government of India. … This is the first institution in \nIndia explicitly devoted to research, training, translation & service and capacity -building in Biomedical \nGenomics. … BRIC-NIBMG was an import ant core laboratory and integral partner of Indian SARS -CoV-2 Genomic \nConsortium (INSACOG) from its establishment during the COVID-19 pandemic, Dec",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false
@@ -9333,7 +9364,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,
@@ -9361,7 +9392,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,

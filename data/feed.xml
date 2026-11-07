@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-07T09:15:28Z</updated>
+  <updated>2026-11-07T17:52:24Z</updated>
   <entry>
     <title>BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2026</title>
     <link href="https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/"/>
@@ -44,6 +44,13 @@
     <id>urn:jobwatch:514628ce13f0</id>
     <updated>2026-11-07T00:00:00Z</updated>
     <summary>[project] Researchersjob.com · Spain · Deadline 2026-11-30 · score 59</summary>
+  </entry>
+  <entry>
+    <title>Research Fellow in Genetic Epidemiology and Data Science</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/478686"/>
+    <id>urn:jobwatch:36eda094048f</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-03 · score 100</summary>
   </entry>
   <entry>
     <title>Postdoctoral researcher in Rheumatology (PA2026/3023)</title>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:441aca2b95a8</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Switzerland · Deadline 2026-12-01 · score 85</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Researcher Duke University, Biology · Durham, NC ·</title>
-    <link href="https://www.openpostdoc.org/position/6edd71f6-f798-4c97-b586-57b05ab8c8aa"/>
-    <id>urn:jobwatch:61767c8d8fff</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-01 · score 62</summary>
   </entry>
 </feed>
