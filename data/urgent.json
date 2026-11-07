@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-07T01:13+05:30",
+  "updated": "2026-11-07T14:45+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2288,
-   "open_matches": 337,
-   "urgent": 75,
+   "total_indexed": 2310,
+   "open_matches": 341,
+   "urgent": 76,
    "new_this_run": 4,
    "saved": 0,
    "permanent_india": 78,
    "postdoc_india": 18,
-   "postdoc_abroad": 145,
+   "postdoc_abroad": 149,
    "permanent_abroad": 36,
-   "sources_ok": 166,
+   "sources_ok": 167,
    "sources_total": 209
   }
  },
@@ -28,7 +28,7 @@
    "id": "27a548cf9f6b",
    "title": "Faculty Positions in Systems Hub, HKUST (GZ)",
    "url": "https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing",
-   "context": "Faculty Positions in Systems Hub, HKUST (GZ) Guangzhou, Guangdong (CN) Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 2 days left",
+   "context": "Faculty Positions in Systems Hub, HKUST (GZ) Guangzhou, Guangdong (CN) Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 1 day left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -328,7 +328,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "5ec57ba366c3",
@@ -767,7 +767,7 @@
    "id": "9de7c72b29e7",
    "title": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute",
    "url": "https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 6 days left",
+   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 5 days left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1038,7 +1038,7 @@
    "id": "e452696be4ab",
    "title": "Faculty of Health Sciences - Precision Medicine and Health Tech",
    "url": "https://www.timeshighereducation.com/unijobs/listing/403495/faculty-of-health-sciences-precision-medicine-and-health-tech/?LinkSource=PremiumListing",
-   "context": "Faculty of Health Sciences - Precision Medicine and Health Tech Vietnam (VN) VIN UNIVERSITY ABOUT VINUNIVERSITY VinUniversity (VinUni) is a private, not-for-profit Vietnamese university established based on international standards. The un... View details Faculty of Health Sciences - Precision Medicine and Health Tech 355 days ago",
+   "context": "Faculty of Health Sciences - Precision Medicine and Health Tech Vietnam (VN) VIN UNIVERSITY ABOUT VINUNIVERSITY VinUniversity (VinUni) is a private, not-for-profit Vietnamese university established based on international standards. The un... View details Faculty of Health Sciences - Precision Medicine and Health Tech 7 days left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1107,7 +1107,7 @@
    "score": 50,
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
    "new": false,
@@ -1260,6 +1260,31 @@
    "new": false
   },
   {
+   "id": "b280dba371cc",
+   "title": "Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · Copenhagen ·",
+   "url": "https://www.openpostdoc.org/position/533e724f-9e48-41e0-af4f-ccf198ca221a",
+   "context": "Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · Copenhagen · closes 2026-11-15",
+   "source_id": "openpostdoc",
+   "source_name": "OpenPostdoc — bioinformatics",
+   "published": null,
+   "deadline": "2026-11-15",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 65,
+   "matched": [
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 65,
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "40c1941f95a5",
    "title": "Postdoc in multi-omics machine learning and computational cancer biology KTH",
    "url": "https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/",
@@ -1348,7 +1373,7 @@
    "id": "753d833e417f",
    "title": "Associate or Senior Editor, Genome Biology",
    "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
-   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 7 days ago",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 8 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1427,7 +1452,7 @@
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
-   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 49 days ago",
+   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 50 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1646,7 +1671,7 @@
    "id": "e5e94d37373a",
    "title": "Senior Research Fellow in AI Applied to Genomic Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing",
-   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 15 days ago",
+   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 16 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1855,7 +1880,7 @@
    "id": "87832ca01a8e",
    "title": "COLCOM - Professor in Bioinformatics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing",
-   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 17 days ago",
+   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 18 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1891,7 +1916,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "Europe",
+   "country": "Portugal",
    "kw_score": 73,
    "matched": [
     "bioinformatic",
@@ -1905,7 +1930,7 @@
    "last_seen": "2026-11-07",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "6f2aabf9433f",
@@ -1988,7 +2013,7 @@
    "id": "86a29caf7970",
    "title": "Senior Bioinformatics Research Scientist",
    "url": "https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/",
-   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 44 days ago",
+   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 45 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -2015,7 +2040,7 @@
    "id": "69476e84ed66",
    "title": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology",
    "url": "https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/",
-   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 44 days ago",
+   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 45 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,

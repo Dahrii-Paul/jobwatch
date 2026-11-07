@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-07 01:13
+## Live stats · updated 2026-11-07 14:45
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **337** |
+| 🎯 Open matches | **341** |
 | 🏛️ Permanent posts — India | **78** |
 | 🔬 Postdocs / fellowships — India | **18** |
-| ✈️ Postdocs / fellowships — abroad | **145** |
+| ✈️ Postdocs / fellowships — abroad | **149** |
 | 🌍 Permanent / faculty — abroad | **36** |
-| ⏰ Closing within 14 days | **75** |
+| ⏰ Closing within 14 days | **76** |
 | 🆕 New this run | **4** |
-| 📡 Sources working | **166 / 209** |
+| 📡 Sources working | **167 / 209** |
 
 ### ⏳ Closing within 30 days
 
@@ -33,8 +33,8 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **1d** | [ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)](https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/) | project | India | 2026-11-08 |
 | 🔴 **2d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
 | 🔴 **2d** | [Senior Postdoctoral Research Scientist in AI for Outbreak Response University of Oxford · ](https://www.openpostdoc.org/position/6513cbef-79ba-4f5e-ab04-7619dcfdbf6e) | postdoc | United Kingdom | 2026-11-09 |
-| 🔴 **2d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-09 |
 | 🔴 **2d** | [BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2](https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/) | junior | India | 2026-11-09 |
+| 🔴 **2d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-09 |
 | 🔴 **3d** | [Postdoctoral Research Assistant in Statistical Machine Learning for Genomics University of](https://www.openpostdoc.org/position/804ccdd6-3f0e-4706-ad1a-d2bc8d45b3cd) | postdoc | International | 2026-11-10 |
 | 🔴 **3d** | [Research & Project Scientist Positions at ICGEB, New Delhi, India](https://researchersjob.com/project-scientist-positions-at-icgeb/) | project | India | 2026-11-10 |
 | 🔴 **3d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-06T19:43:25Z</updated>
+  <updated>2026-11-07T09:15:28Z</updated>
   <entry>
     <title>BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2026</title>
     <link href="https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/"/>
@@ -11,11 +11,32 @@
     <summary>[junior] Biotecnika (life-science job news) · India · Deadline 2026-11-09 · score 42</summary>
   </entry>
   <entry>
+    <title>Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · Copenhagen ·</title>
+    <link href="https://www.openpostdoc.org/position/533e724f-9e48-41e0-af4f-ccf198ca221a"/>
+    <id>urn:jobwatch:b280dba371cc</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-15 · score 65</summary>
+  </entry>
+  <entry>
     <title>NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bolsa/Ref_14/2026</title>
     <link href="https://euraxess.ec.europa.eu/jobs/478573"/>
     <id>urn:jobwatch:779cf6ec503b</id>
     <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-20 · score 73</summary>
+    <summary>[postdoc] EURAXESS (EU-wide) · Portugal · Deadline 2026-11-20 · score 73</summary>
+  </entry>
+  <entry>
+    <title>Senior Postdoctoral Researcher in Parkinson’s Disease Biomarkers and α-Synuclein Seeding University of Oxford · Oxford ·</title>
+    <link href="https://www.openpostdoc.org/position/745f6a34-36cf-49f0-a1ef-2e8810ada1e6"/>
+    <id>urn:jobwatch:0cb73a860a0d</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-27 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford ·</title>
+    <link href="https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465"/>
+    <id>urn:jobwatch:0f5577ab1699</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-27 · score 65</summary>
   </entry>
   <entry>
     <title>Scientific &amp; Technology Project Manager – Core Technologies at CRG, Barcelona, Spain</title>
@@ -30,6 +51,13 @@
     <id>urn:jobwatch:e51708deeb71</id>
     <updated>2026-11-07T00:00:00Z</updated>
     <summary>[postdoc] Lund University · Sweden · Deadline 2027-01-01 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher Position in Autophagy, Stress Response and Development – France</title>
+    <link href="https://researchersjob.com/postdoctoral-researcher-position-in-autophagy/"/>
+    <id>urn:jobwatch:ea24e96e39f1</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · France · Deadline: see advert · score 55</summary>
   </entry>
   <entry>
     <title>ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)</title>
@@ -1024,33 +1052,5 @@
     <id>urn:jobwatch:61767c8d8fff</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-01 · score 62</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in Bioinformatics and Plant Paleogenomics – University of Bern, Switzerland</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-bioinformatics-and-plant-paleogenomics/"/>
-    <id>urn:jobwatch:49a16401bb85</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Switzerland · Deadline 2026-12-01 · score 59</summary>
-  </entry>
-  <entry>
-    <title>Sanger Institute 4-Year PhD Programme: Fully Funded Studentships, UK</title>
-    <link href="https://researchersjob.com/sanger-institute-4-year-phd-programme/"/>
-    <id>urn:jobwatch:118d0a885ffe</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] Researchersjob.com · United Kingdom · Deadline 2026-12-01 · score 42</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Feixiong Cheng Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/b1cd9b85-22ee-4d1c-b577-2658837beba1"/>
-    <id>urn:jobwatch:53840c1f89d7</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Ying Ni Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/be6a504e-4a07-4a27-bb31-c0666cbd0e64"/>
-    <id>urn:jobwatch:11d36ada3411</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-12-02 · score 69</summary>
   </entry>
 </feed>
