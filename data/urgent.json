@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-08T14:59+05:30",
+  "updated": "2026-11-08T23:36+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,12 +10,12 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2369,
-   "open_matches": 349,
+   "total_indexed": 2378,
+   "open_matches": 354,
    "urgent": 79,
-   "new_this_run": 10,
+   "new_this_run": 1,
    "saved": 0,
-   "permanent_india": 78,
+   "permanent_india": 82,
    "postdoc_india": 18,
    "postdoc_abroad": 154,
    "permanent_abroad": 36,
@@ -106,7 +106,35 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "2d74dfb472ea",
+   "title": "Interview for Project Research Scientist – III (Non-Medical)",
+   "url": "https://zoombio.org/jobs/interview-for-project-research-scientist-iii-non-medical-actrec-tata-memorial-centre-tmc-axl6h6f",
+   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Interview for Project Research Scientist – III (Non-Medical) Project Scientist Bioinformatics PhD Master's (MSc/MTech/MPharm) ₹1,01,400/month No deadline listed Added 8 Nov View",
+   "source_id": "zoombio",
+   "source_name": "Zoombio — bioinformatics jobs India",
+   "published": null,
+   "deadline": "2026-11-08",
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 69,
+   "matched": [
+    "bioinformatic",
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 69,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "  \nTATA MEMORIAL CENTRE \nADVANCED CENTRE FOR TREATMENT, RESEARCH ANDEDUCATION  \n  IN CANCER \nKharghar, Navi Mumbai- 410 210 \nwww.actrec.gov.in  Phone No : +91-22-68735000/5082/5353   \n(A Grant-in-aid Institution of the Dept. of Atomic Energy, Government of India) \n \nNo. ACTREC/Advt-156/2026                                                                                          11.08.2026 \n \nINTERVIEW FOR \n \nProject Research Scientist – III (Non- … ACTREC/Advt-156/2026                                                                                          11.08.2026 \n \nINTERVIEW FOR \n \nProject Research Scientist – III (Non-Medical) \n \n(on PROJECT- Department of Clinical Biostatistics, ACTREC, Navi Mumbai)  \n \nProject Title: … Post Graduate Degree  in Statistics/Biostatistics, including the Integrated PG degree with Five \nyears post qualification experience   OR \n2. … PhD in Statistics/Biostatistics + Two Years post qualification experience. … 6 months (and extendable) (The work progress of candidate will be monitored and extension may be given \nafter six months.) \n \nEligible Candida",
+   "details_checked": true
   },
   {
    "id": "7fdfad959986",
@@ -249,31 +277,6 @@
    "details_checked": true
   },
   {
-   "id": "2d74dfb472ea",
-   "title": "Interview for Project Research Scientist – III (Non-Medical)",
-   "url": "https://zoombio.org/jobs/interview-for-project-research-scientist-iii-non-medical-actrec-tata-memorial-centre-tmc-axl6h6f",
-   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Interview for Project Research Scientist – III (Non-Medical) Project Scientist Bioinformatics PhD Master's (MSc/MTech/MPharm) ₹1,01,400/month No deadline listed Added 8 Nov View",
-   "source_id": "zoombio",
-   "source_name": "Zoombio — bioinformatics jobs India",
-   "published": null,
-   "deadline": "2026-11-08",
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 50,
-   "matched": [
-    "bioinformatic"
-   ],
-   "check_advt": false,
-   "score": 50,
-   "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08",
-   "status": "open",
-   "match": true,
-   "new": true
-  },
-  {
    "id": "302b8f79c6e0",
    "title": "ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)",
    "url": "https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/",
@@ -353,7 +356,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "758b89162b75",
@@ -415,7 +418,7 @@
    "id": "5ec57ba366c3",
    "title": "Advertisement & Application Form (English) ( 668.61 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf",
-   "context": "Serial Number: 5 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
+   "context": "Serial Number: 6 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -1780,7 +1783,7 @@
    "id": "5d48af6b367a",
    "title": "Advertisement (English) ( 672.93 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_assistantdeputationadvtenglish.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -1805,7 +1808,7 @@
    "id": "d3736d0308ea",
    "title": "Applicaton Form ( 705.03 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_applicatonformassistantdeputation.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -1830,7 +1833,7 @@
    "id": "83eb0db22845",
    "title": "Advertisement (Hindi) ( 1.38 MB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728304_assistantdeputationadvthindi.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -1855,7 +1858,7 @@
    "id": "39f43dc954b2",
    "title": "Notice dt. October 15, 2026 ( 443.27 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792045720_398noticeforextensionoflastdate.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,

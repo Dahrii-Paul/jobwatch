@@ -6,17 +6,17 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-08 14:59
+## Live stats · updated 2026-11-08 23:36
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **349** |
-| 🏛️ Permanent posts — India | **78** |
+| 🎯 Open matches | **354** |
+| 🏛️ Permanent posts — India | **82** |
 | 🔬 Postdocs / fellowships — India | **18** |
 | ✈️ Postdocs / fellowships — abroad | **154** |
 | 🌍 Permanent / faculty — abroad | **36** |
 | ⏰ Closing within 14 days | **79** |
-| 🆕 New this run | **10** |
+| 🆕 New this run | **1** |
 | 📡 Sources working | **166 / 209** |
 
 ### ⏳ Closing within 30 days
@@ -25,19 +25,19 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 |---|---|---|---|---|
 | 🔴 **0d** | [Faculty Positions in Systems Hub, HKUST (GZ)](https://www.nature.com/naturecareers/job/12863219/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing) | permanent | Hong Kong | 2026-11-08 |
 | 🔴 **0d** | [Research Associate - Urinary Tract Disease Research Group](https://www.timeshighereducation.com/unijobs/listing/416934/research-associate-urinary-tract-disease-research-group/?LinkSource=PremiumListing) | postdoc | Australia | 2026-11-08 |
+| 🔴 **0d** | [Advertisement For The Position Of](https://zoombio.org/jobs/advertisement-for-the-position-of-iit-delhi-new-delhi-l6imwyb) | postdoc | India | 2026-11-08 |
 | 🔴 **0d** | [Postdoctoral Research Associate (Fixed Term) University of Cambridge · United Kingdom ·](https://www.openpostdoc.org/position/5d2a4b71-60f9-4887-b3f4-403aff7c2882) | postdoc | United Kingdom | 2026-11-08 |
 | 🔴 **0d** | [Research Fellow University of Warwick · United Kingdom ·](https://www.openpostdoc.org/position/cbd7dfe6-723e-4746-8b42-ac5c65f2b0b4) | postdoc | United Kingdom | 2026-11-08 |
 | 🔴 **0d** | [Bioinformatics Jobs at St. Johns with Rs. 72,000/- PM Pay / Freshers Eligible](https://www.biotecnika.org/2026/10/st-johns-bioinformatics-jobs-bangalore/) | project | India | 2026-11-08 |
 | 🔴 **0d** | [Postdoctoral Researcher in Real World Evidence for Knee Osteoarthritis at Novo Nordisk, De](https://researchersjob.com/postdoctoral-researcher-in-real-world-evidence/) | postdoc | Denmark | 2026-11-08 |
 | 🔴 **0d** | [Postdoctoral Researcher in Machine Learning & Cheminformatics at VTT, Finland](https://researchersjob.com/postdoctoral-researcher-in-machine-learning-cheminformatics/) | postdoc | Finland | 2026-11-08 |
-| 🔴 **0d** | [ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)](https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/) | project | India | 2026-11-08 |
-| 🔴 **0d** | [Advertisement For The Position Of](https://zoombio.org/jobs/advertisement-for-the-position-of-iit-delhi-new-delhi-l6imwyb) | postdoc | India | 2026-11-08 |
 | 🔴 **0d** | [Interview for Project Research Scientist – III (Non-Medical)](https://zoombio.org/jobs/interview-for-project-research-scientist-iii-non-medical-actrec-tata-memorial-centre-tmc-axl6h6f) | project | India | 2026-11-08 |
+| 🔴 **0d** | [ILS Bhubaneswar Project Associate-II — NCoR1 / NGS Data Analysis (Advt 39/2026)](https://www.biotecnika.org/2026/11/ils-bhubaneswar-project-associate-recruitment-2026/) | project | India | 2026-11-08 |
 | 🔴 **1d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
+| 🔴 **1d** | [Junior Research Fellow (Ph.D. Program)](https://zoombio.org/jobs/junior-research-fellow-ph-d-program-institute-of-life-sciences-ils-bhubaneswar-k2bv0d8) | junior | India | 2026-11-09 |
 | 🔴 **1d** | [Senior Postdoctoral Research Scientist in AI for Outbreak Response University of Oxford · ](https://www.openpostdoc.org/position/6513cbef-79ba-4f5e-ab04-7619dcfdbf6e) | postdoc | United Kingdom | 2026-11-09 |
 | 🔴 **1d** | [BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2](https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/) | junior | India | 2026-11-09 |
 | 🔴 **1d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-09 |
-| 🔴 **1d** | [Junior Research Fellow (Ph.D. Program)](https://zoombio.org/jobs/junior-research-fellow-ph-d-program-institute-of-life-sciences-ils-bhubaneswar-k2bv0d8) | junior | India | 2026-11-09 |
 <!-- STATS:END -->
 
 ---

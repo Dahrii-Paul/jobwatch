@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-08T14:59+05:30",
+  "updated": "2026-11-08T23:36+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,12 +10,12 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2369,
-   "open_matches": 349,
+   "total_indexed": 2378,
+   "open_matches": 354,
    "urgent": 79,
-   "new_this_run": 10,
+   "new_this_run": 1,
    "saved": 0,
-   "permanent_india": 78,
+   "permanent_india": 82,
    "postdoc_india": 18,
    "postdoc_abroad": 154,
    "permanent_abroad": 36,
@@ -106,7 +106,35 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "2d74dfb472ea",
+   "title": "Interview for Project Research Scientist – III (Non-Medical)",
+   "url": "https://zoombio.org/jobs/interview-for-project-research-scientist-iii-non-medical-actrec-tata-memorial-centre-tmc-axl6h6f",
+   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Interview for Project Research Scientist – III (Non-Medical) Project Scientist Bioinformatics PhD Master's (MSc/MTech/MPharm) ₹1,01,400/month No deadline listed Added 8 Nov View",
+   "source_id": "zoombio",
+   "source_name": "Zoombio — bioinformatics jobs India",
+   "published": null,
+   "deadline": "2026-11-08",
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 69,
+   "matched": [
+    "bioinformatic",
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 69,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "  \nTATA MEMORIAL CENTRE \nADVANCED CENTRE FOR TREATMENT, RESEARCH ANDEDUCATION  \n  IN CANCER \nKharghar, Navi Mumbai- 410 210 \nwww.actrec.gov.in  Phone No : +91-22-68735000/5082/5353   \n(A Grant-in-aid Institution of the Dept. of Atomic Energy, Government of India) \n \nNo. ACTREC/Advt-156/2026                                                                                          11.08.2026 \n \nINTERVIEW FOR \n \nProject Research Scientist – III (Non- … ACTREC/Advt-156/2026                                                                                          11.08.2026 \n \nINTERVIEW FOR \n \nProject Research Scientist – III (Non-Medical) \n \n(on PROJECT- Department of Clinical Biostatistics, ACTREC, Navi Mumbai)  \n \nProject Title: … Post Graduate Degree  in Statistics/Biostatistics, including the Integrated PG degree with Five \nyears post qualification experience   OR \n2. … PhD in Statistics/Biostatistics + Two Years post qualification experience. … 6 months (and extendable) (The work progress of candidate will be monitored and extension may be given \nafter six months.) \n \nEligible Candida",
+   "details_checked": true
   },
   {
    "id": "7fdfad959986",
@@ -247,31 +275,6 @@
    "new": false,
    "details": "VTT Technical Research Centre of Finland is inviting applications for a Postdoctoral Researcher in Machine Learning & Cheminformatics to join the Rise to Challenge project, “Q-GEN: Quantum computing applications for future genomes and biomaterials.” This two-year position offers a unique opportunity to work at the intersection of machine learning, physics-based simulations, and quantum computing to innovate wood-based biopolymers. Job Overview De … VTT Technical Research Centre of Finland is inviting applications for a Postdoctoral Researcher in Machine Learning & Cheminformatics to join the Rise to Challenge project, “Q-GEN: … Job Overview Designation Postdoctoral Researcher Research Area Machine Learning, Cheminformatics, and Biomaterials Location Tekniikantie 21, Espoo, Finland Employment Type Full-time, 2-year fixed term Application Deadline November 8, 2026 Job Description In this role, you will develop a data-driven screening workflow for biomaterial design. … Interpreting results alongside chemists and physicists to identify promising candidates for wet-lab experiments. … Coll",
    "details_checked": true
-  },
-  {
-   "id": "2d74dfb472ea",
-   "title": "Interview for Project Research Scientist – III (Non-Medical)",
-   "url": "https://zoombio.org/jobs/interview-for-project-research-scientist-iii-non-medical-actrec-tata-memorial-centre-tmc-axl6h6f",
-   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Interview for Project Research Scientist – III (Non-Medical) Project Scientist Bioinformatics PhD Master's (MSc/MTech/MPharm) ₹1,01,400/month No deadline listed Added 8 Nov View",
-   "source_id": "zoombio",
-   "source_name": "Zoombio — bioinformatics jobs India",
-   "published": null,
-   "deadline": "2026-11-08",
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 50,
-   "matched": [
-    "bioinformatic"
-   ],
-   "check_advt": false,
-   "score": 50,
-   "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08",
-   "status": "open",
-   "match": true,
-   "new": true
   },
   {
    "id": "302b8f79c6e0",
@@ -483,7 +486,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "758b89162b75",
@@ -545,7 +548,7 @@
    "id": "5ec57ba366c3",
    "title": "Advertisement & Application Form (English) ( 668.61 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf",
-   "context": "Serial Number: 5 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
+   "context": "Serial Number: 6 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -2195,7 +2198,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b0ab605b8a76",
@@ -3238,7 +3241,7 @@
    "id": "fa8ea99bc804",
    "title": "Advertisement (English) ( 390.20 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791345589_icmr-nineadvertisementscientist-d.pdf",
-   "context": "Serial Number: 7 | Title: Advertisement (No. Adv. No. ICMR/NINE/01/2026-RPCell ) for recruitment to the post of Scientist-D at ICMR-National Institute of NCD Epidemiology (ICMR-NINE) Last Date: November 16, 2026 | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 16, 2026 | Document: Advertisement (English) ( 390.20 KB) View Download",
+   "context": "Serial Number: 8 | Title: Advertisement (No. Adv. No. ICMR/NINE/01/2026-RPCell ) for recruitment to the post of Scientist-D at ICMR-National Institute of NCD Epidemiology (ICMR-NINE) Last Date: November 16, 2026 | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 16, 2026 | Document: Advertisement (English) ( 390.20 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -3872,7 +3875,7 @@
    "id": "5d48af6b367a",
    "title": "Advertisement (English) ( 672.93 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_assistantdeputationadvtenglish.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -3897,7 +3900,7 @@
    "id": "d3736d0308ea",
    "title": "Applicaton Form ( 705.03 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_applicatonformassistantdeputation.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -3922,7 +3925,7 @@
    "id": "83eb0db22845",
    "title": "Advertisement (Hindi) ( 1.38 MB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728304_assistantdeputationadvthindi.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -3947,7 +3950,7 @@
    "id": "39f43dc954b2",
    "title": "Notice dt. October 15, 2026 ( 443.27 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792045720_398noticeforextensionoflastdate.pdf",
-   "context": "Serial Number: 8 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
+   "context": "Serial Number: 9 | Title: Advertisement (No. ICMR-NIREH/Estt/Assistant/01/2026) for recruitment to the post of Assistant on deputation basis at ICMR-NIREH Bhopal (Last date extended: November 18, 2026) | Institute Name: ICMR-NIREH, Bhopal | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 18, 2026 | Document: Advertisement (English) ( 672.93 KB) View Download Applicaton Form ( 705.03 KB) View Download Advertisement (Hindi) ( 1.38 MB) View Download Notice dt. October 15, 2026 ( 443.27 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -4762,6 +4765,33 @@
    "details_checked": true
   },
   {
+   "id": "7fe164958d3c",
+   "title": "Doctoral (PhD) Student Position in Oesophageal and Gastric Cancer at Karolinska Institutet, Sweden",
+   "url": "https://researchersjob.com/doctoral-phd-student-position-in-oesophageal/",
+   "context": "Overview Karolinska Institutet is inviting applications for a fully funded Doctoral (PhD) student position in oesophageal and gastric cancer within the Upper Gastrointestinal Surgery research group. The project aims to reduce mortality associated with oesophago-gastric cancers by investigating medications affecting tumour incidence and recurrence, as well as developing advanced survival prediction models. Scholarship Summary The […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-08",
+   "deadline": "2026-11-20",
+   "details": "Overview Karolinska Institutet is inviting applications for a fully funded Doctoral (PhD) student position in oesophageal and gastric cancer within the Upper Gastrointestinal Surgery research group. The project aims to reduce mortality associated with oesophago-gastric cancers by investigating medications affecting tumour incidence and recurrence, as well as developing advanced survival prediction models. Scholarship Summary The successful applic … Attending supervisory meetings and preparing regular progress reports. … Demonstrated interest or competence in clinical research methodology and biostatistics.",
+   "details_checked": true,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 0,
+   "matched": [
+    "biostatistic"
+   ],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "86a29caf7970",
    "title": "Senior Bioinformatics Research Scientist",
    "url": "https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/",
@@ -5432,6 +5462,56 @@
    "new": false
   },
   {
+   "id": "868f3d4ff2ac",
+   "title": "Postdoctoral Researcher in Chemistry: Separation and Process Modelling at Karlstad University, Sweden",
+   "url": "https://researchersjob.com/postdoctoral-researcher-in-chemistry-separation-and-process-modelling-2/",
+   "context": "Overview Karlstad University is inviting applications for a Postdoctoral Researcher in Chemistry, specialising in separation science and process modelling. The position is situated within the Department of Engineering and Chemical Sciences and is part of the major eight-year multidisciplinary project Infinity Fiber. The project addresses key challenges across the forest-based value chain in collaboration with […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-08",
+   "deadline": "2026-11-24",
+   "details": "Overview Karlstad University is inviting applications for a Postdoctoral Researcher in Chemistry , specialising in separation science and process modelling. The position is situated within the Department of Engineering and Chemical Sciences and is part of the major eight-year multidisciplinary project Infinity Fiber . The project addresses key challenges across the forest-based value chain in collaboration with multiple industry partners. Positio … Translating research findings into sustainable, robust, and circular industrial solutions.",
+   "details_checked": true,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "f74c8c207494",
+   "title": "Postdoctoral Researcher in Chemistry (Separation and Process Modelling) at Karlstad University, Sweden",
+   "url": "https://researchersjob.com/postdoctoral-researcher-in-chemistry-separation-and-process-modelling/",
+   "context": "Karlstad University invites applications for a Postdoctoral researcher in Chemistry, specialised in separation and process modelling within the Department of Engineering and Chemical Sciences. This position is part of the extensive eight-year “Infinity Fiber” project, focused on the forest-based value chain, fibre circularity, and innovative separation processes in close collaboration with industry partners. Overview Designation […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-08",
+   "deadline": "2026-11-24",
+   "details": "Karlstad University invites applications for a Postdoctoral researcher in Chemistry, specialised in separation and process modelling within the Department of Engineering and Chemical Sciences. This position is part of the extensive eight-year “Infinity Fiber” project, focused on the forest-based value chain, fibre circularity, and innovative separation processes in close collaboration with industry partners. Overview Designation Postdoctoral Rese … Demonstrated competence in combining experimental findings with modelling to optimise processes.",
+   "details_checked": true,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "da688e299fc4",
    "title": "Post Doctoral Fellowship Position at IIT Roorkee: India",
    "url": "https://researchersjob.com/post-doctoral-fellowship-position/",
@@ -5770,6 +5850,31 @@
    "new": false
   },
   {
+   "id": "c1e8e7156c40",
+   "title": "Postdoctoral Researcher in Localized Electrochemistry (SECM) at Helmholtz-Zentrum Hereon, Germany",
+   "url": "https://researchersjob.com/postdoctoral-researcher-in-localized-electrochemistry-3/",
+   "context": "Helmholtz-Zentrum Hereon is inviting applications for a 3-year position as a Postdoctoral Researcher in Localized Electrochemistry (SECM) within the Department of Electrochemistry and Big Data at the Institute of Surface Science. The researcher will focus on unraveling degradation pathways of light metals used in structural applications, medical devices, and aqueous batteries. Overview Designation Postdoctoral Researcher […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-08",
+   "deadline": "2026-11-25",
+   "details": "Helmholtz-Zentrum Hereon is inviting applications for a 3-year position as a Postdoctoral Researcher in Localized Electrochemistry (SECM) within the Department of Electrochemistry and Big Data at the Institute of Surface Science. The researcher will focus on unraveling degradation pathways of light metals used in structural applications, medical devices, and aqueous batteries. Overview Designation Postdoctoral Researcher Research Area Localized E … Publishing research findings in leading peer-reviewed journals, presenting at international conferences, and preparing project reports.",
+   "details_checked": true,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Germany",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "31788693fa1b",
    "title": "Postdoctoral Research Scientist – University of Oxford, UK",
    "url": "https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/",
@@ -5951,7 +6056,7 @@
    "id": "eed689cc683e",
    "title": "Advertisement (English) ( 406.73 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381044_icmr-ninadvertisementscientist-bcd.pdf",
-   "context": "Serial Number: 6 | Title: Advertisement (Adv. No. ICMR/NIE/01/2026-RPCell) for recruitment of 08 scientific positions at School of Public Health, ICMR-NIE, Chennai (the registration will start on ICMR Recruitment portal from 15.10.2026) Last Date: November 26, 2026 | Institute Name: ICMR-NIE, Chennai | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 26, 2026 | Document: Advertisement (English) ( 406.73 KB) View Download",
+   "context": "Serial Number: 7 | Title: Advertisement (Adv. No. ICMR/NIE/01/2026-RPCell) for recruitment of 08 scientific positions at School of Public Health, ICMR-NIE, Chennai (the registration will start on ICMR Recruitment portal from 15.10.2026) Last Date: November 26, 2026 | Institute Name: ICMR-NIE, Chennai | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 26, 2026 | Document: Advertisement (English) ( 406.73 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -6190,7 +6295,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "Europe",
+   "country": "Sweden",
    "kw_score": 35,
    "matched": [],
    "check_advt": false,
@@ -6201,7 +6306,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "95973b9e0524",
@@ -6870,6 +6975,35 @@
    "details_checked": true
   },
   {
+   "id": "3df8d06312e4",
+   "title": "Advertisement - ACTREC Ph.D JRF 2027 admissions.",
+   "url": "https://zoombio.org/jobs/advertisement-actrec-ph-d-jrf-2027-admissions-actrec-tata-memorial-centre-tmc-mumbai-b9hj2fy",
+   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Advertisement - ACTREC Ph.D JRF 2027 admissions. JRF Biotechnology PhD Master's (MSc/MTech/MPharm) ₹37,000/month Deadline 30 Nov Added 8 Nov View",
+   "source_id": "zoombio",
+   "source_name": "Zoombio — bioinformatics jobs India",
+   "published": null,
+   "deadline": "2026-11-30",
+   "category": "junior",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 67,
+   "matched": [
+    "bioinformatic",
+    "cancer genomics",
+    "proteomics"
+   ],
+   "check_advt": false,
+   "score": 67,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "  \n \n \n \nTATA MEMORIAL CENTRE \nAdvanced Centre for Treatment, Research and Education in Cancer (ACTREC) \nKharghar, Navi Mumbai - 410210 \n  (A Grant-in-Aid Institution of the Department of Atomic Energy, Government of India) \n \n \n \n \n \n \n \nApplications are invited in the prescribed format for online examination and the award of JUNIOR RESEARCH FELLOWSHIPS  \n[JRF2027] for Ph.D. in Life Sciences at TMC-ACTREC. \n \nThe Institute:  Advanced Centre for  … The studies comprehend basic tumor biology and elucidation of myriads of networks involved in  \nmetastasis, carcinogenesis, stem cell biology, immunology, cancer genomics, structural biology, bioinformatics, epigenetics, DNA repair, \nmetabolic reprogramming, pharmacology, and therapy resistance. … Advanced state-of-the-art facilities at ACTREC encompass digital and electron microscopy, animal house, spectroscopy, molecular imaging, \nflow cytometry, biophysics, structural biology, bioinformatics, and proteomics thus providing robust infrastructural support and expertise to \naddress challenging research questions. … B) M.Sc.(Applied Biology ",
+   "details_checked": true
+  },
+  {
    "id": "63505bab9608",
    "title": "Postdoctoral Associate Duke University, Social Science Research Institute · Durham, NC ·",
    "url": "https://www.openpostdoc.org/position/99f3e43e-87ab-4895-82ae-7175c6dd349c",
@@ -7068,7 +7202,7 @@
    "id": "98e2737867dd",
    "title": "Advertisement (English) ( 1.50 MB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1793626822_directorsadvertisement_0001.pdf",
-   "context": "Serial Number: 1 | Title: Notification for the posts of Directors at ICMR Institutes (Advt. No. ICMR/DIR/02/2026-R&PCell) Last Date: 30.11.2026 till 5:30 PM. The link for online application on the recruitment portal (https://recruitment.icmr.org.in) shall be live shortly. | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 30, 2026 | Document: Advertisement (English) ( 1.50 MB) View Download",
+   "context": "Serial Number: 2 | Title: Notification for the posts of Directors at ICMR Institutes (Advt. No. ICMR/DIR/02/2026-R&PCell) Last Date: 30.11.2026 till 5:30 PM. The link for online application on the recruitment portal (https://recruitment.icmr.org.in) shall be live shortly. | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 30, 2026 | Document: Advertisement (English) ( 1.50 MB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -7244,29 +7378,6 @@
    "new": false,
    "details": "Job Summary Linköping University is seeking a highly motivated Postdoctoral Researcher to join the Pantazis group for an ambitious project at the interface of ion-channel biophysics, protein engineering, and cellular excitability. This position is funded by the Högbom-Cocozza Research Foundation and aims to develop transformative technology for neurobiology and cardiac electrophysiology. Designation Postdoctoral Researcher Research Area Ion-chann",
    "details_checked": true
-  },
-  {
-   "id": "3df8d06312e4",
-   "title": "Advertisement - ACTREC Ph.D JRF 2027 admissions.",
-   "url": "https://zoombio.org/jobs/advertisement-actrec-ph-d-jrf-2027-admissions-actrec-tata-memorial-centre-tmc-mumbai-b9hj2fy",
-   "context": "TMC ACTREC — Tata Memorial Centre (TMC) · Mumbai, Maharashtra Government Advertisement - ACTREC Ph.D JRF 2027 admissions. JRF Biotechnology PhD Master's (MSc/MTech/MPharm) ₹37,000/month Deadline 30 Nov Added 8 Nov View",
-   "source_id": "zoombio",
-   "source_name": "Zoombio — bioinformatics jobs India",
-   "published": null,
-   "deadline": "2026-11-30",
-   "category": "junior",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 14,
-   "matched": [],
-   "check_advt": false,
-   "score": 14,
-   "first_seen": "2026-11-08",
-   "last_seen": "2026-11-08",
-   "status": "open",
-   "match": false,
-   "new": true
   },
   {
    "id": "344a8ac67f4a",
@@ -8518,6 +8629,106 @@
    "new": false
   },
   {
+   "id": "611c521de838",
+   "title": "Advertisement (English) ( 702.00 KB) View",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf",
+   "context": "Serial Number: 1 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date extended: December 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Dec. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download Last date extended ( 375.33 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-12-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": " \n \n \n \nFile No-ICMRHQ/R&PCell/Sci.Rec./Misc./2026  ( E-File no-296490 )      Date:   .10.2026 \n \nTo \nThe Directors/Directors-in-charge of \nAll Institutes/Centres of ICMR \n \nSubject:  Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR \nMedical Scientist at Model Rural Health Research Unit (MRHRU) – reg. \n \nSir/Madam, \n \nI am directed to say that the Department of Health Research is in the process of \nrevamping t",
+   "details_checked": true
+  },
+  {
+   "id": "ebfcd10e0ae9",
+   "title": "Advertisement (Hindi) ( 870.93 KB) View",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf",
+   "context": "Serial Number: 1 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date extended: December 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Dec. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download Last date extended ( 375.33 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-12-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": " \n \nफां.सं.:पǐरषद मुÉय़ालय/आर एंड पी सेल/वै£ा.भतȸ./Misc./2026 (ई-फा.सं. 296490)             Ǒदनांक: .10.2026 \nसेवा मɅ, \nǓनदेशक/Ĥभारȣ Ǔनदेशक, \nपǐरषद के सभी संèथान/कɅ ġ \n \nͪवषय: आदश[ Ēामीण èवाèØय अनुसंधान इकाई (MRHRU) मɅ डीएचआर/आईसीएमआर  के \nǓनयͧमत ͬचͩक×सा वै£ाǓनकɉ कȧ काय[काल-आधाǐरत तैनाती करने हेतु अͧभǽͬच कȧ अͧभåयिÈत \nआमंǒğत करने – के संबंध मɅ। \nमहोदय/महोदया, \nअधोहèता¢रȣ को यह  कहने का Ǔनदेश हुआ है ͩक èवाèØय अनुसंधान ͪवभाग (DHR) Ēामीण \n¢ेğɉ मɅ कɅ ġ",
+   "details_checked": true
+  },
+  {
+   "id": "d35bfa36a99d",
+   "title": "Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date extended: December 6, 2026)",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf",
+   "context": "Serial Number: 1 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date extended: December 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Dec. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download Last date extended ( 375.33 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-12-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": false,
+   "details": "39 MRHRUs in States/UTs: \n \nS.No. State/Union Territory Year of Establishment Location of MRHRU Linked Medical College ICMR Responsible Institute \n1.  Andaman & \nNicobar Islands \n2019-20 PHC Bambooflat, South \nAndaman District \nAndaman & Nicobar Institute of \nMedical Sciences, Sri Vijaya Puram \n(Port Blair) \nICMR-Regional Medical Research \nCentre, Sri Vijaya Puram, Andaman & \nNicobar Islands \n2.  Andhra Pradesh 2014-15 Old RHTC Premises, \nChandra",
+   "details_checked": true
+  },
+  {
+   "id": "db56688cb9a2",
+   "title": "Last date extended ( 375.33 KB) View",
+   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794134886_document.pdf",
+   "context": "Serial Number: 1 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date extended: December 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Dec. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download Last date extended ( 375.33 KB) View Download",
+   "source_id": "icmr-emp",
+   "source_name": "ICMR employment opportunities (all institutes)",
+   "published": null,
+   "deadline": "2026-12-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 40,
+   "matched": [],
+   "check_advt": true,
+   "score": 40,
+   "details": " \n \n \n \n \nFile No-ICMRHQ/R&PCell/Sci.Rec./Misc./2026 ( E-File no-296490 ) Date: .11.2026 \nTo \nThe Directors/Directors-in-charge of \nAll Institutes/Centres of ICMR \n \nSubject: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR \nMedical Scientist at Model Rural Health Research Unit (MRHRU) – reg. \n \nSir/Madam, \n \nWith reference to the invitation for Expression of Interest (EoI) circulated vide Council’s letter no.",
+   "details_checked": true,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "09f8b57f75c6",
    "title": "Research Engineer in Breast Cancer Research",
    "url": "https://euraxess.ec.europa.eu/jobs/478572",
@@ -8760,7 +8971,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "Europe",
+   "country": "Netherlands",
    "kw_score": 20,
    "matched": [],
    "check_advt": false,
@@ -8771,7 +8982,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "cd1c5925a377",
@@ -9448,7 +9659,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "Europe",
+   "country": "Sweden",
    "kw_score": 43,
    "matched": [],
    "check_advt": false,
@@ -9459,7 +9670,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ee3884706fa5",
@@ -9703,7 +9914,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "795165abfb9e",
@@ -9731,7 +9942,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0ff20a2e642c",
@@ -10055,7 +10266,7 @@
    "category": "postdoc",
    "contract": false,
    "region": "abroad",
-   "country": "Europe",
+   "country": "Sweden",
    "kw_score": 65,
    "matched": [
     "biomarker",
@@ -10069,7 +10280,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e51708deeb71",
@@ -10203,7 +10414,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "7cb73d7354e3",
@@ -10416,7 +10627,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a53e99e6c48c",
@@ -10442,6 +10653,33 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "2d0796b30945",
+   "title": "Doctoral Position in Machine Learning for Engineering Design at ETH Zurich, Switzerland",
+   "url": "https://researchersjob.com/doctoral-position-in-machine-learning-for-engineering-design-2/",
+   "context": "Applications are invited for one to two fully funded doctoral (Ph.D.) positions in the field of Machine Learning for Engineering Design at ETH Zurich, Switzerland. The positions are hosted by the Laboratory for Intelligence in Design Engineering and Learning (IDEAL) within the Department of Mechanical and Process Engineering, led by Prof. Mark Fuge, Chair of […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-08",
+   "deadline": "2027-01-15",
+   "details": "Applications are invited for one to two fully funded doctoral (Ph.D.) positions in the field of Machine Learning for Engineering Design at ETH Zurich, Switzerland. The positions are hosted by the Laboratory for Intelligence in Design Engineering and Learning (IDEAL) within the Department of Mechanical and Process Engineering, led by Prof. Mark Fuge, Chair of Artificial Intelligence in Engineering Design. Summary The IDEAL lab at ETH Zurich is con … Scholarship / Position Description Doctoral candidates will conduct independent and collaborative research, publish findings in top-tier conferences and journals, and develop shared software codebases.",
+   "details_checked": true,
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Switzerland",
+   "kw_score": 0,
+   "matched": [
+    "machine learning"
+   ],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "09ddf9171c8c",
@@ -10959,7 +11197,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "22e5c835c7dc",
@@ -11262,7 +11500,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "327c12530999",
@@ -14384,7 +14622,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b30b23444734",
@@ -15975,7 +16213,7 @@
    "id": "d0cb19ace98f",
    "title": "Advertisement & Application Form (English) ( 1.68 MB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792669555_advertisementforadgaondeputationbasis.pdf",
-   "context": "Serial Number: 3 | Title: Recruitment (No. ICMR/R&PCell/ Deputation /ADG(A)) of Assistant Director General (Admin) (Pay Level-12) on Deputation Basis (including short term contract) at ICMR Headquarters | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts (on deputation basis) | Document: Advertisement & Application Form (English) ( 1.68 MB) View Download Advertisement & Application Form (Hindi) ( 819.24 KB) View Download",
+   "context": "Serial Number: 4 | Title: Recruitment (No. ICMR/R&PCell/ Deputation /ADG(A)) of Assistant Director General (Admin) (Pay Level-12) on Deputation Basis (including short term contract) at ICMR Headquarters | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts (on deputation basis) | Document: Advertisement & Application Form (English) ( 1.68 MB) View Download Advertisement & Application Form (Hindi) ( 819.24 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -16000,7 +16238,7 @@
    "id": "7fa47b3db7ae",
    "title": "Advertisement & Application Form (Hindi) ( 819.24 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Circular/1792755237_recruitmentofassistantdirectorgeneraladmin-hindipdf.pdf",
-   "context": "Serial Number: 3 | Title: Recruitment (No. ICMR/R&PCell/ Deputation /ADG(A)) of Assistant Director General (Admin) (Pay Level-12) on Deputation Basis (including short term contract) at ICMR Headquarters | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts (on deputation basis) | Document: Advertisement & Application Form (English) ( 1.68 MB) View Download Advertisement & Application Form (Hindi) ( 819.24 KB) View Download",
+   "context": "Serial Number: 4 | Title: Recruitment (No. ICMR/R&PCell/ Deputation /ADG(A)) of Assistant Director General (Admin) (Pay Level-12) on Deputation Basis (including short term contract) at ICMR Headquarters | Institute Name: ICMR-Hqrs New Delhi | Status: Open | Category: Permanent Posts (on deputation basis) | Document: Advertisement & Application Form (English) ( 1.68 MB) View Download Advertisement & Application Form (Hindi) ( 819.24 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -16025,7 +16263,7 @@
    "id": "8c3290f7fd2d",
    "title": "Advertisement & Application Form (Hindi) ( 756.42 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545263_advertisementforthepostofassistantondeputationbasisinhindi.pdf",
-   "context": "Serial Number: 5 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
+   "context": "Serial Number: 6 | Title: Recruitment for the post of Assistant (Pay Level-6) on Deputation Basis at ICMR- NIRBI, Kolkata (Ref. No. ICMR-NIRBI/Estt./2026/Deputation/) | Institute Name: ICMR-NIRBI, Kolkata | Status: Open | Category: Permanent Posts (on deputation basis) | Last/Interview Date: Nov. 9, 2026 | Document: Advertisement & Application Form (English) ( 668.61 KB) View Download Advertisement & Application Form (Hindi) ( 756.42 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -16601,7 +16839,7 @@
    "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
    "new": false,
@@ -16627,7 +16865,7 @@
    "details": "RCB faculty regularly visit schools, colleges, and universities to deliver engaging popular science talks. For any queries regarding inviting our faculty to your school, college, or organisation, please write to registrar@rcb.res.in or write to individual faculty. \n\n\n",
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": true,
    "new": false
@@ -17119,7 +17357,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "c4e613c8d17c",
@@ -17143,7 +17382,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "b78c35c533c4",
@@ -17167,7 +17407,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "7fb53d486726",
@@ -17191,7 +17432,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "b19ca2c74aa1",
@@ -17215,7 +17457,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "e74044c7d6e4",
@@ -17240,7 +17483,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fecaf88d73a4",
@@ -17265,7 +17508,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f705eef56026",
@@ -17617,7 +17860,7 @@
    "details": "Skip to main content People Faculty RCB Faculty Adjunct Faculty Staff Management Administration Academics Technical Young Researchers Project BBB ATPC IBDC HRD BSU Consultants Academics Consultants Technical Consultants Resource Corner eLibrary Annual reports Careers in Life Science Opportunities Work with Us News & Events RCB News Upcoming Events Research Highlights Past Events Awards & Honours Seminars Workshops Technologies@RCB Alumni Outreach … Beena Pillai National Institute of Biomedical genomics (NIBMG) Dr.",
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -18864,7 +19107,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "55f21383f842",
@@ -19048,7 +19291,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "abcf767f023e",
@@ -20675,7 +20918,7 @@
    "details": "Skip to main content People Faculty RCB Faculty Adjunct Faculty Staff Management Administration Academics Technical Young Researchers Project BBB ATPC IBDC HRD BSU Consultants Academics Consultants Technical Consultants Resource Corner eLibrary Annual reports Careers in Life Science Opportunities Work with Us News & Events RCB News Upcoming Events Research Highlights Past Events Awards & Honours Seminars Workshops Technologies@RCB Alumni Outreach",
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -25310,7 +25553,7 @@
    "id": "a4110c5de7c5",
    "title": "Bid Document ( 1.34 MB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1793181862_hindiconsultantadv2026.pdf",
-   "context": "Serial Number: 2 | Title: Advertisement (F. No. 11015/111/2023-Admin/E.222058) for the position of (Senior Consultant – Hindi/Rajbhashya) at ICMR-NIRWoH, Mumbai | Institute Name: ICMR-NIRWoH, Mumbai | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 19, 2026 | Document: Bid Document ( 1.34 MB) View Download",
+   "context": "Serial Number: 3 | Title: Advertisement (F. No. 11015/111/2023-Admin/E.222058) for the position of (Senior Consultant – Hindi/Rajbhashya) at ICMR-NIRWoH, Mumbai | Institute Name: ICMR-NIRWoH, Mumbai | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 19, 2026 | Document: Bid Document ( 1.34 MB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -29166,7 +29409,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "ae0df7605756",
@@ -29191,7 +29434,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0a8a3a15d07c",
@@ -29216,7 +29459,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "dc23fbe7fd38",
@@ -29241,7 +29484,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "95382b9f197d",
@@ -29265,7 +29508,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "583a0b99d9c6",
@@ -29289,7 +29533,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "92dbcb0f0938",
@@ -29313,7 +29558,8 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "8334cd6fa680",
@@ -29332,6 +29578,82 @@
    "matched": [],
    "check_advt": false,
    "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": null
+  },
+  {
+   "id": "48cf2523c303",
+   "title": "Extension of",
+   "url": "https://www.sctimst.ac.in/News/?id=NTg3XzE3OTQxNjEyNzc=",
+   "context": "03 NOV 2026 Extension of Last Date for Submission of Online Applications – Postdoctoral Fellowship Programmes / Post Doctoral Certificate Course (PDCC) in Transfusion Transmitted Disease Testing. Published on : 03/11/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "f9acafce9f83",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTQxNjEyNzc=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-08",
+   "last_seen": "2026-11-08",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "10b9242031ac",
+   "title": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na...",
+   "url": "https://www.sctimst.ac.in/Achievements/?id=NTgzXzE3OTQxNjEyNzc=",
+   "context": "Shri Balram Sankaran, Scientist-G (Sr Grade), BMT Wing, was awarded the prestigious Dr V.G. Patel Na... SEP 11 - 2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
    "details_checked": true,
    "first_seen": "2026-11-08",
    "last_seen": "2026-11-08",
@@ -46156,7 +46478,7 @@
    "id": "c7b5748d82d5",
    "title": "Advertisement (English & Hindi) ( 429.87 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579269_notificationyp-ii.pdf",
-   "context": "Serial Number: 4 | Title: Advertisement (Advt. No. ICMR/NINE/Recruitment/2025-26) for the position of Young Professional- II at ICMR-NINE, Bengaluru | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 13, 2026 | Document: Advertisement (English & Hindi) ( 429.87 KB) View Download Application Form (English & Hindi) ( 321.94 KB) View Download",
+   "context": "Serial Number: 5 | Title: Advertisement (Advt. No. ICMR/NINE/Recruitment/2025-26) for the position of Young Professional- II at ICMR-NINE, Bengaluru | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 13, 2026 | Document: Advertisement (English & Hindi) ( 429.87 KB) View Download Application Form (English & Hindi) ( 321.94 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -46179,7 +46501,7 @@
    "id": "1400bf3df60e",
    "title": "Application Form (English & Hindi) ( 321.94 KB) View",
    "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792579286_applicationform.pdf",
-   "context": "Serial Number: 4 | Title: Advertisement (Advt. No. ICMR/NINE/Recruitment/2025-26) for the position of Young Professional- II at ICMR-NINE, Bengaluru | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 13, 2026 | Document: Advertisement (English & Hindi) ( 429.87 KB) View Download Application Form (English & Hindi) ( 321.94 KB) View Download",
+   "context": "Serial Number: 5 | Title: Advertisement (Advt. No. ICMR/NINE/Recruitment/2025-26) for the position of Young Professional- II at ICMR-NINE, Bengaluru | Institute Name: ICMR-NINE, Bengaluru | Status: Open | Category: Temporary Posts | Last/Interview Date: Nov. 13, 2026 | Document: Advertisement (English & Hindi) ( 429.87 KB) View Download Application Form (English & Hindi) ( 321.94 KB) View Download",
    "source_id": "icmr-emp",
    "source_name": "ICMR employment opportunities (all institutes)",
    "published": null,
@@ -51166,7 +51488,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -51189,7 +51511,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-06",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -52453,7 +52775,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -52476,7 +52798,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-07",
+   "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
    "new": false
@@ -52667,7 +52989,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "8be8be57fba7",
@@ -52692,7 +53014,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "ff3c87570437",
@@ -52715,7 +53037,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "9d8642af854d",
@@ -52738,7 +53060,7 @@
    "last_seen": "2026-11-08",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "70371b188adb",
@@ -57916,7 +58238,7 @@
    "last_seen": "2026-11-08",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "6e1b9298025f",
@@ -58156,7 +58478,7 @@
    "last_seen": "2026-11-08",
    "status": "closed",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "c3da7d3a746d",
@@ -58450,81 +58772,6 @@
    "match": true,
    "new": false,
    "details": "Designation/Position- Scientist Position in ICMR ICMR, Mumbai, India invites Scientist Position in ICMR from eligible and interested candidates About- Applications are invited for various project-based positions under the Indian Council of Medical Research (ICMR) funded project titled “Development of Snake Venom Research and Testing Centre” (Project ID: IIRPIG-2025-01-02077) . The project aims to strengthen research related to snake venom analysi … NGS & Bioinformatics Public health and health technology assessment Rural health research Drone-enabled healthcare delivery and telemedicine Protein cloning, expression and purification Molecular biology and immunology Malaria sero-surveillance Sickle cell disease clinical research Digital diabetes prevention and mHealth Community and field-based health research Dengue immunology, virology and pathophysiology Public health surveys and data analysis Laboratory investigations and blood collection For example, the Project Research Scientist-II position under ADOPT-HTAIn (Health Technology Assessment in India) involves NGS/bioinformatics analy",
-   "details_checked": true
-  },
-  {
-   "id": "611c521de838",
-   "title": "Advertisement (English) ( 702.00 KB) View",
-   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381461_eoimrhrus.pdf",
-   "context": "Serial Number: 9 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
-   "source_id": "icmr-emp",
-   "source_name": "ICMR employment opportunities (all institutes)",
-   "published": null,
-   "deadline": "2026-11-06",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
-   "status": "closed",
-   "match": true,
-   "new": false,
-   "details": " \n \n \n \nFile No-ICMRHQ/R&PCell/Sci.Rec./Misc./2026  ( E-File no-296490 )      Date:   .10.2026 \n \nTo \nThe Directors/Directors-in-charge of \nAll Institutes/Centres of ICMR \n \nSubject:  Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR \nMedical Scientist at Model Rural Health Research Unit (MRHRU) – reg. \n \nSir/Madam, \n \nI am directed to say that the Department of Health Research is in the process of \nrevamping t",
-   "details_checked": true
-  },
-  {
-   "id": "ebfcd10e0ae9",
-   "title": "Advertisement (Hindi) ( 870.93 KB) View",
-   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791867744_expressionofinterestpdf.pdf",
-   "context": "Serial Number: 9 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
-   "source_id": "icmr-emp",
-   "source_name": "ICMR employment opportunities (all institutes)",
-   "published": null,
-   "deadline": "2026-11-06",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
-   "status": "closed",
-   "match": true,
-   "new": false,
-   "details": " \n \nफां.सं.:पǐरषद मुÉय़ालय/आर एंड पी सेल/वै£ा.भतȸ./Misc./2026 (ई-फा.सं. 296490)             Ǒदनांक: .10.2026 \nसेवा मɅ, \nǓनदेशक/Ĥभारȣ Ǔनदेशक, \nपǐरषद के सभी संèथान/कɅ ġ \n \nͪवषय: आदश[ Ēामीण èवाèØय अनुसंधान इकाई (MRHRU) मɅ डीएचआर/आईसीएमआर  के \nǓनयͧमत ͬचͩक×सा वै£ाǓनकɉ कȧ काय[काल-आधाǐरत तैनाती करने हेतु अͧभǽͬच कȧ अͧभåयिÈत \nआमंǒğत करने – के संबंध मɅ। \nमहोदय/महोदया, \nअधोहèता¢रȣ को यह  कहने का Ǔनदेश हुआ है ͩक èवाèØय अनुसंधान ͪवभाग (DHR) Ēामीण \n¢ेğɉ मɅ कɅ ġ",
-   "details_checked": true
-  },
-  {
-   "id": "d35bfa36a99d",
-   "title": "Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026)",
-   "url": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791805428_39mrhrusinstatesuts.pdf",
-   "context": "Serial Number: 9 | Title: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR Medical Scientist at Model Rural Health Research Unit (MRHRU) ICMRHQ/R&PCell/Sci.Rec./Misc./2026 (Last Date: November 6, 2026) | Institute Name: Other | Status: Open | Category: Permanent Posts | Last/Interview Date: Nov. 6, 2026 | Document: Advertisement (English) ( 702.00 KB) View Download Advertisement (Hindi) ( 870.93 KB) View Download List of MRHRU's ( 99.19 KB) View Download",
-   "source_id": "icmr-emp",
-   "source_name": "ICMR employment opportunities (all institutes)",
-   "published": null,
-   "deadline": "2026-11-06",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-06",
-   "status": "closed",
-   "match": true,
-   "new": false,
-   "details": "39 MRHRUs in States/UTs: \n \nS.No. State/Union Territory Year of Establishment Location of MRHRU Linked Medical College ICMR Responsible Institute \n1.  Andaman & \nNicobar Islands \n2019-20 PHC Bambooflat, South \nAndaman District \nAndaman & Nicobar Institute of \nMedical Sciences, Sri Vijaya Puram \n(Port Blair) \nICMR-Regional Medical Research \nCentre, Sri Vijaya Puram, Andaman & \nNicobar Islands \n2.  Andhra Pradesh 2014-15 Old RHTC Premises, \nChandra",
    "details_checked": true
   },
   {
