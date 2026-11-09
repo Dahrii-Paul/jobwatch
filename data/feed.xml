@@ -2,7 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-09T10:22:08Z</updated>
+  <updated>2026-11-09T22:44:33Z</updated>
+  <entry>
+    <title>Research Associate/Fellow in RNA Biology at University of Nottingham, UK</title>
+    <link href="https://researchersjob.com/research-associate-fellow-in-rna-biology/"/>
+    <id>urn:jobwatch:946eb6f57a06</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2026-11-15 · score 55</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on</title>
+    <link href="https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/"/>
+    <id>urn:jobwatch:584df3c15954</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-19 · score 100</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Associate in Spatial Transcriptomics</title>
+    <link href="https://www.jobs.ac.uk/job/DTO894/postdoctoral-research-associate-in-spatial-transcriptomics"/>
+    <id>urn:jobwatch:33463027f206</id>
+    <updated>2026-11-10T00:00:00Z</updated>
+    <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-12-07 · score 65</summary>
+  </entry>
   <entry>
     <title>Last Date extended: Novemeber 23, 2026 ( 722.10 KB) View</title>
     <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794211246_corrigendumassistant.pdf"/>
@@ -53,13 +74,6 @@
     <summary>[postdoc] ETH Zurich · Switzerland · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>Junior Research Fellow (Ph.D. Program)</title>
-    <link href="https://zoombio.org/jobs/junior-research-fellow-ph-d-program-institute-of-life-sciences-ils-bhubaneswar-k2bv0d8"/>
-    <id>urn:jobwatch:d49ba66693c7</id>
-    <updated>2026-11-08T00:00:00Z</updated>
-    <summary>[junior] Zoombio — bioinformatics jobs India · India · Deadline 2026-11-09 · score 52</summary>
-  </entry>
-  <entry>
     <title>Last date extended ( 375.33 KB) View</title>
     <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794134886_document.pdf"/>
     <id>urn:jobwatch:db56688cb9a2</id>
@@ -107,13 +121,6 @@
     <id>urn:jobwatch:1aef0690b7d0</id>
     <updated>2026-11-08T00:00:00Z</updated>
     <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 52</summary>
-  </entry>
-  <entry>
-    <title>BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2026</title>
-    <link href="https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/"/>
-    <id>urn:jobwatch:3ad084242c60</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[junior] Biotecnika (life-science job news) · India · Deadline 2026-11-09 · score 42</summary>
   </entry>
   <entry>
     <title>Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · Copenhagen ·</title>
@@ -478,20 +485,6 @@
     <id>urn:jobwatch:8887bb109967</id>
     <updated>2026-11-04T00:00:00Z</updated>
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Research Assistant - AI Scientist &amp; Computational Cancer Biology</title>
-    <link href="https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology"/>
-    <id>urn:jobwatch:c9a6c3f7ca86</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-09 · score 53</summary>
-  </entry>
-  <entry>
-    <title>Senior Postdoctoral Research Scientist in AI for Outbreak Response University of Oxford · Oxford ·</title>
-    <link href="https://www.openpostdoc.org/position/6513cbef-79ba-4f5e-ab04-7619dcfdbf6e"/>
-    <id>urn:jobwatch:758b89162b75</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-09 · score 50</summary>
   </entry>
   <entry>
     <title>Postdoctoral Research Assistant in Statistical Machine Learning for Genomics University of Oxford · Oxford ·</title>
@@ -1052,5 +1045,12 @@
     <id>urn:jobwatch:0d5c0ba09757</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Researchersjob.com · India · Deadline 2026-11-30 · score 67</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Associate Duke University, Social Science Research Institute · Durham, NC ·</title>
+    <link href="https://www.openpostdoc.org/position/99f3e43e-87ab-4895-82ae-7175c6dd349c"/>
+    <id>urn:jobwatch:63505bab9608</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-30 · score 65</summary>
   </entry>
 </feed>

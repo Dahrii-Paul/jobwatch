@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-09 15:52
+## Live stats · updated 2026-11-10 04:14
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **351** |
+| 🎯 Open matches | **350** |
 | 🏛️ Permanent posts — India | **84** |
 | 🔬 Postdocs / fellowships — India | **17** |
-| ✈️ Postdocs / fellowships — abroad | **152** |
-| 🌍 Permanent / faculty — abroad | **36** |
-| ⏰ Closing within 14 days | **76** |
-| 🆕 New this run | **7** |
-| 📡 Sources working | **167 / 209** |
+| ✈️ Postdocs / fellowships — abroad | **154** |
+| 🌍 Permanent / faculty — abroad | **35** |
+| ⏰ Closing within 14 days | **77** |
+| 🆕 New this run | **3** |
+| 📡 Sources working | **168 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Research Assistant - AI Scientist & Computational Cancer Biology](https://www.jobs.ac.uk/job/DTK666/research-assistant-ai-scientist-and-computational-cancer-biology) | permanent | United Kingdom | 2026-11-09 |
-| 🔴 **0d** | [Junior Research Fellow (Ph.D. Program)](https://zoombio.org/jobs/junior-research-fellow-ph-d-program-institute-of-life-sciences-ils-bhubaneswar-k2bv0d8) | junior | India | 2026-11-09 |
-| 🔴 **0d** | [Senior Postdoctoral Research Scientist in AI for Outbreak Response University of Oxford · ](https://www.openpostdoc.org/position/6513cbef-79ba-4f5e-ab04-7619dcfdbf6e) | postdoc | United Kingdom | 2026-11-09 |
-| 🔴 **0d** | [BRIC-ILS Bhubaneswar Hiring 17 Junior Research Fellows (JRF) Leading to Ph.D. — Advt. 38/2](https://www.biotecnika.org/2026/11/bric-ils-jrf-2026-bhubaneswar-phd/) | junior | India | 2026-11-09 |
-| 🔴 **1d** | [Postdoctoral Research Assistant in Statistical Machine Learning for Genomics University of](https://www.openpostdoc.org/position/804ccdd6-3f0e-4706-ad1a-d2bc8d45b3cd) | postdoc | International | 2026-11-10 |
-| 🔴 **1d** | [Research & Project Scientist Positions at ICGEB, New Delhi, India](https://researchersjob.com/project-scientist-positions-at-icgeb/) | project | India | 2026-11-10 |
-| 🔴 **1d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |
-| 🔴 **1d** | [Post-Doctoral Fellowship in Microbial Genomics Infectologia / Unifesp · Brazil ·](https://www.openpostdoc.org/position/3f983f8e-0481-4c2a-8e55-e7cd20d821ee) | postdoc | International | 2026-11-10 |
-| 🔴 **1d** | [Proteomics Researcher, Krogan lab (Associate Specialist position) University of California](https://www.openpostdoc.org/position/94c97cb7-e6ac-4097-a0a4-da28d22bf16d) | postdoc | International | 2026-11-10 |
-| 🔴 **1d** | [Bioinformatics Research Associate Imperial College London · United Kingdom ·](https://www.openpostdoc.org/position/46ec0794-1fc9-4f0d-91bc-8f69c884eb62) | postdoc | United Kingdom | 2026-11-10 |
-| 🔴 **1d** | [Research Associate in Genetic Vector Control Imperial College London · United Kingdom ·](https://www.openpostdoc.org/position/85f5d095-5d46-45c5-a3d6-b9a6a0d3f752) | postdoc | United Kingdom | 2026-11-10 |
-| 🔴 **1d** | [IIT Bombay Postdoc Vacancy 2026 / Apply Online Now](https://www.biotecnika.org/2026/10/iit-bombay-postdoc-vacancy-2026/) | postdoc | India | 2026-11-10 |
-| 🔴 **1d** | [PhD Student Position in Plant Genetics & Genomics (Ref 52/2026) at CRAG, Spain](https://researchersjob.com/phd-student-position-in-plant-genetics-genomics/) | phd | Spain | 2026-11-10 |
-| 🔴 **2d** | [Research Fellow (Maternity Cover)](https://www.jobs.ac.uk/job/DTM042/research-fellow-maternity-cover) | postdoc | United Kingdom | 2026-11-11 |
-| 🔴 **2d** | [Research Fellow (Maternity Cover) London School of Hygiene & Tropical Medicine · United Ki](https://www.openpostdoc.org/position/5bf7ef89-ffd7-450d-a1b3-9cf74da0e7f0) | postdoc | United Kingdom | 2026-11-11 |
+| 🔴 **0d** | [Postdoctoral Research Assistant in Statistical Machine Learning for Genomics University of](https://www.openpostdoc.org/position/804ccdd6-3f0e-4706-ad1a-d2bc8d45b3cd) | postdoc | International | 2026-11-10 |
+| 🔴 **0d** | [Research & Project Scientist Positions at ICGEB, New Delhi, India](https://researchersjob.com/project-scientist-positions-at-icgeb/) | project | India | 2026-11-10 |
+| 🔴 **0d** | [Bioinformatics Research Associate](https://www.jobs.ac.uk/job/DTG666/bioinformatics-research-associate) | postdoc | United Kingdom | 2026-11-10 |
+| 🔴 **0d** | [Post-Doctoral Fellowship in Microbial Genomics Infectologia / Unifesp · Brazil ·](https://www.openpostdoc.org/position/3f983f8e-0481-4c2a-8e55-e7cd20d821ee) | postdoc | International | 2026-11-10 |
+| 🔴 **0d** | [Proteomics Researcher, Krogan lab (Associate Specialist position) University of California](https://www.openpostdoc.org/position/94c97cb7-e6ac-4097-a0a4-da28d22bf16d) | postdoc | International | 2026-11-10 |
+| 🔴 **0d** | [Bioinformatics Research Associate Imperial College London · United Kingdom ·](https://www.openpostdoc.org/position/46ec0794-1fc9-4f0d-91bc-8f69c884eb62) | postdoc | United Kingdom | 2026-11-10 |
+| 🔴 **0d** | [Research Associate in Genetic Vector Control Imperial College London · United Kingdom ·](https://www.openpostdoc.org/position/85f5d095-5d46-45c5-a3d6-b9a6a0d3f752) | postdoc | United Kingdom | 2026-11-10 |
+| 🔴 **0d** | [IIT Bombay Postdoc Vacancy 2026 / Apply Online Now](https://www.biotecnika.org/2026/10/iit-bombay-postdoc-vacancy-2026/) | postdoc | India | 2026-11-10 |
+| 🔴 **0d** | [PhD Student Position in Plant Genetics & Genomics (Ref 52/2026) at CRAG, Spain](https://researchersjob.com/phd-student-position-in-plant-genetics-genomics/) | phd | Spain | 2026-11-10 |
+| 🔴 **1d** | [Research Fellow (Maternity Cover)](https://www.jobs.ac.uk/job/DTM042/research-fellow-maternity-cover) | postdoc | United Kingdom | 2026-11-11 |
+| 🔴 **1d** | [Research Fellow (Maternity Cover) London School of Hygiene & Tropical Medicine · United Ki](https://www.openpostdoc.org/position/5bf7ef89-ffd7-450d-a1b3-9cf74da0e7f0) | postdoc | United Kingdom | 2026-11-11 |
+| 🔴 **1d** | [Postdoctoral Research Scientist - Epitranscriptomics University of Oxford · Oxford ·](https://www.openpostdoc.org/position/d7c32bfb-dd7c-46be-a870-f665e7429975) | postdoc | United Kingdom | 2026-11-11 |
+| 🔴 **1d** | [Post-Doctoral Fellowship in Chemical Escola Superior de Agricultura Luiz de Queiroz (ESALQ](https://www.openpostdoc.org/position/da370722-ee86-44f6-b331-ac1108b5505e) | postdoc | International | 2026-11-11 |
+| 🔴 **1d** | [Research Associate Position at IIT Gandhinagar: India](https://researchersjob.com/research-associate-position-at-iit/) | postdoc | India | 2026-11-11 |
+| 🔴 **2d** | [Post-doc position on Multi-omics Post-doc Position on Multi-omics in Hereditary Fibrinogen](https://www.academictransfer.com/en/jobs/364732/post-doc-position-on-multi-omics/) | postdoc | Netherlands | 2026-11-12 |
 <!-- STATS:END -->
 
 ---
