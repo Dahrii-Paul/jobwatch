@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-10T04:14+05:30",
+  "updated": "2026-11-10T15:56+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2439,
-   "open_matches": 350,
-   "urgent": 77,
-   "new_this_run": 3,
+   "total_indexed": 2498,
+   "open_matches": 355,
+   "urgent": 79,
+   "new_this_run": 4,
    "saved": 0,
    "permanent_india": 84,
    "postdoc_india": 17,
-   "postdoc_abroad": 154,
+   "postdoc_abroad": 158,
    "permanent_abroad": 35,
-   "sources_ok": 168,
+   "sources_ok": 167,
    "sources_total": 209
   }
  },
@@ -980,7 +980,7 @@
    "last_seen": "2026-11-10",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "aa5deea31739",
@@ -1044,7 +1044,7 @@
    "id": "753d833e417f",
    "title": "Associate or Senior Editor, Genome Biology",
    "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
-   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 7 days left",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 6 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1123,7 +1123,7 @@
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
-   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 52 days ago",
+   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 7 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1497,7 +1497,7 @@
    "id": "584df3c15954",
    "title": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on",
    "url": "https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/",
-   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published today Groningen University of Groningen",
+   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published yesterday Groningen University of Groningen",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -1521,7 +1521,7 @@
    "last_seen": "2026-11-10",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e85091ba0342",
@@ -1714,7 +1714,7 @@
    "id": "86a29caf7970",
    "title": "Senior Bioinformatics Research Scientist",
    "url": "https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/",
-   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 47 days ago",
+   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 48 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1741,7 +1741,7 @@
    "id": "69476e84ed66",
    "title": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology",
    "url": "https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/",
-   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 47 days ago",
+   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 48 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -2033,6 +2033,31 @@
    "new": false
   },
   {
+   "id": "54bf18605d26",
+   "title": "Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish University of Agricultural Sciences (SLU) · Sweden ·",
+   "url": "https://www.openpostdoc.org/position/d743a2a1-22c7-4845-bc6b-6b78e4aacc99",
+   "context": "Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish University of Agricultural Sciences (SLU) · Sweden · closes 2026-11-24",
+   "source_id": "openpostdoc",
+   "source_name": "OpenPostdoc — bioinformatics",
+   "published": null,
+   "deadline": "2026-11-24",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 65,
+   "matched": [
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 65,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "b994480809fe",
    "title": "PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany",
    "url": "https://researchersjob.com/phd-candidate-in-plant-virus-analysis/",
@@ -2061,6 +2086,33 @@
    "new": false,
    "details": "Summary Geisenheim University, Germany, is inviting applications for a PhD Candidate / Research Assistant (65%) position in plant virus analysis using RNA sequencing (RNA-seq) . The doctoral project will use Oxford Nanopore-based long-read RNA sequencing and bioinformatics to improve the diagnosis and genomic characterization of Grapevine Pinot Gris Virus (GPGV) . The project will investigate GPGV infections in German wine-growing regions, includ … Summary Geisenheim University, Germany, is inviting applications for a PhD Candidate / Research Assistant (65%) position in plant virus analysis using RNA sequencing (RNA-seq) . … The doctoral project will use Oxford Nanopore-based long-read RNA sequencing and bioinformatics to improve the diagnosis and genomic characterization of Grapevine Pinot Gris Virus (GPGV) . … The successful candidate will work at the intersection of molecular biology, transcriptomics, bioinformatics, virology, and applied plant science . … Pay band 13 of the TV-H collective agreement , depending on qualifications and professional experience Research Area Plant Vir",
    "details_checked": true
+  },
+  {
+   "id": "381fcd2f2c88",
+   "title": "Postdoctoral Research Associate / Fellow",
+   "url": "https://www.jobs.ac.uk/job/DTP245/postdoctoral-research-associate-fellow",
+   "context": "Postdoctoral Research Associate / Fellow Faculty of Environment, Science & Economy University of Exeter Location: Penryn Salary: £35,302 to £46,970 See advert text for details. Date Placed: 10 Nov Closes 24 Nov Save",
+   "source_id": "jobsacuk",
+   "source_name": "jobs.ac.uk (UK)",
+   "published": null,
+   "deadline": "2026-11-24",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "United Kingdom",
+   "kw_score": 50,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 50,
+   "details": "Skip to main content Back to search results Postdoctoral Research Associate / Fellow University of Exeter - Faculty of Environment, Science & Economy Location: Penryn Salary: £35,302 to £46,970 See advert text for details. Hours: Full Time Contract Type: Fixed-Term/Contract Placed On: 10th November 2026 Closes: 24th November 2026 Job Ref: 2050 This ERC funded full-time post is available from 4 January 2027 until 3 January 2030. The starting salar … The successful applicant will conduct a range of biological, biochemical, molecular and bioinformatic analyses including functional expression of insect detoxification enzymes in insect cell lines and transgenic Drosophila, phylogenetic and bioinformatic analyses, database development and insect bioassays. … Any personal data you provide in setting up this alert is processed in accordance with our Privacy Notice I would like to receive email communication from jobs.ac.uk relating to Company News I would like to receive email communication from jobs.ac.uk relating to Conferences, Meetings and Events Save this job Login to Save Job Max Saved",
+   "details_checked": true,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "c79193b44a18",
