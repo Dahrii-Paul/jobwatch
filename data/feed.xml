@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-10T20:02:15Z</updated>
+  <updated>2026-11-11T09:51:30Z</updated>
   <entry>
     <title>Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading!</title>
     <link href="https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/"/>
@@ -30,6 +30,13 @@
     <id>urn:jobwatch:83e09d5c4683</id>
     <updated>2026-11-11T00:00:00Z</updated>
     <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-11-29 · score 59</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Positions in Bioinformatics at University of Ostrava and University of Wrocław, Poland</title>
+    <link href="https://researchersjob.com/postdoctoral-positions-in-bioinformatics/"/>
+    <id>urn:jobwatch:956a77063e6f</id>
+    <updated>2026-11-11T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Poland · Deadline 2026-11-30 · score 55</summary>
   </entry>
   <entry>
     <title>Postdoctoral Fellow /Associate Scientist in Computational Biophysics</title>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:f219898917f1</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] Times Higher Education Jobs · United Kingdom · Deadline 2026-11-30 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Recruitment of Scientist at NIAB, Govt. of India: Apply by 30 November 2026</title>
-    <link href="https://researchersjob.com/recruitment-of-scientist-at-niab/"/>
-    <id>urn:jobwatch:0d5c0ba09757</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Researchersjob.com · India · Deadline 2026-11-30 · score 67</summary>
   </entry>
 </feed>

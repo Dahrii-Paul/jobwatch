@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-11T01:32+05:30",
+  "updated": "2026-11-11T15:21+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,14 +10,14 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2537,
-   "open_matches": 352,
+   "total_indexed": 2555,
+   "open_matches": 354,
    "urgent": 76,
-   "new_this_run": 6,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 84,
    "postdoc_india": 16,
-   "postdoc_abroad": 158,
+   "postdoc_abroad": 160,
    "permanent_abroad": 35,
    "sources_ok": 167,
    "sources_total": 209
@@ -193,7 +193,7 @@
    "id": "9de7c72b29e7",
    "title": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute",
    "url": "https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 2 days left",
+   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 1 day left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -801,7 +801,7 @@
    "id": "753d833e417f",
    "title": "Associate or Senior Editor, Genome Biology",
    "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
-   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 6 days left",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 5 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -880,7 +880,7 @@
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
-   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 7 days left",
+   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 6 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1099,7 +1099,7 @@
    "id": "e5e94d37373a",
    "title": "Senior Research Fellow in AI Applied to Genomic Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing",
-   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 19 days ago",
+   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 7 days left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1254,7 +1254,7 @@
    "id": "584df3c15954",
    "title": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on",
    "url": "https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/",
-   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published yesterday Groningen University of Groningen",
+   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published 9 Nov ’26 Groningen University of Groningen",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -1338,7 +1338,7 @@
    "id": "87832ca01a8e",
    "title": "COLCOM - Professor in Bioinformatics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing",
-   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 21 days ago",
+   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 22 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1471,7 +1471,7 @@
    "id": "86a29caf7970",
    "title": "Senior Bioinformatics Research Scientist",
    "url": "https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/",
-   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 48 days ago",
+   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 49 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1498,7 +1498,7 @@
    "id": "69476e84ed66",
    "title": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology",
    "url": "https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/",
-   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 48 days ago",
+   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 49 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -1578,7 +1578,7 @@
    "id": "f79614b8dc10",
    "title": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading!",
    "url": "https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/",
-   "context": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading! Deadline 23 Nov ’26 Published today Amsterdam Amsterdam UMC",
+   "context": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading! Deadline 23 Nov ’26 Published yesterday Amsterdam Amsterdam UMC",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -1601,7 +1601,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "89188a2f884c",
@@ -1713,7 +1713,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ccd7468be3ab",
@@ -1850,7 +1850,7 @@
    "id": "94e942ed08dd",
    "title": "Postdoctoral Research Associate in Environmental Engineering and Microbiology",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing",
-   "context": "Postdoctoral Research Associate in Environmental Engineering and Microbiology Durham, United Kingdom £39,560 to £46,970 per annum DURHAM UNIVERSITY Applications are invited for a Postdoctoral Research Associate in Environmental Engineering and Microbiology to join CARMA ... View details Postdoctoral Research Associate in Environmental Engineering and Microbiology",
+   "context": "Postdoctoral Research Associate in Environmental Engineering and Microbiology Durham, United Kingdom £39,560 to £46,970 per annum DURHAM UNIVERSITY Applications are invited for a Postdoctoral Research Associate in Environmental Engineering and Microbiology to join CARMA ... View details Postdoctoral Research Associate in Environmental Engineering and Microbiology 1 day ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -1872,7 +1872,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "54bf18605d26",

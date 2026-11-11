@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-11T01:32+05:30",
+  "updated": "2026-11-11T15:21+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,14 +10,14 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2537,
-   "open_matches": 352,
+   "total_indexed": 2555,
+   "open_matches": 354,
    "urgent": 76,
-   "new_this_run": 6,
+   "new_this_run": 1,
    "saved": 0,
    "permanent_india": 84,
    "postdoc_india": 16,
-   "postdoc_abroad": 158,
+   "postdoc_abroad": 160,
    "permanent_abroad": 35,
    "sources_ok": 167,
    "sources_total": 209
@@ -266,29 +266,6 @@
    "details_checked": true
   },
   {
-   "id": "05c3a9fc998c",
-   "title": "Applications are invited for the non-teaching positions at Group B & C on regular basis",
-   "url": "https://www.iisertvm.ac.in/openings/read/openings-applications-are-invited-for-the-non-teaching-positions-at-group-b-c-on-regular-basis",
-   "context": "title: Applications are invited for the non-teaching positions at Group B & C on regular basis | Category: Administration | Publish Date: 2026-10-22 | Last Date: 2026-11-11",
-   "source_id": "iiser-tvm",
-   "source_name": "IISER Thiruvananthapuram",
-   "published": null,
-   "deadline": "2026-11-11",
-   "category": "other",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 0,
-   "matched": [],
-   "check_advt": false,
-   "score": 0,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-11",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "2272ae9a0eab",
    "title": "Project Assistant – Mitochondrial Nucleoid Remodeling & Macrophage Immunity (ANRF) at University of Hyderabad Biochemistry | Earn Rs 27,000 + HRA",
    "url": "https://www.biotecnika.org/2026/11/anrf-project-assistant-university-of-hyderabad/",
@@ -345,7 +322,7 @@
    "id": "9de7c72b29e7",
    "title": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute",
    "url": "https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 2 days left",
+   "context": "Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will deliver collaborative projects related to the development of live-attenuated vaccine strategies targeting influenza ... View details Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute 1 day left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -684,29 +661,6 @@
    "details_checked": true,
    "first_seen": "2026-11-05",
    "last_seen": "2026-11-05",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
-   "id": "2f761499ac91",
-   "title": "PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN The Faculty of Science and Leiden Academic Centre for Drug Research (LACDR) are looking for candidates for a PhD Position (Doctoral Candidate 10) in the Marie Skłodowsk",
-   "url": "https://www.academictransfer.com/en/jobs/364762/phd-position-doctoral-candidate-10-in-the-marie-skodowska-curie-doctoral-network-ana-kin/",
-   "context": "PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN The Faculty of Science and Leiden Academic Centre for Drug Research (LACDR) are looking for candidates for a PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN ANA-KIN is a Marie Skłodowska-Curie Actions (MSCA) Doctora… Deadline 12 Nov ’26 Published 15 Oct ’26 Leiden Leiden University",
-   "source_id": "academictransfer",
-   "source_name": "AcademicTransfer (Netherlands)",
-   "published": null,
-   "deadline": "2026-11-12",
-   "category": "phd",
-   "contract": false,
-   "region": "abroad",
-   "country": "Netherlands",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -1924,7 +1878,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0f96c66016bf",
@@ -1987,7 +1941,7 @@
    "id": "753d833e417f",
    "title": "Associate or Senior Editor, Genome Biology",
    "url": "https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing",
-   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 6 days left",
+   "context": "Associate or Senior Editor, Genome Biology London (Greater) (GB) Competitive salary + excellent benefits package Springer Nature Ltd Job Description Job Title: Associate or Senior Editor, Genome Biology Permanent, Full-Time Organisation: Nature Portfolio Location: London or Shang... View details Associate or Senior Editor, Genome Biology 5 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -2140,7 +2094,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "09d28c9daf46",
@@ -2249,6 +2203,31 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "b2ab7bb695f4",
+   "title": "A3(13)_Inginer mecanic/A3(13)_Mechanical Engineer",
+   "url": "https://euraxess.ec.europa.eu/jobs/479552",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-11-16",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 20,
+   "matched": [],
+   "check_advt": false,
+   "score": 20,
+   "details": "11 Nov 2026 Job Information Organisation/Company National University of Science and Technology POLITEHNICA Bucharest Department Faculty of Mechanical Engineering and Mechatronics Research Field Engineering Researcher Profile Other Profession Positions Other Positions Application Deadline 16 Nov 2026 - 15:00 (Europe/Bucharest) Country Romania Type of Contract Temporary Job Status Part-time Hours Per Week 5 Offer Starting Date 27 Nov 2026 Is the jo",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "0709202b8d12",
@@ -2456,7 +2435,7 @@
    "id": "7a54752a1b71",
    "title": "Bioinformatics Professor",
    "url": "https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/",
-   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 7 days left",
+   "context": "Bioinformatics Professor Provo, Utah (US) DOE Brigham Young University The Department of Biology at Brigham Young University invites applications for a continuing faculty status (CFS) position in Bioinformatics. View details Bioinformatics Professor 6 days left",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -2610,6 +2589,31 @@
    "new": false
   },
   {
+   "id": "59bb71862232",
+   "title": "Academic Positions in Shri Vishwakarma Skill University, Haryana, India",
+   "url": "https://researchersjob.com/academic-positions/",
+   "context": "Academic Positions in Shri Vishwakarma Skill University, Haryana, India Designation/Position- Academic Positions Shri Vishwakarma Skill University (SVSU), Haryana, India invites application for Academic Positions from eligible and interested candidates About- Shri Vishwakarma Skill University (SVSU), Dudhola, Palwal (Haryana), is India’s first Government Skill University established by the Government of Haryana Act 25, 2016, which is functioning from […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-11-17",
+   "details": "Academic Positions in Shri Vishwakarma Skill University, Haryana, India Designation/Position- Academic Positions Shri Vishwakarma Skill University (SVSU), Haryana, India invites application for Academic Positions from eligible and interested candidates About- Shri Vishwakarma Skill University (SVSU), Dudhola, Palwal (Haryana), is India’s first Government Skill University established by the Government of Haryana Act 25, 2016, which is functioning ",
+   "details_checked": true,
+   "category": "other",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "ba402e9e4f3a",
    "title": "Senior Research Fellow in AI applied to Genomic Medicine University of Southampton · United Kingdom ·",
    "url": "https://www.openpostdoc.org/position/2bb37600-3b45-439a-b0a5-02cfb9c67b37",
@@ -2725,7 +2729,7 @@
    "id": "e5e94d37373a",
    "title": "Senior Research Fellow in AI Applied to Genomic Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing",
-   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 19 days ago",
+   "context": "Senior Research Fellow in AI Applied to Genomic Medicine Southampton, United Kingdom £46,970 to £49,798 Per annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine Genomic Informatics Group invites applications for a full-time, fixed-term Senior Research Fellow ... View details Senior Research Fellow in AI Applied to Genomic Medicine 7 days left",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -3106,6 +3110,29 @@
    "details_checked": true
   },
   {
+   "id": "05c3a9fc998c",
+   "title": "Applications are invited for the non-teaching positions at Group B & C on regular basis",
+   "url": "https://www.iisertvm.ac.in/openings/read/openings-applications-are-invited-for-the-non-teaching-positions-at-group-b-c-on-regular-basis",
+   "context": "title: Applications are invited for the non-teaching positions at Group B & C on regular basis | Category: Administration | Publish Date: 2026-10-22 | Last Date: 2026-11-18",
+   "source_id": "iiser-tvm",
+   "source_name": "IISER Thiruvananthapuram",
+   "published": null,
+   "deadline": "2026-11-18",
+   "category": "other",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
    "id": "943b8e2ec575",
    "title": "Zoology Job at ICAR-CMFRI | Apply Online Here",
    "url": "https://www.biotecnika.org/2026/10/cmfri-vizhinjam-field-assistant-zoology-2026/",
@@ -3186,7 +3213,7 @@
    "id": "584df3c15954",
    "title": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on",
    "url": "https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/",
-   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published yesterday Groningen University of Groningen",
+   "context": "Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on RNA molecules rarely adopt a single structure. Most fold into an ensemble of inter… Deadline 19 Nov ’26 Published 9 Nov ’26 Groningen University of Groningen",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -3466,13 +3493,13 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "87832ca01a8e",
    "title": "COLCOM - Professor in Bioinformatics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing",
-   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 21 days ago",
+   "context": "COLCOM - Professor in Bioinformatics Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The College of Computing (cc.um6p.ma) at the University of Mohammed VI Polytechnic in Benguerir, Morocco, seeks candidates ... View details COLCOM - Professor in Bioinformatics 22 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -3834,7 +3861,7 @@
    "id": "86a29caf7970",
    "title": "Senior Bioinformatics Research Scientist",
    "url": "https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/",
-   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 48 days ago",
+   "context": "Senior Bioinformatics Research Scientist Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist 49 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -3861,7 +3888,7 @@
    "id": "69476e84ed66",
    "title": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology",
    "url": "https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/",
-   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 48 days ago",
+   "context": "Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology Memphis, Tennessee $86,320 - $154,960 per year St Jude Children's Research Hospital We are seeking a talented, highly motivated Bioinformatics Research Scientist to join the Center of Excellence in Pediatric Immuno-Oncology (CEPIO)... View details Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology 49 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -3956,6 +3983,31 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "574377cb1540",
+   "title": "PhD Scholarship in Physics-Informed Generative AI for Dynamic Cardiac MRI at TU/e, Netherlands",
+   "url": "https://researchersjob.com/phd-scholarship-in-physics-informed-generative-ai/",
+   "context": "Eindhoven University of Technology (TU/e), in collaboration with the Technical University of Munich (TUM) under the EuroTech Universities Alliance, is offering a fully funded 4-year PhD position in Physics-Informed Generative AI for Dynamic Cardiac MRI. The selected candidate will join the PRIMA-CMR project to develop trustworthy generative AI architectures that enable diagnostic-quality cardiac MRI with […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-11-21",
+   "details": "Eindhoven University of Technology (TU/e), in collaboration with the Technical University of Munich (TUM) under the EuroTech Universities Alliance, is offering a fully funded 4-year PhD position in Physics-Informed Generative AI for Dynamic Cardiac MRI. The selected candidate will join the PRIMA-CMR project to develop trustworthy generative AI architectures that enable diagnostic-quality cardiac MRI with significantly reduced gadolinium contrast  … An additional 8% holiday allowance and an 8.3% end-of-year bonus based on annual gross earnings. … A brief summary of your Master’s thesis (topic, method, contributions) and other related research undertakings.",
+   "details_checked": true,
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Netherlands",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "c70d4f8e4020",
@@ -4142,7 +4194,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e619e0d6b85a",
@@ -4173,7 +4225,7 @@
    "id": "f79614b8dc10",
    "title": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading!",
    "url": "https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/",
-   "context": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading! Deadline 23 Nov ’26 Published today Amsterdam Amsterdam UMC",
+   "context": "Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading! Deadline 23 Nov ’26 Published yesterday Amsterdam Amsterdam UMC",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -4196,7 +4248,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "89188a2f884c",
@@ -4308,7 +4360,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ccd7468be3ab",
@@ -4445,7 +4497,7 @@
    "id": "c4e1a7612b6c",
    "title": "PhD Student Biophysics of Cellular Immunity We offer a position for an ambitious PhD student who is interested in research on the interface of biophysics and cellular immunology.",
    "url": "https://www.academictransfer.com/en/jobs/365425/phd-student-biophysics-of-cellular-immunity/",
-   "context": "PhD Student Biophysics of Cellular Immunity We offer a position for an ambitious PhD student who is interested in research on the interface of biophysics and cellular immunology. Deadline 23 Nov ’26 Published yesterday Utrecht University Medical Center Utrecht (UMC Utrecht)",
+   "context": "PhD Student Biophysics of Cellular Immunity We offer a position for an ambitious PhD student who is interested in research on the interface of biophysics and cellular immunology. Deadline 23 Nov ’26 Published 9 Nov ’26 Utrecht University Medical Center Utrecht (UMC Utrecht)",
    "source_id": "academictransfer",
    "source_name": "AcademicTransfer (Netherlands)",
    "published": null,
@@ -4493,7 +4545,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "697f02245185",
@@ -4624,7 +4676,7 @@
    "id": "94e942ed08dd",
    "title": "Postdoctoral Research Associate in Environmental Engineering and Microbiology",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing",
-   "context": "Postdoctoral Research Associate in Environmental Engineering and Microbiology Durham, United Kingdom £39,560 to £46,970 per annum DURHAM UNIVERSITY Applications are invited for a Postdoctoral Research Associate in Environmental Engineering and Microbiology to join CARMA ... View details Postdoctoral Research Associate in Environmental Engineering and Microbiology",
+   "context": "Postdoctoral Research Associate in Environmental Engineering and Microbiology Durham, United Kingdom £39,560 to £46,970 per annum DURHAM UNIVERSITY Applications are invited for a Postdoctoral Research Associate in Environmental Engineering and Microbiology to join CARMA ... View details Postdoctoral Research Associate in Environmental Engineering and Microbiology 1 day ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -4646,7 +4698,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "54bf18605d26",
@@ -5205,7 +5257,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "004fca920d37",
@@ -5870,7 +5922,7 @@
    "id": "0e81a8a0fac9",
    "title": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing",
-   "context": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Abu Dhabi, United Arab Emirates NEW YORK UNIVERSITY ABU DHABI NYU Abu Dhabi invites applications for a Post-Doctoral Associate position that advances the frontiers of developmental biology ... View details Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei 12 days ago",
+   "context": "Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei Abu Dhabi, United Arab Emirates NEW YORK UNIVERSITY ABU DHABI NYU Abu Dhabi invites applications for a Post-Doctoral Associate position that advances the frontiers of developmental biology ... View details Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei 13 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -5899,7 +5951,7 @@
    "id": "9351a5c171c6",
    "title": "Open PI Positions at Shenzhen Bay Laboratory",
    "url": "https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing",
-   "context": "Open PI Positions at Shenzhen Bay Laboratory Shenzhen, Guangdong (CN) Competitive salary Shenzhen Bay Laboratory Faculty/Independent PI positions at Shenzhen Bay Laboratory View details Open PI Positions at Shenzhen Bay Laboratory 105 days ago",
+   "context": "Open PI Positions at Shenzhen Bay Laboratory Shenzhen, Guangdong (CN) Competitive salary Shenzhen Bay Laboratory Faculty/Independent PI positions at Shenzhen Bay Laboratory View details Open PI Positions at Shenzhen Bay Laboratory 106 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -5988,7 +6040,7 @@
    "id": "4b53ce188fd8",
    "title": "Research Fellow – Bioinformatics and Data Sciences",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417319/research-fellow-bioinformatics-and-data-sciences/?LinkSource=PremiumListing",
-   "context": "Research Fellow – Bioinformatics and Data Sciences Surrey, United Kingdom £38,448 to £46,970 UNIVERSITY OF SURREY This is an exciting new opportunity for an enthusiastic and motivated postdoctoral fellow in health data-sciences and biomedical informatics ... View details Research Fellow – Bioinformatics and Data Sciences 5 days ago",
+   "context": "Research Fellow – Bioinformatics and Data Sciences Surrey, United Kingdom £38,448 to £46,970 UNIVERSITY OF SURREY This is an exciting new opportunity for an enthusiastic and motivated postdoctoral fellow in health data-sciences and biomedical informatics ... View details Research Fellow – Bioinformatics and Data Sciences 6 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -6127,7 +6179,7 @@
    "id": "39685b3653ff",
    "title": "Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory",
    "url": "https://www.nature.com/naturecareers/job/12865128/postdoctoral-fellows-recruitment-announcement-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing",
-   "context": "Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory Shenzhen, Guangdong (CN) Competitive salary Shenzhen Bay Laboratory Substantial Funding for Postdoctoral Research View details Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory 42 days ago",
+   "context": "Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory Shenzhen, Guangdong (CN) Competitive salary Shenzhen Bay Laboratory Substantial Funding for Postdoctoral Research View details Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory 43 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -6179,7 +6231,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "50faf750dc12",
@@ -6229,7 +6281,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3ae1baa61e73",
@@ -6426,7 +6478,7 @@
    "id": "ba72a7c132d5",
    "title": "Lecturer in Bioinformatics in the School of Biomedical Sciences",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416859/lecturer-in-bioinformatics-in-the-school-of-biomedical-sciences/?LinkSource=PremiumListing",
-   "context": "Lecturer in Bioinformatics in the School of Biomedical Sciences Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Lecturer in Bioinformatics in the School of Biomedical Sciences (Ref.: 537614), to commence ... View details Lecturer in Bioinformatics in the School of Biomedical Sciences 19 days ago",
+   "context": "Lecturer in Bioinformatics in the School of Biomedical Sciences Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Lecturer in Bioinformatics in the School of Biomedical Sciences (Ref.: 537614), to commence ... View details Lecturer in Bioinformatics in the School of Biomedical Sciences 20 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -6454,7 +6506,7 @@
    "id": "71f6f05e97a9",
    "title": "Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417306/post-doctoral-fellow-in-the-department-of-clinical-oncology-school-of-clinical-medicine/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will work under the supervision of Professor Xin-yuan Guan on a project related to Tumor immune microenvironment ... View details Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine 5 days ago",
+   "context": "Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will work under the supervision of Professor Xin-yuan Guan on a project related to Tumor immune microenvironment ... View details Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine 6 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -6626,7 +6678,7 @@
    "id": "b766d3ab4c7c",
    "title": "Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417270/post-doctoral-fellow-in-the-department-of-obstetrics-and-gynaecology-school-of-clinical-medicine/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine ... View details Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine 6 days ago",
+   "context": "Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine ... View details Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine 7 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -6705,6 +6757,34 @@
    "new": false,
    "details": "Summary Liverpool John Moores University (LJMU), a distinctive institution rooted in the Liverpool City Region with a global presence, is seeking a Postdoctoral Researcher. The School of Biological and Environmental Sciences, known for its diverse and high-quality teaching and extensive research, is partnering with Trentham Monkey Forest and the Plastic Primates Lab to fund this 12-month fixed-term position. This role focuses on understanding the … Designation Postdoctoral Researcher Research Area Primate Genomics, Conservation and Population Genomics, Barbary Macaques Location Liverpool John Moores University (LJMU), Liverpool, UK Eligibility/Qualification PhD qualification in a relevant field. … Experience in conservation and population genomics. … Strong interest and/or training in primatology, genomics, conservation, or related fields. … Skilled in bioinformatics and statistical analyses (using R and/or Python) for population genetic analyses and population modelling.",
    "details_checked": true
+  },
+  {
+   "id": "956a77063e6f",
+   "title": "Postdoctoral Positions in Bioinformatics at University of Ostrava and University of Wrocław, Poland",
+   "url": "https://researchersjob.com/postdoctoral-positions-in-bioinformatics/",
+   "context": "The University of Ostrava in the Czech Republic and the University of Wrocław in Poland are seeking applications for two postdoctoral positions in bioinformatics. These roles are focused on genomics and microbial ecology and are aimed at researchers who can contribute immediately to ongoing research projects. Designation Postdoctoral Researcher (2 Positions) Research Area Bioinformatics, Genomics, […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-11-30",
+   "details": "The University of Ostrava in the Czech Republic and the University of Wrocław in Poland are seeking applications for two postdoctoral positions in bioinformatics. These roles are focused on genomics and microbial ecology and are aimed at researchers who can contribute immediately to ongoing research projects. Designation Postdoctoral Researcher (2 Positions) Research Area Bioinformatics, Genomics, and Microbial Ecology Location Ostrava (Czech Rep … The University of Ostrava in the Czech Republic and the University of Wrocław in Poland are seeking applications for two postdoctoral positions in bioinformatics. … These roles are focused on genomics and microbial ecology and are aimed at researchers who can contribute immediately to ongoing research projects. … Designation Postdoctoral Researcher (2 Positions) Research Area Bioinformatics, Genomics, and Microbial Ecology Location Ostrava (Czech Republic) and Wrocław (Poland) Application Deadline 30 November 2026 Job Description There are two separate postdoctoral positions available: … The successful candidates will work within research ",
+   "details_checked": true,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Poland",
+   "kw_score": 55,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 55,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "b9affa411a81",
@@ -7978,7 +8058,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "36eda094048f",
@@ -8090,7 +8170,7 @@
    "id": "c3c2490423d5",
    "title": "AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417348/agc-postdoctoral-fellow-on-bioinformatics-microbial-genomics/?LinkSource=PremiumListing",
-   "context": "AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY We are seeking a talented candidate in bioinformatics microbial genomics to join the dynamic research group led by Professor ... View details AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics 5 days ago",
+   "context": "AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY We are seeking a talented candidate in bioinformatics microbial genomics to join the dynamic research group led by Professor ... View details AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics 6 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -8118,7 +8198,7 @@
    "id": "7b92d533432f",
    "title": "Research Fellow in Genetic Epidemiology",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417486/research-fellow-in-genetic-epidemiology/?LinkSource=PremiumListing",
-   "context": "Research Fellow in Genetic Epidemiology Southampton, United Kingdom £37,369 to £45,641 Per Annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine at the University of Southampton invites applications for a full-time, fixed-term Research Fellow ... View details Research Fellow in Genetic Epidemiology 1 day ago",
+   "context": "Research Fellow in Genetic Epidemiology Southampton, United Kingdom £37,369 to £45,641 Per Annum UNIVERSITY OF SOUTHAMPTON The Faculty of Medicine at the University of Southampton invites applications for a full-time, fixed-term Research Fellow ... View details Research Fellow in Genetic Epidemiology 2 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -8174,7 +8254,7 @@
    "id": "b2b1f1605141",
    "title": "COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417343/colcom-postdoctoral-fellow-position-in-omics-and-soil-microbiome-research/?LinkSource=PremiumListing",
-   "context": "COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The Mohammed VI Polytechnic University (UM6P) invites applications for a Postdoctoral fellow position... View details COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research 5 days ago",
+   "context": "COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The Mohammed VI Polytechnic University (UM6P) invites applications for a Postdoctoral fellow position... View details COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research 6 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -8401,7 +8481,7 @@
    "id": "0cc57a47096f",
    "title": "CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417403/cbs-postdoctoral-position-artificial-intelligence-applied-to-multi-omics-data-integration/?LinkSource=PremiumListing",
-   "context": "CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY We are seeking an outstanding Postdoctoral Researcher in Artificial Intelligence (AI) and Data Science with expertise in multi-omics ... View details CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration 4 days ago",
+   "context": "CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY We are seeking an outstanding Postdoctoral Researcher in Artificial Intelligence (AI) and Data Science with expertise in multi-omics ... View details CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration 5 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -8858,7 +8938,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b3ed8caa5875",
@@ -9015,6 +9095,36 @@
    "new": false
   },
   {
+   "id": "c55670d1e0a3",
+   "title": "PhD Scholarship in Decoding Bone Metastasis at Karolinska Institutet, Sweden",
+   "url": "https://researchersjob.com/phd-scholarship-in-decoding-bone-metastasis/",
+   "context": "Karolinska Institutet is inviting applications for a four-year doctoral (PhD) student position focused on decoding the metastatic cascade to bone in neuroblastoma. This in vivo-intensive project aims to identify therapeutic targets for bone marrow metastases in pediatric oncology using advanced single-cell technologies and CRISPR screening. Designation Doctoral (PhD) Student Key Information Detail Information Position PhD […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-12-09",
+   "details": "Karolinska Institutet is inviting applications for a four-year doctoral (PhD) student position focused on decoding the metastatic cascade to bone in neuroblastoma. This in vivo-intensive project aims to identify therapeutic targets for bone marrow metastases in pediatric oncology using advanced single-cell technologies and CRISPR screening. Designation Doctoral (PhD) Student Key Information Detail Information Position PhD Student Institution Karo … This in vivo-intensive project aims to identify therapeutic targets for bone marrow metastases in pediatric oncology using advanced single-cell technologies and CRISPR screening. … Techniques include single-cell RNA-seq, bioinformatics, immunology, molecular biology, and functional analysis using preclinical animal models. … The project, “Decoding the metastatic cascade to bone,” involves identifying metastasis-driving clones and genes through cell-barcode lineage tracing and spatial transcriptomics.",
+   "details_checked": true,
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 38,
+   "matched": [
+    "bioinformatic",
+    "rna-seq",
+    "single-cell",
+    "spatial transcriptomics"
+   ],
+   "check_advt": false,
+   "score": 38,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "ae74cd3dcb9f",
    "title": "Position Announcement - POSTDOC IN THEORETICAL HADRON PHYSICS",
    "url": "https://euraxess.ec.europa.eu/jobs/479347",
@@ -9037,7 +9147,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c99329ec9526",
@@ -9120,7 +9230,7 @@
    "id": "a10259e5fbff",
    "title": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry",
    "url": "https://www.nature.com/naturecareers/job/12866310/assistant-professor-in-biochemistry-with-specialisation-in-experimental-protein-biochemistry-/?LinkSource=PremiumListing",
-   "context": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry Uppsala (Stad) (SE) Individual salary setting Nowa Kommunikation Are you ready to establish your own research group and pursue ambitious questions in experimental protein biochemistry? Join Uppsala University and... View details Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry 8 days ago",
+   "context": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry Uppsala (Stad) (SE) Individual salary setting Nowa Kommunikation Are you ready to establish your own research group and pursue ambitious questions in experimental protein biochemistry? Join Uppsala University and... View details Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry 9 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -9226,6 +9336,31 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
+   "new": false
+  },
+  {
+   "id": "95850932fa03",
+   "title": "Associate position of Assistant, in Natural Sciences, field of Biology",
+   "url": "https://euraxess.ec.europa.eu/jobs/479559",
+   "context": "1) Associate position of Assistant, in Natural Sciences, field of Biology",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-11",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 39,
+   "matched": [],
+   "check_advt": false,
+   "score": 39,
+   "details": "11 Nov 2026 Job Information Organisation/Company Faculty of Science University of Zagreb Department Department of Biology Research Field Biological sciences Researcher Profile First Stage Researcher (R1) Positions Master Positions Application Deadline 11 Dec 2026 - 23:59 (Europe/Zagreb) Country Croatia Type of Contract Temporary Job Status Full-time Hours Per Week 40 Offer Starting Date 11 Nov 2026 Is the job funded through the EU Research Framew",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
    "new": true
   },
   {
@@ -9254,10 +9389,35 @@
    "new": false
   },
   {
+   "id": "a8f300bf887b",
+   "title": "PhD Scholarship: Responsible AI for Online Safety at Leiden University, Netherlands",
+   "url": "https://researchersjob.com/phd-scholarship-responsible-ai-for-online-safety/",
+   "context": "Summary Universiteit Leiden is offering a full-time PhD position focusing on Responsible AI for Online Safety. This interdisciplinary project sits at the intersection of Artificial Intelligence, cybersecurity, and computational social science. The successful candidate will develop trustworthy and accountable methods to counter digital manipulation, such as coordinated influence campaigns, social bots, and online fraud. Key […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-12-13",
+   "details": "Summary Universiteit Leiden is offering a full-time PhD position focusing on Responsible AI for Online Safety. This interdisciplinary project sits at the intersection of Artificial Intelligence, cybersecurity, and computational social science. The successful candidate will develop trustworthy and accountable methods to counter digital manipulation, such as coordinated influence campaigns, social bots, and online fraud. Key Details at a Glance Fie … The role involves conducting original research, publishing findings in leading scientific venues, and contributing to educational activities as a teaching assistant.",
+   "details_checked": true,
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Netherlands",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "23a7f966b5b9",
    "title": "Talent Recruitment Announcement at the College of Artificial Intelligence",
    "url": "https://www.nature.com/naturecareers/job/12864821/talent-recruitment-announcement-at-the-college-of-artificial-intelligence/?LinkSource=PremiumListing",
-   "context": "Talent Recruitment Announcement at the College of Artificial Intelligence Wuhan, Hubei (CN) Competitive salary Huazhong Agricultural University (HZAU) Join HZAU's global faculty team to advance research with competitive benefits. View details Talent Recruitment Announcement at the College of Artificial Intelligence 3 days ago",
+   "context": "Talent Recruitment Announcement at the College of Artificial Intelligence Wuhan, Hubei (CN) Competitive salary Huazhong Agricultural University (HZAU) Join HZAU's global faculty team to advance research with competitive benefits. View details Talent Recruitment Announcement at the College of Artificial Intelligence 4 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -9805,6 +9965,56 @@
    "new": false
   },
   {
+   "id": "a0d234d94b42",
+   "title": "Bhattadev University Recruitment 2026: 16 Professor, Associate Professor & Assistant Professor Vacancies, India",
+   "url": "https://researchersjob.com/bhattadev-university-recruitment-2026/",
+   "context": "Summary Bhattadev University, Assam, invites applications from eligible Indian citizens for 16 Teaching Positions on a regular basis. The recruitment includes 3 Professor, 5 Associate Professor, and 8 Assistant Professor positions across various academic departments, including Assamese, English, Zoology, Chemistry, Commerce, Computer Science & Engineering, Geography, Botany, Economics, Education, Mathematics, Mass Communication and Journalism, Political […]",
+   "source_id": "researchersjob",
+   "source_name": "Researchersjob.com",
+   "published": "2026-11-11",
+   "deadline": "2026-12-16",
+   "details": "Summary Bhattadev University, Assam , invites applications from eligible Indian citizens for 16 Teaching Positions on a regular basis. The recruitment includes 3 Professor, 5 Associate Professor, and 8 Assistant Professor positions across various academic departments, including Assamese, English, Zoology, Chemistry, Commerce, Computer Science & Engineering, Geography, Botany, Economics, Education, Mathematics, Mass Communication and Journalism, P … The recruitment includes 3 Professor, 5 Associate Professor, and 8 Assistant Professor positions across various academic departments, including Assamese, English, Zoology, Chemistry, Commerce, Computer Science & Engineering, Geography, Botany, Economics, Education, Mathematics, Mass Communication and Journalism, Political Science, and Sociology. … ₹57,700 – ₹1,82,400 Department Vacancies Botany 1 Computer Science & Engineering 1 Economics 1 Education 1 Mathematics 1 Mass Communication and Journalism 1 Political Science 1 Sociology 1 Total 8 Research Area The recruitment covers the following academic disciplines: … Assamese English Zoology ",
+   "details_checked": true,
+   "category": "permanent",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "01dbb78c9c86",
+   "title": "Proteomics Researcher, Krogan lab (Associate Specialist position) University of California, San Francisco · San Francisco ·",
+   "url": "https://www.openpostdoc.org/position/94c97cb7-e6ac-4097-a0a4-da28d22bf16d",
+   "context": "Proteomics Researcher, Krogan lab (Associate Specialist position) University of California, San Francisco · San Francisco · closes 2026-12-18",
+   "source_id": "openpostdoc",
+   "source_name": "OpenPostdoc — bioinformatics",
+   "published": null,
+   "deadline": "2026-12-18",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 65,
+   "matched": [
+    "proteomics"
+   ],
+   "check_advt": false,
+   "score": 65,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": true,
+   "new": false
+  },
+  {
    "id": "cec195810aed",
    "title": "Postdoctoral scholarship (2 years) within Discrete Mathematics",
    "url": "https://euraxess.ec.europa.eu/jobs/478779",
@@ -9939,7 +10149,7 @@
    "id": "415facf2dc58",
    "title": "Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain",
    "url": "https://www.nature.com/naturecareers/job/12866060/senior-bioinformatics-research-scientist-bioinformatics-research-scientist-neurobiology-and-brain/",
-   "context": "Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain 16 days ago",
+   "context": "Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain Memphis, Tennessee $104,000 - $186,160 per year St Jude Children's Research Hospital The Senior Bioinformatics Research Scientist performs data analysis, data visualization, statistical analysis, experimental design, database develo... View details Senior Bioinformatics Research Scientist / Bioinformatics Research Scientist Neurobiology and Brain 17 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -10268,7 +10478,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "74d518bcaad6",
@@ -10555,7 +10765,7 @@
    "id": "c614bb6c7635",
    "title": "Senior Bioinformatics Analyst",
    "url": "https://www.nature.com/naturecareers/job/12866342/senior-bioinformatics-analyst/",
-   "context": "Senior Bioinformatics Analyst Memphis, Tennessee $78,000 - $139,360 per year St Jude Children's Research Hospital The Department of Chemical Biology and Therapeutics is seeking a bioinformatician to join our highly collaborative environment. The ideal candidate... View details Senior Bioinformatics Analyst 7 days ago",
+   "context": "Senior Bioinformatics Analyst Memphis, Tennessee $78,000 - $139,360 per year St Jude Children's Research Hospital The Department of Chemical Biology and Therapeutics is seeking a bioinformatician to join our highly collaborative environment. The ideal candidate... View details Senior Bioinformatics Analyst 8 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -10631,6 +10841,56 @@
    "new": false
   },
   {
+   "id": "704e296719ab",
+   "title": "Assistant Professor, tenure track (qualification agreement) (ID 2956)",
+   "url": "https://euraxess.ec.europa.eu/jobs/479556",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2027-01-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 24,
+   "matched": [],
+   "check_advt": false,
+   "score": 24,
+   "details": "11 Nov 2026 Job Information Organisation/Company WU Vienna University of Economics and Business Research Field Mathematics » Statistics Researcher Profile Established Researcher (R3) Positions Postdoc Positions Application Deadline 6 Jan 2027 - 23:59 (Europe/Vienna) Country Austria Type of Contract Temporary Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Oct 2027 Is the job funded through the EU Research Framework Programme? Other E … 11 Nov 2026 Job Information Organisation/Company WU Vienna University of Economics and Business Research Field Mathematics » Statistics Researcher Profile Established Researcher (R3) Positions Postdoc Positions Application Deadline 6 Jan 2027 - 23:59 (Europe/Vienna) Country Austria Type of Contract Temporary Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Oct 2027 Is the job funded through the EU Research Framework Programme? Other EU programme Is the Job related to staff position within a Research Infrastructure? No Offer Description You want to understand how things are connected and make a fundamental impact? We offer an en",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "bf6a278fe254",
+   "title": "Assistant Professor, tenure track (qualification agreement) (ID 2955)",
+   "url": "https://euraxess.ec.europa.eu/jobs/479554",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2027-01-06",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 24,
+   "matched": [],
+   "check_advt": false,
+   "score": 24,
+   "details": "11 Nov 2026 Job Information Organisation/Company WU Vienna University of Economics and Business Research Field Mathematics » Statistics Researcher Profile Established Researcher (R3) Positions Postdoc Positions Application Deadline 6 Jan 2027 - 23:59 (Europe/Vienna) Country Austria Type of Contract Temporary Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Oct 2027 Is the job funded through the EU Research Framework Programme? Other E … 11 Nov 2026 Job Information Organisation/Company WU Vienna University of Economics and Business Research Field Mathematics » Statistics Researcher Profile Established Researcher (R3) Positions Postdoc Positions Application Deadline 6 Jan 2027 - 23:59 (Europe/Vienna) Country Austria Type of Contract Temporary Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Oct 2027 Is the job funded through the EU Research Framework Programme? Other EU programme Is the Job related to staff position within a Research Infrastructure? No Offer Description You want to understand how things are connected and make a fundamental impact? We offer an en",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "7cb73d7354e3",
    "title": "Postdoctoral Research Internship Program at National Research Council Canada (NRC)",
    "url": "https://researchersjob.com/postdoctoral-research-internship-program/",
@@ -10659,7 +10919,7 @@
    "id": "0c0b47cf757d",
    "title": "Faculty Positions in Systems Hub, HKUST (GZ)",
    "url": "https://www.nature.com/naturecareers/job/12866237/faculty-positions-in-systems-hub-hkust-gz-/?LinkSource=PremiumListing",
-   "context": "Faculty Positions in Systems Hub, HKUST (GZ) The university is situated in the heart of the Guangdong-Hong Kong-Macau Greater Bay Area, a highly active and vibrant region in the world. Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 1 day ago",
+   "context": "Faculty Positions in Systems Hub, HKUST (GZ) The university is situated in the heart of the Guangdong-Hong Kong-Macau Greater Bay Area, a highly active and vibrant region in the world. Salary is highly competitive of international standard and will be commensurate with qualifications and experience. The Hong Kong University of Science and Technology (Guangzhou) Tenure-track and tenured faculty positions at all ranks (Assistant Professor/Associate Professor/Professor) View details Faculty Positions in Systems Hub, HKUST (GZ) 2 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -10815,7 +11075,7 @@
    "id": "92fbb522f9f8",
    "title": "Post-doctoral Fellow in the School of Biomedical Sciences",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416605/post-doctoral-fellow-in-the-school-of-biomedical-sciences/?LinkSource=PremiumListing",
-   "context": "Post-doctoral Fellow in the School of Biomedical Sciences Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will contribute to collaborative research projects investigating synthetic biology approaches for vaccine development ... View details Post-doctoral Fellow in the School of Biomedical Sciences 26 days ago",
+   "context": "Post-doctoral Fellow in the School of Biomedical Sciences Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG The appointee will contribute to collaborative research projects investigating synthetic biology approaches for vaccine development ... View details Post-doctoral Fellow in the School of Biomedical Sciences 27 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -10845,7 +11105,7 @@
    "id": "2c1844d30937",
    "title": "Postdoctoral Fellow Position – Cancer Immunotherapies",
    "url": "https://www.nature.com/naturecareers/job/12865818/postdoctoral-fellow-position-cancer-immunotherapies/?LinkSource=PremiumListing",
-   "context": "Postdoctoral Fellow Position – Cancer Immunotherapies 21201, Baltimore 65,000 University of Maryland School of Medicine, Baltimore Postdoctoral Fellow Position to study Cancer Immunology & design novel Cancer Immunotherapies @ University of Maryland School of Medicine, Baltimore. View details Postdoctoral Fellow Position – Cancer Immunotherapies 24 days ago",
+   "context": "Postdoctoral Fellow Position – Cancer Immunotherapies 21201, Baltimore 65,000 University of Maryland School of Medicine, Baltimore Postdoctoral Fellow Position to study Cancer Immunology & design novel Cancer Immunotherapies @ University of Maryland School of Medicine, Baltimore. View details Postdoctoral Fellow Position – Cancer Immunotherapies 25 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -10896,31 +11156,6 @@
    "status": "open",
    "match": false,
    "new": false
-  },
-  {
-   "id": "50fbfaf6f9b0",
-   "title": "Professor of Entrepreneurship and Design-Led Innovation",
-   "url": "https://apply.interfolio.com/184177",
-   "context": "Professor of Entrepreneurship and Design-Led Innovation Technology Innovation and Entrepreneurship Closing date: Jan 15, 2027 Apply Now",
-   "source_id": "kaust",
-   "source_name": "KAUST Careers",
-   "published": null,
-   "deadline": "2027-01-15",
-   "category": "permanent",
-   "contract": false,
-   "region": "abroad",
-   "country": "Saudi Arabia",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "details_checked": true,
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11",
-   "status": "open",
-   "match": false,
-   "new": false,
-   "details": null
   },
   {
    "id": "a53e99e6c48c",
@@ -11003,7 +11238,7 @@
    "id": "73316efd646a",
    "title": "Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416959/tenure-track-professor-associate-professor-assistant-professor-in-the-department-of-ophthalmology/?LinkSource=PremiumListing",
-   "context": "Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Tenure-Track Professor/Associate Professor/Assistant Professor (several posts) in the Department ... View details Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology 15 days ago",
+   "context": "Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology Pok Fu Lam, Hong Kong Competitive salary THE UNIVERSITY OF HONG KONG Applications are invited for appointment as Tenure-Track Professor/Associate Professor/Assistant Professor (several posts) in the Department ... View details Tenure-Track Professor/Associate Professor/Assistant Professor in the Department of Ophthalmology 16 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -11031,7 +11266,7 @@
    "id": "da59781faa9f",
    "title": "DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS",
    "url": "https://www.nature.com/naturecareers/job/12866156/department-of-molecular-and-human-genetics-tenured-and-tenure-track-research-faculty-positions/?LinkSource=PremiumListing",
-   "context": "DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS Houston, Texas (US) Commensurate with experience Baylor College of Medicine (BCM) DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS View details DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS 13 days ago",
+   "context": "DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS Houston, Texas (US) Commensurate with experience Baylor College of Medicine (BCM) DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS View details DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS 14 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -11084,7 +11319,7 @@
    "id": "a3d60a90adda",
    "title": "The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher",
    "url": "https://www.nature.com/naturecareers/job/12866116/the-university-of-osaka-immunology-frontier-research-center-postdoctoral-researcher/?LinkSource=PremiumListing",
-   "context": "The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher Suita Campus, The University of Osaka in Osaka, Japan Annual salary: Commensurate with experience Immunology Frontier Research Center, The University of Osaka IFReC, The University of Osaka in Japan offers Advanced Postdoc Positions for Immunology, Cell Biology, Bioinformatics and Bioimaging. View details The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher 8 days ago",
+   "context": "The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher Suita Campus, The University of Osaka in Osaka, Japan Annual salary: Commensurate with experience Immunology Frontier Research Center, The University of Osaka IFReC, The University of Osaka in Japan offers Advanced Postdoc Positions for Immunology, Cell Biology, Bioinformatics and Bioimaging. View details The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher 9 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -11113,7 +11348,7 @@
    "id": "e21e73c917d9",
    "title": "Postdoctoral researchers and Junior group leaders",
    "url": "https://www.nature.com/naturecareers/job/12866312/postdoctoral-researchers-and-junior-group-leaders-/?LinkSource=PremiumListing",
-   "context": "Postdoctoral researchers and Junior group leaders Turku (Kaupunki), Varsinais-Suomi (FI) Junior group leader: €63,500/ year, postdoctoral researcher: €45,000 - 50,000/ year University of Turku Junior group leader positions (4 positions) and Postdoctoral Researcher positions (4) in the fields of Science, Medicine and Technology View details Postdoctoral researchers and Junior group leaders 8 days ago",
+   "context": "Postdoctoral researchers and Junior group leaders Turku (Kaupunki), Varsinais-Suomi (FI) Junior group leader: €63,500/ year, postdoctoral researcher: €45,000 - 50,000/ year University of Turku Junior group leader positions (4 positions) and Postdoctoral Researcher positions (4) in the fields of Science, Medicine and Technology View details Postdoctoral researchers and Junior group leaders 9 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -11189,10 +11424,35 @@
    "new": false
   },
   {
+   "id": "50fbfaf6f9b0",
+   "title": "Professor of Entrepreneurship and Design-Led Innovation",
+   "url": "https://apply.interfolio.com/184177",
+   "context": "Professor of Entrepreneurship and Design-Led Innovation Technology Innovation and Entrepreneurship Closing date: Jan 31, 2027 Apply Now",
+   "source_id": "kaust",
+   "source_name": "KAUST Careers",
+   "published": null,
+   "deadline": "2027-01-31",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Saudi Arabia",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": null
+  },
+  {
    "id": "46834fcc2fb4",
    "title": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027)",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/EMBL-CPP-Visitor-fellowships-for-PhDs-and-Postdocs--closing-31012027-_JR4706",
-   "context": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027) posted on Posted 9 Days Ago JR4706",
+   "context": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027) posted on Posted 10 Days Ago JR4706",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -11589,7 +11849,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "352444636748",
@@ -12003,7 +12263,7 @@
    "id": "1c76637fc9d9",
    "title": "Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University",
    "url": "https://www.nature.com/naturecareers/job/12856823/faculty-positions-in-center-of-bioelectronic-medicine-school-of-life-sciences-westlake-university/?LinkSource=PremiumListing",
-   "context": "Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University Hangzhou, Zhejiang, China Internationally competitive salary and startup package Westlake University School of Life Science SLS invites applications for multiple tenure-track/tenured faculty positions at all academic ranks. View details Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University 45 days ago",
+   "context": "Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University Hangzhou, Zhejiang, China Internationally competitive salary and startup package Westlake University School of Life Science SLS invites applications for multiple tenure-track/tenured faculty positions at all academic ranks. View details Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University 46 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -12032,7 +12292,7 @@
    "id": "4b70b5548d34",
    "title": "Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine",
    "url": "https://www.nature.com/naturecareers/job/12856821/faculty-positions-aging-and-neurodegeneration-westlake-laboratory-of-life-sciences-and-biomedicine/?LinkSource=PremiumListing",
-   "context": "Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine Hangzhou, Zhejiang, China Internationally competitive salary and startup package Westlake University School of Life Science Applicants with expertise in aging and neurodegeneration and related areas are particularly encouraged to apply. View details Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine 45 days ago",
+   "context": "Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine Hangzhou, Zhejiang, China Internationally competitive salary and startup package Westlake University School of Life Science Applicants with expertise in aging and neurodegeneration and related areas are particularly encouraged to apply. View details Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine 46 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -12139,7 +12399,7 @@
    "id": "1b2bb4c3003f",
    "title": "China National Center for Bioinformation Announces Global Recruitment for High-Level Talents",
    "url": "https://www.nature.com/naturecareers/job/12860964/china-national-center-for-bioinformation-announces-global-recruitment-for-high-level-talents/?LinkSource=PremiumListing",
-   "context": "China National Center for Bioinformation Announces Global Recruitment for High-Level Talents Beijing (CN) Case-by-case. Internationally competitive salary and benefits China National Center for Bioinformation Cluster hire of senior and junior scientists and postdocs in bioinformatics, genomics, AI, math, computer science, technology and related fields. View details China National Center for Bioinformation Announces Global Recruitment for High-Level Talents 17 days ago",
+   "context": "China National Center for Bioinformation Announces Global Recruitment for High-Level Talents Beijing (CN) Case-by-case. Internationally competitive salary and benefits China National Center for Bioinformation Cluster hire of senior and junior scientists and postdocs in bioinformatics, genomics, AI, math, computer science, technology and related fields. View details China National Center for Bioinformation Announces Global Recruitment for High-Level Talents 18 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -12264,7 +12524,7 @@
    "details": "← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salar … ← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
    "new": false
@@ -12372,7 +12632,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "1b4439ba7b09",
@@ -12684,7 +12944,7 @@
    "id": "e6546611639d",
    "title": "Faculty Positions (Life Science and Technology)",
    "url": "https://www.nature.com/naturecareers/job/12864473/faculty-positions-life-science-and-technology-/?LinkSource=PremiumListing",
-   "context": "Faculty Positions (Life Science and Technology) Shanghai (CN) Competitive salary ShanghaiTech University The School of Life Science and Technology (SLST) invites applications for numerous tenure-track and tenured positions. View details Faculty Positions (Life Science and Technology) 56 days ago",
+   "context": "Faculty Positions (Life Science and Technology) Shanghai (CN) Competitive salary ShanghaiTech University The School of Life Science and Technology (SLST) invites applications for numerous tenure-track and tenured positions. View details Faculty Positions (Life Science and Technology) 57 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -12739,7 +12999,7 @@
    "id": "695c593f9ee3",
    "title": "Multiple Positions Open in the Stomatology Hospital, ZJUSS",
    "url": "https://www.nature.com/naturecareers/job/12865129/multiple-positions-open-in-the-stomatology-hospital-zjuss/?LinkSource=PremiumListing",
-   "context": "Multiple Positions Open in the Stomatology Hospital, ZJUSS Hangzhou, Zhejiang (CN) You can bid it! The Stomatology Hospital, Zhejiang University School of Medicine Leaders or Principal Investigators, Faculty and Postdoc positions are open all year View details Multiple Positions Open in the Stomatology Hospital, ZJUSS 42 days ago",
+   "context": "Multiple Positions Open in the Stomatology Hospital, ZJUSS Hangzhou, Zhejiang (CN) You can bid it! The Stomatology Hospital, Zhejiang University School of Medicine Leaders or Principal Investigators, Faculty and Postdoc positions are open all year View details Multiple Positions Open in the Stomatology Hospital, ZJUSS 43 days ago",
    "source_id": "naturecareers",
    "source_name": "Nature Careers",
    "published": null,
@@ -12816,7 +13076,7 @@
    "id": "a81f205ca100",
    "title": "AgBS - Post-Doctoral in Genomics and Bioinformatics",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417336/agbs-post-doctoral-in-genomics-and-bioinformatics/?LinkSource=PremiumListing",
-   "context": "AgBS - Post-Doctoral in Genomics and Bioinformatics Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The AgroBioSciences Program (AgBS) at the Mohammed VI Polytechnic University is seeking a post-doctoral fellow in Genomics and Bioinformatics. View details AgBS - Post-Doctoral in Genomics and Bioinformatics 5 days ago",
+   "context": "AgBS - Post-Doctoral in Genomics and Bioinformatics Benguerir, Morocco (MA) MOHAMMED VI POLYTECHNIC UNIVERSITY The AgroBioSciences Program (AgBS) at the Mohammed VI Polytechnic University is seeking a post-doctoral fellow in Genomics and Bioinformatics. View details AgBS - Post-Doctoral in Genomics and Bioinformatics 6 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -13050,7 +13310,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e257ef4ddf6a",
@@ -16648,7 +16908,7 @@
    "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
    "new": false,
@@ -16674,7 +16934,7 @@
    "details": "RCB faculty regularly visit schools, colleges, and universities to deliver engaging popular science talks. For any queries regarding inviting our faculty to your school, college, or organisation, please write to registrar@rcb.res.in or write to individual faculty. \n\n\n",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": true,
    "new": false
@@ -18378,7 +18638,7 @@
    "details": "Skip to main content People Faculty RCB Faculty Adjunct Faculty Staff Management Administration Academics Technical Young Researchers Project BBB ATPC IBDC HRD BSU Consultants Academics Consultants Technical Consultants Resource Corner eLibrary Annual reports Careers in Life Science Opportunities Work with Us News & Events RCB News Upcoming Events Research Highlights Past Events Awards & Honours Seminars Workshops Technologies@RCB Alumni Outreach … Beena Pillai National Institute of Biomedical genomics (NIBMG) Dr.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -20479,7 +20739,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "38f378eadf0a",
@@ -20501,6 +20761,33 @@
    "check_advt": false,
    "score": 20,
    "details": "Postdoctoral studies in T cell immunology in the context of solid tumors (scholarship) Login and apply Do you want to contribute to top quality medical research? We are seeking a highly motivated and ambitious individual to join the research group of Assistant Professor Thomas R. Müller as a Postdoctoral Fellow to investigate fundamental biological aspects of human T cell biology in the context of solid tumors, with an initial focus on lung cance … Müller as a Postdoctoral Fellow to investigate fundamental biological aspects of human T cell biology in the context of solid tumors, with an initial focus on lung cancer, and translate findings into novel strategies for cellular immunotherapy. … You will produce and analyze multi-omic data sets and, where possible, translate findings into novel T cell engineering strategies. … Experience working with human tissue samples and/or animal models of cancer Hands-on experience with spatial imaging methods (e.g., IHC, chip cytometry) Experience with genome editing or cell transduction Experience analyzing large multimodal data sets (e.g., single",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "d587c927a5f9",
+   "title": "Senior Lecturer in Epidemiology (PA2026/1065)",
+   "url": "https://lu.varbi.com/en/what:job/jobID:918979/type:job/where:4/apply:1",
+   "context": "Title: Senior Lecturer in Epidemiology (PA2026/1065) Faculty of Medicine Date published: 11 Nov 2026 | Last application date: Last application date: 10 Jan 2027",
+   "source_id": "lund",
+   "source_name": "Lund University",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 20,
+   "matched": [
+    "epidemiology"
+   ],
+   "check_advt": false,
+   "score": 20,
+   "details": "Senior Lecturer in Epidemiology Login and apply Lund University Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition. Lund University welcomes applicants with diverse backgrounds and experiences. We regard equali … The applicant’s ability to collaborate and contribute to the use of research findings is demonstrated through experience and ability to establish collaborations with researchers across different disciplines and with partners outside academia, documented experience and ability to communicate research findings, and to contribute to the application of research findings in society.",
    "details_checked": true,
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
@@ -21593,7 +21880,7 @@
    "details": "Skip to main content People Faculty RCB Faculty Adjunct Faculty Staff Management Administration Academics Technical Young Researchers Project BBB ATPC IBDC HRD BSU Consultants Academics Consultants Technical Consultants Resource Corner eLibrary Annual reports Careers in Life Science Opportunities Work with Us News & Events RCB News Upcoming Events Research Highlights Past Events Awards & Honours Seminars Workshops Technologies@RCB Alumni Outreach",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -21946,7 +22233,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f260705eab73",
@@ -22800,7 +23087,7 @@
    "id": "4a4746450814",
    "title": "Postdoc: Three-photon microscopy and advanced wavefront shaping / adaptive optics",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Heidelberg/Postdoc--Three-photon-microscopy-and-advanced-wavefront-shaping---adaptive-optics_JR4654",
-   "context": "Postdoc: Three-photon microscopy and advanced wavefront shaping / adaptive optics locations Heidelberg posted on Posted Today JR4654",
+   "context": "Postdoc: Three-photon microscopy and advanced wavefront shaping / adaptive optics locations Heidelberg posted on Posted Yesterday JR4654",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -31202,7 +31489,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "314a3e4cba1c",
@@ -31225,7 +31512,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "521632298d83",
@@ -31248,7 +31535,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "9bb9cf42b58a",
@@ -31273,7 +31560,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "ed8d458366cb",
@@ -31298,7 +31585,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3b03ac0572ac",
@@ -31323,7 +31610,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "2d80f57e7a91",
@@ -31348,7 +31635,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0a676d65acd0",
@@ -31372,7 +31659,8 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "d1763f334abb",
@@ -31396,7 +31684,8 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false,
+   "details": null
   },
   {
    "id": "ce2af6e2cc99",
@@ -31416,6 +31705,131 @@
    "check_advt": false,
    "score": 10,
    "details": "Event Interviewing for Faculty Jobs Speaker: Lori Conlan, OITE About this event After you submit your faculty job package, the job interview is the next major hurdle to securing a position. In this workshop, learn the \"do's and don'ts\" of academic job interviewing and hear what interview committees like to see. In addition, the workshop will address job talks, chalk talks and teaching talks - important elements of many academic job interviews. At",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "e3e2e9f3570c",
+   "title": "Read the article",
+   "url": "https://www.kth.se/en/om/nyheter/centrala-nyheter/beyond-food-bran-based-gels-show-potential-for-targeted-drug-delivery-1.1507472",
+   "context": "A new study indicates that wheat and rye bran might hold the key for better delivery of treatments for colon disorders. Pictured, KTH glycoscience researcher, Professor Francisco Vilaplana, shows a sample bran hydrogel that his team has developed. (photo: David Callahan) Beyond food: Bran-based gels show potential for targeted drug delivery When it comes to colon health, the benefits of wheat and rye bran in wholegrain foods are well-known. Researchers have shown how these fibers may have a therapeutic use, too. A new study demonstrates ... Read the article",
+   "source_id": "kth",
+   "source_name": "KTH Royal Institute of Technology",
+   "published": null,
+   "deadline": null,
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Beyond food: Bran-based gels show potential for targeted drug delivery A new study indicates that wheat and rye bran might hold the key for better delivery of treatments for colon disorders. Pictured, KTH glycoscience researcher, Professor Francisco Vilaplana, shows a sample bran hydrogel that his team has developed. (photo: David Callahan) Published Nov 11, 2026 When it comes to colon health, the benefits of wheat and rye bran in wholegrain food … Most of these kinds of drugs are packed in coatings that dissolve when acidity reaches a certain point more commonly found in the colon, typically at a level of pH7. … Funding support for the study was provided by Svenska Forskningsrådet (Formas) and PLENTY - the Centre for Circular and Symbiotic Food Provisioning David Callahan Publication Arabinoxylan Hydrogels as a Novel Encapsulation System with Triggered Release by Gut Bacterial Enzymes, ACS Biomacromolecules, DOI:",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "590b511022a7",
+   "title": "Extension of",
+   "url": "https://www.sctimst.ac.in/News/?id=NTg3XzE3OTQzOTA3ODU=",
+   "context": "03 NOV 2026 Extension of Last Date for Submission of Online Applications – Postdoctoral Fellowship Programmes / Post Doctoral Certificate Course (PDCC) in Transfusion Transmitted Disease Testing. Published on : 03/11/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "02d1efde3f03",
+   "title": "Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026",
+   "url": "https://www.sctimst.ac.in/News/?id=NTgxXzE3OTQzOTA3ODU=",
+   "context": "29 AUG 2026 Rank list - Entrance Examination Academic Session August 2026 Post DM/MCh fellowship (PDF), dated 28.08.2026 Published on : 29/08/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "99bd69d78d8b",
+   "title": "Postdoctoral Researcher - FCLG Operationalisation Project 100%, Singapore, fixed-term 11.11.2026 | FCLG Operationalisation Project",
+   "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_nbnucAAgHwekwD9B30",
+   "context": "",
+   "source_id": "ethz",
+   "source_name": "ETH Zurich",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": true,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "chevron_left Übersicht Postdoctoral Researcher - FCLG Operationalisation Project 100%, Singapore, fixed-term Drucken The Singapore-ETH Centre was established in 2010 by ETH Zurich - The Swiss Federal Institute of Technology and Singapore’s National Research Foundation (NRF), as part of the NRF’s CREATE campus. As ETH Zurich's only research centre outside of Switzerland, the centre has strengthened the research capacity of ETH Zurich to develop su … Participating in and contributing to team meetings. … [optional] Writing sample of academic writings where you are a co-author or first-author. … [optional] Writing sample of academic writings where you are a co-author or first-author.",
+   "details_checked": true,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "fc566149073e",
+   "title": "Post-Doctoral Position In Travel Behavior And Demand Modelling 100%, Singapore, fixed-term 11.11.2026 | FCLG Operationalisation Project",
+   "url": "https://jobs.ethz.ch/job/view/JOPG_ethz_50SdFJcnHtKejMb5Am",
+   "context": "",
+   "source_id": "ethz",
+   "source_name": "ETH Zurich",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": true,
+   "region": "abroad",
+   "country": "Singapore",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "chevron_left Übersicht Post-Doctoral Position In Travel Behavior And Demand Modelling 100%, Singapore, fixed-term Drucken The Singapore-ETH Centre was established in 2010 by ETH Zurich - The Swiss Federal Institute of Technology and Singapore’s National Research Foundation (NRF), as part of the NRF’s CREATE campus. As ETH Zurich's only research centre outside of Switzerland, the centre has strengthened the research capacity of ETH Zurich to devel … He/she will coordinate closely with LTA’s modelling and survey-design staff, including regular technical meetings, a mid-project checkpoint and a final evaluation workshop, and will support capability transfer so that LTA can re-run the analyses independently.",
    "details_checked": true,
    "first_seen": "2026-11-11",
    "last_seen": "2026-11-11",
@@ -40832,7 +41246,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -40855,7 +41269,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -51894,7 +52308,7 @@
    "id": "9b43033ebaa5",
    "title": "Postdoctoral Researcher in Quantum Algorithms and Optimization for Life Science Applications",
    "url": "https://www.timeshighereducation.com/unijobs/listing/416139/postdoctoral-researcher-in-quantum-algorithms-and-optimization-for-life-science-applications/?LinkSource=PremiumListing",
-   "context": "Postdoctoral Researcher in Quantum Algorithms and Optimization for Life Science Applications Finland (FI) 4200€/Month AALTO UNIVERSITY We are seeking a postdoctoral researcher to join the Micro and Quantum Systems (MQS) research group in the Department of ... View details Postdoctoral Researcher in Quantum Algorithms and Optimization for Life Science Applications 39 days ago",
+   "context": "Postdoctoral Researcher in Quantum Algorithms and Optimization for Life Science Applications Finland (FI) 4200€/Month AALTO UNIVERSITY We are seeking a postdoctoral researcher to join the Micro and Quantum Systems (MQS) research group in the Department of ... View details Postdoctoral Researcher in Quantum Algorithms and Optimization for Life Science Applications 40 days ago",
    "source_id": "thejobs",
    "source_name": "Times Higher Education Jobs",
    "published": null,
@@ -54430,7 +54844,7 @@
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
    "new": false
@@ -55218,9 +55632,9 @@
   },
   {
    "id": "943311b25326",
-   "title": "Recruitment advertisement for the post of Project Technical Support III under the ICMR Project, Department of Microbiology",
+   "title": "Recruitment advertisement for the post of Project Technical Support III under the ICMR Project, Department of Microbiolo...",
    "url": "https://jipmer.edu.in/announcement/recruitment-advertisement-post-project-technical-support-iii-under-icmr-project",
-   "context": "Announcement Jobs Recruitment advertisement for the post of Project Technical Support III under the ICMR Project, Department of Microbiology",
+   "context": "",
    "source_id": "jipmer",
    "source_name": "JIPMER Puducherry",
    "published": null,
@@ -55230,9 +55644,7 @@
    "region": "india",
    "country": "India",
    "kw_score": 0,
-   "matched": [
-    "microbiology"
-   ],
+   "matched": [],
    "check_advt": false,
    "score": 0,
    "first_seen": "2026-11-10",
@@ -55723,7 +56135,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d70f090dbcc5",
@@ -55748,7 +56160,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6f9d8976ecfe",
@@ -55771,7 +56183,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "dfa97af39082",
@@ -55794,7 +56206,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "701f5cdb091b",
@@ -55817,7 +56229,7 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "566f162baa7e",
@@ -55840,18 +56252,18 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d822ef8609fa",
-   "title": "Applications are invited for various contractual positions at IIT Hyderabad",
+   "title": "Applications are invited for the following contractual positions in the Computer Centre, IIT Hyderabad: HPC System Engineer, Network Engineer, Web Developer, System Engineer, and AV Technician.",
    "url": "https://www.iith.ac.in/assets/files/careers/staff/Adv_CS_62_CC_Dt_10-11-2026.pdf",
-   "context": "Start Date: 10-11-2026 | Advertisement/ Notice: Applications are invited for various contractual positions at IIT Hyderabad | End/Walk-in Date: 01-12-2026",
+   "context": "Start Date: 10-11-2026 | Advertisement/ Notice: Applications are invited for the following contractual positions in the Computer Centre, IIT Hyderabad: HPC System Engineer, Network Engineer, Web Developer, System Engineer, and AV Technician. | End/Walk-in Date: 01-12-2026",
    "source_id": "iit-hyderabad",
    "source_name": "IIT Hyderabad",
    "published": null,
    "deadline": null,
-   "category": "other",
+   "category": "junior",
    "contract": true,
    "region": "india",
    "country": "India",
@@ -55863,13 +56275,13 @@
    "last_seen": "2026-11-11",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "56f826baf981",
    "title": "Recruitment Advertisement for the Post of Project Technician-III / Nurse-I under the ICMR-Sanctioned IR CALM Project – Department of Preventive and So...",
    "url": "https://jipmer.edu.in/announcement/recruitment-advertisement-post-project-technician-iii-nurse-i-under-icmr-sanctioned-ir",
-   "context": "Jobs: Recruitment Advertisement for the Post of Project Technician-III / Nurse-I under the ICMR-Sanctioned IR CALM Project – Department of Preventive and Social Medicine, JIPMER",
+   "context": "Announcement Jobs Recruitment Advertisement for the Post of Project Technician-III / Nurse-I under the ICMR-Sanctioned IR CALM Project – Department of Preventive and So...",
    "source_id": "jipmer",
    "source_name": "JIPMER Puducherry",
    "published": null,
@@ -55878,6 +56290,52 @@
    "contract": false,
    "region": "india",
    "country": "India",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "761f4912ee1b",
+   "title": "Research assistant for Cellular Modeling of Psychiatric Disorders",
+   "url": "https://ki.varbi.com/en/what:job/jobID:982496/type:job/where:4/apply:1",
+   "context": "Position: Research assistant for Cellular Modeling of Psychiatric Disorders | Organisation: Department of Physiology and Pharmacology | Last application date Sort descending: 2026-11-17",
+   "source_id": "ki",
+   "source_name": "Karolinska Institutet",
+   "published": null,
+   "deadline": null,
+   "category": "junior",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-11",
+   "last_seen": "2026-11-11",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "d25f1a7e63e0",
+   "title": "Doctoral student in Physics with focus on attosecond Physics (PA2026/3244)",
+   "url": "https://lu.varbi.com/en/what:job/jobID:987970/type:job/where:4/apply:1",
+   "context": "Title: Doctoral student in Physics with focus on attosecond Physics (PA2026/3244) Technical Faculty, Physics Department, Faculty of Engineering, LTH Date published: 11 Nov 2026 | Last application date: Last application date: 11 Dec 2026",
+   "source_id": "lund",
+   "source_name": "Lund University",
+   "published": null,
+   "deadline": null,
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
    "kw_score": 0,
    "matched": [],
    "check_advt": false,
@@ -58926,6 +59384,29 @@
    "new": false,
    "details": "Skip to Main Content Explore Academic Positions at Harvard Toggle navigation Home Search Jobs Log In /Create Account Help This posting is not available Search Jobs (Postings) Trademark Notice | Harvard University Copyright © 2025 The President & Fellows of Harvard College Accessibility | Digital Accessibility | Privacy | Report Copyright Infringement To ensure the security of your data, you will be logged out due to inactivity in 3 minutes at . A … Skip to Main Content Explore Academic Positions at Harvard Toggle navigation Home Search Jobs Log In /Create Account Help This posting is not available Search Jobs (Postings) Trademark Notice | Harvard University Copyright © 2025 The President & Fellows of Harvard College Accessibility | Digital Accessibility | Privacy | Report Copyright Infringement To ensure the security of your data, you will be logged out due to inactivity in 3 minutes at .",
    "details_checked": true
+  },
+  {
+   "id": "2f761499ac91",
+   "title": "PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN The Faculty of Science and Leiden Academic Centre for Drug Research (LACDR) are looking for candidates for a PhD Position (Doctoral Candidate 10) in the Marie Skłodowsk",
+   "url": "https://www.academictransfer.com/en/jobs/364762/phd-position-doctoral-candidate-10-in-the-marie-skodowska-curie-doctoral-network-ana-kin/",
+   "context": "PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN The Faculty of Science and Leiden Academic Centre for Drug Research (LACDR) are looking for candidates for a PhD Position (Doctoral Candidate 10) in the Marie Skłodowska-Curie Doctoral Network ANA-KIN ANA-KIN is a Marie Skłodowska-Curie Actions (MSCA) Doctora… Deadline tomorrow Published 15 Oct ’26 Leiden Leiden University",
+   "source_id": "academictransfer",
+   "source_name": "AcademicTransfer (Netherlands)",
+   "published": null,
+   "deadline": "2026-10-15",
+   "category": "phd",
+   "contract": false,
+   "region": "abroad",
+   "country": "Netherlands",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-11",
+   "status": "closed",
+   "match": false,
+   "new": false
   },
   {
    "id": "47547a2c778f",
@@ -62449,31 +62930,6 @@
    "kw_score": 65,
    "matched": [
     "microbial genomics"
-   ],
-   "check_advt": false,
-   "score": 65,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-11",
-   "status": "closed",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "01dbb78c9c86",
-   "title": "Proteomics Researcher, Krogan lab (Associate Specialist position) University of California, San Francisco · San Francisco ·",
-   "url": "https://www.openpostdoc.org/position/94c97cb7-e6ac-4097-a0a4-da28d22bf16d",
-   "context": "Proteomics Researcher, Krogan lab (Associate Specialist position) University of California, San Francisco · San Francisco · closes 2026-11-10",
-   "source_id": "openpostdoc",
-   "source_name": "OpenPostdoc — bioinformatics",
-   "published": null,
-   "deadline": "2026-11-10",
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "International",
-   "kw_score": 65,
-   "matched": [
-    "proteomics"
    ],
    "check_advt": false,
    "score": 65,
