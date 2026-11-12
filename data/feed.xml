@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-12T10:20:54Z</updated>
+  <updated>2026-11-12T20:28:53Z</updated>
+  <entry>
+    <title>Postdoc in Bioinformatics and Adipose Tissue Biology – KTH Royal Institute of Technology, Sweden</title>
+    <link href="https://researchersjob.com/postdoc-in-bioinformatics-and-adipose-tissue-biology/"/>
+    <id>urn:jobwatch:b7aed243005b</id>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-12-01 · score 89</summary>
+  </entry>
+  <entry>
+    <title>Bioinformatician – Long-Read Genomics, Pangenomics and Precision Medicine</title>
+    <link href="https://www.nature.com/naturecareers/job/12866718/bioinformatician-long-read-genomics-pangenomics-and-precision-medicine/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:cdbc7e47ec23</id>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <summary>[other] Nature Careers · Qatar · Deadline 2027-02-10 · score 100</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology at KTH, Sweden</title>
     <link href="https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning-2/"/>
@@ -613,62 +627,6 @@
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>Post-doc position on Multi-omics Post-doc Position on Multi-omics in Hereditary Fibrinogen Disorders: Bridging the Genotype-Phenotype Gap Join the Fibromics consortium! We are looking for a highly motivated post-doc to join the proteomics lab at Sanquin Resear</title>
-    <link href="https://www.academictransfer.com/en/jobs/364732/post-doc-position-on-multi-omics/"/>
-    <id>urn:jobwatch:c0ee5b81f3d9</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-12 · score 95</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:9de7c72b29e7</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2026-11-12 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
-    <link href="https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b"/>
-    <id>urn:jobwatch:9615b67fcbf1</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] OpenPostdoc — bioinformatics · International · Deadline 2026-11-12 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institute The University of Hong Kong · Hong Kong ·</title>
-    <link href="https://www.openpostdoc.org/position/1ab0de62-4c61-4b3c-b2fb-f7f92c25f5e1"/>
-    <id>urn:jobwatch:40c1cf89b395</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Hong Kong · Deadline 2026-11-12 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Biorecycling</title>
-    <link href="https://www.jobs.ac.uk/job/DTL498/research-associate-senior-research-associate-in-ai-enabled-enzyme-engineering-for-pet-biorecycling"/>
-    <id>urn:jobwatch:983c26b6e78c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-12 · score 54</summary>
-  </entry>
-  <entry>
-    <title>Research Associate - Locke Group (Fixed Term) University of Cambridge · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/09e12ae9-7edf-4d5b-bb1d-a1a90870177e"/>
-    <id>urn:jobwatch:75de26d02525</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-12 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Biorecycling Newcastle University · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/d42bd020-48ea-4c8d-bbac-084125334f80"/>
-    <id>urn:jobwatch:082940ddd59d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-12 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Official Faculty Recruitment Advertisement (PDF)</title>
-    <link href="https://careers.iith.ac.in/documents/IITH_Faculty_Recruitment_Advt-Oct_2026-final.pdf"/>
-    <id>urn:jobwatch:ecbdfa70130c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] IIT Hyderabad · India · Deadline 2026-11-12 · score 44</summary>
-  </entry>
-  <entry>
     <title>(Senior) Postdoctoral Research Scientist</title>
     <link href="https://www.jobs.ac.uk/job/DTE706/senior-postdoctoral-research-scientist"/>
     <id>urn:jobwatch:26ae6feaa1f2</id>
@@ -1052,5 +1010,47 @@
     <id>urn:jobwatch:9351a5c171c6</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] Nature Careers · International · Deadline 2026-11-28 · score 77</summary>
+  </entry>
+  <entry>
+    <title>Postdoc in Agentic AI for Spatial Biology of the Human Gut at KTH Royal Institute of Technology, Sweden</title>
+    <link href="https://researchersjob.com/postdoc-in-agentic-ai-for-spatial-biology/"/>
+    <id>urn:jobwatch:4bbb33b2d105</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-29 · score 63</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory</title>
+    <link href="https://www.nature.com/naturecareers/job/12865128/postdoctoral-fellows-recruitment-announcement-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:39685b3653ff</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Nature Careers · International · Deadline 2026-11-29 · score 62</summary>
+  </entry>
+  <entry>
+    <title>Postdoc - Stem Cell Disease Modeling and Precision Medicine - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
+    <link href="https://www.openpostdoc.org/position/954b2f2c-b870-474d-842e-e719387ec589"/>
+    <id>urn:jobwatch:25d95652199b</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-30 · score 95</summary>
+  </entry>
+  <entry>
+    <title>Lecturer in Bioinformatics in the School of Biomedical Sciences</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/416859/lecturer-in-bioinformatics-in-the-school-of-biomedical-sciences/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:ba72a7c132d5</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] Times Higher Education Jobs · Hong Kong · Deadline 2026-11-30 · score 83</summary>
+  </entry>
+  <entry>
+    <title>Postdoc in Cancer Genomics Linköping University</title>
+    <link href="https://www.scilifelab.se/career/postdoc-in-cancer-genomics/"/>
+    <id>urn:jobwatch:ee6a8c58bd5a</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-11-30 · score 74</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in Primate Genomics</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/416456/postdoctoral-researcher-in-primate-genomics/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:f219898917f1</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · United Kingdom · Deadline 2026-11-30 · score 73</summary>
   </entry>
 </feed>

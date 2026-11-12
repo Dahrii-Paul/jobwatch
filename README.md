@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-12 15:50
+## Live stats · updated 2026-11-13 01:58
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **360** |
-| 🏛️ Permanent posts — India | **86** |
+| 🎯 Open matches | **354** |
+| 🏛️ Permanent posts — India | **85** |
 | 🔬 Postdocs / fellowships — India | **15** |
-| ✈️ Postdocs / fellowships — abroad | **164** |
+| ✈️ Postdocs / fellowships — abroad | **159** |
 | 🌍 Permanent / faculty — abroad | **36** |
-| ⏰ Closing within 14 days | **79** |
-| 🆕 New this run | **9** |
-| 📡 Sources working | **167 / 209** |
+| ⏰ Closing within 14 days | **74** |
+| 🆕 New this run | **2** |
+| 📡 Sources working | **168 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Post-doc position on Multi-omics Post-doc Position on Multi-omics in Hereditary Fibrinogen](https://www.academictransfer.com/en/jobs/364732/post-doc-position-on-multi-omics/) | postdoc | Netherlands | 2026-11-12 |
-| 🔴 **0d** | [Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institut](https://www.timeshighereducation.com/unijobs/listing/414711/post-doctoral-fellow-in-bioinformatics-in-the-hong-kong-jockey-club-global-health-institute/?LinkSource=PremiumListing) | postdoc | Hong Kong | 2026-11-12 |
-| 🔴 **0d** | [Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics ](https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b) | project | International | 2026-11-12 |
-| 🔴 **0d** | [Post-doctoral Fellow in Bioinformatics in the Hong Kong Jockey Club Global Health Institut](https://www.openpostdoc.org/position/1ab0de62-4c61-4b3c-b2fb-f7f92c25f5e1) | postdoc | Hong Kong | 2026-11-12 |
-| 🔴 **0d** | [Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Bio](https://www.jobs.ac.uk/job/DTL498/research-associate-senior-research-associate-in-ai-enabled-enzyme-engineering-for-pet-biorecycling) | postdoc | United Kingdom | 2026-11-12 |
-| 🔴 **0d** | [Research Associate - Locke Group (Fixed Term) University of Cambridge · United Kingdom ·](https://www.openpostdoc.org/position/09e12ae9-7edf-4d5b-bb1d-a1a90870177e) | postdoc | United Kingdom | 2026-11-12 |
-| 🔴 **0d** | [Research Associate/ Senior Research Associate in AI-Enabled Enzyme Engineering for PET Bio](https://www.openpostdoc.org/position/d42bd020-48ea-4c8d-bbac-084125334f80) | postdoc | United Kingdom | 2026-11-12 |
-| 🔴 **0d** | [Official Faculty Recruitment Advertisement (PDF)](https://careers.iith.ac.in/documents/IITH_Faculty_Recruitment_Advt-Oct_2026-final.pdf) | permanent | India | 2026-11-12 |
-| 🔴 **1d** | [(Senior) Postdoctoral Research Scientist](https://www.jobs.ac.uk/job/DTE706/senior-postdoctoral-research-scientist) | postdoc | United Kingdom | 2026-11-13 |
-| 🔴 **1d** | [Post-doctoral Research Fellow - AR3357 University of St Andrews · United Kingdom ·](https://www.openpostdoc.org/position/141759d8-9559-45a6-b46b-dc534416d588) | postdoc | United Kingdom | 2026-11-13 |
-| 🔴 **1d** | [Bioinformatician](https://www.jobs.ac.uk/job/DTH816/bioinformatician) | other | United Kingdom | 2026-11-13 |
-| 🔴 **2d** | [Faculty of Health Sciences - Precision Medicine and Health Tech](https://www.timeshighereducation.com/unijobs/listing/403495/faculty-of-health-sciences-precision-medicine-and-health-tech/?LinkSource=PremiumListing) | permanent | International | 2026-11-14 |
-| 🔴 **2d** | [Postdoctoral Scholar - Bioinformatician for Tree Improvement University of Alberta · Edmon](https://www.openpostdoc.org/position/c80202f0-6fac-452f-9a9b-aac6fa284be7) | postdoc | International | 2026-11-14 |
-| 🔴 **2d** | [LVPEI Hyderabad Project Research Scientist-I (Non-Medical) — Ocular Oncology / ICMR Biomar](https://www.biotecnika.org/2026/11/lvpei-project-research-scientist-hyderabad-2026/) | project | India | 2026-11-14 |
-| 🔴 **3d** | [Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presi](https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/) | project | India | 2026-11-15 |
+| 🔴 **0d** | [(Senior) Postdoctoral Research Scientist](https://www.jobs.ac.uk/job/DTE706/senior-postdoctoral-research-scientist) | postdoc | United Kingdom | 2026-11-13 |
+| 🔴 **0d** | [Post-doctoral Research Fellow - AR3357 University of St Andrews · United Kingdom ·](https://www.openpostdoc.org/position/141759d8-9559-45a6-b46b-dc534416d588) | postdoc | United Kingdom | 2026-11-13 |
+| 🔴 **0d** | [Bioinformatician](https://www.jobs.ac.uk/job/DTH816/bioinformatician) | other | United Kingdom | 2026-11-13 |
+| 🔴 **1d** | [Faculty of Health Sciences - Precision Medicine and Health Tech](https://www.timeshighereducation.com/unijobs/listing/403495/faculty-of-health-sciences-precision-medicine-and-health-tech/?LinkSource=PremiumListing) | permanent | International | 2026-11-14 |
+| 🔴 **1d** | [Postdoctoral Scholar - Bioinformatician for Tree Improvement University of Alberta · Edmon](https://www.openpostdoc.org/position/c80202f0-6fac-452f-9a9b-aac6fa284be7) | postdoc | International | 2026-11-14 |
+| 🔴 **1d** | [LVPEI Hyderabad Project Research Scientist-I (Non-Medical) — Ocular Oncology / ICMR Biomar](https://www.biotecnika.org/2026/11/lvpei-project-research-scientist-hyderabad-2026/) | project | India | 2026-11-14 |
+| 🔴 **2d** | [Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presi](https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/) | project | India | 2026-11-15 |
+| 🔴 **2d** | [Postdoctoral Researcher: Reset Aged Vascular Function Welcome to Maastricht University! Wh](https://www.academictransfer.com/en/jobs/364997/postdoctoral-researcher-reset-aged-vascular-function/) | postdoc | Netherlands | 2026-11-15 |
+| 🔴 **2d** | [Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology at ](https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning-2/) | postdoc | Sweden | 2026-11-15 |
+| 🔴 **2d** | [Postdoc in Multi-Omics Machine Learning and Computational Cancer Biology at KTH Royal Inst](https://researchersjob.com/postdoc-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
+| 🔴 **2d** | [Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology, Sw](https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
+| 🔴 **2d** | [Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · ](https://www.openpostdoc.org/position/533e724f-9e48-41e0-af4f-ccf198ca221a) | postdoc | International | 2026-11-15 |
+| 🔴 **2d** | [Postdoc in multi-omics machine learning and computational cancer biology KTH](https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/) | postdoc | Sweden | 2026-11-15 |
+| 🔴 **2d** | [Research Associate/Fellow in RNA Biology at University of Nottingham, UK](https://researchersjob.com/research-associate-fellow-in-rna-biology/) | postdoc | United Kingdom | 2026-11-15 |
+| 🔴 **2d** | [Research Associate Vacancy at ICRISAT Hyderabad / PhD Fresher Apply Now](https://www.biotecnika.org/2026/10/icrisat-research-associate-vacancy-oilseeds-pre-breeding-genomics/) | postdoc | India | 2026-11-15 |
 <!-- STATS:END -->
 
 ---
