@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-14T01:34+05:30",
+  "updated": "2026-11-14T14:55+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 2730,
-   "open_matches": 365,
-   "urgent": 77,
-   "new_this_run": 3,
+   "total_indexed": 2754,
+   "open_matches": 370,
+   "urgent": 78,
+   "new_this_run": 4,
    "saved": 0,
    "permanent_india": 85,
    "postdoc_india": 15,
-   "postdoc_abroad": 168,
+   "postdoc_abroad": 172,
    "permanent_abroad": 36,
-   "sources_ok": 167,
+   "sources_ok": 166,
    "sources_total": 209
   }
  },
@@ -63,7 +63,8 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-14",
-   "ok": true
+   "ok": false,
+   "error": "ConnectTimeout"
   },
   {
    "id": "anrf-npdf",

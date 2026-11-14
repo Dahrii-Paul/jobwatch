@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-14 01:34
+## Live stats · updated 2026-11-14 14:55
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **365** |
+| 🎯 Open matches | **370** |
 | 🏛️ Permanent posts — India | **85** |
 | 🔬 Postdocs / fellowships — India | **15** |
-| ✈️ Postdocs / fellowships — abroad | **168** |
+| ✈️ Postdocs / fellowships — abroad | **172** |
 | 🌍 Permanent / faculty — abroad | **36** |
-| ⏰ Closing within 14 days | **77** |
-| 🆕 New this run | **3** |
-| 📡 Sources working | **167 / 209** |
+| ⏰ Closing within 14 days | **78** |
+| 🆕 New this run | **4** |
+| 📡 Sources working | **166 / 209** |
 
 ### ⏳ Closing within 30 days
 
@@ -29,13 +29,13 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **1d** | [Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presi](https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/) | project | India | 2026-11-15 |
 | 🔴 **1d** | [Postdoctoral Researcher: Reset Aged Vascular Function Welcome to Maastricht University! Wh](https://www.academictransfer.com/en/jobs/364997/postdoctoral-researcher-reset-aged-vascular-function/) | postdoc | Netherlands | 2026-11-15 |
 | 🔴 **1d** | [Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology at ](https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning-2/) | postdoc | Sweden | 2026-11-15 |
+| 🔴 **1d** | [Postdoc in Multi-omics Machine Learning and Computational Cancer Biology at KTH Royal Inst](https://researchersjob.com/postdoc-in-multi-omics-machine-learning-2/) | postdoc | Sweden | 2026-11-15 |
 | 🔴 **1d** | [Postdoc in Multi-Omics Machine Learning and Computational Cancer Biology at KTH Royal Inst](https://researchersjob.com/postdoc-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
 | 🔴 **1d** | [Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology, Sw](https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning/) | postdoc | Sweden | 2026-11-15 |
 | 🔴 **1d** | [Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · ](https://www.openpostdoc.org/position/533e724f-9e48-41e0-af4f-ccf198ca221a) | postdoc | International | 2026-11-15 |
 | 🔴 **1d** | [Postdoc in multi-omics machine learning and computational cancer biology KTH](https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/) | postdoc | Sweden | 2026-11-15 |
 | 🔴 **1d** | [Research Associate/Fellow in RNA Biology at University of Nottingham, UK](https://researchersjob.com/research-associate-fellow-in-rna-biology/) | postdoc | United Kingdom | 2026-11-15 |
 | 🔴 **1d** | [Research Associate Vacancy at ICRISAT Hyderabad / PhD Fresher Apply Now](https://www.biotecnika.org/2026/10/icrisat-research-associate-vacancy-oilseeds-pre-breeding-genomics/) | postdoc | India | 2026-11-15 |
-| 🔴 **1d** | [Postdoc in Multi-omics Machine Learning and Computational Cancer Biology at KTH Royal Inst](https://researchersjob.com/postdoc-in-multi-omics-machine-learning-2/) | postdoc | Sweden | 2026-11-15 |
 | 🔴 **2d** | [Research Associate in Cancer Biology](https://www.jobs.ac.uk/job/DTK336/research-associate-in-cancer-biology) | postdoc | United Kingdom | 2026-11-16 |
 | 🔴 **2d** | [Associate or Senior Editor, Genome Biology](https://www.nature.com/naturecareers/job/12866256/associate-or-senior-editor-genome-biology/?LinkSource=PremiumListing) | other | International | 2026-11-16 |
 <!-- STATS:END -->
