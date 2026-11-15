@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-15T09:55:49Z</updated>
+  <updated>2026-11-15T19:08:12Z</updated>
+  <entry>
+    <title>Postdoctoral Associate: Cancer Bioinformatics, Biostatistics, and Multi-Omics at Baylor College of Medicine, USA</title>
+    <link href="https://researchersjob.com/postdoctoral-associate-cancer-bioinformatics-biostatistics/"/>
+    <id>urn:jobwatch:3affda18d302</id>
+    <updated>2026-11-16T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 89</summary>
+  </entry>
   <entry>
     <title>AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov</title>
     <link href="https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/"/>
@@ -22,14 +29,14 @@
     <link href="https://euraxess.ec.europa.eu/jobs/480571"/>
     <id>urn:jobwatch:321a0a8e2abf</id>
     <updated>2026-11-15T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-04 · score 92</summary>
+    <summary>[postdoc] EURAXESS (EU-wide) · Sweden · Deadline 2026-12-04 · score 92</summary>
   </entry>
   <entry>
     <title>Postdoctoral Research Associate University of Oxford · Oxford ·</title>
     <link href="https://www.openpostdoc.org/position/6d53e716-a5c9-442e-8efe-3b0e50a4c1bb"/>
     <id>urn:jobwatch:07c188259882</id>
     <updated>2026-11-15T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-11 · score 65</summary>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-12-11 · score 65</summary>
   </entry>
   <entry>
     <title>Assistant Professor Recruitment: Molecular Information Pathology at Okayama University, Japan</title>
@@ -51,13 +58,6 @@
     <id>urn:jobwatch:4c550313a2c4</id>
     <updated>2026-11-15T00:00:00Z</updated>
     <summary>[junior] Karolinska Institutet · Sweden · Deadline: see advert · score 49</summary>
-  </entry>
-  <entry>
-    <title>Postdoc in Multi-omics Machine Learning and Computational Cancer Biology at KTH Royal Institute of Technology</title>
-    <link href="https://researchersjob.com/postdoc-in-multi-omics-machine-learning-2/"/>
-    <id>urn:jobwatch:d809451db8f8</id>
-    <updated>2026-11-14T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-15 · score 79</summary>
   </entry>
   <entry>
     <title>One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]</title>
@@ -193,13 +193,6 @@
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 44</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology at KTH, Sweden</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning-2/"/>
-    <id>urn:jobwatch:75f03987a088</id>
-    <updated>2026-11-12T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-15 · score 79</summary>
-  </entry>
-  <entry>
     <title>Senior Research Associate in Evolutionary Genomics</title>
     <link href="https://www.jobs.ac.uk/job/DTP958/senior-research-associate-in-evolutionary-genomics"/>
     <id>urn:jobwatch:43784a33299f</id>
@@ -317,13 +310,6 @@
     <id>urn:jobwatch:a8d465137a7e</id>
     <updated>2026-11-11T00:00:00Z</updated>
     <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2027-06-30 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Research Associate/Fellow in RNA Biology at University of Nottingham, UK</title>
-    <link href="https://researchersjob.com/research-associate-fellow-in-rna-biology/"/>
-    <id>urn:jobwatch:946eb6f57a06</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2026-11-15 · score 55</summary>
   </entry>
   <entry>
     <title>Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-year postdoc position is open in the RNA Structural Dynamics Group at the Groningen Biomolecular Sciences and Biotechnology Institute (GBB). The appointment will focus on</title>
@@ -466,13 +452,6 @@
     <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 52</summary>
   </entry>
   <entry>
-    <title>Postdoc in Vertebrate Genome Assembly and Comparative Genomics University of Copenhagen · Copenhagen ·</title>
-    <link href="https://www.openpostdoc.org/position/533e724f-9e48-41e0-af4f-ccf198ca221a"/>
-    <id>urn:jobwatch:b280dba371cc</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-15 · score 65</summary>
-  </entry>
-  <entry>
     <title>NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bolsa/Ref_14/2026</title>
     <link href="https://euraxess.ec.europa.eu/jobs/478573"/>
     <id>urn:jobwatch:779cf6ec503b</id>
@@ -520,13 +499,6 @@
     <id>urn:jobwatch:ea24e96e39f1</id>
     <updated>2026-11-07T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · France · Deadline: see advert · score 55</summary>
-  </entry>
-  <entry>
-    <title>Project Fellow / Research Fellow (DHR TRANS-MAP Peripheral Nerve Transcriptomics) at Presidency University Kolkata | Rs 37,000/month</title>
-    <link href="https://www.biotecnika.org/2026/11/presidency-university-project-fellow-dhr-trans-map/"/>
-    <id>urn:jobwatch:4bfbe0ee96f9</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-15 · score 82</summary>
   </entry>
   <entry>
     <title>Applications are invited for AI Medical Imaging Engineer under Department of Biomedical Engineering, IIT Hyderabad.</title>
@@ -795,41 +767,6 @@
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Researcher: Reset Aged Vascular Function Welcome to Maastricht University! What if we could slow down vascular ageing by targeting the cells where the first signs of ageing occur? Join an ambitious, NWO VICI-funded research project at CARIM (Cardi</title>
-    <link href="https://www.academictransfer.com/en/jobs/364997/postdoctoral-researcher-reset-aged-vascular-function/"/>
-    <id>urn:jobwatch:d39a82d77089</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-15 · score 80</summary>
-  </entry>
-  <entry>
-    <title>Postdoc in Multi-Omics Machine Learning and Computational Cancer Biology at KTH Royal Institute of Technology, Sweden</title>
-    <link href="https://researchersjob.com/postdoc-in-multi-omics-machine-learning/"/>
-    <id>urn:jobwatch:71b1a426a2f0</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-15 · score 75</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in Multi-Omics Machine Learning and Computational Cancer Biology, Sweden</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-multi-omics-machine-learning/"/>
-    <id>urn:jobwatch:bb1f9b02577d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-15 · score 75</summary>
-  </entry>
-  <entry>
-    <title>Postdoc in multi-omics machine learning and computational cancer biology KTH</title>
-    <link href="https://www.scilifelab.se/career/postdoc-in-multi-omics-machine-learning-and-computational-cancer-biology/"/>
-    <id>urn:jobwatch:40c1941f95a5</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-11-15 · score 60</summary>
-  </entry>
-  <entry>
-    <title>Research Associate Vacancy at ICRISAT Hyderabad | PhD Fresher Apply Now</title>
-    <link href="https://www.biotecnika.org/2026/10/icrisat-research-associate-vacancy-oilseeds-pre-breeding-genomics/"/>
-    <id>urn:jobwatch:aa5deea31739</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline 2026-11-15 · score 44</summary>
-  </entry>
-  <entry>
     <title>Research Associate in Cancer Biology</title>
     <link href="https://www.jobs.ac.uk/job/DTK336/research-associate-in-cancer-biology"/>
     <id>urn:jobwatch:7c75c6b447d8</id>
@@ -1052,5 +989,68 @@
     <id>urn:jobwatch:8c3290f7fd2d</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
+  </entry>
+  <entry>
+    <title>PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany</title>
+    <link href="https://researchersjob.com/phd-candidate-in-plant-virus-analysis/"/>
+    <id>urn:jobwatch:b994480809fe</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Germany · Deadline 2026-11-24 · score 64</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
+    <link href="https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5"/>
+    <id>urn:jobwatch:09c73dbec51c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 84</summary>
+  </entry>
+  <entry>
+    <title>Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
+    <link href="https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b"/>
+    <id>urn:jobwatch:9615b67fcbf1</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[project] OpenPostdoc — bioinformatics · International · Deadline 2026-11-25 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow - Jennifer Yu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
+    <link href="https://www.openpostdoc.org/position/0c0e0980-8c0e-405b-914f-c3aaeb75d941"/>
+    <id>urn:jobwatch:e808cb834606</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 50</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in DNA Nanostructures for Cell Targeting – Karolinska Institutet, Sweden</title>
+    <link href="https://researchersjob.com/postdoctoral-researcher-in-dna-nanostructures/"/>
+    <id>urn:jobwatch:f0816720d62e</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-25 · score 48</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Scientist – University of Oxford, UK</title>
+    <link href="https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/"/>
+    <id>urn:jobwatch:31788693fa1b</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2026-11-26 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout"/>
+    <id>urn:jobwatch:942a7ce0ef21</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout"/>
+    <id>urn:jobwatch:b7b7044829fb</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout"/>
+    <id>urn:jobwatch:1724d0c2e5f1</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-11-26 · score 40</summary>
   </entry>
 </feed>
