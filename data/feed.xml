@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-16T22:33:15Z</updated>
+  <updated>2026-11-17T11:10:00Z</updated>
   <entry>
     <title>Postdoctoral Fellowship in Wearable Data Science, University of Copenhagen, Denmark</title>
     <link href="https://researchersjob.com/postdoctoral-fellowship-in-wearable-data-science/"/>
     <id>urn:jobwatch:ceef68fd4b97</id>
     <updated>2026-11-17T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Denmark · Deadline 2026-11-29 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Postdoc in computational modelling of infectious diseases</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/480775"/>
+    <id>urn:jobwatch:81ee47d0d168</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-29 · score 59</summary>
   </entry>
   <entry>
     <title>Research Associate/Fellow (Fixed term)</title>
@@ -23,6 +30,13 @@
     <id>urn:jobwatch:f0b2b51d7087</id>
     <updated>2026-11-17T00:00:00Z</updated>
     <summary>[postdoc] Leibniz Association · Germany · Deadline 2026-12-09 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Senior Bioinformatician</title>
+    <link href="https://www.jobs.ac.uk/job/DTR291/senior-bioinformatician"/>
+    <id>urn:jobwatch:65297ba6409f</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>[other] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-12-11 · score 55</summary>
   </entry>
   <entry>
     <title>Postdoctoral researcher in "Composite Artificial Intelligence for the Design of All-Optical Processors"</title>
@@ -46,11 +60,32 @@
     <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2027-01-07 · score 40</summary>
   </entry>
   <entry>
+    <title>NIPGR Delhi Project Associate-I Walk-In 10 Dec – Bioinformatics, Genomics M.Sc</title>
+    <link href="https://www.biotecnika.org/2026/11/nipgr-project-associate-i-walk-in-2026/"/>
+    <id>urn:jobwatch:6f0cd45a8d49</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 74</summary>
+  </entry>
+  <entry>
+    <title>Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry (SciLifeLab Fellow)</title>
+    <link href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=976879"/>
+    <id>urn:jobwatch:de237efaa43e</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>[permanent] Uppsala University · Sweden · Deadline: see advert · score 69</summary>
+  </entry>
+  <entry>
     <title>Assistant Researcher in the Development of Gene Therapy for Parkinson’s Disease (PA2026/3318)</title>
     <link href="https://lu.varbi.com/en/what:job/jobID:990392/type:job/where:4/apply:1"/>
     <id>urn:jobwatch:14d2435e9f92</id>
     <updated>2026-11-17T00:00:00Z</updated>
     <summary>[permanent] Lund University · Sweden · Deadline: see advert · score 59</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral studies in Computational and Structural RNA Biology (scholarship)</title>
+    <link href="https://ki.varbi.com/en/what:job/jobID:986187/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:f81c64d829df</id>
+    <updated>2026-11-17T00:00:00Z</updated>
+    <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 52</summary>
   </entry>
   <entry>
     <title>Postdoc to the Clinical Memory Researchs unit (PA2026/3261)</title>
@@ -858,13 +893,6 @@
     <summary>[junior] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-18 · score 59</summary>
   </entry>
   <entry>
-    <title>Postdoc Position in Medicinal Chemistry Bring your expertise in synthetic and computation medicinal chemistry and help us develop novel compounds for Sickel cell disease.</title>
-    <link href="https://www.academictransfer.com/en/jobs/365018/postdoc-position-in-medicinal-chemistry/"/>
-    <id>urn:jobwatch:068c2b152a0c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-18 · score 50</summary>
-  </entry>
-  <entry>
     <title>Senior Research Fellow in AI Applied to Genomic Medicine</title>
     <link href="https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:e5e94d37373a</id>
@@ -1024,33 +1052,5 @@
     <id>urn:jobwatch:8c3290f7fd2d</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
-  </entry>
-  <entry>
-    <title>PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany</title>
-    <link href="https://researchersjob.com/phd-candidate-in-plant-virus-analysis/"/>
-    <id>urn:jobwatch:b994480809fe</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] Researchersjob.com · Germany · Deadline 2026-11-24 · score 64</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5"/>
-    <id>urn:jobwatch:09c73dbec51c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 84</summary>
-  </entry>
-  <entry>
-    <title>Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
-    <link href="https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b"/>
-    <id>urn:jobwatch:9615b67fcbf1</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[project] OpenPostdoc — bioinformatics · International · Deadline 2026-11-25 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Jennifer Yu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/0c0e0980-8c0e-405b-914f-c3aaeb75d941"/>
-    <id>urn:jobwatch:e808cb834606</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 50</summary>
   </entry>
 </feed>
