@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-17 16:40
+## Live stats · updated 2026-11-18 02:52
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **374** |
-| 🏛️ Permanent posts — India | **84** |
+| 🎯 Open matches | **372** |
+| 🏛️ Permanent posts — India | **85** |
 | 🔬 Postdocs / fellowships — India | **15** |
-| ✈️ Postdocs / fellowships — abroad | **174** |
-| 🌍 Permanent / faculty — abroad | **38** |
+| ✈️ Postdocs / fellowships — abroad | **173** |
+| 🌍 Permanent / faculty — abroad | **37** |
 | ⏰ Closing within 14 days | **104** |
-| 🆕 New this run | **5** |
+| 🆕 New this run | **2** |
 | 📡 Sources working | **163 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Bioinformatics Professor](https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/) | permanent | International | 2026-11-17 |
-| 🔴 **0d** | [Genomics Bioinformatician (Fixed Term)](https://www.jobs.ac.uk/job/DTK809/genomics-bioinformatician-fixed-term) | other | United Kingdom | 2026-11-17 |
-| 🔴 **0d** | [Postdoctoral Research Associate in Proteomics (Microbial Competition and Type VI Secretion](https://www.openpostdoc.org/position/7b55db35-0132-4cce-8ad3-de9ac33aadf9) | postdoc | United Kingdom | 2026-11-17 |
-| 🔴 **0d** | [Postdoctoral Research Scientist (Data Science) Quadram Institute Bioscience · United Kingd](https://www.openpostdoc.org/position/928c49c8-95b0-455a-b113-af9782445028) | postdoc | United Kingdom | 2026-11-17 |
-| 🔴 **1d** | [Senior Research Fellow in AI applied to Genomic Medicine University of Southampton · Unite](https://www.openpostdoc.org/position/2bb37600-3b45-439a-b0a5-02cfb9c67b37) | junior | United Kingdom | 2026-11-18 |
-| 🔴 **1d** | [Postdoctoral researcher in Neurobiology Multiple Sclerosis Multiple sclerosis (MS) is a ch](https://www.academictransfer.com/en/jobs/364730/postdoctoral-researcher-in-neurobiology-multiple-sclerosis/) | postdoc | Netherlands | 2026-11-18 |
-| 🔴 **1d** | [Senior Research Fellow in AI applied to Genomic Medicine](https://www.jobs.ac.uk/job/DTJ054/senior-research-fellow-in-ai-applied-to-genomic-medicine) | junior | United Kingdom | 2026-11-18 |
-| 🔴 **1d** | [Senior Research Fellow in AI Applied to Genomic Medicine](https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing) | junior | United Kingdom | 2026-11-18 |
-| 🔴 **1d** | [Biotech Project Research Scientist Jobs at ILBS Delhi / Earn up to Rs 1,01,400/-](https://www.biotecnika.org/2026/11/biotech-jobs-delhi-ilbs-research-scientist-2026/) | project | India | 2026-11-18 |
-| 🔴 **1d** | [Advertisement (English) ( 672.93 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_assistantdeputationadvtenglish.pdf) | permanent | India | 2026-11-18 |
-| 🔴 **1d** | [Applicaton Form ( 705.03 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_applicatonformassistantdeputation.pdf) | permanent | India | 2026-11-18 |
-| 🔴 **1d** | [Advertisement (Hindi) ( 1.38 MB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728304_assistantdeputationadvthindi.pdf) | permanent | India | 2026-11-18 |
-| 🔴 **1d** | [Notice dt. October 15, 2026 ( 443.27 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792045720_398noticeforextensionoflastdate.pdf) | permanent | India | 2026-11-18 |
-| 🔴 **2d** | [Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-](https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/) | postdoc | Netherlands | 2026-11-19 |
-| 🔴 **2d** | [Post-doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416978/post-doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
+| 🔴 **0d** | [Senior Research Fellow in AI applied to Genomic Medicine University of Southampton · Unite](https://www.openpostdoc.org/position/2bb37600-3b45-439a-b0a5-02cfb9c67b37) | junior | United Kingdom | 2026-11-18 |
+| 🔴 **0d** | [Postdoctoral researcher in Neurobiology Multiple Sclerosis Multiple sclerosis (MS) is a ch](https://www.academictransfer.com/en/jobs/364730/postdoctoral-researcher-in-neurobiology-multiple-sclerosis/) | postdoc | Netherlands | 2026-11-18 |
+| 🔴 **0d** | [Senior Research Fellow in AI applied to Genomic Medicine](https://www.jobs.ac.uk/job/DTJ054/senior-research-fellow-in-ai-applied-to-genomic-medicine) | junior | United Kingdom | 2026-11-18 |
+| 🔴 **0d** | [Senior Research Fellow in AI Applied to Genomic Medicine](https://www.timeshighereducation.com/unijobs/listing/416844/senior-research-fellow-in-ai-applied-to-genomic-medicine/?LinkSource=PremiumListing) | junior | United Kingdom | 2026-11-18 |
+| 🔴 **0d** | [Biotech Project Research Scientist Jobs at ILBS Delhi / Earn up to Rs 1,01,400/-](https://www.biotecnika.org/2026/11/biotech-jobs-delhi-ilbs-research-scientist-2026/) | project | India | 2026-11-18 |
+| 🔴 **0d** | [Advertisement (English) ( 672.93 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_assistantdeputationadvtenglish.pdf) | permanent | India | 2026-11-18 |
+| 🔴 **0d** | [Applicaton Form ( 705.03 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_applicatonformassistantdeputation.pdf) | permanent | India | 2026-11-18 |
+| 🔴 **0d** | [Advertisement (Hindi) ( 1.38 MB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728304_assistantdeputationadvthindi.pdf) | permanent | India | 2026-11-18 |
+| 🔴 **0d** | [Notice dt. October 15, 2026 ( 443.27 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792045720_398noticeforextensionoflastdate.pdf) | permanent | India | 2026-11-18 |
+| 🔴 **1d** | [Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-](https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/) | postdoc | Netherlands | 2026-11-19 |
+| 🔴 **1d** | [Post-doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416978/post-doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
+| 🔴 **1d** | [Doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416979/doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
+| 🔴 **2d** | [COLCOM - Professor in Bioinformatics](https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing) | permanent | International | 2026-11-20 |
+| 🔴 **2d** | [NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bo](https://euraxess.ec.europa.eu/jobs/478573) | postdoc | Portugal | 2026-11-20 |
+| 🔴 **2d** | [Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark](https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/) | postdoc | Denmark | 2026-11-20 |
 <!-- STATS:END -->
 
 ---

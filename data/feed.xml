@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-17T11:10:00Z</updated>
+  <updated>2026-11-17T21:22:19Z</updated>
+  <entry>
+    <title>Postdoctoral Research Fellow</title>
+    <link href="https://www.nature.com/naturecareers/job/12866872/postdoctoral-research-fellow/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:af1fcaf62541</id>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <summary>[postdoc] Nature Careers · International · Deadline 2027-02-15 · score 80</summary>
+  </entry>
+  <entry>
+    <title>Dr. A Ramesh Kumar, Scientist-F, CSIR-NEERI, Presents India’s National Implementation Plan and Legacy POPs Inventory Update at the India-Norway Dialogue</title>
+    <link href="https://www.neeri.res.in/file_homes/dr-ramesh-kumar-csir-neeri-india-norway-dialogue-delhi-2026.pdf"/>
+    <id>urn:jobwatch:fb546b815b7f</id>
+    <updated>2026-11-18T00:00:00Z</updated>
+    <summary>[permanent] CSIR-NEERI Nagpur · India · Deadline: see advert · score 40</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Fellowship in Wearable Data Science, University of Copenhagen, Denmark</title>
     <link href="https://researchersjob.com/postdoctoral-fellowship-in-wearable-data-science/"/>
@@ -690,20 +704,6 @@
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 44</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Research Associate in Proteomics (Microbial Competition and Type VI Secretion) The University of Manchester · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/7b55db35-0132-4cce-8ad3-de9ac33aadf9"/>
-    <id>urn:jobwatch:3e3de1f1a13f</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-17 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Scientist (Data Science) Quadram Institute Bioscience · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/928c49c8-95b0-455a-b113-af9782445028"/>
-    <id>urn:jobwatch:a61d7e75fa6b</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-17 · score 64</summary>
-  </entry>
-  <entry>
     <title>Senior Research Fellow in AI applied to Genomic Medicine University of Southampton · United Kingdom ·</title>
     <link href="https://www.openpostdoc.org/position/2bb37600-3b45-439a-b0a5-02cfb9c67b37"/>
     <id>urn:jobwatch:ba402e9e4f3a</id>
@@ -863,20 +863,6 @@
     <id>urn:jobwatch:8887bb109967</id>
     <updated>2026-11-04T00:00:00Z</updated>
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Bioinformatics Professor</title>
-    <link href="https://www.nature.com/naturecareers/job/12864795/bioinformatics-professor/"/>
-    <id>urn:jobwatch:7a54752a1b71</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2026-11-17 · score 84</summary>
-  </entry>
-  <entry>
-    <title>Genomics Bioinformatician (Fixed Term)</title>
-    <link href="https://www.jobs.ac.uk/job/DTK809/genomics-bioinformatician-fixed-term"/>
-    <id>urn:jobwatch:8e38ca7aa39a</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[other] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-17 · score 70</summary>
   </entry>
   <entry>
     <title>Postdoctoral researcher in Neurobiology Multiple Sclerosis Multiple sclerosis (MS) is a chronic progressive demyelinating disease of the central nervous system characterized by neuroinflammation and neurodegeneration. Current disease-modifying therapies are no</title>
@@ -1052,5 +1038,19 @@
     <id>urn:jobwatch:8c3290f7fd2d</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
+  </entry>
+  <entry>
+    <title>PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany</title>
+    <link href="https://researchersjob.com/phd-candidate-in-plant-virus-analysis/"/>
+    <id>urn:jobwatch:b994480809fe</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Germany · Deadline 2026-11-24 · score 64</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
+    <link href="https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5"/>
+    <id>urn:jobwatch:09c73dbec51c</id>
+    <updated>2026-11-03T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 84</summary>
   </entry>
 </feed>
