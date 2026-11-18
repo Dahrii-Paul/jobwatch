@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-18 02:52
+## Live stats · updated 2026-11-18 16:15
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **372** |
-| 🏛️ Permanent posts — India | **85** |
+| 🎯 Open matches | **375** |
+| 🏛️ Permanent posts — India | **86** |
 | 🔬 Postdocs / fellowships — India | **15** |
-| ✈️ Postdocs / fellowships — abroad | **173** |
-| 🌍 Permanent / faculty — abroad | **37** |
-| ⏰ Closing within 14 days | **104** |
-| 🆕 New this run | **2** |
-| 📡 Sources working | **163 / 209** |
+| ✈️ Postdocs / fellowships — abroad | **174** |
+| 🌍 Permanent / faculty — abroad | **38** |
+| ⏰ Closing within 14 days | **105** |
+| 🆕 New this run | **4** |
+| 📡 Sources working | **164 / 209** |
 
 ### ⏳ Closing within 30 days
 
@@ -32,12 +32,12 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **0d** | [Applicaton Form ( 705.03 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728303_applicatonformassistantdeputation.pdf) | permanent | India | 2026-11-18 |
 | 🔴 **0d** | [Advertisement (Hindi) ( 1.38 MB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1789728304_assistantdeputationadvthindi.pdf) | permanent | India | 2026-11-18 |
 | 🔴 **0d** | [Notice dt. October 15, 2026 ( 443.27 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1792045720_398noticeforextensionoflastdate.pdf) | permanent | India | 2026-11-18 |
-| 🔴 **1d** | [Postdoctoral position Small Molecules that Repartition RNA Conformational Ensembles A one-](https://www.academictransfer.com/en/jobs/365419/postdoctoral-position-small-molecules-that-repartition-rna-conformational-ensembles/) | postdoc | Netherlands | 2026-11-19 |
 | 🔴 **1d** | [Post-doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416978/post-doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
 | 🔴 **1d** | [Doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416979/doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
 | 🔴 **2d** | [COLCOM - Professor in Bioinformatics](https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing) | permanent | International | 2026-11-20 |
 | 🔴 **2d** | [NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bo](https://euraxess.ec.europa.eu/jobs/478573) | postdoc | Portugal | 2026-11-20 |
 | 🔴 **2d** | [Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark](https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/) | postdoc | Denmark | 2026-11-20 |
+| 🔴 **2d** | [Faculty Positions](https://www.instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
 <!-- STATS:END -->
 
 ---
