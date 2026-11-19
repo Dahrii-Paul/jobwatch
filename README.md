@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-19 16:16
+## Live stats · updated 2026-11-20 02:30
 
 | Metric | Count |
 |---|---|
 | 🎯 Open matches | **376** |
 | 🏛️ Permanent posts — India | **83** |
-| 🔬 Postdocs / fellowships — India | **17** |
-| ✈️ Postdocs / fellowships — abroad | **177** |
+| 🔬 Postdocs / fellowships — India | **18** |
+| ✈️ Postdocs / fellowships — abroad | **176** |
 | 🌍 Permanent / faculty — abroad | **39** |
-| ⏰ Closing within 14 days | **102** |
-| 🆕 New this run | **4** |
-| 📡 Sources working | **164 / 209** |
+| ⏰ Closing within 14 days | **107** |
+| 🆕 New this run | **2** |
+| 📡 Sources working | **165 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Post-doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416978/post-doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
-| 🔴 **0d** | [Doctoral Researcher in Computational Genomics for Predictive Medicine](https://www.timeshighereducation.com/unijobs/listing/416979/doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing) | postdoc | Finland | 2026-11-19 |
-| 🔴 **1d** | [COLCOM - Professor in Bioinformatics](https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing) | permanent | International | 2026-11-20 |
-| 🔴 **1d** | [Associate Professor in Population Genetics and Plant Breeding](https://euraxess.ec.europa.eu/jobs/481239) | permanent | Europe | 2026-11-20 |
-| 🔴 **1d** | [NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bo](https://euraxess.ec.europa.eu/jobs/478573) | postdoc | Portugal | 2026-11-20 |
-| 🔴 **1d** | [Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark](https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/) | postdoc | Denmark | 2026-11-20 |
-| 🔴 **1d** | [Faculty Positions](https://www.instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
-| 🔴 **1d** | [Faculty Positions:Advertisement No. BRIC-inStem/03/2026](https://instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
-| 🔴 **2d** | [Senior Bioinformatics Research Scientist](https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/) | permanent | International | 2026-11-21 |
-| 🔴 **2d** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/) | permanent | International | 2026-11-21 |
-| 🔴 **2d** | [Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The ](https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4) | postdoc | International | 2026-11-21 |
-| 🔴 **2d** | [AFMC Pune Recruitment 2026 / Research Scientist & Lab Technician Jobs at MRU / Earn Up to ](https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/) | permanent | India | 2026-11-21 |
-| 🔴 **2d** | [AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India](https://researchersjob.com/afmc-pune-recruitment-2026/) | permanent | India | 2026-11-21 |
-| 🔴 **3d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
-| 🟠 **4d** | [Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological ](https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/) | postdoc | Netherlands | 2026-11-23 |
+| 🔴 **0d** | [COLCOM - Professor in Bioinformatics](https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing) | permanent | International | 2026-11-20 |
+| 🔴 **0d** | [Associate Professor in Population Genetics and Plant Breeding](https://euraxess.ec.europa.eu/jobs/481239) | permanent | Europe | 2026-11-20 |
+| 🔴 **0d** | [NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bo](https://euraxess.ec.europa.eu/jobs/478573) | postdoc | Portugal | 2026-11-20 |
+| 🔴 **0d** | [Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark](https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/) | postdoc | Denmark | 2026-11-20 |
+| 🔴 **0d** | [Faculty Positions](https://www.instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
+| 🔴 **0d** | [Faculty Positions:Advertisement No. BRIC-inStem/03/2026](https://instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
+| 🔴 **1d** | [Senior Bioinformatics Research Scientist](https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/) | permanent | International | 2026-11-21 |
+| 🔴 **1d** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/) | permanent | International | 2026-11-21 |
+| 🔴 **1d** | [Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The ](https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4) | postdoc | International | 2026-11-21 |
+| 🔴 **1d** | [AFMC Pune Recruitment 2026 / Research Scientist & Lab Technician Jobs at MRU / Earn Up to ](https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/) | permanent | India | 2026-11-21 |
+| 🔴 **1d** | [AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India](https://researchersjob.com/afmc-pune-recruitment-2026/) | permanent | India | 2026-11-21 |
+| 🔴 **2d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
+| 🔴 **3d** | [Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological ](https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/) | postdoc | Netherlands | 2026-11-23 |
+| 🔴 **3d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **3d** | [One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]](https://euraxess.ec.europa.eu/jobs/480392) | postdoc | Europe | 2026-11-23 |
 <!-- STATS:END -->
 
 ---

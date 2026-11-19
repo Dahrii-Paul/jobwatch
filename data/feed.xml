@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-19T10:46:30Z</updated>
+  <updated>2026-11-19T21:00:00Z</updated>
+  <entry>
+    <title>Postdoctoral Researcher (m/f/d) Bioinformatics – Institute for Cardiogenetics</title>
+    <link href="https://www.nature.com/naturecareers/job/12866942/postdoctoral-researcher-m-f-d-bioinformatics-institute-for-cardiogenetics/"/>
+    <id>urn:jobwatch:1cc52128a132</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[postdoc] Nature Careers · International · Deadline 2026-12-11 · score 65</summary>
+  </entry>
+  <entry>
+    <title>LVPEI Hyderabad Postdoc Fellow – PhD Bioinformatics, Glaucoma Genomics</title>
+    <link href="https://www.biotecnika.org/2026/11/lvpei-postdoctoral-fellow-hyderabad-bioinformatics/"/>
+    <id>urn:jobwatch:f477de8d4639</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 70</summary>
+  </entry>
   <entry>
     <title>AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India</title>
     <link href="https://researchersjob.com/afmc-pune-recruitment-2026/"/>
@@ -947,20 +961,6 @@
     <id>urn:jobwatch:8887bb109967</id>
     <updated>2026-11-04T00:00:00Z</updated>
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Researcher in Computational Genomics for Predictive Medicine</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/416978/post-doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:e85091ba0342</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · Finland · Deadline 2026-11-19 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Doctoral Researcher in Computational Genomics for Predictive Medicine</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/416979/doctoral-researcher-in-computational-genomics-for-predictive-medicine/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:b9840450088b</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · Finland · Deadline 2026-11-19 · score 65</summary>
   </entry>
   <entry>
     <title>COLCOM - Professor in Bioinformatics</title>
