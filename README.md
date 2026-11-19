@@ -6,18 +6,18 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-19 02:25
+## Live stats · updated 2026-11-19 16:16
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **372** |
-| 🏛️ Permanent posts — India | **82** |
+| 🎯 Open matches | **376** |
+| 🏛️ Permanent posts — India | **83** |
 | 🔬 Postdocs / fellowships — India | **17** |
-| ✈️ Postdocs / fellowships — abroad | **176** |
+| ✈️ Postdocs / fellowships — abroad | **177** |
 | 🌍 Permanent / faculty — abroad | **39** |
-| ⏰ Closing within 14 days | **99** |
-| 🆕 New this run | **6** |
-| 📡 Sources working | **163 / 209** |
+| ⏰ Closing within 14 days | **102** |
+| 🆕 New this run | **4** |
+| 📡 Sources working | **164 / 209** |
 
 ### ⏳ Closing within 30 days
 
@@ -35,9 +35,9 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **2d** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/) | permanent | International | 2026-11-21 |
 | 🔴 **2d** | [Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The ](https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4) | postdoc | International | 2026-11-21 |
 | 🔴 **2d** | [AFMC Pune Recruitment 2026 / Research Scientist & Lab Technician Jobs at MRU / Earn Up to ](https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/) | permanent | India | 2026-11-21 |
+| 🔴 **2d** | [AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India](https://researchersjob.com/afmc-pune-recruitment-2026/) | permanent | India | 2026-11-21 |
 | 🔴 **3d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
 | 🟠 **4d** | [Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological ](https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/) | postdoc | Netherlands | 2026-11-23 |
-| 🟠 **4d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
 <!-- STATS:END -->
 
 ---

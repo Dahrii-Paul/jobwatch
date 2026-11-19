@@ -2,13 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-18T20:55:29Z</updated>
+  <updated>2026-11-19T10:46:30Z</updated>
+  <entry>
+    <title>AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India</title>
+    <link href="https://researchersjob.com/afmc-pune-recruitment-2026/"/>
+    <id>urn:jobwatch:b50a454452d2</id>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>[permanent] Researchersjob.com · India · Deadline 2026-11-21 · score 40</summary>
+  </entry>
+  <entry>
+    <title>PhD position: Visualization and comparison of pangenomes You will be employed for four years to work on a new project, “Comparative genomics and structural variant visualization in pangenome graphs of animal species”.</title>
+    <link href="https://www.academictransfer.com/en/jobs/365736/phd-position-visualization-and-comparison-of-pangenomes/"/>
+    <id>urn:jobwatch:3087b79dd432</id>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>[phd] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-30 · score 40</summary>
+  </entry>
   <entry>
     <title>Postdoc Position: Statistical Genetics in Plant Breeding (Wheat Cultivar Mixtures) – Aarhus University, Denmark</title>
     <link href="https://researchersjob.com/postdoc-position-statistical-genetics/"/>
     <id>urn:jobwatch:318fa5172895</id>
     <updated>2026-11-19T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Denmark · Deadline 2026-12-01 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Assistant/Associate Project Scientist – Microbial Genetics and Microbiome Engineering – Innovative Genomics Institute University of California, Berkeley · Berkeley ·</title>
+    <link href="https://www.openpostdoc.org/position/253ebb3b-3831-41d4-ac6a-56726be29bb7"/>
+    <id>urn:jobwatch:09990b08944c</id>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>[project] OpenPostdoc — bioinformatics · International · Deadline 2026-12-02 · score 75</summary>
   </entry>
   <entry>
     <title>ICRISAT Hyderabad Research Associate Job – Pigeonpea Genomics, PhD Apply</title>
@@ -23,6 +44,13 @@
     <id>urn:jobwatch:902743324ca7</id>
     <updated>2026-11-19T00:00:00Z</updated>
     <summary>[permanent] Nature Careers · International · Deadline 2027-02-16 · score 80</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Scholar -Translational Proteomics University of Alberta · Edmonton ·</title>
+    <link href="https://www.openpostdoc.org/position/55748fdf-6703-4657-a982-81215b67a1f1"/>
+    <id>urn:jobwatch:14b88bd1437b</id>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-02-24 · score 65</summary>
   </entry>
   <entry>
     <title>Postdoc in Statistical Genetics for Plant Breeding at Aarhus University, Denmark</title>
@@ -1024,33 +1052,5 @@
     <id>urn:jobwatch:746ca06602a4</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-23 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Advertisement &amp; Application Form (English) ( 668.61 KB) View</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf"/>
-    <id>urn:jobwatch:5ec57ba366c3</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
-  </entry>
-  <entry>
-    <title>Advertisement &amp; Application Form (Hindi) ( 756.42 KB) View</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545263_advertisementforthepostofassistantondeputationbasisinhindi.pdf"/>
-    <id>urn:jobwatch:8c3290f7fd2d</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
-  </entry>
-  <entry>
-    <title>PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany</title>
-    <link href="https://researchersjob.com/phd-candidate-in-plant-virus-analysis/"/>
-    <id>urn:jobwatch:b994480809fe</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] Researchersjob.com · Germany · Deadline 2026-11-24 · score 64</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United States ·</title>
-    <link href="https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5"/>
-    <id>urn:jobwatch:09c73dbec51c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-25 · score 84</summary>
   </entry>
 </feed>
