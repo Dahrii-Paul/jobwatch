@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-20T10:35:18Z</updated>
+  <updated>2026-11-20T20:46:05Z</updated>
+  <entry>
+    <title>Postdoctoral Fellowships in Vascular Biology at Karolinska Institutet, Sweden</title>
+    <link href="https://researchersjob.com/postdoctoral-fellowships-in-vascular-biology/"/>
+    <id>urn:jobwatch:76888c9a9e99</id>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-12-15 · score 63</summary>
+  </entry>
+  <entry>
+    <title>Senior Specialist – Research Engineer in the Biobank Research Group</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/482041"/>
+    <id>urn:jobwatch:a599149eda13</id>
+    <updated>2026-11-21T00:00:00Z</updated>
+    <summary>[project] EURAXESS (EU-wide) · Europe · Deadline 2026-12-19 · score 58</summary>
+  </entry>
   <entry>
     <title>Translational Multiomics data analyst graduate in mathematichs+máster (Noviembre extra 9)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/481869"/>
@@ -149,13 +163,6 @@
     <id>urn:jobwatch:6f19bb6a8d6c</id>
     <updated>2026-11-19T00:00:00Z</updated>
     <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 54</summary>
-  </entry>
-  <entry>
-    <title>Associate Professor in Population Genetics and Plant Breeding</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/481239"/>
-    <id>urn:jobwatch:d168f32a03ae</id>
-    <updated>2026-11-18T00:00:00Z</updated>
-    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2026-11-20 · score 79</summary>
   </entry>
   <entry>
     <title>BRIC-NIAB Recruitment 2026: Scientist-C and Scientist-D Positions in Animal Biotechnology, India</title>
@@ -732,13 +739,6 @@
     <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 52</summary>
   </entry>
   <entry>
-    <title>NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bolsa/Ref_14/2026</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/478573"/>
-    <id>urn:jobwatch:779cf6ec503b</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Portugal · Deadline 2026-11-20 · score 73</summary>
-  </entry>
-  <entry>
     <title>Senior Postdoctoral Researcher in Parkinson’s Disease Biomarkers and α-Synuclein Seeding University of Oxford · Oxford ·</title>
     <link href="https://www.openpostdoc.org/position/745f6a34-36cf-49f0-a1ef-2e8810ada1e6"/>
     <id>urn:jobwatch:0cb73a860a0d</id>
@@ -1026,31 +1026,31 @@
     <summary>[permanent] Regional Centre for Biotechnology · India · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>COLCOM - Professor in Bioinformatics</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:87832ca01a8e</id>
+    <title>Senior Bioinformatics Research Scientist</title>
+    <link href="https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/"/>
+    <id>urn:jobwatch:86a29caf7970</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Times Higher Education Jobs · International · Deadline 2026-11-20 · score 80</summary>
+    <summary>[permanent] Nature Careers · International · Deadline 2026-11-21 · score 65</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark</title>
-    <link href="https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/"/>
-    <id>urn:jobwatch:6f2aabf9433f</id>
+    <title>Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology</title>
+    <link href="https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/"/>
+    <id>urn:jobwatch:69476e84ed66</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Denmark · Deadline 2026-11-20 · score 52</summary>
+    <summary>[permanent] Nature Careers · International · Deadline 2026-11-21 · score 65</summary>
   </entry>
   <entry>
-    <title>Faculty Positions</title>
-    <link href="https://www.instem.res.in/facultypositions/"/>
-    <id>urn:jobwatch:1ba2aa7b1eb0</id>
+    <title>Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The University of British Columbia · Vancouver ·</title>
+    <link href="https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4"/>
+    <id>urn:jobwatch:3c0c599b0372</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] inStem Bengaluru · India · Deadline 2026-11-20 · score 40</summary>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-21 · score 65</summary>
   </entry>
   <entry>
-    <title>Faculty Positions:Advertisement No. BRIC-inStem/03/2026</title>
-    <link href="https://instem.res.in/facultypositions/"/>
-    <id>urn:jobwatch:9dd0b08df169</id>
+    <title>Professional Research Positions | Department of Neurology University of California, San Francisco · San Francisco ·</title>
+    <link href="https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674"/>
+    <id>urn:jobwatch:c70d4f8e4020</id>
     <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] BRIC — work with us · India · Deadline 2026-11-20 · score 40</summary>
+    <summary>[permanent] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-22 · score 69</summary>
   </entry>
 </feed>

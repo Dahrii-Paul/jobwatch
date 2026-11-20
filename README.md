@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-20 16:05
+## Live stats · updated 2026-11-21 02:16
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **385** |
-| 🏛️ Permanent posts — India | **86** |
+| 🎯 Open matches | **381** |
+| 🏛️ Permanent posts — India | **84** |
 | 🔬 Postdocs / fellowships — India | **18** |
-| ✈️ Postdocs / fellowships — abroad | **177** |
-| 🌍 Permanent / faculty — abroad | **43** |
-| ⏰ Closing within 14 days | **108** |
-| 🆕 New this run | **9** |
-| 📡 Sources working | **165 / 209** |
+| ✈️ Postdocs / fellowships — abroad | **176** |
+| 🌍 Permanent / faculty — abroad | **41** |
+| ⏰ Closing within 14 days | **102** |
+| 🆕 New this run | **2** |
+| 📡 Sources working | **167 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [COLCOM - Professor in Bioinformatics](https://www.timeshighereducation.com/unijobs/listing/416773/colcom-professor-in-bioinformatics/?LinkSource=PremiumListing) | permanent | International | 2026-11-20 |
-| 🔴 **0d** | [Associate Professor in Population Genetics and Plant Breeding](https://euraxess.ec.europa.eu/jobs/481239) | permanent | Europe | 2026-11-20 |
-| 🔴 **0d** | [NOTICE OF OPENING FOR A RESEARCH FELLOWSHIP COMPETITION (MASTER’S DEGREE) - S2AQUAcoLAB/Bo](https://euraxess.ec.europa.eu/jobs/478573) | postdoc | Portugal | 2026-11-20 |
-| 🔴 **0d** | [Postdoctoral Research in Plant Regulatory Genomics at Aarhus University, Denmark](https://researchersjob.com/postdoctoral-research-in-plant-regulatory-genomics/) | postdoc | Denmark | 2026-11-20 |
-| 🔴 **0d** | [Faculty Positions](https://www.instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
-| 🔴 **0d** | [Faculty Positions:Advertisement No. BRIC-inStem/03/2026](https://instem.res.in/facultypositions/) | permanent | India | 2026-11-20 |
-| 🔴 **1d** | [Senior Bioinformatics Research Scientist](https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/) | permanent | International | 2026-11-21 |
-| 🔴 **1d** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/) | permanent | International | 2026-11-21 |
-| 🔴 **1d** | [Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The ](https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4) | postdoc | International | 2026-11-21 |
-| 🔴 **1d** | [AFMC Pune Recruitment 2026 / Research Scientist & Lab Technician Jobs at MRU / Earn Up to ](https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/) | permanent | India | 2026-11-21 |
-| 🔴 **1d** | [AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India](https://researchersjob.com/afmc-pune-recruitment-2026/) | permanent | India | 2026-11-21 |
-| 🔴 **2d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
-| 🔴 **3d** | [Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological ](https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/) | postdoc | Netherlands | 2026-11-23 |
-| 🔴 **3d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
-| 🔴 **3d** | [One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]](https://euraxess.ec.europa.eu/jobs/480392) | postdoc | Europe | 2026-11-23 |
+| 🔴 **0d** | [Senior Bioinformatics Research Scientist](https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/) | permanent | International | 2026-11-21 |
+| 🔴 **0d** | [Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology](https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/) | permanent | International | 2026-11-21 |
+| 🔴 **0d** | [Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The ](https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4) | postdoc | International | 2026-11-21 |
+| 🔴 **0d** | [AFMC Pune Recruitment 2026 / Research Scientist & Lab Technician Jobs at MRU / Earn Up to ](https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/) | permanent | India | 2026-11-21 |
+| 🔴 **0d** | [AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India](https://researchersjob.com/afmc-pune-recruitment-2026/) | permanent | India | 2026-11-21 |
+| 🔴 **1d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
+| 🔴 **2d** | [Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological ](https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/) | postdoc | Netherlands | 2026-11-23 |
+| 🔴 **2d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **2d** | [One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]](https://euraxess.ec.europa.eu/jobs/480392) | postdoc | Europe | 2026-11-23 |
+| 🔴 **2d** | [Senior Postdoctoral Research Scientist - Climate Sensitive Infectious Diseases University ](https://www.openpostdoc.org/position/3b4740cb-04d3-41ae-b2df-9c372f5c615c) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **2d** | [PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine lear](https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census) | phd | United Kingdom | 2026-11-23 |
+| 🔴 **2d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.jobs.ac.uk/job/DTP294/postdoctoral-research-associate-in-environmental-engineering-and-microbiology) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **2d** | [Postdoctoral Position in Structure-Based Drug Design at Uppsala University, Sweden](https://researchersjob.com/postdoctoral-position-in-structure-based-drug-design/) | postdoc | Sweden | 2026-11-23 |
+| 🔴 **2d** | [Senior Postdoctoral Research Scientist - Spatial Modelling Outbreak Response University of](https://www.openpostdoc.org/position/888f6143-ce59-4fff-9b1b-d094402a0e99) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **2d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-23 |
 <!-- STATS:END -->
 
 ---
