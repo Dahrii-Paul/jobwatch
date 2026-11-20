@@ -2,13 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-19T21:00:00Z</updated>
+  <updated>2026-11-20T10:35:18Z</updated>
+  <entry>
+    <title>Translational Multiomics data analyst graduate in mathematichs+máster (Noviembre extra 9)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/481869"/>
+    <id>urn:jobwatch:8da4f7ca58ce</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[other] EURAXESS (EU-wide) · Europe · Deadline 2026-12-04 · score 40</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Researcher (m/f/d) Bioinformatics – Institute for Cardiogenetics</title>
     <link href="https://www.nature.com/naturecareers/job/12866942/postdoctoral-researcher-m-f-d-bioinformatics-institute-for-cardiogenetics/"/>
     <id>urn:jobwatch:1cc52128a132</id>
     <updated>2026-11-20T00:00:00Z</updated>
     <summary>[postdoc] Nature Careers · International · Deadline 2026-12-11 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Advertisement (English) ( 526.44 KB) View</title>
+    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795166694_finaladvertisement_sci_d.pdf"/>
+    <id>urn:jobwatch:92a8c8a23a65</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-12-31 · score 44</summary>
+  </entry>
+  <entry>
+    <title>University Lecturer in Integrative Physiology</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/481770"/>
+    <id>urn:jobwatch:778c9d6ace79</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2027-01-07 · score 92</summary>
+  </entry>
+  <entry>
+    <title>University Lecturer in Developmental Biology</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/481772"/>
+    <id>urn:jobwatch:35ab1991bbe0</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2027-01-07 · score 92</summary>
+  </entry>
+  <entry>
+    <title>University Lecturer in Bioinformatics</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417860/university-lecturer-in-bioinformatics/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:5de0cb0ccf26</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] Times Higher Education Jobs · Finland · Deadline 2027-01-07 · score 73</summary>
+  </entry>
+  <entry>
+    <title>University Lecturer in Bioinformatics</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/481771"/>
+    <id>urn:jobwatch:eafe225327bb</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2027-01-07 · score 69</summary>
+  </entry>
+  <entry>
+    <title>Computational analyst/bioinformatics position in drug and target discovery for human liver disease</title>
+    <link href="https://www.nature.com/naturecareers/job/12866899/computational-analyst-bioinformatics-position-in-drug-and-target-discovery-for-human-liver-disease/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:30298f233242</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[postdoc] Nature Careers · International · Deadline 2027-04-01 · score 84</summary>
   </entry>
   <entry>
     <title>LVPEI Hyderabad Postdoc Fellow – PhD Bioinformatics, Glaucoma Genomics</title>
@@ -18,18 +67,25 @@
     <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 70</summary>
   </entry>
   <entry>
+    <title>CCMB scientists discover developmental genes that switch nerve repair back on after spinal cord injury 20-11-2026 Press Note</title>
+    <link href="https://www.ccmb.res.in/ccmb-scientists-discover-developmental-genes-that-switch-nerve-repair-back-on-after-spinal-cord-injury/"/>
+    <id>urn:jobwatch:ccaa435741ad</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] CSIR-CCMB Hyderabad · India · Deadline: see advert · score 40</summary>
+  </entry>
+  <entry>
+    <title>Indian Scientist Professor Shekhar C. Mande Joins Elite UN Panel On Sustainable Development</title>
+    <link href="https://www.ndtv.com/india-news/indian-scientist-shekhar-mande-joins-elite-un-panel-on-sustainable-development-12350882"/>
+    <id>urn:jobwatch:497900c760e6</id>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <summary>[permanent] INSA · India · Deadline: see advert · score 40</summary>
+  </entry>
+  <entry>
     <title>AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India</title>
     <link href="https://researchersjob.com/afmc-pune-recruitment-2026/"/>
     <id>urn:jobwatch:b50a454452d2</id>
     <updated>2026-11-19T00:00:00Z</updated>
     <summary>[permanent] Researchersjob.com · India · Deadline 2026-11-21 · score 40</summary>
-  </entry>
-  <entry>
-    <title>PhD position: Visualization and comparison of pangenomes You will be employed for four years to work on a new project, “Comparative genomics and structural variant visualization in pangenome graphs of animal species”.</title>
-    <link href="https://www.academictransfer.com/en/jobs/365736/phd-position-visualization-and-comparison-of-pangenomes/"/>
-    <id>urn:jobwatch:3087b79dd432</id>
-    <updated>2026-11-19T00:00:00Z</updated>
-    <summary>[phd] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-30 · score 40</summary>
   </entry>
   <entry>
     <title>Postdoc Position: Statistical Genetics in Plant Breeding (Wheat Cultivar Mixtures) – Aarhus University, Denmark</title>
@@ -44,6 +100,13 @@
     <id>urn:jobwatch:09990b08944c</id>
     <updated>2026-11-19T00:00:00Z</updated>
     <summary>[project] OpenPostdoc — bioinformatics · International · Deadline 2026-12-02 · score 75</summary>
+  </entry>
+  <entry>
+    <title>PhD position: Visualization and comparison of pangenomes You will be employed for four years to work on a new project, “Comparative genomics and structural variant visualization in pangenome graphs of animal species”.</title>
+    <link href="https://www.academictransfer.com/en/jobs/365736/phd-position-visualization-and-comparison-of-pangenomes/"/>
+    <id>urn:jobwatch:3087b79dd432</id>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <summary>[phd] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-12-03 · score 40</summary>
   </entry>
   <entry>
     <title>ICRISAT Hyderabad Research Associate Job – Pigeonpea Genomics, PhD Apply</title>
@@ -989,68 +1052,5 @@
     <id>urn:jobwatch:9dd0b08df169</id>
     <updated>2026-11-03T00:00:00Z</updated>
     <summary>[permanent] BRIC — work with us · India · Deadline 2026-11-20 · score 40</summary>
-  </entry>
-  <entry>
-    <title>Senior Bioinformatics Research Scientist</title>
-    <link href="https://www.nature.com/naturecareers/job/12864908/senior-bioinformatics-research-scientist/"/>
-    <id>urn:jobwatch:86a29caf7970</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2026-11-21 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Bioinformatics Research Scientist - Center of Excellence for Pediatric Immuno-Oncology</title>
-    <link href="https://www.nature.com/naturecareers/job/12864916/bioinformatics-research-scientist-center-of-excellence-for-pediatric-immuno-oncology/"/>
-    <id>urn:jobwatch:69476e84ed66</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] Nature Careers · International · Deadline 2026-11-21 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Fellow – Human Neuroimmunology, Brain Organoids and Multi-omics The University of British Columbia · Vancouver ·</title>
-    <link href="https://www.openpostdoc.org/position/8dc3d2a1-b545-43d9-b9c0-a430397603f4"/>
-    <id>urn:jobwatch:3c0c599b0372</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-21 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Professional Research Positions | Department of Neurology University of California, San Francisco · San Francisco ·</title>
-    <link href="https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674"/>
-    <id>urn:jobwatch:c70d4f8e4020</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[permanent] OpenPostdoc — bioinformatics · United States · Deadline 2026-11-22 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquaculture The University of Edinburgh · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59"/>
-    <id>urn:jobwatch:89188a2f884c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-23 · score 79</summary>
-  </entry>
-  <entry>
-    <title>Senior Postdoctoral Research Scientist - Climate Sensitive Infectious Diseases University of Oxford · Oxford ·</title>
-    <link href="https://www.openpostdoc.org/position/3b4740cb-04d3-41ae-b2df-9c372f5c615c"/>
-    <id>urn:jobwatch:8faae381dc10</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-23 · score 70</summary>
-  </entry>
-  <entry>
-    <title>PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine learning to a national genomic census</title>
-    <link href="https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census"/>
-    <id>urn:jobwatch:91942571457c</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[phd] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-23 · score 64</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in Structure-Based Drug Design at Uppsala University, Sweden</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-structure-based-drug-design/"/>
-    <id>urn:jobwatch:ccd7468be3ab</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-23 · score 63</summary>
-  </entry>
-  <entry>
-    <title>Senior Postdoctoral Research Scientist - Spatial Modelling Outbreak Response University of Oxford · Oxford ·</title>
-    <link href="https://www.openpostdoc.org/position/888f6143-ce59-4fff-9b1b-d094402a0e99"/>
-    <id>urn:jobwatch:746ca06602a4</id>
-    <updated>2026-11-03T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-23 · score 50</summary>
   </entry>
 </feed>

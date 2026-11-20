@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-20T02:30+05:30",
+  "updated": "2026-11-20T16:05+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,15 +10,15 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 3032,
-   "open_matches": 376,
-   "urgent": 107,
-   "new_this_run": 2,
+   "total_indexed": 3070,
+   "open_matches": 385,
+   "urgent": 108,
+   "new_this_run": 9,
    "saved": 0,
-   "permanent_india": 83,
+   "permanent_india": 86,
    "postdoc_india": 18,
-   "postdoc_abroad": 176,
-   "permanent_abroad": 39,
+   "postdoc_abroad": 177,
+   "permanent_abroad": 43,
    "sources_ok": 165,
    "sources_total": 209
   }
@@ -228,7 +228,8 @@
    "deadline": null,
    "status": "check",
    "checked": "2026-11-20",
-   "ok": true
+   "ok": false,
+   "error": "ConnectTimeout"
   },
   {
    "id": "wellcome-eca",
@@ -303,10 +304,11 @@
    "region": "abroad",
    "country": "International",
    "url": "https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships",
-   "deadline": "2027-05-11",
-   "status": "open",
+   "deadline": null,
+   "status": "check",
    "checked": "2026-11-20",
-   "ok": true
+   "ok": false,
+   "error": "ConnectTimeout"
   },
   {
    "id": "humboldt",
