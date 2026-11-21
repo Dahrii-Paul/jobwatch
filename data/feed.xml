@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-21T10:14:08Z</updated>
+  <updated>2026-11-21T19:49:13Z</updated>
+  <entry>
+    <title>Research Associate in Computational Single-Cell and Spatial Omics at UT Dallas, USA</title>
+    <link href="https://researchersjob.com/research-associate-in-computational-single-cell/"/>
+    <id>urn:jobwatch:d4d1caf80a9d</id>
+    <updated>2026-11-22T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 100</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Fellow Computational Biology - Lung Cancer Initiation &amp; Progression The Francis Crick Institute · United Kingdom ·</title>
     <link href="https://www.openpostdoc.org/position/0f6a0bab-8053-46d1-b784-cbf029fb82c1"/>
@@ -29,7 +36,7 @@
     <link href="https://euraxess.ec.europa.eu/jobs/482072"/>
     <id>urn:jobwatch:aa2238434960</id>
     <updated>2026-11-21T00:00:00Z</updated>
-    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2026-12-03 · score 45</summary>
+    <summary>[permanent] EURAXESS (EU-wide) · Netherlands · Deadline 2026-12-03 · score 45</summary>
   </entry>
   <entry>
     <title>Postdoctoral Research Associate The University of Edinburgh · United Kingdom ·</title>
@@ -71,7 +78,7 @@
     <link href="https://euraxess.ec.europa.eu/jobs/482070"/>
     <id>urn:jobwatch:0721e3fe6ab2</id>
     <updated>2026-11-21T00:00:00Z</updated>
-    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2026-12-22 · score 45</summary>
+    <summary>[permanent] EURAXESS (EU-wide) · Netherlands · Deadline 2026-12-22 · score 45</summary>
   </entry>
   <entry>
     <title>Research Fellow in Laboratory and Computational Systems Biology Cancer Research University of Sussex · United Kingdom ·</title>
@@ -170,13 +177,6 @@
     <id>urn:jobwatch:497900c760e6</id>
     <updated>2026-11-20T00:00:00Z</updated>
     <summary>[permanent] INSA · India · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>AFMC Pune Recruitment 2026: Research Scientist, Lab Technician and DEO Vacancies, India</title>
-    <link href="https://researchersjob.com/afmc-pune-recruitment-2026/"/>
-    <id>urn:jobwatch:b50a454452d2</id>
-    <updated>2026-11-19T00:00:00Z</updated>
-    <summary>[permanent] Researchersjob.com · India · Deadline 2026-11-21 · score 40</summary>
   </entry>
   <entry>
     <title>Postdoc Position: Statistical Genetics in Plant Breeding (Wheat Cultivar Mixtures) – Aarhus University, Denmark</title>
@@ -366,13 +366,6 @@
     <id>urn:jobwatch:144c6a8627ec</id>
     <updated>2026-11-17T00:00:00Z</updated>
     <summary>[postdoc] Lund University · Sweden · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>AFMC Pune Recruitment 2026 | Research Scientist &amp; Lab Technician Jobs at MRU | Earn Up to Rs. 67,000 + HRA</title>
-    <link href="https://www.biotecnika.org/2026/11/afmc-pune-recruitment-2026-mru-research-jobs/"/>
-    <id>urn:jobwatch:b99f37164ad9</id>
-    <updated>2026-11-16T00:00:00Z</updated>
-    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline 2026-11-21 · score 44</summary>
   </entry>
   <entry>
     <title>Postdoctoral Associate: Cancer Bioinformatics, Biostatistics, and Multi-Omics at Baylor College of Medicine, USA</title>
@@ -1052,5 +1045,12 @@
     <id>urn:jobwatch:f87c8e6155f9</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
+  </entry>
+  <entry>
+    <title>PhD Position in Immunology: Tuberculosis Diagnostics and Vaccines at Karolinska Institutet, Sweden</title>
+    <link href="https://researchersjob.com/phd-position-in-immunology-tuberculosis-diagnostics/"/>
+    <id>urn:jobwatch:c2dedb40e7ef</id>
+    <updated>2026-11-04T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Sweden · Deadline 2026-11-24 · score 43</summary>
   </entry>
 </feed>
