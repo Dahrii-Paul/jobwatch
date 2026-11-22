@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-21T19:49:13Z</updated>
+  <updated>2026-11-22T10:19:14Z</updated>
+  <entry>
+    <title>Tenure-Track Faculty</title>
+    <link href="https://www.nature.com/naturecareers/job/12866894/tenure-track-faculty-/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:b7506cf0897d</id>
+    <updated>2026-11-22T00:00:00Z</updated>
+    <summary>[permanent] Nature Careers · Israel · Deadline 2027-02-16 · score 62</summary>
+  </entry>
   <entry>
     <title>Research Associate in Computational Single-Cell and Spatial Omics at UT Dallas, USA</title>
     <link href="https://researchersjob.com/research-associate-in-computational-single-cell/"/>
@@ -625,13 +632,6 @@
     <id>urn:jobwatch:abea40f87219</id>
     <updated>2026-11-12T00:00:00Z</updated>
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 40</summary>
-  </entry>
-  <entry>
-    <title>Postdoc Multilayer Networks in Neuro-oncology Micro to macro: integrating neurobiological data through multilayer network analysis. Are you curious? Continue reading!</title>
-    <link href="https://www.academictransfer.com/en/jobs/365476/postdoc-multilayer-networks-in-neuro-oncology/"/>
-    <id>urn:jobwatch:f79614b8dc10</id>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <summary>[postdoc] AcademicTransfer (Netherlands) · Netherlands · Deadline 2026-11-23 · score 84</summary>
   </entry>
   <entry>
     <title>Postdoctoral Research Associate in Environmental Engineering and Microbiology</title>
