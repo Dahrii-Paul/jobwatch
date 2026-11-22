@@ -2,7 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-22T10:19:14Z</updated>
+  <updated>2026-11-22T19:59:21Z</updated>
+  <entry>
+    <title>Postdoctoral Associate Opportunity at the Beck Lab, Jackson Laboratory, USA</title>
+    <link href="https://researchersjob.com/postdoctoral-associate-opportunity-at-the-beck-lab/"/>
+    <id>urn:jobwatch:b26a972359e0</id>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 40</summary>
+  </entry>
   <entry>
     <title>Tenure-Track Faculty</title>
     <link href="https://www.nature.com/naturecareers/job/12866894/tenure-track-faculty-/?LinkSource=PremiumListing"/>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:f87c8e6155f9</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
-  </entry>
-  <entry>
-    <title>PhD Position in Immunology: Tuberculosis Diagnostics and Vaccines at Karolinska Institutet, Sweden</title>
-    <link href="https://researchersjob.com/phd-position-in-immunology-tuberculosis-diagnostics/"/>
-    <id>urn:jobwatch:c2dedb40e7ef</id>
-    <updated>2026-11-04T00:00:00Z</updated>
-    <summary>[phd] Researchersjob.com · Sweden · Deadline 2026-11-24 · score 43</summary>
   </entry>
 </feed>

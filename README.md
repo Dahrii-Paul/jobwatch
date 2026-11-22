@@ -6,16 +6,16 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-22 15:49
+## Live stats · updated 2026-11-23 01:29
 
 | Metric | Count |
 |---|---|
 | 🎯 Open matches | **388** |
 | 🏛️ Permanent posts — India | **83** |
 | 🔬 Postdocs / fellowships — India | **18** |
-| ✈️ Postdocs / fellowships — abroad | **182** |
-| 🌍 Permanent / faculty — abroad | **43** |
-| ⏰ Closing within 14 days | **108** |
+| ✈️ Postdocs / fellowships — abroad | **183** |
+| 🌍 Permanent / faculty — abroad | **42** |
+| ⏰ Closing within 14 days | **110** |
 | 🆕 New this run | **1** |
 | 📡 Sources working | **165 / 209** |
 
@@ -23,21 +23,21 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Professional Research Positions / Department of Neurology University of California, San Fr](https://www.openpostdoc.org/position/787b6f9b-6f33-44db-b031-42f646cf2674) | permanent | United States | 2026-11-22 |
-| 🔴 **1d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
-| 🔴 **1d** | [One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]](https://euraxess.ec.europa.eu/jobs/480392) | postdoc | Europe | 2026-11-23 |
-| 🔴 **1d** | [Senior Postdoctoral Research Scientist - Climate Sensitive Infectious Diseases University ](https://www.openpostdoc.org/position/3b4740cb-04d3-41ae-b2df-9c372f5c615c) | postdoc | United Kingdom | 2026-11-23 |
-| 🔴 **1d** | [PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine lear](https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census) | phd | United Kingdom | 2026-11-23 |
-| 🔴 **1d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.jobs.ac.uk/job/DTP294/postdoctoral-research-associate-in-environmental-engineering-and-microbiology) | postdoc | United Kingdom | 2026-11-23 |
-| 🔴 **1d** | [Postdoctoral Position in Structure-Based Drug Design at Uppsala University, Sweden](https://researchersjob.com/postdoctoral-position-in-structure-based-drug-design/) | postdoc | Sweden | 2026-11-23 |
-| 🔴 **1d** | [Senior Postdoctoral Research Scientist - Spatial Modelling Outbreak Response University of](https://www.openpostdoc.org/position/888f6143-ce59-4fff-9b1b-d094402a0e99) | postdoc | United Kingdom | 2026-11-23 |
-| 🔴 **1d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-23 |
-| 🔴 **1d** | [Advertisement & Application Form (Hindi) ( 756.42 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545263_advertisementforthepostofassistantondeputationbasisinhindi.pdf) | permanent | India | 2026-11-23 |
-| 🔴 **1d** | [Last Date extended: Novemeber 23, 2026 ( 722.10 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794211246_corrigendumassistant.pdf) | permanent | India | 2026-11-23 |
-| 🔴 **2d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing) | postdoc | United Kingdom | 2026-11-24 |
-| 🔴 **2d** | [Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish Univer](https://www.openpostdoc.org/position/d743a2a1-22c7-4845-bc6b-6b78e4aacc99) | postdoc | Sweden | 2026-11-24 |
-| 🔴 **2d** | [PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany](https://researchersjob.com/phd-candidate-in-plant-virus-analysis/) | phd | Germany | 2026-11-24 |
-| 🔴 **2d** | [Postdoctoral Research Associate / Fellow](https://www.jobs.ac.uk/job/DTP245/postdoctoral-research-associate-fellow) | postdoc | United Kingdom | 2026-11-24 |
+| 🔴 **0d** | [Postdoctoral Research Associate in Quantitative Disease Genetics and Modelling in Aquacult](https://www.openpostdoc.org/position/35a0795b-a4cf-40bb-b934-04bd54126e59) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **0d** | [One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]](https://euraxess.ec.europa.eu/jobs/480392) | postdoc | Europe | 2026-11-23 |
+| 🔴 **0d** | [Senior Postdoctoral Research Scientist - Climate Sensitive Infectious Diseases University ](https://www.openpostdoc.org/position/3b4740cb-04d3-41ae-b2df-9c372f5c615c) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **0d** | [PhD Studentship: Understanding drug resistance in M. tuberculosis by applying machine lear](https://www.jobs.ac.uk/job/DTM108/phd-studentship-understanding-drug-resistance-in-m-tuberculosis-by-applying-machine-learning-to-a-national-genomic-census) | phd | United Kingdom | 2026-11-23 |
+| 🔴 **0d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.jobs.ac.uk/job/DTP294/postdoctoral-research-associate-in-environmental-engineering-and-microbiology) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **0d** | [Postdoctoral Position in Structure-Based Drug Design at Uppsala University, Sweden](https://researchersjob.com/postdoctoral-position-in-structure-based-drug-design/) | postdoc | Sweden | 2026-11-23 |
+| 🔴 **0d** | [Senior Postdoctoral Research Scientist - Spatial Modelling Outbreak Response University of](https://www.openpostdoc.org/position/888f6143-ce59-4fff-9b1b-d094402a0e99) | postdoc | United Kingdom | 2026-11-23 |
+| 🔴 **0d** | [Advertisement & Application Form (English) ( 668.61 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545256_advertisementforthepostofassistantondeputationbasisinenglish.pdf) | permanent | India | 2026-11-23 |
+| 🔴 **0d** | [Advertisement & Application Form (Hindi) ( 756.42 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791545263_advertisementforthepostofassistantondeputationbasisinhindi.pdf) | permanent | India | 2026-11-23 |
+| 🔴 **0d** | [Last Date extended: Novemeber 23, 2026 ( 722.10 KB) View](https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794211246_corrigendumassistant.pdf) | permanent | India | 2026-11-23 |
+| 🔴 **1d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing) | postdoc | United Kingdom | 2026-11-24 |
+| 🔴 **1d** | [Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish Univer](https://www.openpostdoc.org/position/d743a2a1-22c7-4845-bc6b-6b78e4aacc99) | postdoc | Sweden | 2026-11-24 |
+| 🔴 **1d** | [PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany](https://researchersjob.com/phd-candidate-in-plant-virus-analysis/) | phd | Germany | 2026-11-24 |
+| 🔴 **1d** | [Postdoctoral Research Associate / Fellow](https://www.jobs.ac.uk/job/DTP245/postdoctoral-research-associate-fellow) | postdoc | United Kingdom | 2026-11-24 |
+| 🔴 **1d** | [Postdoctoral Research Associate / Fellow University of Exeter · United Kingdom ·](https://www.openpostdoc.org/position/eae2489b-507f-43fe-872f-62589b7d0d97) | postdoc | United Kingdom | 2026-11-24 |
 <!-- STATS:END -->
 
 ---
