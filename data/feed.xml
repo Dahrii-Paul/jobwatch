@@ -2,7 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-22T19:59:21Z</updated>
+  <updated>2026-11-23T11:16:50Z</updated>
+  <entry>
+    <title>011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in</title>
+    <link href="https://recruitment.icmr.org.in/recruitadmin/uploads/advertisement/ICMRRecttSc-D022026-RPCell.pdf"/>
+    <id>urn:jobwatch:790d5d91f1ab</id>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-12-31 · score 44</summary>
+  </entry>
+  <entry>
+    <title>Click here to</title>
+    <link href="https://recruitment.icmr.org.in/scientist-d-nmnirbi-novts/index.php/logout"/>
+    <id>urn:jobwatch:cb08d00df2de</id>
+    <updated>2026-11-23T00:00:00Z</updated>
+    <summary>[permanent] ICMR online recruitment · India · Deadline 2026-12-31 · score 40</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Associate Opportunity at the Beck Lab, Jackson Laboratory, USA</title>
     <link href="https://researchersjob.com/postdoctoral-associate-opportunity-at-the-beck-lab/"/>
@@ -1038,19 +1052,5 @@
     <id>urn:jobwatch:e20a4251d3b8</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Belgium · Deadline: see advert · score 59</summary>
-  </entry>
-  <entry>
-    <title>Life Sciences Freshers Jobs at PSG Institute | Apply Online Now</title>
-    <link href="https://www.biotecnika.org/2026/11/psg-institute-recruitment-2026/"/>
-    <id>urn:jobwatch:74281cbd469b</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 47</summary>
-  </entry>
-  <entry>
-    <title>University of Delhi South Campus Postdoc Functional Cancer Genomics 2026 | Amit Dutt Lab Liquid Biopsy</title>
-    <link href="https://www.biotecnika.org/2026/11/amit-dutt-lab-postdoc-du-south-campus-2026/"/>
-    <id>urn:jobwatch:f87c8e6155f9</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline: see advert · score 44</summary>
   </entry>
 </feed>
