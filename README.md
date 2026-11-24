@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-24 18:27
+## Live stats · updated 2026-11-25 04:17
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **387** |
+| 🎯 Open matches | **386** |
 | 🏛️ Permanent posts — India | **82** |
 | 🔬 Postdocs / fellowships — India | **18** |
 | ✈️ Postdocs / fellowships — abroad | **184** |
 | 🌍 Permanent / faculty — abroad | **42** |
-| ⏰ Closing within 14 days | **105** |
-| 🆕 New this run | **3** |
-| 📡 Sources working | **161 / 209** |
+| ⏰ Closing within 14 days | **101** |
+| 🆕 New this run | **6** |
+| 📡 Sources working | **166 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Postdoctoral Research Associate in Environmental Engineering and Microbiology](https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing) | postdoc | United Kingdom | 2026-11-24 |
-| 🔴 **0d** | [Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish Univer](https://www.openpostdoc.org/position/d743a2a1-22c7-4845-bc6b-6b78e4aacc99) | postdoc | Sweden | 2026-11-24 |
-| 🔴 **0d** | [PhD Candidate in Plant Virus Analysis Using RNA-seq – Geisenheim University, Germany](https://researchersjob.com/phd-candidate-in-plant-virus-analysis/) | phd | Germany | 2026-11-24 |
-| 🔴 **0d** | [Postdoctoral Research Associate / Fellow](https://www.jobs.ac.uk/job/DTP245/postdoctoral-research-associate-fellow) | postdoc | United Kingdom | 2026-11-24 |
-| 🔴 **0d** | [Postdoctoral Research Associate / Fellow University of Exeter · United Kingdom ·](https://www.openpostdoc.org/position/eae2489b-507f-43fe-872f-62589b7d0d97) | postdoc | United Kingdom | 2026-11-24 |
-| 🔴 **0d** | [Applications are invited for AI Medical Imaging Engineer under Department of Biomedical En](https://zoombio.org/jobs/applications-are-invited-for-ai-medical-imaging-engineer-under-department-of-biomedical-l6tumq4) | permanent | India | 2026-11-24 |
-| 🔴 **0d** | [PhD Position in Immunology: Tuberculosis Diagnostics and Vaccines at Karolinska Institutet](https://researchersjob.com/phd-position-in-immunology-tuberculosis-diagnostics/) | phd | Sweden | 2026-11-24 |
-| 🔴 **1d** | [Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United Stat](https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5) | postdoc | United States | 2026-11-25 |
-| 🔴 **1d** | [Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics ](https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b) | project | International | 2026-11-25 |
-| 🔴 **1d** | [Postdoctoral Fellow - Jennifer Yu Lab Cleveland Clinic Lerner Research Institute · United ](https://www.openpostdoc.org/position/0c0e0980-8c0e-405b-914f-c3aaeb75d941) | postdoc | United States | 2026-11-25 |
-| 🔴 **1d** | [Postdoctoral Researcher in DNA Nanostructures for Cell Targeting – Karolinska Institutet, ](https://researchersjob.com/postdoctoral-researcher-in-dna-nanostructures/) | postdoc | Sweden | 2026-11-25 |
-| 🔴 **2d** | [AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov](https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/) | project | India | 2026-11-26 |
-| 🔴 **2d** | [Postdoctoral Research Scientist – University of Oxford, UK](https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/) | postdoc | United Kingdom | 2026-11-26 |
-| 🔴 **2d** | [Click here to](https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **2d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United Stat](https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5) | postdoc | United States | 2026-11-25 |
+| 🔴 **0d** | [Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics ](https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b) | project | International | 2026-11-25 |
+| 🔴 **0d** | [Postdoctoral Fellow - Jennifer Yu Lab Cleveland Clinic Lerner Research Institute · United ](https://www.openpostdoc.org/position/0c0e0980-8c0e-405b-914f-c3aaeb75d941) | postdoc | United States | 2026-11-25 |
+| 🔴 **0d** | [Postdoctoral Researcher in DNA Nanostructures for Cell Targeting – Karolinska Institutet, ](https://researchersjob.com/postdoctoral-researcher-in-dna-nanostructures/) | postdoc | Sweden | 2026-11-25 |
+| 🔴 **1d** | [AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov](https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/) | project | India | 2026-11-26 |
+| 🔴 **1d** | [Postdoctoral Research Scientist – University of Oxford, UK](https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/) | postdoc | United Kingdom | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **2d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United](https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c) | postdoc | United Kingdom | 2026-11-27 |
+| 🔴 **2d** | [Senior Postdoctoral Researcher in Parkinson’s Disease Biomarkers and α-Synuclein Seeding U](https://www.openpostdoc.org/position/745f6a34-36cf-49f0-a1ef-2e8810ada1e6) | postdoc | International | 2026-11-27 |
+| 🔴 **2d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford](https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465) | postdoc | International | 2026-11-27 |
 <!-- STATS:END -->
 
 ---

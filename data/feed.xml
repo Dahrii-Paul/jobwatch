@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-24T12:57:13Z</updated>
+  <updated>2026-11-24T22:47:08Z</updated>
+  <entry>
+    <title>Postdoctoral Fellow in Microbial Evolution Stockholm University</title>
+    <link href="https://www.scilifelab.se/career/postdoctoral-fellow-in-microbial-evolution/"/>
+    <id>urn:jobwatch:111638849379</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-12-21 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Doctoral Researcher in Molecular Biology of Transcription at University of Helsinki, Finland</title>
+    <link href="https://researchersjob.com/doctoral-researcher-in-molecular-biology-2/"/>
+    <id>urn:jobwatch:4944130eb4b4</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[junior] Researchersjob.com · Finland · Deadline 2026-12-27 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Position in Adipose Stem Cell Biology – University of Southern Denmark</title>
+    <link href="https://researchersjob.com/postdoctoral-position-in-adipose-stem-cell-biology/"/>
+    <id>urn:jobwatch:a78c656fadab</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Denmark · Deadline 2027-01-04 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Scholar in Molecular, Cell, and Developmental Biology at UC Santa Cruz, USA</title>
+    <link href="https://researchersjob.com/postdoctoral-scholar-in-molecular-cell-and-developmental-biology/"/>
+    <id>urn:jobwatch:80b1bd8e1106</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United States · Deadline 2027-11-19 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program</title>
+    <link href="https://ki.varbi.com/en/what:job/jobID:988467/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:4a57842cabec</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 63</summary>
+  </entry>
+  <entry>
+    <title>Lecture by Prof. Umesh Varshney, Honorary Professor Department of Microbiology and Cell Biology Indian Institute of Science, Bangalore</title>
+    <link href="https://www.ccmb.res.in/event-details/?cad=MTExMA=="/>
+    <id>urn:jobwatch:d6168b4a89f7</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[permanent] CSIR-CCMB Hyderabad · India · Deadline: see advert · score 50</summary>
+  </entry>
   <entry>
     <title>Post-Doctoral Research Fellowships - (BL181/2026-IST-ID)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/482351"/>
@@ -29,7 +71,7 @@
     <link href="https://www.openpostdoc.org/position/ce20bd5d-491a-40d0-9f52-b43344471859"/>
     <id>urn:jobwatch:0e85b0866cb2</id>
     <updated>2026-11-24T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-01-04 · score 73</summary>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2027-01-04 · score 73</summary>
   </entry>
   <entry>
     <title>POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair</title>
@@ -536,13 +578,6 @@
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Research Associate / Fellow University of Exeter · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/eae2489b-507f-43fe-872f-62589b7d0d97"/>
-    <id>urn:jobwatch:9aef9c2767a9</id>
-    <updated>2026-11-13T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-24 · score 50</summary>
-  </entry>
-  <entry>
     <title>PhD Position in Fungal Cell Biology Are you fascinated by cellular biology? Would you like to study how thousands of nuclei coexist and function within a single cell? Do you enjoy combining microscopy, experimental biology, and quantitative analysis to answer </title>
     <link href="https://www.academictransfer.com/en/jobs/365569/1-phd-position-in-fungal-cell-biology/"/>
     <id>urn:jobwatch:16dbc51cc4ed</id>
@@ -697,13 +732,6 @@
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
-    <title>Postdoctoral Research Associate in Environmental Engineering and Microbiology</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:94e942ed08dd</id>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · United Kingdom · Deadline 2026-11-24 · score 68</summary>
-  </entry>
-  <entry>
     <title>Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Karolinska Institutet</title>
     <link href="https://www.scilifelab.se/career/postdoctoral-researcher-in-ai-modeling-of-cellular-dynamics-alpha-cell-program-2/"/>
     <id>urn:jobwatch:83e09d5c4683</id>
@@ -730,20 +758,6 @@
     <id>urn:jobwatch:a8d465137a7e</id>
     <updated>2026-11-11T00:00:00Z</updated>
     <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2027-06-30 · score 50</summary>
-  </entry>
-  <entry>
-    <title>Researcher in plant breeding, genomics, and sensory and nutritional quality Swedish University of Agricultural Sciences (SLU) · Sweden ·</title>
-    <link href="https://www.openpostdoc.org/position/d743a2a1-22c7-4845-bc6b-6b78e4aacc99"/>
-    <id>urn:jobwatch:54bf18605d26</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · Sweden · Deadline 2026-11-24 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Associate / Fellow</title>
-    <link href="https://www.jobs.ac.uk/job/DTP245/postdoctoral-research-associate-fellow"/>
-    <id>urn:jobwatch:381fcd2f2c88</id>
-    <updated>2026-11-10T00:00:00Z</updated>
-    <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-24 · score 50</summary>
   </entry>
   <entry>
     <title>Researcher in cellular and molecular biology and cryo-electron microscopy (M/F)</title>
@@ -900,13 +914,6 @@
     <summary>[postdoc] Researchersjob.com · France · Deadline: see advert · score 55</summary>
   </entry>
   <entry>
-    <title>Applications are invited for AI Medical Imaging Engineer under Department of Biomedical Engineering, IIT Hyderabad.</title>
-    <link href="https://zoombio.org/jobs/applications-are-invited-for-ai-medical-imaging-engineer-under-department-of-biomedical-l6tumq4"/>
-    <id>urn:jobwatch:c79193b44a18</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[permanent] Zoombio — bioinformatics jobs India · India · Deadline 2026-11-24 · score 45</summary>
-  </entry>
-  <entry>
     <title>Research Fellow - Bioinformatics and Data Sciences</title>
     <link href="https://www.jobs.ac.uk/job/DTN904/research-fellow-bioinformatics-and-data-sciences"/>
     <id>urn:jobwatch:2c5204c261d6</id>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:35a0828ca152</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-12-02 · score 69</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral researcher on the project "The role of kynurenine metabolism in immune-mediated neurodevelopmental pathology after cytomegalovirus infection" at the Centre for Proteomics</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/478036"/>
-    <id>urn:jobwatch:70f22f35cb86</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-04 · score 77</summary>
   </entry>
 </feed>
