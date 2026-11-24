@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-23T11:16:50Z</updated>
+  <updated>2026-11-24T00:26:31Z</updated>
+  <entry>
+    <title>Post-Doctoral Research Fellowships - (BL181/2026-IST-ID)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/482351"/>
+    <id>urn:jobwatch:40edfb6cdcc1</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-30 · score 58</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in Molecular Biology at CRG, Barcelona, Spain</title>
+    <link href="https://researchersjob.com/postdoctoral-researcher-in-molecular-biology-at-crg/"/>
+    <id>urn:jobwatch:b84ff3960916</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · Spain · Deadline 2026-12-03 · score 50</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher Positions in Coastal Marine Science</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417288/postdoctoral-researcher-positions-in-coastal-marine-science/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:2e848b15fbd9</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Finland · Deadline 2026-12-07 · score 88</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Researcher in in Membrane Spatial Biology</title>
+    <link href="https://ki.varbi.com/en/what:job/jobID:988217/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:c4a24f6b67b4</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 55</summary>
+  </entry>
   <entry>
     <title>011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in</title>
     <link href="https://recruitment.icmr.org.in/recruitadmin/uploads/advertisement/ICMRRecttSc-D022026-RPCell.pdf"/>
@@ -452,13 +480,6 @@
     <summary>[junior] Karolinska Institutet · Sweden · Deadline: see advert · score 49</summary>
   </entry>
   <entry>
-    <title>One (1) Postdoctoral Researcher Position [Ref # ORZ-0946]</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/480392"/>
-    <id>urn:jobwatch:c82a785ad00f</id>
-    <updated>2026-11-14T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-23 · score 77</summary>
-  </entry>
-  <entry>
     <title>Senior Computational Biologist - AI &amp; Rare Disease Digital Twins</title>
     <link href="https://www.jobs.ac.uk/job/DTQ538/senior-computational-biologist-ai-and-rare-disease-digital-twins"/>
     <id>urn:jobwatch:69e18aed6b25</id>
@@ -656,13 +677,6 @@
   </entry>
   <entry>
     <title>Postdoctoral Research Associate in Environmental Engineering and Microbiology</title>
-    <link href="https://www.jobs.ac.uk/job/DTP294/postdoctoral-research-associate-in-environmental-engineering-and-microbiology"/>
-    <id>urn:jobwatch:59b7ca701c85</id>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <summary>[postdoc] jobs.ac.uk (UK) · United Kingdom · Deadline 2026-11-23 · score 64</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Associate in Environmental Engineering and Microbiology</title>
     <link href="https://www.timeshighereducation.com/unijobs/listing/417493/postdoctoral-research-associate-in-environmental-engineering-and-microbiology/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:94e942ed08dd</id>
     <updated>2026-11-11T00:00:00Z</updated>
@@ -730,13 +744,6 @@
     <id>urn:jobwatch:db849834882b</id>
     <updated>2026-11-10T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · Canada · Deadline 2026-12-15 · score 84</summary>
-  </entry>
-  <entry>
-    <title>Last Date extended: Novemeber 23, 2026 ( 722.10 KB) View</title>
-    <link href="https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794211246_corrigendumassistant.pdf"/>
-    <id>urn:jobwatch:5ac20c0f4f7d</id>
-    <updated>2026-11-09T00:00:00Z</updated>
-    <summary>[permanent] ICMR employment opportunities (all institutes) · India · Deadline 2026-11-23 · score 40</summary>
   </entry>
   <entry>
     <title>Research Fellow in Genetic Epidemiology</title>
@@ -1045,12 +1052,5 @@
     <id>urn:jobwatch:639127dee02e</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline: see advert · score 74</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Position in the Computational Neurobiology Lab – VIB-UAntwerp, Belgium</title>
-    <link href="https://researchersjob.com/postdoctoral-position-in-the-computational-neurobiology/"/>
-    <id>urn:jobwatch:e20a4251d3b8</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Belgium · Deadline: see advert · score 59</summary>
   </entry>
 </feed>
