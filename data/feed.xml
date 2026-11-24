@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-24T00:26:31Z</updated>
+  <updated>2026-11-24T12:57:13Z</updated>
   <entry>
     <title>Post-Doctoral Research Fellowships - (BL181/2026-IST-ID)</title>
     <link href="https://euraxess.ec.europa.eu/jobs/482351"/>
@@ -23,6 +23,27 @@
     <id>urn:jobwatch:2e848b15fbd9</id>
     <updated>2026-11-24T00:00:00Z</updated>
     <summary>[postdoc] Times Higher Education Jobs · Finland · Deadline 2026-12-07 · score 88</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Research Associate University of Oxford · Oxford ·</title>
+    <link href="https://www.openpostdoc.org/position/ce20bd5d-491a-40d0-9f52-b43344471859"/>
+    <id>urn:jobwatch:0e85b0866cb2</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-01-04 · score 73</summary>
+  </entry>
+  <entry>
+    <title>POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417951/postdoc-position-in-bioinformatics-with-a-focus-on-tooth-regeneration-and-repair/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:5c7f7e2a5bd0</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Czech Republic · Deadline 2027-01-31 · score 100</summary>
+  </entry>
+  <entry>
+    <title>POSTDOC POSITION in CNS Barrier Biology</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/417949/postdoc-position-in-cns-barrier-biology/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:49a1497000f2</id>
+    <updated>2026-11-24T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Czech Republic · Deadline 2027-01-31 · score 73</summary>
   </entry>
   <entry>
     <title>Postdoctoral Researcher in in Membrane Spatial Biology</title>
@@ -1031,26 +1052,5 @@
     <id>urn:jobwatch:70f22f35cb86</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-04 · score 77</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Scholar - Research Associate - Cancer Genomics and Therapeutics University of Southern California · Los Angeles, CA ·</title>
-    <link href="https://www.openpostdoc.org/position/4423cd89-160c-47fb-b0f7-d992863f1e6f"/>
-    <id>urn:jobwatch:12b97adbcb8b</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2027-02-28 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Researcher in AI Scientist &amp; Computational Cancer Biology at University of Oxford, UK</title>
-    <link href="https://researchersjob.com/postdoctoral-researcher-in-ai-scientist-computational-cancer-biology/"/>
-    <id>urn:jobwatch:0f589c398865</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · United Kingdom · Deadline 2030-09-30 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Associate - Infectious Diseases (JR96806-1) Washington University in St. Louis · St. Louis, MO · rolling</title>
-    <link href="https://www.openpostdoc.org/position/15e78bef-709e-494e-be60-a81d5bc33f53"/>
-    <id>urn:jobwatch:639127dee02e</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline: see advert · score 74</summary>
   </entry>
 </feed>

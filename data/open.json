@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-24T05:56+05:30",
+  "updated": "2026-11-24T18:27+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 3205,
-   "open_matches": 384,
+   "total_indexed": 3221,
+   "open_matches": 387,
    "urgent": 105,
-   "new_this_run": 4,
+   "new_this_run": 3,
    "saved": 0,
    "permanent_india": 82,
    "postdoc_india": 18,
-   "postdoc_abroad": 181,
+   "postdoc_abroad": 184,
    "permanent_abroad": 42,
-   "sources_ok": 165,
+   "sources_ok": 161,
    "sources_total": 209
   }
  },
@@ -1452,7 +1452,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ba1907625b83",
@@ -2261,7 +2261,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "aa2238434960",
@@ -2774,7 +2774,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ef04b6c58cd0",
@@ -4151,6 +4151,34 @@
    "new": false
   },
   {
+   "id": "0e85b0866cb2",
+   "title": "Postdoctoral Research Associate University of Oxford · Oxford ·",
+   "url": "https://www.openpostdoc.org/position/ce20bd5d-491a-40d0-9f52-b43344471859",
+   "context": "Postdoctoral Research Associate University of Oxford · Oxford · closes 2027-01-04",
+   "source_id": "openpostdoc",
+   "source_name": "OpenPostdoc — bioinformatics",
+   "published": null,
+   "deadline": "2027-01-04",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 73,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 73,
+   "details": "← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position About the role. We are seeking enthusiastic and highly motivated Postdoctoral Research Associates to joi … ← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. … About you The successful applicant will hold a relevant PhD or DPhil, together with relevant research experience in the plant molecular biology, genetics, and genomics.",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "778c9d6ace79",
    "title": "University Lecturer in Integrative Physiology",
    "url": "https://euraxess.ec.europa.eu/jobs/481770",
@@ -4617,6 +4645,35 @@
    "new": false
   },
   {
+   "id": "5c7f7e2a5bd0",
+   "title": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417951/postdoc-position-in-bioinformatics-with-a-focus-on-tooth-regeneration-and-repair/?LinkSource=PremiumListing",
+   "context": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Brno, Czech Republic MASARYK UNIVERSITY We are looking for a bioinformatician or a biologist with strong experience in bioinformatic analysis of single-cell RNA-sequencing ... View details POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2027-01-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Czech Republic",
+   "kw_score": 100,
+   "matched": [
+    "bioinformatic",
+    "rna-seq",
+    "single-cell"
+   ],
+   "check_advt": false,
+   "score": 100,
+   "details": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to sav … POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Science and research Medical Faculty of Masaryk University, Brno, Czech Republic invites excellent scientists to apply for a two-year POSTDOC POSITION in Bioinformatics with a Focus on T",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "2cd8d620ca34",
    "title": "Postdoctoral Fellow in Computational Oncology and Multi-Omics Research",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417794/postdoctoral-fellow-in-computational-oncology-and-multi-omics-research/?LinkSource=PremiumListing",
@@ -4642,6 +4699,34 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "49a1497000f2",
+   "title": "POSTDOC POSITION in CNS Barrier Biology",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417949/postdoc-position-in-cns-barrier-biology/?LinkSource=PremiumListing",
+   "context": "POSTDOC POSITION in CNS Barrier Biology Brno, Czech Republic MASARYK UNIVERSITY We are seeking a highly motivated and experimentally skilled postdoctoral researcher to join our team investigating ... View details POSTDOC POSITION in CNS Barrier Biology",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2027-01-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Czech Republic",
+   "kw_score": 73,
+   "matched": [
+    "proteomics",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 73,
+   "details": "POSTDOC POSITION in CNS Barrier Biology Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send job Job Details Company Job … The projects integrate transcriptomics (RNA sequencing), proteomics, and experimental disease models to identify molecular alterations and pathways associated with neuroinflammation, neurodegeneration, and neuropathic pain. … A central responsibility of the successful candidate will be to translate omics findings into experimentally testable hypotheses and independently design and perform validation experiments . … The candidate will use a combination of molecular, biochemical, imaging, and cell-based approaches to validate and further characterize findings from ongoing transcriptomic and proteomic studies. … Experience in experimental val",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "e21e73c917d9",
@@ -5356,7 +5441,7 @@
    "details": "← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salar … ← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
    "new": false
@@ -7762,7 +7847,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "542d3e8823c6",

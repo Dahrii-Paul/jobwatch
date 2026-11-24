@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-24T05:56+05:30",
+  "updated": "2026-11-24T18:27+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,16 +10,16 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 3205,
-   "open_matches": 384,
+   "total_indexed": 3221,
+   "open_matches": 387,
    "urgent": 105,
-   "new_this_run": 4,
+   "new_this_run": 3,
    "saved": 0,
    "permanent_india": 82,
    "postdoc_india": 18,
-   "postdoc_abroad": 181,
+   "postdoc_abroad": 184,
    "permanent_abroad": 42,
-   "sources_ok": 165,
+   "sources_ok": 161,
    "sources_total": 209
   }
  },
@@ -1773,7 +1773,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0e81a8a0fac9",
@@ -3010,7 +3010,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ba1907625b83",
@@ -3463,6 +3463,31 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
+   "new": false
+  },
+  {
+   "id": "46e0390e410c",
+   "title": "Notice No. 26/2026 - Notice of Call for Applications for 1 (one) Postdoctoral Research Fellowship (BIPD) in the scientific field of Marine Sciences - OKEANOS",
+   "url": "https://euraxess.ec.europa.eu/jobs/482586",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-11-30",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 35,
+   "matched": [],
+   "check_advt": false,
+   "score": 35,
+   "details": "24 Nov 2026 Job Information Organisation/Company Universidade dos Açores Department Institute of Marine Sciences – OKEANOS Research Field Other Researcher Profile Established Researcher (R3) Positions Postdoc Positions Application Deadline 30 Nov 2026 - 23:59 (Atlantic/Azores) Country Portugal Type of Contract Temporary Job Status Full-time Hours Per Week 35 Offer Starting Date 11 Nov 2026 Is the job funded through the EU Research Framework Progr … Minutes of the evaluation panel meetings will be produced, for which all its members are responsible.",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
    "new": true
   },
   {
@@ -3680,7 +3705,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a17c258f9743",
@@ -5582,7 +5607,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1fc39ed74631",
@@ -5717,7 +5742,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "aa2238434960",
@@ -5846,7 +5871,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c8e6c58ebb41",
@@ -6451,6 +6476,31 @@
    "new": false
   },
   {
+   "id": "94c57519722b",
+   "title": "Jr. Research Software Engineer",
+   "url": "https://euraxess.ec.europa.eu/jobs/482595",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-04",
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "24 Nov 2026 Job Information Organisation/Company IIASA Department Human Resources Research Field Computer science » Programming Researcher Profile First Stage Researcher (R1) Positions Master Positions Application Deadline 4 Dec 2026 - 23:59 (Europe/Vienna) Country Austria Type of Contract Permanent Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Jan 2027 Is the job funded through the EU Research Framework Programme? Other EU program … 04 December 2026 Where to apply Website https://iiasa.ac.at/employment/job-openings?jh=2bqutrzyt2bzkx1q8gmq69yaljlfe6l Requirements Research Field Computer science » Programming Education Level Master Degree or equivalent Languages ENGLISH Level Excellent Additional Information Work Location(s) Number of offers available 1 Company/Institute International Institute for Applied Systems Analysis Country Austria Geofield Contact State/Province Laxenburg City A-2361 Laxenburg, near Vienna Website http://www.iiasa.ac.at Street Schlossplatz 1 Postal Code 2361 E-Mail recruitment@iiasa.ac.at STATUS:",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "463fb2164635",
    "title": "Postdoctoral Research Associate in Theoretical Physics at Queen Mary University of London, UK",
    "url": "https://researchersjob.com/postdoctoral-research-associate-in-theoretical-physics/",
@@ -6499,6 +6549,31 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "bc97e1db5afd",
+   "title": "Researcher - Waste, Wastewater and Circular Economy",
+   "url": "https://euraxess.ec.europa.eu/jobs/482593",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-04",
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "details": "24 Nov 2026 Job Information Organisation/Company IIASA Department Human Resources Research Field Environmental science » Water science Researcher Profile First Stage Researcher (R1) Positions Master Positions Application Deadline 4 Dec 2026 - 23:59 (Europe/Vienna) Country Austria Type of Contract Permanent Job Status Full-time Hours Per Week 40 Offer Starting Date 1 Jan 2027 Is the job funded through the EU Research Framework Programme? Other EU  … SKILLS, QUALIFICATIONS & EXPERIENCE Education and Background A master’s degree in environmental science, environmental engineering, circular economy, economics, data science, or a related field Essential skills and competencies: … 04 December 2026 Where to apply Website https://iiasa.ac.at/employment/job-openings?jh=b0r4mqlepd7ge94azl6j0etylf2yxmp Requirements Research Field Environmental science » Water science Education Level Master Degree or equivalent Languages ENGLISH Level Excellent Research Field Environmental science » Water science Additional Information Work Location(s) Number of offers available 1 Company/Institute International",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "6d9dbc93076a",
@@ -7043,7 +7118,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ef04b6c58cd0",
@@ -7249,7 +7324,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "36f3ab8a0214",
@@ -7299,7 +7374,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f0b2c5c1fe01",
@@ -7324,7 +7399,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1a843b11dab4",
@@ -7374,7 +7449,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c9506c6691ef",
@@ -7539,7 +7614,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "aa8f8c96b790",
@@ -7691,7 +7766,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "3bf846bb1945",
@@ -8003,6 +8078,31 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
+   "new": false
+  },
+  {
+   "id": "14d1d2abfa00",
+   "title": "Call for a public offer for the recruitment of Researching staff linked to Universitat Politècnica de València (UPV)",
+   "url": "https://euraxess.ec.europa.eu/jobs/482591",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-09",
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "24 Nov 2026 Job Information Organisation/Company Universitat Politècnica de València Department HR Research Field Arts » Fine arts Arts » Other Researcher Profile First Stage Researcher (R1) Positions Bachelor Positions Application Deadline 9 Dec 2026 - 23:59 (Europe/Madrid) Country Spain Type of Contract Permanent Job Status Part-time Hours Per Week 25 Is the job funded through the EU Research Framework Programme? Not funded by a EU programme Is",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
    "new": true
   },
   {
@@ -8269,6 +8369,31 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "154cb485740f",
+   "title": "Research Fellowship (BI) (Reference ICETA 2026-02)",
+   "url": "https://euraxess.ec.europa.eu/jobs/482590",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-10",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 35,
+   "matched": [],
+   "check_advt": false,
+   "score": 35,
+   "details": "24 Nov 2026 Job Information Organisation/Company ICETA - Instituto de Ciências, Tecnologias e Agroambiente da Universidade do Porto Research Field Chemistry » Other Researcher Profile First Stage Researcher (R1) Positions Bachelor Positions Application Deadline 10 Dec 2026 - 23:59 (Europe/Lisbon) Country Portugal Type of Contract Temporary Job Status Full-time Is the job funded through the EU Research Framework Programme? Not funded by a EU progr",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
   },
   {
    "id": "072353775c3c",
@@ -8684,7 +8809,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "0aa23b1d6c7f",
@@ -11100,6 +11225,31 @@
    "new": false
   },
   {
+   "id": "791c3cb3cdc4",
+   "title": "Tenure Track Assistant Professor in Digitalization",
+   "url": "https://euraxess.ec.europa.eu/jobs/482596",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2026-12-31",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 20,
+   "matched": [],
+   "check_advt": false,
+   "score": 20,
+   "details": "24 Nov 2026 Job Information Organisation/Company Copenhagen Business School Department Department of Digitalization Research Field Computer science Economics Researcher Profile Recognised Researcher (R2) Positions PhD Positions Application Deadline 31 Dec 2026 - 23:59 (Europe/Copenhagen) Country Denmark Type of Contract Temporary Job Status Full-time Hours Per Week 37 Is the job funded through the EU Research Framework Programme? Not funded by a  … 24 Nov 2026 Job Information Organisation/Company Copenhagen Business School Department Department of Digitalization Research Field Computer science Economics Researcher Profile Recognised Researcher (R2) Positions PhD Positions Application Deadline 31 Dec 2026 - 23:59 (Europe/Copenhagen) Country Denmark Type of Contract Temporary Job Status Full-time Hours Per Week 37 Is the job funded through the EU Research Framework Programme? Not funded by a EU programme Is the Job related to staff position within a Research Infrastructure? No Offer Description Department of Geosciences and Natural Resource Management, Faculty of SCIENCE, University of",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "74d518bcaad6",
    "title": "Physical Science and Engineering Division (faculty)",
    "url": "https://www.kaust.edu.sa/en/about/faculty-positions?t=Physical Science and Engineering Division (faculty)",
@@ -11631,6 +11781,34 @@
    "status": "open",
    "match": false,
    "new": false
+  },
+  {
+   "id": "0e85b0866cb2",
+   "title": "Postdoctoral Research Associate University of Oxford · Oxford ·",
+   "url": "https://www.openpostdoc.org/position/ce20bd5d-491a-40d0-9f52-b43344471859",
+   "context": "Postdoctoral Research Associate University of Oxford · Oxford · closes 2027-01-04",
+   "source_id": "openpostdoc",
+   "source_name": "OpenPostdoc — bioinformatics",
+   "published": null,
+   "deadline": "2027-01-04",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 73,
+   "matched": [
+    "bioinformatic",
+    "genomics"
+   ],
+   "check_advt": false,
+   "score": 73,
+   "details": "← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position About the role. We are seeking enthusiastic and highly motivated Postdoctoral Research Associates to joi … ← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. … About you The successful applicant will hold a relevant PhD or DPhil, together with relevant research experience in the plant molecular biology, genetics, and genomics.",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "ccdd22b5ef27",
@@ -12382,6 +12560,31 @@
    "new": false
   },
   {
+   "id": "977d6dd3d449",
+   "title": "International competition for the recruitment of two positions of Assistant Professor (Professor Adjunto) in the field of field of Management Information Systems",
+   "url": "https://euraxess.ec.europa.eu/jobs/482588",
+   "context": "",
+   "source_id": "euraxess",
+   "source_name": "EURAXESS (EU-wide)",
+   "published": null,
+   "deadline": "2027-01-11",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Europe",
+   "kw_score": 35,
+   "matched": [],
+   "check_advt": false,
+   "score": 35,
+   "details": "24 Nov 2026 Job Information Organisation/Company Universidade Politécnica de Coimbra Department DGRH Research Field Other Researcher Profile Other Profession Positions PhD Positions Application Deadline 11 Jan 2027 - 23:59 (Europe/Lisbon) Country Portugal Type of Contract Permanent Job Status Full-time Hours Per Week 35 Offer Starting Date 1 Apr 2027 Is the job funded through the EU Research Framework Programme? Not funded by a EU programme Refer … 7– Public hearings: … 7.1 – Should the selection board deem it necessary to hold public hearings concerning the candidates’ curriculum vitae, such hearings shall be scheduled at the board’s first meeting. … The dates of the public hearings shall be published on the institutional website of the Polytechnic University of Coimbra, and candidates shall be duly notified, pursuant to Article 9 of the RCCP.",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
    "id": "ffe5e1233e6f",
    "title": "Postdoctoral Researcher in molecular neuroanatomy (PA2026/3070)",
    "url": "https://lu.varbi.com/en/what:job/jobID:983027/type:job/where:4/apply:1",
@@ -13009,6 +13212,35 @@
    "new": false
   },
   {
+   "id": "5c7f7e2a5bd0",
+   "title": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417951/postdoc-position-in-bioinformatics-with-a-focus-on-tooth-regeneration-and-repair/?LinkSource=PremiumListing",
+   "context": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Brno, Czech Republic MASARYK UNIVERSITY We are looking for a bioinformatician or a biologist with strong experience in bioinformatic analysis of single-cell RNA-sequencing ... View details POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2027-01-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Czech Republic",
+   "kw_score": 100,
+   "matched": [
+    "bioinformatic",
+    "rna-seq",
+    "single-cell"
+   ],
+   "check_advt": false,
+   "score": 100,
+   "details": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to sav … POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Science and research Medical Faculty of Masaryk University, Brno, Czech Republic invites excellent scientists to apply for a two-year POSTDOC POSITION in Bioinformatics with a Focus on T",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "2cd8d620ca34",
    "title": "Postdoctoral Fellow in Computational Oncology and Multi-Omics Research",
    "url": "https://www.timeshighereducation.com/unijobs/listing/417794/postdoctoral-fellow-in-computational-oncology-and-multi-omics-research/?LinkSource=PremiumListing",
@@ -13034,6 +13266,34 @@
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "49a1497000f2",
+   "title": "POSTDOC POSITION in CNS Barrier Biology",
+   "url": "https://www.timeshighereducation.com/unijobs/listing/417949/postdoc-position-in-cns-barrier-biology/?LinkSource=PremiumListing",
+   "context": "POSTDOC POSITION in CNS Barrier Biology Brno, Czech Republic MASARYK UNIVERSITY We are seeking a highly motivated and experimentally skilled postdoctoral researcher to join our team investigating ... View details POSTDOC POSITION in CNS Barrier Biology",
+   "source_id": "thejobs",
+   "source_name": "Times Higher Education Jobs",
+   "published": null,
+   "deadline": "2027-01-31",
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Czech Republic",
+   "kw_score": 73,
+   "matched": [
+    "proteomics",
+    "transcriptomic"
+   ],
+   "check_advt": false,
+   "score": 73,
+   "details": "POSTDOC POSITION in CNS Barrier Biology Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send job Job Details Company Job … The projects integrate transcriptomics (RNA sequencing), proteomics, and experimental disease models to identify molecular alterations and pathways associated with neuroinflammation, neurodegeneration, and neuropathic pain. … A central responsibility of the successful candidate will be to translate omics findings into experimentally testable hypotheses and independently design and perform validation experiments . … The candidate will use a combination of molecular, biochemical, imaging, and cell-based approaches to validate and further characterize findings from ongoing transcriptomic and proteomic studies. … Experience in experimental val",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "e21e73c917d9",
@@ -13171,7 +13431,7 @@
    "id": "46834fcc2fb4",
    "title": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027)",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/EMBL-CPP-Visitor-fellowships-for-PhDs-and-Postdocs--closing-31012027-_JR4706",
-   "context": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027) posted on Posted 22 Days Ago JR4706",
+   "context": "EMBL CPP Visitor fellowships for PhDs and Postdocs (closing 31.01.2027) posted on Posted 23 Days Ago JR4706",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -13365,7 +13625,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c95dd37ab7ab",
@@ -13862,7 +14122,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "14b88bd1437b",
@@ -14820,7 +15080,7 @@
    "details": "← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salar … ← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
    "new": false
@@ -16009,7 +16269,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "e2f7cf667edb",
@@ -18242,7 +18502,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "542d3e8823c6",
@@ -22039,7 +22299,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "f705eef56026",
@@ -22503,7 +22763,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "33d9e53a6a34",
@@ -23049,7 +23309,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "eac3b49da7c9",
@@ -23076,7 +23336,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "6cfcb46241b0",
@@ -32533,31 +32793,6 @@
    "new": false
   },
   {
-   "id": "d2a64124501d",
-   "title": "Jobs/ Recruitments",
-   "url": "https://www.niper.gov.in/jobs",
-   "context": "PROJECT VACANCY: Walk-in-Interview on 16-09-2026 for temporary positions of \"Research Associate (RA) (01-Post) and Junior Research Fellow (JRF) (01-Post) under Project No. GP-494\" (Advt. No. 26/2026; Dated: 01-09-2026)",
-   "source_id": "niper",
-   "source_name": "NIPER Mohali",
-   "published": null,
-   "deadline": null,
-   "category": "postdoc",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 10,
-   "matched": [],
-   "check_advt": false,
-   "score": 10,
-   "details": " ORGANISATION CHART : ADMINISTRATIVE STRUCTURE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNIPER COUNCIL \nBoard of Governors (BOGs)  \nAssociate Dean  \n(Academics Affairs) \nDean \nDirector \nRegistrar \nAssociate Dean  \n(Students Affairs) \nHoDs/Departmental  \nIn-charges \nEstablishment Section Stores & Purchase Section \nFinance & Accounts \nSection  \nEngineering Section \nAcademics & \nExamination Section \nHindi cell \nGuest House\n  \nSecurity & Estate\n  \nLegal",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-24",
-   "status": "open",
-   "match": false,
-   "new": false
-  },
-  {
    "id": "2644b9a6f957",
    "title": "21 Sep, 2026 The Notification for Walk-In Interview for one Consultant (Scientific–Medical).",
    "url": "https://nirrch.res.in/wp-content/uploads/2026/09/adv-consultant-Dr.-Pande.pdf",
@@ -39044,7 +39279,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "1743dee99c04",
@@ -39069,7 +39304,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "cf46f0424b45",
@@ -39084,6 +39319,105 @@
    "contract": false,
    "region": "india",
    "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": false,
+   "details": null
+  },
+  {
+   "id": "628f2e31b143",
+   "title": "More about Tailored Proteins, Healthy Gut",
+   "url": "http://www.news.uzh.ch/en/articles/news/2026/spinoffs-basic-research.html",
+   "context": "More about Tailored Proteins, Healthy Gut 24 Nov 2026 Tailored Proteins, Healthy Gut How do spin-offs emerge from basic research? Founder Ana Montalban-Arques and Professor Andreas Plückthun share their experiences. More about Tailored Proteins, Healthy Gut",
+   "source_id": "uzh",
+   "source_name": "University of Zurich",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Switzerland",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Zoom Image Andreas Plückthun and Ana Montalban-Arques, (Illustration: Benjamin Güdel) Ana Montalban-Arques had been working as a postdoctoral researcher at University Hospital Zurich for a year and a half when her research began to yield promising results. She was exploring link between colorectal cancer and the microbiome, the collection of bacteria that lives in our gut. She found that the microbiome of people who develop colorectal cancer has  … “It was the next logical step to make sure our valuable findings didn’t simply gather dust in a drawer, but were instead used to develop an effective therapy,” she says. … A great deal of persuasion The team initially tried offering its research findings to pharmaceutical companies directly or recruiting them as investors, but this didn’t work. … With the subsequent spin-offs that Plückthun helped found at UZH in 2004, 2014 and 2021, things became easier for two reasons. … “The university is the place where you can try bold things.",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "910a9d3ba7fc",
+   "title": "Extension of",
+   "url": "https://www.sctimst.ac.in/News/?id=NTg3XzE3OTU1MjUxMTk=",
+   "context": "03 NOV 2026 Extension of Last Date for Submission of Online Applications – Postdoctoral Fellowship Programmes / Post Doctoral Certificate Course (PDCC) in Transfusion Transmitted Disease Testing. Published on : 03/11/2026",
+   "source_id": "sctimst",
+   "source_name": "SCTIMST Thiruvananthapuram",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details": "Skip to main content Search Screen Reader Access Accessibility Option Hindi Hindi श्री चित्रा तिरुनाल आयुर्विज्ञान और प्रौद्योगिकी संस्थान, त्रिवेंद्रम एक राष्ट्रीय महत्व का संस्थान, विज्ञान एवं प्रौद्योगिकी विभाग, भारत सरकार Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum An Institution of National Importance, Department of Science and Technology, Govt. of India अस्पताल HOSPITAL बीएमटी BMT ए.एम.सी.एच.एस.एस AMCHSS शै … सेवाएँ Services अस्पताल HOSPITAL दृष्टि एवं लक्ष Vision & Mission मरीज सेवाएँ Patient Services क्लिनिकस एवं समयक्रम Clinics and Timings अधिक जानकारी.. … कोविड-19 डैशबोर्ड AMCHSS COVID-19 Dashboard उपयोगी लिंक्स Useful Links सार्वजनिक स्वास्थ्य शिक्षा Public Health Education मोयामोया रोग पोर्टल Moyamoya Disease Portal ड्यूरल आर्टेरियोवेनस फिस्टुला रेफरल और अनुसंधान पोर्टल﻿ Dural Arteriovenous Fistula Referral and Research Portal फोंटान पोर्टल Fontan Portal घटनाओं Happenings घटनाएँ Happenings ﻿ खबर News उपलब्धियां Achievements घटनाएँ Events/Conferences/Webinars फोटो गैलरी Photo Gallery दबाएं Press प्रेस विज्ञप्ति﻿ Press Release प्रतिबिंब﻿ Re",
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "f70b9d095cbc",
+   "title": "PROJECT VACANCY: Walk-in-Interview on 16-09-2026 for temporary positions of \"Research Associate (RA) (01-Post) and Junior Research Fellow (JRF) (01-Post) under Project No. GP-494\" (Advt. No. 26/2026; Dated: 01-09-2026)",
+   "url": "https://www.niper.gov.in/index.php/jobs",
+   "context": "RECRUITMENT NOTICE: Engagement of Temporary Positions of \"Sr. Research Fellow (SRF) and Technical Assistant\" under Centre of Excellence (CoE) (Advt. No. 01/2026; Dated 01.01.2026)",
+   "source_id": "niper",
+   "source_name": "NIPER Mohali",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": true,
+   "region": "india",
+   "country": "India",
+   "kw_score": 10,
+   "matched": [],
+   "check_advt": false,
+   "score": 10,
+   "details_checked": true,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "eecbdf11b98d",
+   "title": "Postdoc: Neurogenetics of innate social behavior (Chen Group)",
+   "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Rome/Postdoc--Neurogenetics-of-innate-social-behavior--Chen-Group-_JR4860",
+   "context": "Postdoc: Neurogenetics of innate social behavior (Chen Group) locations Rome posted on Posted Today JR4860",
+   "source_id": "embl",
+   "source_name": "EMBL (incl. EMBL-EBI)",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Germany",
    "kw_score": 10,
    "matched": [],
    "check_advt": false,
@@ -39120,7 +39454,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a04cd2b0b325",
@@ -39537,7 +39871,32 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
+  },
+  {
+   "id": "d2a64124501d",
+   "title": "Jobs/ Recruitments",
+   "url": "https://www.niper.gov.in/jobs",
+   "context": "Jobs/ Recruitments Research",
+   "source_id": "niper",
+   "source_name": "NIPER Mohali",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "details": " ORGANISATION CHART : ADMINISTRATIVE STRUCTURE \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nNIPER COUNCIL \nBoard of Governors (BOGs)  \nAssociate Dean  \n(Academics Affairs) \nDean \nDirector \nRegistrar \nAssociate Dean  \n(Students Affairs) \nHoDs/Departmental  \nIn-charges \nEstablishment Section Stores & Purchase Section \nFinance & Accounts \nSection  \nEngineering Section \nAcademics & \nExamination Section \nHindi cell \nGuest House\n  \nSecurity & Estate\n  \nLegal",
+   "details_checked": true,
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": false
   },
   {
    "id": "0abafa9faf93",
@@ -63880,7 +64239,7 @@
    "id": "3699ee8ae387",
    "title": "Site Reliability Engineer",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Hinxton-Cambridgeshire/Site-Reliability-Engineer_JR4730",
-   "context": "Site Reliability Engineer locations Hinxton, Cambridgeshire posted on Posted 12 Days Ago JR4730",
+   "context": "Site Reliability Engineer locations Hinxton, Cambridgeshire posted on Posted 13 Days Ago JR4730",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -64805,7 +65164,7 @@
    "id": "096436b14f45",
    "title": "Mechatronic Engineer – Cryo-EM Technology Development (Part-time)",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Heidelberg/Mechatronic-Engineer---Cryo-EM-Technology-Development--Part-time-_JR4697",
-   "context": "Mechatronic Engineer – Cryo-EM Technology Development (Part-time) locations Heidelberg posted on Posted 10 Days Ago JR4697",
+   "context": "Mechatronic Engineer – Cryo-EM Technology Development (Part-time) locations Heidelberg posted on Posted 11 Days Ago JR4697",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -66843,7 +67202,7 @@
    "id": "5cda5b14e8f4",
    "title": "Research AI Engineer for High-Throughput Crystallography and Drug Discovery",
    "url": "https://embl.wd103.myworkdayjobs.com/en-US/EMBL/job/Grenoble/Research-AI-Engineer-for-High-Throughput-Crystallography-and-Drug-Discovery_JR4882",
-   "context": "Research AI Engineer for High-Throughput Crystallography and Drug Discovery locations Grenoble posted on Posted 4 Days Ago JR4882",
+   "context": "Research AI Engineer for High-Throughput Crystallography and Drug Discovery locations Grenoble posted on Posted 5 Days Ago JR4882",
    "source_id": "embl",
    "source_name": "EMBL (incl. EMBL-EBI)",
    "published": null,
@@ -67672,7 +68031,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a4fb9300f5cd",
@@ -67695,7 +68054,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c91f11ad7d65",
@@ -67718,7 +68077,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "65ed5c8ce34e",
@@ -67741,7 +68100,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "5eb38c95ef57",
@@ -67764,7 +68123,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "b125581d1087",
@@ -67787,7 +68146,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "a5e97bc16da7",
@@ -67812,7 +68171,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "d0c4b893bd83",
@@ -67835,7 +68194,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "fd30e07970d2",
@@ -67858,7 +68217,7 @@
    "last_seen": "2026-11-24",
    "status": "open",
    "match": false,
-   "new": true
+   "new": false
   },
   {
    "id": "c1b32a621fc7",
@@ -67873,6 +68232,52 @@
    "contract": true,
    "region": "abroad",
    "country": "Switzerland",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": false
+  },
+  {
+   "id": "7bbb80f3df88",
+   "title": "Forskningssamordnare med ansvar för avtal",
+   "url": "https://ki.varbi.com/en/what:job/jobID:988120/type:job/where:4/apply:1",
+   "context": "Position: Forskningssamordnare med ansvar för avtal | Organisation: Department of Microbiology, Tumor and Cell Biology | Last application date Sort descending: 2026-11-29",
+   "source_id": "ki",
+   "source_name": "Karolinska Institutet",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 0,
+   "matched": [],
+   "check_advt": false,
+   "score": 0,
+   "first_seen": "2026-11-24",
+   "last_seen": "2026-11-24",
+   "status": "open",
+   "match": false,
+   "new": true
+  },
+  {
+   "id": "b0a7122834b3",
+   "title": "Vacancies Discover job opportunities at the Crick.",
+   "url": "https://www.crick.ac.uk/careers-and-study/vacancies",
+   "context": "",
+   "source_id": "crick",
+   "source_name": "Francis Crick Institute",
+   "published": null,
+   "deadline": null,
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "United Kingdom",
    "kw_score": 0,
    "matched": [],
    "check_advt": false,
