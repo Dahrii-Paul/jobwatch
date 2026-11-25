@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-24T22:47:08Z</updated>
+  <updated>2026-11-25T11:44:23Z</updated>
+  <entry>
+    <title>Life Sciences Job Vacancy at BRIC-National Institute of Plant Genome Research with fellowship of Rs 61,000 /- pm</title>
+    <link href="https://www.biotecnika.org/2026/11/nipgr-research-associate-job-2026/"/>
+    <id>urn:jobwatch:8b8bb834bbc8</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline 2026-11-28 · score 54</summary>
+  </entry>
+  <entry>
+    <title>Earn Rs. 46,990/Month with a Life Science Research Job at KVAFSU Bengaluru | Attend Walk In</title>
+    <link href="https://www.biotecnika.org/2026/11/kvafsu-jrf-recruitment-2026/"/>
+    <id>urn:jobwatch:ddee6028dc9f</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Biotecnika (life-science job news) · India · Deadline 2026-11-28 · score 54</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral researcher in aquatic microbial ecology and environmental genomics Swedish University of Agricultural Sciences (SLU) · Sweden ·</title>
+    <link href="https://www.openpostdoc.org/position/2fddd0d6-a648-4bc8-bded-f5f3eb04e7ba"/>
+    <id>urn:jobwatch:4764a7493fe8</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · Sweden · Deadline 2026-12-08 · score 65</summary>
+  </entry>
+  <entry>
+    <title>Researcher / Postdoctoral Fellow in Microbial Ecology</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/482863"/>
+    <id>urn:jobwatch:2fadd2d433bd</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-18 · score 54</summary>
+  </entry>
   <entry>
     <title>Postdoctoral Fellow in Microbial Evolution Stockholm University</title>
     <link href="https://www.scilifelab.se/career/postdoctoral-fellow-in-microbial-evolution/"/>
@@ -18,11 +46,25 @@
     <summary>[junior] Researchersjob.com · Finland · Deadline 2026-12-27 · score 40</summary>
   </entry>
   <entry>
+    <title>Postdoctoral Fellows and PhD Students - Genome Stress and Cell State - Nussenzweig Group</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/482855"/>
+    <id>urn:jobwatch:dea6d2a33427</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2027-01-02 · score 58</summary>
+  </entry>
+  <entry>
     <title>Postdoctoral Position in Adipose Stem Cell Biology – University of Southern Denmark</title>
     <link href="https://researchersjob.com/postdoctoral-position-in-adipose-stem-cell-biology/"/>
     <id>urn:jobwatch:a78c656fadab</id>
     <updated>2026-11-25T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Denmark · Deadline 2027-01-04 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Post-doctoral Fellow in the Department of Microbiology, School of Clinical Medicine</title>
+    <link href="https://www.timeshighereducation.com/unijobs/listing/418016/post-doctoral-fellow-in-the-department-of-microbiology-school-of-clinical-medicine/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:cc9a6b6fb826</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2027-02-15 · score 100</summary>
   </entry>
   <entry>
     <title>Postdoctoral Scholar in Molecular, Cell, and Developmental Biology at UC Santa Cruz, USA</title>
@@ -37,6 +79,13 @@
     <id>urn:jobwatch:4a57842cabec</id>
     <updated>2026-11-25T00:00:00Z</updated>
     <summary>[postdoc] Karolinska Institutet · Sweden · Deadline: see advert · score 63</summary>
+  </entry>
+  <entry>
+    <title>Scientist Job at Regeneron – Apply Now</title>
+    <link href="https://www.biotecnika.org/2026/11/scientist-job-at-regeneron-apply-now/"/>
+    <id>urn:jobwatch:00a2a5b1aa41</id>
+    <updated>2026-11-25T00:00:00Z</updated>
+    <summary>[permanent] Biotecnika (life-science job news) · India · Deadline: see advert · score 59</summary>
   </entry>
   <entry>
     <title>Lecture by Prof. Umesh Varshney, Honorary Professor Department of Microbiology and Cell Biology Indian Institute of Science, Bangalore</title>
@@ -1003,54 +1052,5 @@
     <id>urn:jobwatch:db2a00a69868</id>
     <updated>2026-11-05T00:00:00Z</updated>
     <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-11-27 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral fellowship in wearable data science, multi-omics integration, and machine learning for precision cardiovascular health</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/477749"/>
-    <id>urn:jobwatch:d15d98b35bbc</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-11-29 · score 100</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow – Bioinformatics and Data Sciences</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/417319/research-fellow-bioinformatics-and-data-sciences/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:4b53ce188fd8</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · United Kingdom · Deadline 2026-11-29 · score 87</summary>
-  </entry>
-  <entry>
-    <title>Post-Doctoral Fellowship in Microbiology / Genomic Analyses / Transcriptome Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo (FCFRP-USP) · Brazil ·</title>
-    <link href="https://www.openpostdoc.org/position/c71696ea-5ffc-4ed4-a794-186d03efa0ca"/>
-    <id>urn:jobwatch:2179b71733f2</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-29 · score 75</summary>
-  </entry>
-  <entry>
-    <title>Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/417306/post-doctoral-fellow-in-the-department-of-clinical-oncology-school-of-clinical-medicine/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:71f6f05e97a9</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · Hong Kong · Deadline 2026-11-30 · score 77</summary>
-  </entry>
-  <entry>
-    <title>Postdoc in cancer systems biology Linköping University</title>
-    <link href="https://www.scilifelab.se/career/postdoc-in-cancer-systems-biology/"/>
-    <id>urn:jobwatch:c3558a05f85a</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] SciLifeLab Careers (Sweden) · Sweden · Deadline 2026-11-30 · score 48</summary>
-  </entry>
-  <entry>
-    <title>Post-Doctoral Position in Ancient Pathogen Genomics – Max Planck Institute (MPI EVA), Germany</title>
-    <link href="https://researchersjob.com/post-doctoral-position-in-ancient-pathogen-genomics/"/>
-    <id>urn:jobwatch:9260058f70e9</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Germany · Deadline 2026-12-01 · score 82</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Fellow University of Oxford · United Kingdom ·</title>
-    <link href="https://www.openpostdoc.org/position/ef252c8a-4a4b-42de-a336-853df68f6318"/>
-    <id>urn:jobwatch:35a0828ca152</id>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · United Kingdom · Deadline 2026-12-02 · score 69</summary>
   </entry>
 </feed>
