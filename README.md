@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-25 17:14
+## Live stats · updated 2026-11-26 17:04
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **393** |
-| 🏛️ Permanent posts — India | **83** |
-| 🔬 Postdocs / fellowships — India | **20** |
-| ✈️ Postdocs / fellowships — abroad | **188** |
+| 🎯 Open matches | **398** |
+| 🏛️ Permanent posts — India | **84** |
+| 🔬 Postdocs / fellowships — India | **22** |
+| ✈️ Postdocs / fellowships — abroad | **190** |
 | 🌍 Permanent / faculty — abroad | **42** |
-| ⏰ Closing within 14 days | **104** |
-| 🆕 New this run | **7** |
-| 📡 Sources working | **166 / 209** |
+| ⏰ Closing within 14 days | **107** |
+| 🆕 New this run | **11** |
+| 📡 Sources working | **167 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [Postdoctoral Fellow - Ming Hu Lab Cleveland Clinic Lerner Research Institute · United Stat](https://www.openpostdoc.org/position/964860cf-2bef-4d53-87ce-bc0ff7c1e7d5) | postdoc | United States | 2026-11-25 |
-| 🔴 **0d** | [Assistant Project Scientist - IGI’s Entrepreneurial Fellows Program - Innovative Genomics ](https://www.openpostdoc.org/position/1333ed87-a95c-4aa4-974d-664e0759cd2b) | project | International | 2026-11-25 |
-| 🔴 **0d** | [Postdoctoral Fellow - Jennifer Yu Lab Cleveland Clinic Lerner Research Institute · United ](https://www.openpostdoc.org/position/0c0e0980-8c0e-405b-914f-c3aaeb75d941) | postdoc | United States | 2026-11-25 |
-| 🔴 **0d** | [Postdoctoral Researcher in DNA Nanostructures for Cell Targeting – Karolinska Institutet, ](https://researchersjob.com/postdoctoral-researcher-in-dna-nanostructures/) | postdoc | Sweden | 2026-11-25 |
-| 🔴 **1d** | [AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov](https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/) | project | India | 2026-11-26 |
-| 🔴 **1d** | [Postdoctoral Research Scientist – University of Oxford, UK](https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/) | postdoc | United Kingdom | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **2d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United](https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c) | postdoc | United Kingdom | 2026-11-27 |
-| 🔴 **2d** | [Senior Postdoctoral Researcher in Parkinson’s Disease Biomarkers and α-Synuclein Seeding U](https://www.openpostdoc.org/position/745f6a34-36cf-49f0-a1ef-2e8810ada1e6) | postdoc | International | 2026-11-27 |
-| 🔴 **2d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford](https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465) | postdoc | International | 2026-11-27 |
+| 🔴 **0d** | [AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov](https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/) | project | India | 2026-11-26 |
+| 🔴 **0d** | [Postdoctoral Research Scientist – University of Oxford, UK](https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/) | postdoc | United Kingdom | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
+| 🔴 **1d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United](https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c) | postdoc | United Kingdom | 2026-11-27 |
+| 🔴 **1d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford](https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465) | postdoc | International | 2026-11-27 |
+| 🔴 **2d** | [Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei](https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing) | postdoc | United Arab Emirates | 2026-11-28 |
+| 🔴 **2d** | [Open PI Positions at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | permanent | International | 2026-11-28 |
+| 🔴 **2d** | [Life Sciences Job Vacancy at BRIC-National Institute of Plant Genome Research with fellows](https://www.biotecnika.org/2026/11/nipgr-research-associate-job-2026/) | postdoc | India | 2026-11-28 |
+| 🔴 **2d** | [Earn Rs. 46,990/Month with a Life Science Research Job at KVAFSU Bengaluru / Attend Walk I](https://www.biotecnika.org/2026/11/kvafsu-jrf-recruitment-2026/) | postdoc | India | 2026-11-28 |
+| 🔴 **3d** | [Postdoctoral fellowship in wearable data science, multi-omics integration, and machine lea](https://euraxess.ec.europa.eu/jobs/477749) | postdoc | Europe | 2026-11-29 |
 <!-- STATS:END -->
 
 ---
