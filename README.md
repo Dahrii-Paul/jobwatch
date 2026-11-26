@@ -6,38 +6,38 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-26 17:04
+## Live stats · updated 2026-11-27 03:27
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **398** |
-| 🏛️ Permanent posts — India | **84** |
+| 🎯 Open matches | **394** |
+| 🏛️ Permanent posts — India | **78** |
 | 🔬 Postdocs / fellowships — India | **22** |
 | ✈️ Postdocs / fellowships — abroad | **190** |
-| 🌍 Permanent / faculty — abroad | **42** |
-| ⏰ Closing within 14 days | **107** |
-| 🆕 New this run | **11** |
+| 🌍 Permanent / faculty — abroad | **43** |
+| ⏰ Closing within 14 days | **105** |
+| 🆕 New this run | **4** |
 | 📡 Sources working | **167 / 209** |
 
 ### ⏳ Closing within 30 days
 
 | Left | Position | Type | Where | Deadline |
 |---|---|---|---|---|
-| 🔴 **0d** | [AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov](https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/) | project | India | 2026-11-26 |
-| 🔴 **0d** | [Postdoctoral Research Scientist – University of Oxford, UK](https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/) | postdoc | United Kingdom | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **0d** | [Click here to](https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout) | permanent | India | 2026-11-26 |
-| 🔴 **1d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United](https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c) | postdoc | United Kingdom | 2026-11-27 |
-| 🔴 **1d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford](https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465) | postdoc | International | 2026-11-27 |
-| 🔴 **2d** | [Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei](https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing) | postdoc | United Arab Emirates | 2026-11-28 |
-| 🔴 **2d** | [Open PI Positions at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | permanent | International | 2026-11-28 |
-| 🔴 **2d** | [Life Sciences Job Vacancy at BRIC-National Institute of Plant Genome Research with fellows](https://www.biotecnika.org/2026/11/nipgr-research-associate-job-2026/) | postdoc | India | 2026-11-28 |
-| 🔴 **2d** | [Earn Rs. 46,990/Month with a Life Science Research Job at KVAFSU Bengaluru / Attend Walk I](https://www.biotecnika.org/2026/11/kvafsu-jrf-recruitment-2026/) | postdoc | India | 2026-11-28 |
-| 🔴 **3d** | [Postdoctoral fellowship in wearable data science, multi-omics integration, and machine lea](https://euraxess.ec.europa.eu/jobs/477749) | postdoc | Europe | 2026-11-29 |
+| 🔴 **0d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United](https://www.openpostdoc.org/position/016f8598-1116-4e69-a29e-61eb93d9ec9c) | postdoc | United Kingdom | 2026-11-27 |
+| 🔴 **0d** | [Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford](https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465) | postdoc | International | 2026-11-27 |
+| 🔴 **1d** | [Post-Doctoral Associate in the Division Science (Biology) - Dr. Kenichiro Kamei](https://www.timeshighereducation.com/unijobs/listing/417058/post-doctoral-associate-in-the-division-science-biology-dr-kenichiro-kamei/?LinkSource=PremiumListing) | postdoc | United Arab Emirates | 2026-11-28 |
+| 🔴 **1d** | [Open PI Positions at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | permanent | International | 2026-11-28 |
+| 🔴 **1d** | [Life Sciences Job Vacancy at BRIC-National Institute of Plant Genome Research with fellows](https://www.biotecnika.org/2026/11/nipgr-research-associate-job-2026/) | postdoc | India | 2026-11-28 |
+| 🔴 **1d** | [Earn Rs. 46,990/Month with a Life Science Research Job at KVAFSU Bengaluru / Attend Walk I](https://www.biotecnika.org/2026/11/kvafsu-jrf-recruitment-2026/) | postdoc | India | 2026-11-28 |
+| 🔴 **2d** | [Postdoctoral fellowship in wearable data science, multi-omics integration, and machine lea](https://euraxess.ec.europa.eu/jobs/477749) | postdoc | Europe | 2026-11-29 |
+| 🔴 **2d** | [Research Fellow – Bioinformatics and Data Sciences](https://www.timeshighereducation.com/unijobs/listing/417319/research-fellow-bioinformatics-and-data-sciences/?LinkSource=PremiumListing) | postdoc | United Kingdom | 2026-11-29 |
+| 🔴 **2d** | [Post-Doctoral Fellowship in Microbiology / Genomic Analyses / Transcriptome Faculdade de C](https://www.openpostdoc.org/position/c71696ea-5ffc-4ed4-a794-186d03efa0ca) | postdoc | International | 2026-11-29 |
+| 🔴 **2d** | [Research Fellow - Bioinformatics and Data Sciences University of Surrey · United Kingdom ·](https://www.openpostdoc.org/position/b8664d40-7c9e-4227-a8de-331a994b0569) | postdoc | United Kingdom | 2026-11-29 |
+| 🔴 **2d** | [Postdoctoral Fellowship in Wearable Data Science, University of Copenhagen, Denmark](https://researchersjob.com/postdoctoral-fellowship-in-wearable-data-science/) | postdoc | Denmark | 2026-11-29 |
+| 🔴 **2d** | [Postdoc in Agentic AI for Spatial Biology of the Human Gut at KTH Royal Institute of Techn](https://researchersjob.com/postdoc-in-agentic-ai-for-spatial-biology/) | postdoc | Sweden | 2026-11-29 |
+| 🔴 **2d** | [Postdoc in Agentic AI for Spatial Biology of the Human Gut – KTH Royal Institute of Techno](https://researchersjob.com/postdoc-in-agentic-ai-for-spatial-biology-2/) | postdoc | Sweden | 2026-11-29 |
+| 🔴 **2d** | [Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12865128/postdoctoral-fellows-recruitment-announcement-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | postdoc | International | 2026-11-29 |
+| 🔴 **2d** | [Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Karolinska](https://www.scilifelab.se/career/postdoctoral-researcher-in-ai-modeling-of-cellular-dynamics-alpha-cell-program-2/) | postdoc | Sweden | 2026-11-29 |
 <!-- STATS:END -->
 
 ---

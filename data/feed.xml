@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-26T11:34:09Z</updated>
+  <updated>2026-11-26T21:57:26Z</updated>
+  <entry>
+    <title>AIIMS New Delhi Neuroscience Project Research Scientist-II Job | M.Sc Life Science, Genetics, Biotech or PhD | Apply by 30 Nov</title>
+    <link href="https://www.biotecnika.org/2026/11/aiims-new-delhi-jobs-project-research-scientist-ii-2026/"/>
+    <id>urn:jobwatch:232e10622121</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-30 · score 53</summary>
+  </entry>
+  <entry>
+    <title>Senior Bioinformatician</title>
+    <link href="https://www.nature.com/naturecareers/job/12867227/senior-bioinformatician/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:830a63f9c66c</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[other] Nature Careers · International · Deadline 2026-12-12 · score 40</summary>
+  </entry>
+  <entry>
+    <title>Faculty Position in Microbial Systems Bioinformatics</title>
+    <link href="https://www.nature.com/naturecareers/job/12867232/faculty-position-in-microbial-systems-bioinformatics/?LinkSource=PremiumListing"/>
+    <id>urn:jobwatch:57f9000f09e3</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[permanent] Nature Careers · Canada · Deadline 2027-01-25 · score 77</summary>
+  </entry>
+  <entry>
+    <title>Postdoc to the unit Clinical Memory Research (PA2026/3486)</title>
+    <link href="https://lu.varbi.com/en/what:job/jobID:995191/type:job/where:4/apply:1"/>
+    <id>urn:jobwatch:ec4125d3f700</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[postdoc] Lund University · Sweden · Deadline: see advert · score 40</summary>
+  </entry>
   <entry>
     <title>BRIC-NIPGR Research Associate-II Recruitment 2026 – Apply Now, India</title>
     <link href="https://researchersjob.com/bric-nipgr-research-associate-ii-recruitment/"/>
@@ -613,13 +641,6 @@
     <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 89</summary>
   </entry>
   <entry>
-    <title>AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov</title>
-    <link href="https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/"/>
-    <id>urn:jobwatch:d349b74d8005</id>
-    <updated>2026-11-15T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-26 · score 52</summary>
-  </entry>
-  <entry>
     <title>Postdoctoral Research Associate in Population Genomics at University of Oxford, UK</title>
     <link href="https://researchersjob.com/postdoctoral-research-associate-in-population-genomics/"/>
     <id>urn:jobwatch:e9b837809ecb</id>
@@ -1031,26 +1052,5 @@
     <id>urn:jobwatch:4f485a3635eb</id>
     <updated>2026-11-06T00:00:00Z</updated>
     <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-29 · score 63</summary>
-  </entry>
-  <entry>
-    <title>AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/417348/agc-postdoctoral-fellow-on-bioinformatics-microbial-genomics/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:c3c2490423d5</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · International · Deadline 2026-12-04 · score 100</summary>
-  </entry>
-  <entry>
-    <title>COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research</title>
-    <link href="https://www.timeshighereducation.com/unijobs/listing/417343/colcom-postdoctoral-fellow-position-in-omics-and-soil-microbiome-research/?LinkSource=PremiumListing"/>
-    <id>urn:jobwatch:b2b1f1605141</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[postdoc] Times Higher Education Jobs · International · Deadline 2026-12-04 · score 73</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Fellow (Bioinformatics &amp; Research Software Engineering) The University of Queensland · Brisbane ·</title>
-    <link href="https://www.openpostdoc.org/position/1cd8a125-0259-4164-abe2-2b47c166e3b8"/>
-    <id>urn:jobwatch:0a0ded7bccd1</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-04 · score 65</summary>
   </entry>
 </feed>

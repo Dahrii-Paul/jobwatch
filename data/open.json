@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated": "2026-11-26T17:04+05:30",
+  "updated": "2026-11-27T03:27+05:30",
   "repo": "Dahrii-Paul/jobwatch",
   "match_threshold": 40,
   "include_categories": [
@@ -10,226 +10,20 @@
    "project"
   ],
   "counts": {
-   "total_indexed": 3334,
-   "open_matches": 398,
-   "urgent": 107,
-   "new_this_run": 11,
+   "total_indexed": 3372,
+   "open_matches": 394,
+   "urgent": 105,
+   "new_this_run": 4,
    "saved": 0,
-   "permanent_india": 84,
+   "permanent_india": 78,
    "postdoc_india": 22,
    "postdoc_abroad": 190,
-   "permanent_abroad": 42,
+   "permanent_abroad": 43,
    "sources_ok": 167,
    "sources_total": 209
   }
  },
  "jobs": [
-  {
-   "id": "d349b74d8005",
-   "title": "AIIMS Delhi Project Research Scientist-II – M.Sc/PhD, Apply by 26 Nov",
-   "url": "https://www.biotecnika.org/2026/11/aiims-delhi-research-scientist-job-2026/",
-   "context": "AIIMS Delhi Project Research Scientist-II – New Delhi The Department of Forensic Medicine & Toxicology, AIIMS New Delhi, invites applications for the AIIMS Delhi Research Scientist position of Project Research Scientist-II (Non-Medical). Qualification: M.Sc/PhD, apply by 26 November 2026. AIIMS Delhi Research Scientist Job Details Post: Project Research Scientist II (non-medical) No. of posts: 01 […]",
-   "source_id": "biotecnika",
-   "source_name": "Biotecnika (life-science job news)",
-   "published": "2026-11-13",
-   "deadline": "2026-11-26",
-   "details": "AIIMS Delhi Project Research Scientist-II – New Delhi The Department of Forensic Medicine & Toxicology, AIIMS New Delhi, invites applications for the AIIMS Delhi Research Scientist position of Project Research Scientist-II (Non-Medical). Qualification: M.Sc/PhD, apply by 26 November 2026. AIIMS Delhi Research Scientist Job Details Post: Project Research Scientist II (non-medical) No. of posts: 01 Essential Qualification: First class Master’s degr … First class Master’s degree in relevant subject/field (Forensic Science / Life Science / Genetics / Human Genetics / Molecular Genetics / Biotechnology / Bioinformatics / Neuroscience / Neurobiology / Molecular Medicine / Biomedical Science) with three years’ experience, OR PhD Age limit:",
-   "details_checked": true,
-   "category": "project",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 52,
-   "matched": [
-    "bioinformatic",
-    "human genetics"
-   ],
-   "check_advt": false,
-   "score": 52,
-   "first_seen": "2026-11-15",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "31788693fa1b",
-   "title": "Postdoctoral Research Scientist – University of Oxford, UK",
-   "url": "https://researchersjob.com/postdoctoral-research-scientist-university-of-oxford/",
-   "context": "Summary The Nuffield Department of Women’s and Reproductive Health at the University of Oxford is seeking a Postdoctoral Research Scientist to join the Oxford Endometriosis CaRe Centre (EndoCaRe). This role focuses on an exciting research programme investigating new therapeutic targets for endometriosis in collaboration with industrial partner Gedeon Richter. Job Details Designation Postdoctoral Research Scientist […]",
-   "source_id": "researchersjob",
-   "source_name": "Researchersjob.com",
-   "published": "2026-10-31",
-   "deadline": "2026-11-26",
-   "category": "postdoc",
-   "contract": false,
-   "region": "abroad",
-   "country": "United Kingdom",
-   "kw_score": 44,
-   "matched": [
-    "bioinformatic",
-    "single-cell"
-   ],
-   "check_advt": false,
-   "score": 44,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false,
-   "details": "Summary The Nuffield Department of Women’s and Reproductive Health at the University of Oxford is seeking a Postdoctoral Research Scientist to join the Oxford Endometriosis CaRe Centre (EndoCaRe). This role focuses on an exciting research programme investigating new therapeutic targets for endometriosis in collaboration with industrial partner Gedeon Richter. Job Details Designation Postdoctoral Research Scientist Research Area Immunology, Endome … Undertaking laboratory experiments including cell culture, flow cytometry, and other single-cell techniques. … Experience in epithelial tissue culture, human co-culture models, advanced cellular analysis techniques, or bioinformatics.",
-   "details_checked": true
-  },
-  {
-   "id": "942a7ce0ef21",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-c-multinie-octts/index.php/logout",
-   "context": "Sr. No.: 9 | Post Name: Scientist-C (Medical, Medical-Microbiology)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 44,
-   "matched": [],
-   "check_advt": true,
-   "score": 44,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-C (Medical, Medical-Microbiology)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "b7b7044829fb",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-d-mednie-octts/index.php/logout",
-   "context": "Sr. No.: 7 | Post Name: Scientist-D (Medical)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-D (Medical)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "1724d0c2e5f1",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-d-nmnie-octts/index.php/logout",
-   "context": "Sr. No.: 8 | Post Name: Scientist-D (Non-Medical)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-D (Non-Medical)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "8f78620b8c57",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-b-mednie-octts/index.php/logout",
-   "context": "Sr. No.: 10 | Post Name: Scientist-B (Medical)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-B (Medical)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "73622b3944a6",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-b-nmnie-octts/index.php/logout",
-   "context": "Sr. No.: 11 | Post Name: Scientist-B (Non-Medical)(Disease modeling)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-B (Non-Medical)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
-  {
-   "id": "c9b6d710a12d",
-   "title": "Click here to",
-   "url": "https://recruitment.icmr.org.in/scientist-b-vetnie-octts/index.php/logout",
-   "context": "Sr. No.: 12 | Post Name: Scientist-B (Veterinary)(ICMR-NIE) | Administrative enquiry: 011-26589332 ext. 293 or Email at rcell.hq@icmr.gov.in | Technical/ Payment enquiry: query.rpcell@icmr.gov.in | Last date: 26-11-2026 5:30 PM | Action: Click here to Apply",
-   "source_id": "icmr-portal",
-   "source_name": "ICMR online recruitment",
-   "published": null,
-   "deadline": "2026-11-26",
-   "category": "permanent",
-   "contract": false,
-   "region": "india",
-   "country": "India",
-   "kw_score": 40,
-   "matched": [],
-   "check_advt": true,
-   "score": 40,
-   "details": "ICMR Recruitment Portal Login for the post of Scientist-B (Veterinaryl)(ICMR-NIE) Forgot Password New User Registration",
-   "details_checked": true,
-   "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
-   "status": "open",
-   "match": true,
-   "new": false
-  },
   {
    "id": "db2a00a69868",
    "title": "Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · United Kingdom ·",
@@ -275,7 +69,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -302,7 +96,7 @@
    "check_advt": false,
    "score": 88,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -330,7 +124,7 @@
    "check_advt": false,
    "score": 77,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -361,7 +155,7 @@
    "check_advt": false,
    "score": 54,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -390,7 +184,7 @@
    "check_advt": false,
    "score": 54,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -451,7 +245,7 @@
    "details": "Research Fellow – Bioinformatics and Data Sciences Employer UNIVERSITY OF SURREY Location Surrey, United Kingdom Salary £38,448 to £46,970 Closing date 29 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Research Fellowships Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an ac … Research Fellow – Bioinformatics and Data Sciences Employer UNIVERSITY OF SURREY Location Surrey, United Kingdom Salary £38,448 to £46,970 Closing date 29 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Research Fellowships Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … This will include assuming responsibilities for informatics- and computational-led data analysis to identify new opportunities via market analysis, drug repurposing/discovery",
    "details_checked": true,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -503,7 +297,7 @@
    "check_advt": false,
    "score": 75,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -533,7 +327,7 @@
    "check_advt": false,
    "score": 69,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -561,7 +355,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -592,7 +386,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -617,7 +411,7 @@
    "check_advt": false,
    "score": 62,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -650,7 +444,7 @@
    "details": "Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Karolinska Institutet Share: Facebook Twitter LinkedIn Email Application deadline November 29, 2026 Read more and apply SciLifeLab / Careers / Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Do you want to contribute to improving human health? Description of the research group Alpha Cell is a new SciLifeLab strategic program aimed at bu … Our lab develops deep learning models of molecular networks in cancer to advance precision medicine. … By integrating high-throughput data (e.g., transcriptomics, proteomics, metabolomics) with prior knowledge of molecular interactions, we construct interpretable models that capture system-level mechanisms in cells to enable the identification of drug targets, biomarkers, and resistance mechanisms. … We are seeking a postdoctoral researcher to develop next-generation AI models of cellular dynamics, with a focus on scalable neural network architectures that represent the molecular composition of a single cell in space and time. … PhD in a f",
    "details_checked": true,
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -705,10 +499,10 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "25d95652199b",
@@ -731,7 +525,7 @@
    "check_advt": false,
    "score": 95,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -764,7 +558,7 @@
    "details": "Data Scientist or Biomolecular Scientist for Data and AI-Driven Molecular Medicine Research Program Employer UNIVERSITY OF HELSINKI Location Helsinki, Finland Closing date 30 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry , Electrical & Electronic Engineering Job Type Research Related , … Cancer and precision medicine, including prostate cancer, are important application areas, while the methods and technologies developed are intended to be broadly applicable across biomedical research. … We welcome applicants with an MSc, MSc (Eng) or PhD in biology, molecular medicine, bioinformatics, computational biology, computer science, data science, software engineering or a related field. … Previous experience with single-cell or spatial omics data analysis, multi-omics data integration, genomics, cancer biology, precision medicine, machine learning or generative AI is an advantage. … Collaborate with biological, computational, and",
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -846,7 +640,7 @@
    "details": "Post-doctoral Fellow in the Department of Clinical Oncology, School of Clinical Medicine Employer THE UNIVERSITY OF HONG KONG Location Pok Fu Lam, Hong Kong Salary Competitive salary Closing date 30 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Mathematics & Statistics , Physical Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fi … degree in Bioinformatics, Genetics, Genomics, Evolutionary Biology, Mathematics, Statistics, Computer Science, or a related discipline. … Priority will be given to those with an outstanding research track record and extensive expertise in cancer bioinformatics, cancer biology, cancer immunology, deep learning models and/or artificial intelligence.",
    "details_checked": true,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -872,7 +666,7 @@
    "check_advt": false,
    "score": 75,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -901,7 +695,7 @@
    "details": "Postdoc in Cancer Genomics Linköping University Share: Facebook Twitter LinkedIn Email Application deadline November 30, 2026 Read more and apply SciLifeLab / Careers / Postdoc in Cancer Genomics Ref BKV-2026-00796 We have the power of over 50,000 students and co-workers. Students who provide hope for the future. Co-workers who contribute to Linköping University meeting challenges of today. Our fundamental values rest on credibility, trust and se … Postdoc in Cancer Genomics Linköping University Share: … Facebook Twitter LinkedIn Email Application deadline November 30, 2026 Read more and apply SciLifeLab / Careers / Postdoc in Cancer Genomics Ref BKV-2026-00796 We have the power of over 50,000 students and co-workers. … In addition to basic molecular biology (RT-qPCR, Western Blot, DNA cloning), the candidate must have experience with transcription factors profiling and single-cell transcriptomics analyses, and computational skills (e.g., R and Python).",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -928,7 +722,7 @@
    "details": "Postdoctoral Researcher in Primate Genomics Employer LIVERPOOL JOHN MOORES UNIVERSITY Location Liverpool, United Kingdom Closing date 30 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Physical Sciences , Life sciences , Geology, Environmental, Earth & Marine Sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your short … Postdoctoral Researcher in Primate Genomics Employer LIVERPOOL JOHN MOORES UNIVERSITY Location Liverpool, United Kingdom Closing date 30 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Physical Sciences , Life sciences , Geology, Environmental, Earth & Marine Sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … You will have a PhD qualification and experience in conservation and population genomics, with a preference for those with direct expe",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -957,7 +751,7 @@
    "check_advt": false,
    "score": 67,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -1016,7 +810,7 @@
    "details": "← Positions Postdoctoral Associate Duke University, Social Science Research Institute · Durham, NC · 🇺🇸 United States Social Science Bioinformatics Biology Deadline 2026-11-30 · 27 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Occupational Summary The Center on Genomics, Race, Identity, Difference ( … ← Positions Postdoctoral Associate Duke University, Social Science Research Institute · Durham, NC · 🇺🇸 United States Social Science Bioinformatics Biology Deadline 2026-11-30 · 27 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position Occupational Summary The Center on Genomics, Race, Identity, Difference (GRID) in the Social Science Research Institute at Duke University invites applications for a full-time Postdoctoral Associate position. … Charmaine Royal (director of GRID) along with a multidisciplinary team to conduct mentored independent and collaborat",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1071,7 +865,7 @@
    "details": "Post-doctoral Fellow in the Department of Obstetrics and Gynaecology, School of Clinical Medicine Employer THE UNIVERSITY OF HONG KONG Location Pok Fu Lam, Hong Kong Salary Competitive salary Closing date 30 Nov 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shor … degree preferably in Stem Cell Biology, Molecular Biology, Developmental Biology, Bioinformatics, or a related discipline, along with substantial experience in cell culture, molecular techniques, and bioinformatics data analysis.",
    "details_checked": true,
    "first_seen": "2026-11-04",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1100,7 +894,7 @@
    "check_advt": false,
    "score": 62,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1129,7 +923,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1212,10 +1006,39 @@
    "check_advt": false,
    "score": 55,
    "first_seen": "2026-11-11",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "232e10622121",
+   "title": "AIIMS New Delhi Neuroscience Project Research Scientist-II Job | M.Sc Life Science, Genetics, Biotech or PhD | Apply by 30 Nov",
+   "url": "https://www.biotecnika.org/2026/11/aiims-new-delhi-jobs-project-research-scientist-ii-2026/",
+   "context": "AIIMS New Delhi Recruits Project Research Scientist-II (Non-Medical) | Neuroscience | M.Sc or PhD | Apply by 30 Nov 2026 All India Institute of Medical Sciences (AIIMS), New Delhi invites applications for one Project Research Scientist-II (Non-Medical) position under an ICMR-funded neuroscience project. This AIIMS New Delhi jobs notification is for candidates seeking a neuroscience […]",
+   "source_id": "biotecnika",
+   "source_name": "Biotecnika (life-science job news)",
+   "published": "2026-11-26",
+   "deadline": "2026-11-30",
+   "details": "Table of Contents Toggle AIIMS New Delhi Recruits Project Research Scientist-II (Non-Medical) | Neuroscience | M.Sc or PhD | Apply by 30 Nov 2026 Job Details Eligibility Criteria Desirable Skills Salary Tenure How to Apply Additional Information AIIMS New Delhi Recruits Project Research Scientist-II (Non-Medical) | Neuroscience | M.Sc or PhD | Apply by 30 Nov 2026 All India Institute of Medical Sciences (AIIMS), New Delhi invites applications for … First class Master’s degree in a relevant subject/field ( Life Science /Genetics/Human Genetics/Molecular Genetics/Biotechnology/Neuroscience/Neurobiology/Molecular Medicine/Biomedical Science) with three years’ experience, OR PhD Age Limit:",
+   "details_checked": true,
+   "category": "project",
+   "contract": false,
+   "region": "india",
+   "country": "India",
+   "kw_score": 53,
+   "matched": [
+    "genetics",
+    "human genetics",
+    "life science"
+   ],
+   "check_advt": false,
+   "score": 53,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "b9affa411a81",
@@ -1240,7 +1063,7 @@
    "details": "Alumni Scientist Directory BRIC RGCB Mail Search CORRIGENDUM TO THE ADVERTISEMENT No. RGCB/Advt./Sci/01/2026 dated September 01, 2026 The minimum Research Experience and Publication Record required for Scientist E-II and Scientist F may be read as follows: POSITION MINIMUM ACADEMIC QUALIFICATION MINIMUM RESEARCH EXPERIENCE AND PUBLICATION RECORD* AGE LIMIT* Scientist E-II (Number of Positions: UR-1, SC-1) MD or PhD or equivalent Five years post-d … Plant biotechnology & disease biology program with special focus on spice genomics, metabolic and molecular biology of medicinal plants. … Focussing on Cancer Genomics, elucidating the molecular, biochemical, cellular and structural basis of common cancers of India. … Pathogen biology program with special focus on molecular pathogenesis and virulence mechanisms, host pathogen interactions, virology, systems biology, advanced diagnostics Basic and advanced Neurobiology: … Persons working under the Central /State Government/Public Sector Undertakings/Autonomous Bodies shall submit their applications through proper channel.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1268,7 +1091,7 @@
    "details": "Alumni Scientist Directory BRIC RGCB Mail Search CORRIGENDUM TO THE ADVERTISEMENT No. RGCB/Advt./Sci/01/2026 dated September 01, 2026 The minimum Research Experience and Publication Record required for Scientist E-II and Scientist F may be read as follows: POSITION MINIMUM ACADEMIC QUALIFICATION MINIMUM RESEARCH EXPERIENCE AND PUBLICATION RECORD* AGE LIMIT* Scientist E-II (Number of Positions: UR-1, SC-1) MD or PhD or equivalent Five years post-d … Plant biotechnology & disease biology program with special focus on spice genomics, metabolic and molecular biology of medicinal plants. … Focussing on Cancer Genomics, elucidating the molecular, biochemical, cellular and structural basis of common cancers of India. … Pathogen biology program with special focus on molecular pathogenesis and virulence mechanisms, host pathogen interactions, virology, systems biology, advanced diagnostics Basic and advanced Neurobiology: … Persons working under the Central /State Government/Public Sector Undertakings/Autonomous Bodies shall submit their applications through proper channel.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1295,7 +1118,7 @@
    "details": "Postdoc in cancer systems biology Linköping University Share: Facebook Twitter LinkedIn Email Application deadline November 30, 2026 Read more and apply SciLifeLab / Careers / Postdoc in cancer systems biology We have the power of over 50,000 students and co-workers. Students who provide hope for the future. Co-workers who contribute to Linköping University meeting challenges of today. Our fundamental values rest on credibility, trust and securit … Postdoc in cancer systems biology Linköping University Share: … Facebook Twitter LinkedIn Email Application deadline November 30, 2026 Read more and apply SciLifeLab / Careers / Postdoc in cancer systems biology We have the power of over 50,000 students and co-workers. … Work assignments We are looking for an ambitious postdoc to join our multidisciplinary team with projects in the interface of cancer biology, immuno-oncology, systems biology and artificial intelligence. … The work includes statistical modelling, machine-learning and systems biology approaches to identify drivers of metastasis and treatment resistance.",
    "details_checked": true,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1320,7 +1143,7 @@
    "details": "For Website\nINDIAN COUNCIL OF MEDICAL RESEARCH\nV. Ramalingaswami Bhavan, Ansari Nagar, New Delhi-110029\nAdvt. No. 1CMR/DIR/02/2026-R&PCell.\nVACANCY CIRCULAR\nLAST DATE FOR RECEIPT OF APPLICATIONS: 30.11.2026\nIndian Council of Medical Research (ICMR) is an Autonomous Organization under\nthe Department of Health Research, Ministry of Health & Family Welfare, Govt. of\nIndia. ICMR is dealing with biomedical/ health research in various areas, in\ncollabo … At the time of personal discussion, the applicants working in Central/\nState Government Departments/ Public Sector Undertakings & Govt.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1347,7 +1170,7 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1424,7 +1247,7 @@
    "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -1456,7 +1279,7 @@
    "check_advt": false,
    "score": 89,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1484,7 +1307,7 @@
    "check_advt": false,
    "score": 85,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -1515,7 +1338,7 @@
    "check_advt": false,
    "score": 82,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1544,7 +1367,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1569,7 +1392,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1596,7 +1419,7 @@
    "details": "← Positions Postdoctoral Researcher Duke University, Biology · Durham, NC · 🇺🇸 United States Biology Chemistry Bioinformatics Deadline 2026-12-01 · 28 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position We seek a Postdoc to conduct research on hornwort and/or cyanobacteria diversity and evolution. Qualifi … ← Positions Postdoctoral Researcher Duke University, Biology · Durham, NC · 🇺🇸 United States Biology Chemistry Bioinformatics Deadline 2026-12-01 · 28 days left ↗ Aggregated listing Collected from the institution's own careers page. … in Plant Evolutionary Biology, Bioinformatics, Phylogenetics, Genetics, biochemistry, or related fields and evidence of strong research productivity.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1622,7 +1445,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -1652,7 +1475,7 @@
    "check_advt": false,
    "score": 55,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1739,7 +1562,7 @@
    "check_advt": false,
    "score": 75,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1767,7 +1590,7 @@
    "details": "← Positions Postdoctoral Fellow - Feixiong Cheng Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Computer Science Medicine Bioinformatics Deadline 2026-12-02 · 29 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Highly motivated individuals with a PhD or MD/PhD in relevant area are en … ← Positions Postdoctoral Fellow - Feixiong Cheng Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Computer Science Medicine Bioinformatics Deadline 2026-12-02 · 29 days left ↗ Aggregated listing Collected from the institution's own careers page. … The successful applicant will be able to demonstrate a commitment to research, … Full description on the original posting ↗ Research topics Machine Learning Genomics Bioinformatics Drug Discovery Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1795,7 +1618,7 @@
    "details": "← Positions Postdoctoral Fellow - Ying Ni Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Bioinformatics Biology Statistics Deadline 2026-12-02 · 29 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Highly motivated individuals with a PhD or MD/PhD in relevant area are encouraged to ap … ← Positions Postdoctoral Fellow - Ying Ni Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Bioinformatics Biology Statistics Deadline 2026-12-02 · 29 days left ↗ Aggregated listing Collected from the institution's own careers page. … The successful applicant will be able to demonstrate a commitment to research, … Full description on the original posting ↗ Research topics Genomics Bioinformatics Oncology Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1878,7 +1701,7 @@
    "details": "← Positions Post-Doctoral Research Associate or Research Assistant Keele University · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2026-12-02 · 11 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Grade 7 or 6a - Salary Range £36,320 - £48,337 (Incremental Progression) Full Time & Fixed Ter … ← Positions Post-Doctoral Research Associate or Research Assistant Keele University · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2026-12-02 · 11 days left ↗ Aggregated listing Collected from the institution's own careers page. … The successful candidate will contribute to a multidisciplinary progra … Full description on the original posting ↗ Research topics Bioinformatics Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -1965,7 +1788,7 @@
    "check_advt": false,
    "score": 50,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2017,7 +1840,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2045,7 +1868,7 @@
    "details": "AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 4 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … AGC - Postdoctoral Fellow on Bioinformatics/Microbial Genomics Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 4 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Biodiversity Genomics, OMICS and Metabolic Engineering, Genome Editing, and Natural Product Chemistry and Metabolomics. … Equipped with an advanced genomics platform, its mission is to act as a ",
    "details_checked": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2103,7 +1926,7 @@
    "details": "Research Fellow in Genetic Epidemiology Employer UNIVERSITY OF SOUTHAMPTON Location Southampton, United Kingdom Salary £37,369 to £45,641 Per Annum Closing date 4 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry Job Type Academic Posts , Research Fellowships Contract Type Fixed Term Hours Full Time Apply on website Save job Click to  … Working alongside genetic epidemiologists, clinicians and data scientists, you will apply statistical genetics approaches, including genome-wide association studies (GWAS), Mendelian randomisation and post-GWAS analyses, to identify genetic determinants, investigate causal relationships and uncover biological pathways linking obesity to metabolic disease. … Contribute to high-quality scientific publications, conference presentations and the dissemination of research findings. … Collaborate with multidisciplinary researchers across genetic epidemiology, statistical genetics, genomics, clinical medicine and data science. … You will have oppo",
    "details_checked": true,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2157,7 +1980,7 @@
    "details": "COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 4 Dec 2026 View more categories View less categories Academic Discipline Agriculture, Food & Forestry , Biological Sciences , Physical Sciences , Life sciences , Geology, Environmental, Earth & Marine Sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time … COLCOM - Postdoctoral Fellow Position in Omics and Soil Microbiome Research Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 4 Dec 2026 View more categories View less categories Academic Discipline Agriculture, Food & Forestry , Biological Sciences , Physical Sciences , Life sciences , Geology, Environmental, Earth & Marine Sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details Postdoctoral fellow Position in Omics and Soil Microbiome R",
    "details_checked": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2185,7 +2008,7 @@
    "details": "← Positions Postdoctoral Research Associate The University of Edinburgh · United Kingdom · 🌍 Europe Biology Microbiology Bioinformatics Deadline 2026-12-04 · 13 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Full Time - 35 hours Fixed term - 36 months The opportunity: Where discovery never stops. Be  … ← Positions Postdoctoral Research Associate The University of Edinburgh · United Kingdom · 🌍 Europe Biology Microbiology Bioinformatics Deadline 2026-12-04 · 13 days left ↗ Aggregated listing Collected from the institution's own careers page. … During early development, embryos suppress type I interferon signalling—the body’s most efficient antiv … Full description on the original posting ↗ Research topics Genomics Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2210,7 +2033,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2235,7 +2058,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2260,7 +2083,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2316,7 +2139,7 @@
    "details": "CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Morocco (MA) Closing date 6 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your  … CBS - Postdoctoral Position, Artificial Intelligence Applied to Multi-Omics Data Integration Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Morocco (MA) Closing date 6 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … We are seeking an outstanding Postdoctoral Researcher in Artificial Intelligence (AI) and Data Science with expertise in multi-om",
    "details_checked": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2343,7 +2166,7 @@
    "check_advt": false,
    "score": 92,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -2374,7 +2197,7 @@
    "details": "← Positions Research Fellow University of Birmingham · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2026-12-06 · 23 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Location: University of Birmingham, Edgbaston, Birmingham UK Full-time starting salary is within the range of £36,636 to £42, … ← Positions Research Fellow University of Birmingham · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2026-12-06 · 23 days left ↗ Aggregated listing Collected from the institution's own careers page. … Tianyi Zhang based in the Department of Cancer and Genomic Sciences, to investigate how hematopoietic transcription factors and e … Full description on the original posting ↗ Research topics Genomics Proteomics Oncology Policy Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2402,10 +2225,10 @@
    "details": "← Back to search results ★ Featured Group Leader - Food-Microbiome Modelling and Host-Microbe Interactions Quadram Institute Bioscience Location : South East England Salary : Competitive salary and benefits packages Hours : Full Time Contract Type : Fixed-Term/Contract, Permanent Placed On : 23rd October 2026 Closes : 6th December 2026 Workplace : On Site Job Ref : 1006124 Anatomy Physiology & Pathology Biochemistry Biological Sciences Biology Ch … We welcome researchers who combine technological innovation with biological insight, whether through novel model systems, advanced molecular and analytical techniques, computational approaches, or integrated multi-omics methodologies. … Alongside delivering against the Institute's research objectives, you will be expected to establish a strong and sustainable research funding portfolio, develop collaborative projects within the Institute and beyond, and engage with partners across industry and government. … Who Should Apply We welcome applications from candidates with backgrounds including microbiology, biochemistry, bioinformatics, comput",
    "details_checked": true,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "69e18aed6b25",
@@ -2454,7 +2277,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -2479,7 +2302,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -2504,7 +2327,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -2531,7 +2354,7 @@
    "details": " \n \n \n \n \nFile No-ICMRHQ/R&PCell/Sci.Rec./Misc./2026 ( E-File no-296490 ) Date: .11.2026 \nTo \nThe Directors/Directors-in-charge of \nAll Institutes/Centres of ICMR \n \nSubject: Invitation for Expression of Interest for tenure-based deployment of regular DHR/ICMR \nMedical Scientist at Model Rural Health Research Unit (MRHRU) – reg. \n \nSir/Madam, \n \nWith reference to the invitation for Expression of Interest (EoI) circulated vide Council’s letter no.",
    "details_checked": true,
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2587,7 +2410,7 @@
    "check_advt": false,
    "score": 67,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -2639,7 +2462,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2667,7 +2490,7 @@
    "details": "← Positions Postdoctoral Fellow - Findlay Lab The Francis Crick Institute · United Kingdom · 🌍 Europe Medicine Biology Bioinformatics Deadline 2026-12-08 · 17 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Location: The Francis Crick Institute, Midland Road, London Contract: Full-time, fixed-term (4  … ← Positions Postdoctoral Fellow - Findlay Lab The Francis Crick Institute · United Kingdom · 🌍 Europe Medicine Biology Bioinformatics Deadline 2026-12-08 · 17 days left ↗ Aggregated listing Collected from the institution's own careers page. … Our world-class scientists and staff collaborate on vital research to help prevent, diagnose and treat illnesses such as cancer, heart disease, infectious diseases and neurodegenerative condition … Full description on the original posting ↗ Research topics Genomics Policy Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2692,7 +2515,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2745,7 +2568,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2772,7 +2595,7 @@
    "details": "← Positions Postdoctoral Fellow - Phoebe Lin Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Bioinformatics Immunology Microbiology Deadline 2026-12-09 · 36 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Highly motivated individuals with a PhD or MD/PhD in relevant area are encourag … ← Positions Postdoctoral Fellow - Phoebe Lin Lab Cleveland Clinic Lerner Research Institute · 🇺🇸 United States Bioinformatics Immunology Microbiology Deadline 2026-12-09 · 36 days left ↗ Aggregated listing Collected from the institution's own careers page.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2828,10 +2651,10 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "a10259e5fbff",
@@ -2859,7 +2682,7 @@
    "details": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry Employer Nowa Kommunikation Location Uppsala (Stad) (SE) Salary Individual salary setting Closing date 10 Dec 2026 View more categories View less categories Discipline Life Science Job Type Principal Investigator Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You … Through Uppsala University and SciLifeLab, there is also access to world-class national technology platforms in proteomics, genomics, imaging, bioinformatics and data-driven life science. … SciLifeLab brings together researchers across traditional boundaries and promotes collaborations with industry, healthcare, public research organizations and international partners. … SciLifeLab Fellows are also part of a broad national network of future academic leaders within SciLifeLab and Wallenberg’s national program for data-driven life science (DDLS fellows) and the fellow programs at the Wallenberg Centers for Molecular Medicine (WCMM fellows), ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2887,7 +2710,7 @@
    "details": "Research Fellow in Computational Biology Employer UNIVERSITY OF SOUTHAMPTON Location Southampton, United Kingdom Salary £36,636 per annum Closing date 10 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Research Fellowships Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an acc … Research Fellow in Computational Biology Employer UNIVERSITY OF SOUTHAMPTON Location Southampton, United Kingdom Salary £36,636 per annum Closing date 10 Dec 2026 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Research Fellowships Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … We are seeking an outstanding computational biologist to join the BioFAIR Pathfinder project to develop computational framework for gene regulatory network (GRN) inference met",
    "details_checked": true,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2918,7 +2741,7 @@
    "details": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry (SciLifeLab Fellow) Uppsala university Share: Facebook Twitter LinkedIn Email Application deadline December 10, 2026 Read more and apply SciLifeLab / Careers / Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry (SciLifeLab Fellow) Uppsala University, Department of Chemistry – BMC Are you ready to establish your ow … Through Uppsala University and SciLifeLab, there is also access to world-class national technology platforms in proteomics, genomics, imaging, bioinformatics and data-driven life science. … SciLifeLab brings together researchers across traditional boundaries and promotes collaborations with industry, healthcare, public research organizations and international partners. … SciLifeLab Fellows are also part of a broad national network of future academic leaders within SciLifeLab and Wallenberg’s national program for data-driven life science (DDLS fellows) and the fellow programs at the Wallenberg Centers for Molecular Medicine (WCMM fellows), ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2943,7 +2766,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -2971,10 +2794,10 @@
    "details": "Data Analyst Employer Human Technopole Location Milan (IT) Salary up to € 35.000 Closing date 10 Dec 2026 View more categories View less categories Discipline Life Science Job Type Researcher Employment - Hours Full time Duration Fixed term Qualification Masters Sector Government Apply on website (This will open in a new window from which you will be automatically redirected to an external site after 5 seconds) Save job Click to add the job to yo … Producing tables, charts and dashboards to summarise project data and research findings. … What you'll bring Essential Master's degree (completed or close to completion) in Bioinformatics, Biostatistics, Statistics, Data Science, Epidemiology, Life Sciences with a quantitative focus, or related field, or equivalent experience. … Organizational and social skills Excellent communication skills, with the ability to present complex data and analytical findings clearly and effectively to diverse audiences.",
    "details_checked": true,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "07c188259882",
@@ -2999,7 +2822,7 @@
    "details": "← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Bioinformatics Biology Ecology & Environment Deadline 2026-12-11 · 26 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position About the role. Comparative genomics, and specifically our ability to identify whi … ← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Bioinformatics Biology Ecology & Environment Deadline 2026-12-11 · 26 days left ↗ Aggregated listing Collected from the institution's own careers page. … Comparative genomics, and specifically our ability to identify which genes are related in different species, has revolutionized our.... … Life and Mind Building, South Parks Road, Oxford OX1 3EL About the role Comparative genomics, and specifically our ability to identify which genes are related in different species, has … Full description on the original posting ↗ Research topics Genomic",
    "details_checked": true,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3054,7 +2877,7 @@
    "details": "← Positions Postdoctoral Research Associate University of Oxford · United Kingdom · 🌍 Europe Bioinformatics Biology Ecology & Environment Deadline 2026-12-11 · 20 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Location: Life and Mind Building, South Parks Road, Oxford OX1 3EL Comparative genomics, an … ← Positions Postdoctoral Research Associate University of Oxford · United Kingdom · 🌍 Europe Bioinformatics Biology Ecology & Environment Deadline 2026-12-11 · 20 days left ↗ Aggregated listing Collected from the institution's own careers page. … Life and Mind Building, South Parks Road, Oxford OX1 3EL Comparative genomics, and specifically our ability to identify which genes are related in different species, has revolutionized our understanding of the natural world. … OrthoFinder has become … Full description on the original posting ↗ Research topics Genomics Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3136,10 +2959,37 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "830a63f9c66c",
+   "title": "Senior Bioinformatician",
+   "url": "https://www.nature.com/naturecareers/job/12867227/senior-bioinformatician/?LinkSource=PremiumListing",
+   "context": "Senior Bioinformatician Oxford, Oxfordshire (GB) Grade 8 (from £50,067) Radcliffe Department of Medicine, Univeristy of Oxford We are looking to recruit a highly motivated and experienced Bioinformatician to join the Antoniades group within the Division of Cardiovascular Me... View details Senior Bioinformatician",
+   "source_id": "naturecareers",
+   "source_name": "Nature Careers",
+   "published": null,
+   "deadline": "2026-12-12",
+   "category": "other",
+   "contract": false,
+   "region": "abroad",
+   "country": "International",
+   "kw_score": 40,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 40,
+   "details": "Senior Bioinformatician Employer Radcliffe Department of Medicine, Univeristy of Oxford Location Oxford, Oxfordshire (GB) Salary Grade 8 (from £50,067) Closing date 12 Dec 2026 View more categories View less categories Discipline Health Science Job Type Bioinformatician Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Apply on website (This will open in a new window from which you will be automatically redirected … Senior Bioinformatician Employer Radcliffe Department of Medicine, Univeristy of Oxford Location Oxford, Oxfordshire (GB) Salary Grade 8 (from £50,067) Closing date 12 Dec 2026 View more categories View less categories Discipline Health Science Job Type Bioinformatician Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Apply on website (This will open in a new window from which you will be automatically redirected to an external site after 5 seconds) Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details We are looking to recruit a high",
+   "details_checked": true,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "status": "open",
+   "match": true,
+   "new": true
   },
   {
    "id": "23a7f966b5b9",
@@ -3165,7 +3015,7 @@
    "details": "Talent Recruitment Announcement at the College of Artificial Intelligence Employer Huazhong Agricultural University (HZAU) Location Wuhan, Hubei (CN) Salary Competitive salary Closing date 14 Dec 2026 View more categories View less categories Discipline Applied Science , Chemistry , Computing , Engineering , Mathematics , Physics Job Type Engineer , Faculty Member , Principal Investigator , Professor , Project Manager , Researcher Employment - Ho … Scientist in Phenomics Intelligent Equipment R&D Design and develop intelligent equipment for plant phenomics. … Postdoctoral Fellow in Phenomics Develop and integrate next-generation plant phenotyping platforms, with a focus on multi-sensor data fusion and automated control systems. … Participate deeply in multi-omics research, such as phenomics and spatiotemporal omics, and contribute to the interpretation and experimental validation of biological phenomena. … Work closely with bioinformatics and geospatial information teams to provide robust biological data and theoretical support for the “digital design breeding” platform.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3194,7 +3044,7 @@
    "check_advt": false,
    "score": 89,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -3225,7 +3075,7 @@
    "details": "← Positions Postdoctoral Research Fellow (JR26559) The University of British Columbia · Vancouver · 🇨🇦 Canada Biology Medicine Bioinformatics Deadline 2026-12-15 · 35 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Job Title Postdoctoral Research Fellow Job Category Faculty Non Bargaining Job Family G … ← Positions Postdoctoral Research Fellow (JR26559) The University of British Columbia · Vancouver · 🇨🇦 Canada Biology Medicine Bioinformatics Deadline 2026-12-15 · 35 days left ↗ Aggregated listing Collected from the institution's own careers page. … Starting salary will be commensurate with experi … Full description on the original posting ↗ Research topics Genomics Proteomics Bioinformatics Microbiology Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-10",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3279,7 +3129,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3304,7 +3154,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3333,7 +3183,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3415,7 +3265,7 @@
    "check_advt": false,
    "score": 42,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3465,7 +3315,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3493,7 +3343,7 @@
    "details": "← Positions PostDoc Taracena Lab Cornell University, Entomology/CALS · 🇺🇸 United States Ecology & Environment Biology Bioinformatics Deadline 2026-12-18 · 32 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Academic Job Description Department of Entomology Postdoctoral Associate — Sexual Dimorphism of  … ← Positions PostDoc Taracena Lab Cornell University, Entomology/CALS · 🇺🇸 United States Ecology & Environment Biology Bioinformatics Deadline 2026-12-18 · 32 days left ↗ Aggregated listing Collected from the institution's own careers page. … The questions we probe and … Full description on the original posting ↗ Research topics Genomics Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3578,7 +3428,7 @@
    "details": "Postdoctoral Fellow in Microbial Evolution Stockholm University Share: Facebook Twitter LinkedIn Email Application deadline December 21, 2026 Read more and apply SciLifeLab / Careers / Postdoctoral Fellow in Microbial Evolution The Department of Ecology, Environment and Plant Sciences (DEEP) conducts research and education at the Arrhenius Laboratories on the Frescati campus. We are approximately 100 staff members, including doctoral students and … Environmental sampling, and cultivation and co-cultivation of unicellular eukaryotes and prokaryotes Microscopy, including time-lapse and high-content imaging, along with single-cell isolation and sorting Molecular laboratory work, including sample preparation for sequencing Analysis of large-scale genomic, transcriptomic, and single-cell sequencing data Phylogenetic and comparative genomic analyses Publication of results and presentation at international conferences Qualification requirements In order to qualify for a Postdoctoral position, applicants are required to hold a Swedish doctoral degree or an equivalent relevant degree from ano",
    "details_checked": true,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3716,7 +3566,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3744,7 +3594,7 @@
    "details": "← Positions Postdoctoral Position in Pulmonary - Belperio Lab 2026-2027 University of California, Los Angeles · Los Angeles · 🇺🇸 United States Biology Medicine Bioinformatics Deadline 2026-12-30 · 57 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position medicine-pulmonary disease / david geffen school of me … ← Positions Postdoctoral Position in Pulmonary - Belperio Lab 2026-2027 University of California, Los Angeles · Los Angeles · 🇺🇸 United States Biology Medicine Bioinformatics Deadline 2026-12-30 · 57 days left ↗ Aggregated listing Collected from the institution's own careers page. … Monday, Sep 14, 2026 at 11:59pm (Pacific Time) Applications received after this date will be reviewed by the search committee if the position has not yet been f … Full description on the original posting ↗ Research topics Proteomics Bioinformatics Immunology Microbiology Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3774,7 +3624,7 @@
    "details": "← Positions Research Fellow (CBDS/SXY) National University of Singapore · Singapore · 🇸🇬 Singapore Computer Science Medicine Bioinformatics Deadline 2026-12-31 · 58 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position The Duke-NUS Centre for Biomedical Data Science (CBDS) serves as a central hub for Duke-N … ← Positions Research Fellow (CBDS/SXY) National University of Singapore · Singapore · 🇸🇬 Singapore Computer Science Medicine Bioinformatics Deadline 2026-12-31 · 58 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position The Duke-NUS Centre for Biomedical Data Science (CBDS) serves as a central hub for Duke-NUS faculty specialising in Biostatistics, Bioinformatics, Systems Biology, Artificial Intelligence (AI), and other quantitative and data-driven sciences. … CBDS functions as a strategic platform for cutting-edge research, education, and services in data s",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3802,7 +3652,7 @@
    "details": "← Positions Postdoctoral Associate Cornell University, School of Integrative Plant Science - Section of Plant Pathology and Plant-Microbe Biology · 🇺🇸 United States Biology Microbiology Bioinformatics Deadline 2026-12-31 · 53 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Academic Job Description Pla … ← Positions Postdoctoral Associate Cornell University, School of Integrative Plant Science - Section of Plant Pathology and Plant-Microbe Biology · 🇺🇸 United States Biology Microbiology Bioinformatics Deadline 2026-12-31 · 53 days left ↗ Aggregated listing Collected from the institution's own careers page. … The … Full description on the original posting ↗ Research topics Genomics Bioinformatics Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3830,7 +3680,7 @@
    "details": "← Positions Postdoctoral Associate Broad Institute of MIT and Harvard, GaMBiT Initiative · 🇺🇸 United States Biology Bioinformatics Computer Science Deadline 2026-12-31 · 53 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position The Klarman Fellowship, a postdoctoral research program within the GaMBiT Initiat … ← Positions Postdoctoral Associate Broad Institute of MIT and Harvard, GaMBiT Initiative · 🇺🇸 United States Biology Bioinformatics Computer Science Deadline 2026-12-31 · 53 days left ↗ Aggregated listing Collected from the institution's own careers page. … The GaMBiT Initiat … Full description on the original posting ↗ Research topics Genomics Immunology Compiled from the institution's own careers or faculty pages.",
    "details_checked": true,
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3890,7 +3740,7 @@
    "check_advt": false,
    "score": 67,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3918,7 +3768,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -3945,7 +3795,7 @@
    "details": "1 | P a g e  \n \nLAST DATE FOR RECEIPT OF APPLICATIONS: 31.12.2026 \n \n \nFor Website \n \nINDIAN COUNCIL OF MEDICAL RESEARCH, NEW DELHI \n \nAdv.No.ICMR/Rectt/Sc-D/02/2026-RPCell \n \nRECRUITMENT NOTICE FOR SCIENTIST-D POSITIONS \n  \n  Indian Council of Medical Research (ICMR) is an Autonomous Organization, under the \nDepartment of Health Research, Ministry of Health & Family Welfare, Govt. of India. ICMR is \ndealing with biomedical/ health research in va … At the time of personal discussion, the applicants working in Centre/State Government \nDepartment/ Public Sector Undertakings & Govt.",
    "details_checked": true,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3970,7 +3820,7 @@
    "details": "1 | P a g e  \n \nLAST DATE FOR RECEIPT OF APPLICATIONS: 31.12.2026 \n \n \nFor Website \n \nINDIAN COUNCIL OF MEDICAL RESEARCH, NEW DELHI \n \nAdv.No.ICMR/Rectt/Sc-D/02/2026-RPCell \n \nRECRUITMENT NOTICE FOR SCIENTIST-D POSITIONS \n  \n  Indian Council of Medical Research (ICMR) is an Autonomous Organization, under the \nDepartment of Health Research, Ministry of Health & Family Welfare, Govt. of India. ICMR is \ndealing with biomedical/ health research in va … At the time of personal discussion, the applicants working in Centre/State Government \nDepartment/ Public Sector Undertakings & Govt.",
    "details_checked": true,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -3995,7 +3845,7 @@
    "details": "ICMR Recruitment Portal Login for the post of Scientist-D (Non-Medical)(ICMR-NIRBI) Forgot Password New User Registration",
    "details_checked": true,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4020,10 +3870,10 @@
    "details": "वेबसाइट के ͧलए \nभारतीय आयुͪव[£ान अनुसंधान पǐरषद, नई Ǒदãलȣ \nͪव£ापन सं. आईसीएमआर/भतȸ/वै£ाǓनक-डी/02/2026-आरपीसेल \n \nवै£ाǓनक-डी के पदɉ हेतु भतȸ सूचना \n \n       \nभारतीय आयुͪव[£ान अनुसंधान पǐरषद (आईसीएमआर), èवाèØय अनुसंधान ͪवभाग, èवाèØय एवं \nपǐरवार कãयाण मंğालय, भारत सरकार के अधीन एक èवायƣ संगठन है। आईसीएमआर, नई Ǒदãलȣ \nिèथत मुÉयालय तथा देश भर मɅ िèथत अपने 29 संèथानɉ/कɅ ġɉ तथा åयापक संÉया मɅ अपने फȧã ड \nèटेशनɉ के माÚयम से राçĚȣय/अंतरराçĚȣय एजɅͧसयɉ के सह",
    "details_checked": true,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "ac99eef18c59",
@@ -4045,7 +3895,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4101,7 +3951,7 @@
    "details": "Postdoctoral researcher in Rheumatology Login and apply Lund University, 009999 Lund University, 310000 MED Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition. Lund University welcomes applicants with diverse b … A nurse and a biostatistician are also affiliated with the group. … Process and analyse results from brain imaging studies in combination with other biomarkers. … Compile research findings and publish results in scientific journals. … Actively participate in internal meetings in Lund as well as international conferences.",
    "details_checked": true,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4183,7 +4033,7 @@
    "details": "← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position About the role. We are seeking enthusiastic and highly motivated Postdoctoral Research Associates to joi … ← Positions Postdoctoral Research Associate University of Oxford · Oxford · United Kingdom · 🌍 Europe Biology Bioinformatics Deadline 2027-01-04 · 41 days left ↗ Aggregated listing Collected from the institution's own careers page. … About you The successful applicant will hold a relevant PhD or DPhil, together with relevant research experience in the plant molecular biology, genetics, and genomics.",
    "details_checked": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4211,7 +4061,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4296,7 +4146,7 @@
    "details": "University Lecturer in Bioinformatics Employer UNIVERSITY OF HELSINKI Location Helsinki, Finland Salary 55,000–70,000 euros Closing date 7 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Lecturers / Assistant Professors Contract Type Permanent Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account … University Lecturer in Bioinformatics Employer UNIVERSITY OF HELSINKI Location Helsinki, Finland Salary 55,000–70,000 euros Closing date 7 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Lecturers / Assistant Professors Contract Type Permanent Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details Company Job Details The Faculty of Biological and Environmental Sciences, University of Helsinki, invites applications for the position of University Lecturer",
    "details_checked": true,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4375,7 +4225,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-14",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4402,7 +4252,7 @@
    "details": "Postdoc in population genomics – adaptation in landrace rye Swedish University of Agricultural Sciences (SLU) Share: Facebook Twitter LinkedIn Email Application deadline January 7, 2027 Read more and apply SciLifeLab / Careers / Postdoc in population genomics – adaptation in landrace rye Department of Forest Mycology and Plant Pathology Join the Department of Forest Mycology and Plant Pathology at the Swedish University of Agricultural Sciences ( … Postdoc in population genomics – adaptation in landrace rye Swedish University of Agricultural Sciences (SLU) Share: … Facebook Twitter LinkedIn Email Application deadline January 7, 2027 Read more and apply SciLifeLab / Careers / Postdoc in population genomics – adaptation in landrace rye Department of Forest Mycology and Plant Pathology Join the Department of Forest Mycology and Plant Pathology at the Swedish University of Agricultural Sciences (SLU) for a two-year postdoctoral position using population genomics to discover how rye adapts to different environments and what role its microbiota play. … You will lead the genomic work in the",
    "details_checked": true,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4427,7 +4277,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4454,7 +4304,7 @@
    "details": "Faculty Positions in Systems Hub, HKUST (GZ) Employer The Hong Kong University of Science and Technology (Guangzhou) Location The university is situated in the heart of the Guangdong-Hong Kong-Macau Greater Bay Area, a highly active and vibrant region in the world. Salary Salary is highly competitive of international standard and will be commensurate with qualifications and experience. Closing date 8 Jan 2027 View more categories View less catego … Molecular Cell Biology Tissue Engineering Neuroscience Chemical Biology Synthetic Biology Biomaterial Science Bioengineering Biomedical Engineering Bioinformatics and C omputational B iology Applications from distinguished individuals specializing in other subfields of bioscience, bioengineering, and biomedical engineering will also be actively considered. … Advanced Air Mobility (AAM) AI-empowered Transportation Connected and Autonomous Vehicles (CAV) Embodied AI in Transportation Human Factors in Transportation Logistics and Freight Transportation Mobility as a Service (MaaS) Transportation Economics Transportation Electrification and Su",
    "details_checked": true,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4481,7 +4331,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4570,10 +4420,10 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "4b76c34ad7f6",
@@ -4598,10 +4448,10 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "09ddf9171c8c",
@@ -4623,7 +4473,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4684,6 +4534,33 @@
    "new": false
   },
   {
+   "id": "57f9000f09e3",
+   "title": "Faculty Position in Microbial Systems Bioinformatics",
+   "url": "https://www.nature.com/naturecareers/job/12867232/faculty-position-in-microbial-systems-bioinformatics/?LinkSource=PremiumListing",
+   "context": "Faculty Position in Microbial Systems Bioinformatics Laval University, Quebec, Canada (CA) Annual salary (12 months) ranging from $102,030 to $183,063 Laval University Faculty Position in Microbial Systems Bioinformatics View details Faculty Position in Microbial Systems Bioinformatics",
+   "source_id": "naturecareers",
+   "source_name": "Nature Careers",
+   "published": null,
+   "deadline": "2027-01-25",
+   "category": "permanent",
+   "contract": false,
+   "region": "abroad",
+   "country": "Canada",
+   "kw_score": 77,
+   "matched": [
+    "bioinformatic"
+   ],
+   "check_advt": false,
+   "score": 77,
+   "details": "Faculty Position in Microbial Systems Bioinformatics Employer Laval University Location Laval University, Quebec, Canada (CA) Salary Annual salary (12 months) ranging from $102,030 to $183,063 Closing date 25 Jan 2027 View more categories View less categories Discipline Life Science Job Type Professor Employment - Hours Full time Duration Permanent Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You nee … Faculty Position in Microbial Systems Bioinformatics Employer Laval University Location Laval University, Quebec, Canada (CA) Salary Annual salary (12 months) ranging from $102,030 to $183,063 Closing date 25 Jan 2027 View more categories View less categories Discipline Life Science Job Type Professor Employment - Hours Full time Duration Permanent Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details Faculty Position in Microbial Systems Bioinformatics. … The Department of Biochemistry, Microbiology, and Bioinformatics in t",
+   "details_checked": true,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "status": "open",
+   "match": true,
+   "new": true
+  },
+  {
    "id": "da59781faa9f",
    "title": "DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS",
    "url": "https://www.nature.com/naturecareers/job/12866156/department-of-molecular-and-human-genetics-tenured-and-tenure-track-research-faculty-positions/?LinkSource=PremiumListing",
@@ -4706,7 +4583,7 @@
    "details": "DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS Employer Baylor College of Medicine (BCM) Location Houston, Texas (US) Salary Commensurate with experience Closing date 26 Jan 2027 View more categories View less categories Discipline Biomedicine , Health Science Job Type Faculty Member Employment - Hours Full time Duration Permanent Qualification PhD Sector Academia Apply now Save job Click to add the … DEPARTMENT OF MOLECULAR AND HUMAN GENETICS TENURED AND TENURE-TRACK RESEARCH FACULTY POSITIONS Employer Baylor College of Medicine (BCM) Location Houston, Texas (US) Salary Commensurate with experience Closing date 26 Jan 2027 View more categories View less categories Discipline Biomedicine , Health Science Job Type Faculty Member Employment - Hours Full time Duration Permanent Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details The Department of Molecular and Human Genetics at Baylor College of Medicine invites applicatio",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4735,7 +4612,7 @@
    "details": "The University of Osaka Immunology Frontier Research Center Postdoctoral Researcher Employer Immunology Frontier Research Center, The University of Osaka Location Suita Campus, The University of Osaka in Osaka, Japan Salary Annual salary: Commensurate with experience Closing date 29 Jan 2027 View more categories View less categories Discipline Life Science Job Type Postdoctoral Employment - Hours Full time Duration Fixed term Qualification PhD Se … Send job Job Details Immunology Frontier Research Center (IFReC), The University of Osaka in Japan offers Advanced Postdoc Positions for Immunology, Cell Biology, Bioinformatics and Bioimaging [Advanced Postdoc Program of IFReC, The University of Osaka] The University of Osaka Immunology Frontier Research Center (IFReC) is recruiting post-doctoral researchers for its Advanced Postdoc Program. … Selected applicants have access to continually upgraded state-of-the-art facilities at IFReC for their research, including equipment for single-cell analysis. … Immunology, Cell Biology, Bioinformatics and Bioimaging 5.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4764,7 +4641,7 @@
    "details": "POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to sav … POSTDOC POSITION in Bioinformatics with a Focus on Tooth Regeneration and Repair Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Science and research Medical Faculty of Masaryk University, Brno, Czech Republic invites excellent scientists to apply for a two-year POSTDOC POSITION in Bioinformatics with a Focus on T",
    "details_checked": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4791,7 +4668,7 @@
    "details": "Postdoctoral Fellow in Computational Oncology and Multi-Omics Research Employer THE UNIVERSITY OF HONG KONG Location Pok Fu Lam, Hong Kong Salary Competitive salary Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry Job Type Academic Posts , Postdocs Contract Type Fixed Term … Postdoctoral Fellow in Computational Oncology and Multi-Omics Research Employer THE UNIVERSITY OF HONG KONG Location Pok Fu Lam, Hong Kong Salary Competitive salary Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Computer Science , Engineering & Technology , Clinical, Pre-clinical & Health , Life sciences , Medicine & Dentistry Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Senior Research Staff & Post-doctoral Fellow Postdoctoral",
    "details_checked": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4819,7 +4696,7 @@
    "details": "POSTDOC POSITION in CNS Barrier Biology Employer MASARYK UNIVERSITY Location Brno, Czech Republic Closing date 31 Jan 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send job Job Details Company Job … The projects integrate transcriptomics (RNA sequencing), proteomics, and experimental disease models to identify molecular alterations and pathways associated with neuroinflammation, neurodegeneration, and neuropathic pain. … A central responsibility of the successful candidate will be to translate omics findings into experimentally testable hypotheses and independently design and perform validation experiments . … The candidate will use a combination of molecular, biochemical, imaging, and cell-based approaches to validate and further characterize findings from ongoing transcriptomic and proteomic studies. … Experience in experimental val",
    "details_checked": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4844,7 +4721,7 @@
    "check_advt": false,
    "score": 62,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -4876,7 +4753,7 @@
    "last_seen": "2026-11-26",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "0dd4552fd8b5",
@@ -4957,7 +4834,7 @@
    "details": "Bioinformatician – Long-Read Genomics, Pangenomics and Precision Medicine Employer Sidra Medicine Qatar Location Doha (QA) Salary Competitive package with benefits - Tax free Closing date 10 Feb 2027 View more categories View less categories Discipline Biomedicine , Computing , Health Science , Life Science Job Type Bioinformatician Employment - Hours Full time Duration Permanent Qualification Masters Sector Hospital Apply now Save job Click to a … Bioinformatician – Long-Read Genomics, Pangenomics and Precision Medicine Employer Sidra Medicine Qatar Location Doha (QA) Salary Competitive package with benefits - Tax free Closing date 10 Feb 2027 View more categories View less categories Discipline Biomedicine , Computing , Health Science , Life Science Job Type Bioinformatician Employment - Hours Full time Duration Permanent Qualification Masters Sector Hospital Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details THE OPPORTUNITY Sidra Medicine, Qatar, is seeking a talented and highly motivated Bioinfo",
    "details_checked": true,
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -4988,7 +4865,7 @@
    "details": "Post-doctoral Fellow in the Department of Microbiology, School of Clinical Medicine Employer THE UNIVERSITY OF HONG KONG Location Hong Kong Salary Competitive salary Closing date 15 Feb 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Fixed Term Hours Full Time Apply on website Save job Click to add the job to your shortlist You need to sign in  … degree preferably in Bioinformatics or a related discipline. … They should be highly competent in bulk RNA-seq and single-cell data analysis, and able to work independently and in a team. … He/She will perform multiple types of sequencing data analysis and develop analytical tools in the field of immunology.",
    "details_checked": true,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5017,7 +4894,7 @@
    "details": "Postdoctoral Research Fellow Employer UT Southwestern Location Dallas, Texas (US) Salary Competitive Closing date 15 Feb 2027 View more categories View less categories Discipline Biomedicine Job Type Postdoctoral Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send job Job Details Postdoctoral Resear … Our discoveries are made using state-of-the-art technologies in CRISPR gene editing, single cell RNA sequencing, bioinformatics, genetic engineering in mice, intravital microscopy and other imaging modalities, and a number of cell and molecular techniques. … Experience with genetic mouse models and genomic approaches is a plus.",
    "details_checked": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5045,7 +4922,7 @@
    "details": "Virus Bioinformatics Lead, Sequence Plus (SeqPlus) Staff Scientist 1 Employer National Institutes of Health/National Library of Medicine Location Bethesda, Maryland Salary n Closing date 16 Feb 2027 View more categories View less categories Discipline Biomedicine Job Type Project Manager Employment - Hours Full time Duration Fixed term Qualification PhD Sector Government Apply now Save job Click to add the job to your shortlist You need to sign i … Virus Bioinformatics Lead, Sequence Plus (SeqPlus) Staff Scientist 1 Employer National Institutes of Health/National Library of Medicine Location Bethesda, Maryland Salary n Closing date 16 Feb 2027 View more categories View less categories Discipline Biomedicine Job Type Project Manager Employment - Hours Full time Duration Fixed term Qualification PhD Sector Government Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … NCBI performs research in computational biology and creates and maintains information systems and computational tools for the biological research and clinica",
    "details_checked": true,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5072,7 +4949,7 @@
    "details": "Tenure-Track Faculty Employer Faculty of Medicine Bar Ilan University Location Israel (IL) Salary TENURE-TRACK FACULTY Closing date 16 Feb 2027 View more categories View less categories Discipline Applied Science , Biomedicine , Chemistry , Computing , Health Science , Life Science , Mathematics Job Type Faculty Member Employment - Hours Full time Duration Permanent Qualification PhD Sector Academia Apply now Save job Click to add the job to your … Biomedical Sciences, Bioinformatics & Data Science, Pharmacology, Public Health Why join us? Generous start-up grant:",
    "details_checked": true,
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5097,7 +4974,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5122,7 +4999,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5151,7 +5028,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5211,7 +5088,7 @@
    "details": "← Positions Research Fellow (CBDS/CJM) National University of Singapore · Singapore · 🇸🇬 Singapore Medicine Computer Science Bioinformatics Deadline 2027-03-02 · 119 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position Dr Chen Jinmiao is looking for a motivated Research Fellow to join her laboratory within … ← Positions Research Fellow (CBDS/CJM) National University of Singapore · Singapore · 🇸🇬 Singapore Medicine Computer Science Bioinformatics Deadline 2027-03-02 · 119 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position Dr Chen Jinmiao is looking for a motivated Research Fellow to join her laboratory within the Centre for Biomedical Data Science (CBDS). … The successful candidate will contribute to AI-powered analyses of single-cell and spatial omics to advance precision medicine. … Dr Chen’s research team develops AI algorithms for spatial and single-cell ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5321,7 +5198,7 @@
    "check_advt": false,
    "score": 95,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5348,7 +5225,7 @@
    "details": "← Positions Research Fellow (Pharmacy and Pharmaceutical Sciences) National University of Singapore · Singapore · 🇸🇬 Singapore Biology Immunology Bioinformatics Deadline 2027-05-11 · 180 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position We are seeking a highly motivated and independent Research Fellow t … ← Positions Research Fellow (Pharmacy and Pharmaceutical Sciences) National University of Singapore · Singapore · 🇸🇬 Singapore Biology Immunology Bioinformatics Deadline 2027-05-11 · 180 days left ↗ Aggregated listing Collected from the institution's own careers page.",
    "details_checked": true,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5375,7 +5252,7 @@
    "details": "← Positions Postdoctoral Scholar-Department of Dermatology University of California, Irvine · Irvine · 🇺🇸 United States Biology Bioinformatics Deadline 2027-05-13 · 191 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position dermatology / school of medicine. Position overview Salary range: The salary range fo … ← Positions Postdoctoral Scholar-Department of Dermatology University of California, Irvine · Irvine · 🇺🇸 United States Biology Bioinformatics Deadline 2027-05-13 · 191 days left ↗ Aggregated listing Collected from the institution's own careers page.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5404,7 +5281,7 @@
    "details": "Faculty Positions in Center of Bioelectronic Medicine, School of Life Sciences, Westlake University Employer Westlake University School of Life Science Location Hangzhou, Zhejiang, China Salary Internationally competitive salary and startup package Closing date 14 May 2027 View more categories View less categories Discipline Biomedicine , Chemistry , Health Science , Life Science , Physics Job Type Faculty Member Employment - Hours Full time Dura … SLS has established state-of-the-art animal facilities and core technology platforms, including cryo-electron microscopy, mass spectrometry, flow cytometry, light microscopy, genomics, metabolism, bioinformatics, and high-throughput screening.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5433,7 +5310,7 @@
    "details": "Faculty Positions, Aging and Neurodegeneration, Westlake Laboratory of Life Sciences and Biomedicine Employer Westlake University School of Life Science Location Hangzhou, Zhejiang, China Salary Internationally competitive salary and startup package Closing date 14 May 2027 View more categories View less categories Discipline Biomedicine , Chemistry , Health Science , Life Science Job Type Faculty Member Employment - Hours Full time Duration Fixe … Successful applicants will be offered internationally competitive salaries and benefits, a generous start-up package, modern laboratory space, and access to state-of-the-art core facilities at WLLSB, including cryo-electron microscopy, mass spectrometry, flow cytometry, light microscopy, genomics, metabolism, bioinformatics, and high-throughput screening.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5489,7 +5366,7 @@
    "details": "China National Center for Bioinformation Announces Global Recruitment for High-Level Talents Employer China National Center for Bioinformation Location Beijing (CN) Salary Case-by-case. Internationally competitive salary and benefits Closing date 23 Jun 2027 View more categories View less categories Discipline Biomedicine , Computing , Health Science , Life Science , Mathematics , Physics Job Type Bioinformatician , Postdoctoral , Principal Inves … Internationally competitive salary and benefits Closing date 23 Jun 2027 View more categories View less categories Discipline Biomedicine , Computing , Health Science , Life Science , Mathematics , Physics Job Type Bioinformatician , Postdoctoral , Principal Investigator , Professor Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … Send job Job Details China National Center for Bioinformation Announces Global Recruitment for High-Level Talents China National Center for Bioinformation (CNCB) is",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5567,7 +5444,7 @@
    "details": "← Positions Open Positions - Specialist Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salary range: A … ← Positions Open Positions - Specialist Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5595,7 +5472,7 @@
    "details": "← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salar … ← Positions Open Positions - Postdoctoral Scholar Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5623,7 +5500,7 @@
    "details": "← Positions Open Positions - Project Scientist Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences. Position overview Salary r … ← Positions Open Positions - Project Scientist Series University of California, Irvine · Irvine · 🇺🇸 United States Bioinformatics Biology Deadline 2027-06-30 · 239 days left ↗ Aggregated listing Collected from the institution's own careers page. … View the original posting ↗ Share About this position systems biology / charlie dunlop school of biological sciences.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5648,7 +5525,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5673,7 +5550,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5784,7 +5661,7 @@
    "details": "Faculty Positions (Life Science and Technology) Employer ShanghaiTech University Location Shanghai (CN) Salary Competitive salary Closing date 25 Aug 2027 View more categories View less categories Discipline Biomedicine , Life Science Job Type Faculty Member Employment - Hours Full time Duration Fixed term Qualification PhD Sector Academia Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send … Biomedicine and Pharmacology Developmental and Regenerative Biology Genomics, Proteomics and Bioinformatics Metabolism and Physiology Molecular and Cellular Biology Neuroscience Computational Structural Biology Infection and Immunology We offer internationally competitive start-up funds, including provisions for Research Associates and Post-Doctoral fellows, and ensure that laboratory space aligns with the specific requirements of your research. … AI-driven drug design, De novo protein design, Bioinformatics, Medicinal chemistry, Chemical biology, Drug modality development . … iHuman brings together interdisciplinary research teams working",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5811,7 +5688,7 @@
    "details": "Multiple Positions Open in the Stomatology Hospital, ZJUSS Employer The Stomatology Hospital, Zhejiang University School of Medicine Location Hangzhou, Zhejiang (CN) Salary You can bid it! Closing date 29 Sep 2027 View more categories View less categories Discipline Clinical , Health Science , Life Science Job Type Faculty Member , Health Professional , Lecturer , Postdoctoral , Principal Investigator , Professor , Researcher Employment - Hours F … Send job Job Details Zhejiang University (ZJU), founded in 1897, ranks among the top 3 on Chinese mainland and within the top 100 in the Times Higher Education World Reputation Ranking and QS World University Rankings. … Bio-medical Science, Immunology, Stem Cell and Regenerative Medicine, Biomaterial, Engineering and Bioinformatics, Statistics as well as all other fields related with dental researches.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5839,7 +5716,7 @@
    "details": "AgBS - Post-Doctoral in Genomics and Bioinformatics Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 5 Nov 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. Send job J … AgBS - Post-Doctoral in Genomics and Bioinformatics Employer MOHAMMED VI POLYTECHNIC UNIVERSITY Location Benguerir, Morocco (MA) Closing date 5 Nov 2027 View more categories View less categories Academic Discipline Biological Sciences , Life sciences Job Type Academic Posts , Postdocs Contract Type Permanent Hours Full Time Apply now Save job Click to add the job to your shortlist You need to sign in or create an account to save a job. … UM6P - Post-Doctoral in Genomics and Bioinformatics Position Announcement - Mohammed VI Polytechnic University (UM6P), AgroBioSciences (AgBS) UM6P - Post-Doctoral position Position Announcement - Mohammed ",
    "details_checked": true,
    "first_seen": "2026-11-06",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5922,7 +5799,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5947,7 +5824,7 @@
    "check_advt": false,
    "score": 65,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-21",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -5976,7 +5853,7 @@
    "details": "← Positions Full Professional Researcher – Krummel lab University of California, San Francisco · San Francisco · 🇺🇸 United States Medicine Bioinformatics Biology Deadline 2028-02-06 · 460 days left ↗ Aggregated listing Collected from the institution's own careers page. Accurate when collected; not submitted by the hiring group. View the original posting ↗ Share About this position pathology / school of medicine. Position description Full Professi … ← Positions Full Professional Researcher – Krummel lab University of California, San Francisco · San Francisco · 🇺🇸 United States Medicine Bioinformatics Biology Deadline 2028-02-06 · 460 days left ↗ Aggregated listing Collected from the institution's own careers page. … Position description Full Professional Researcher – Krummel lab The Krummel lab in the Department of Pathology seeks a computational scientist to help lead the UCSF Custom Immunoprofiler project (co-led by the Krummel and Combes labs at UCSF), applying single-cell genomics and machine learning to patient tumor samples and to in vivo and ex vivo perturbation models i … Full",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6005,7 +5882,7 @@
    "check_advt": false,
    "score": 67,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6035,7 +5912,7 @@
    "check_advt": false,
    "score": 73,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6184,7 +6061,7 @@
    "details": "Xin Gao Professor, Computer Science Co-Chair, Center of Excellence for Smart Health Principal Investigator, Structural and Functional Bioinformatics Executive Committee Member, Center of Excellence for Generative AI Program Chair (former), Computer Science xin.gao@kaust.edu.sa bioinformatics Computational biology machine learning big data Professor Gao is a world-leading expert in developing novel AI solutions for challenges in biology, biomedici … Xin Gao Professor, Computer Science Co-Chair, Center of Excellence for Smart Health Principal Investigator, Structural and Functional Bioinformatics Executive Committee Member, Center of Excellence for Generative AI Program Chair (former), Computer Science xin.gao@kaust.edu.sa bioinformatics Computational biology machine learning big data Professor Gao is a world-leading expert in developing novel AI solutions for challenges in biology, biomedicine, and health and wellness, with a focus on AI-based drug development, large language models in biomedicine, biomedical imaging analysis, and omics-based disease detection and diagnostics. … Befor",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6216,7 +6093,7 @@
    "check_advt": false,
    "score": 100,
    "first_seen": "2026-11-22",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6363,7 +6240,7 @@
    "check_advt": false,
    "score": 89,
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6393,7 +6270,7 @@
    "details": "Postdoc Abroad Share Facebook X Pinterest WhatsApp Linkedin ReddIt Email Print Tumblr Telegram Mix VK Digg LINE Viber The Henry M. Jackson Foundation for the Advancement of Military Medicine (HJF) is seeking a highly motivated Postdoctoral Fellow specializing in Computational Biology and Machine Learning . This role focuses on applying advanced statistical and computational modeling to genomics, specifically targeting cancer research through arti … Jackson Foundation for the Advancement of Military Medicine (HJF) is seeking a highly motivated Postdoctoral Fellow specializing in Computational Biology and Machine Learning . … This role focuses on applying advanced statistical and computational modeling to genomics, specifically targeting cancer research through artificial intelligence and deep learning methods. … Job Overview Designation Postdoctoral Fellow Research Area Computational Biology, Machine Learning, Cancer Genomics, Bioinformatics Location Not Specified (Primarily Office-based) Salary Range $52,800 – $78,000 per annum Experience 0–5 years of postdoctoral experience Last Dat",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6540,7 +6417,7 @@
    "details": "Postdoc Abroad Share Facebook X Pinterest WhatsApp Linkedin ReddIt Email Print Tumblr Telegram Mix VK Digg LINE Viber Summary The Zhou Lab at Massachusetts General Hospital (MGH) and Harvard Medical School , with affiliation to the Broad Institute of MIT and Harvard , invites applications for Postdoctoral positions in Statistical Genetics and Method Development . The positions offer opportunities to develop robust, scalable statistical methods an … Postdoc Abroad Share Facebook X Pinterest WhatsApp Linkedin ReddIt Email Print Tumblr Telegram Mix VK Digg LINE Viber Summary The Zhou Lab at Massachusetts General Hospital (MGH) and Harvard Medical School , with affiliation to the Broad Institute of MIT and Harvard , invites applications for Postdoctoral positions in Statistical Genetics and Method Development . … The positions offer opportunities to develop robust, scalable statistical methods and computational tools for single-cell omics and the genetics of disease progression . … Postdoctoral researchers will lead independent methods and software projects, work with large-scale single-",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6570,7 +6447,7 @@
    "details": "Postdoc Abroad Share Facebook X Pinterest WhatsApp Linkedin ReddIt Email Print Tumblr Telegram Mix VK Digg LINE Viber Summary Aarhus University is offering a postdoctoral research position focused on the intersection of plant regulatory genomics and artificial intelligence. This role provides an opportunity to work at the forefront of computational biology and plant science within a world-class research environment. Designation Postdoctoral Resea … Postdoc Abroad Share Facebook X Pinterest WhatsApp Linkedin ReddIt Email Print Tumblr Telegram Mix VK Digg LINE Viber Summary Aarhus University is offering a postdoctoral research position focused on the intersection of plant regulatory genomics and artificial intelligence. … This role provides an opportunity to work at the forefront of computational biology and plant science within a world-class research environment. … Designation Postdoctoral Researcher Research Area Plant Regulatory Genomics, Artificial Intelligence, and Bioinformatics. … Eligibility/Qualification A PhD in Bioinformatics, Plant Science, Genomics, Computer Science, or a ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6684,7 +6561,7 @@
    "check_advt": false,
    "score": 77,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -6714,7 +6591,7 @@
    "details": "Match Fellowships & Scholarships by Your Qualification & Eligibility Select your degree stage (B.Sc., M.Sc., Ph.D., Postdoc, or Faculty) and exam status to instantly see every Indian and international fellowship you qualify for — including stipend slabs, age/experience limits, and direct-entry fellowships that don't require NET/GATE. Browse All Open Scholarships Fellowship Proposal & SOP Support Galley Fellowship Eligibility Engine Select Your Qu … Pre-final year B.Tech, M.Sc., Integrated M.Sc., or B.Pharm students in Biotechnology, Life Sciences, Computational Biology, or allied areas with CGPA ≥ 8.0. … / M.Tech / MVSc / B.Tech in Biotechnology, Bioinformatics, Life Sciences, Microbiology, Biochemistry, Genetics, or allied disciplines with ≥60% marks. … or equivalent degree in Biomedical Sciences, Life Sciences, Microbiology, Genetics, Biotechnology, Biochemistry, Bioinformatics, or Public Health with ≥55% marks.",
    "details_checked": true,
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6741,7 +6618,7 @@
    "check_advt": false,
    "score": 74,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -6771,7 +6648,7 @@
    "check_advt": false,
    "score": 74,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6827,7 +6704,7 @@
    "check_advt": false,
    "score": 74,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6856,7 +6733,7 @@
    "details": "Our people Almost 1,000 scientists, developers, engineers and skilled professionals work together to deliver the Sanger Institute’s cutting-edge genomic research. Find out more Careers Create a lasting legacy. Join us. We specialise in growing the next generation of genomics scientists, technicians, IT and support services Find out more Study We are committed to training the next generation of pioneering genome scientists and clinicians Find out  … Our people Almost 1,000 scientists, developers, engineers and skilled professionals work together to deliver the Sanger Institute’s cutting-edge genomic research. … We specialise in growing the next generation of genomics scientists, technicians, IT and support services Find out more Study We are committed to training the next generation of pioneering genome scientists and clinicians Find out more Explore our governance Sanger Leadership Team The Sanger Leadership Team is an Executive Committee that reports to the Director and the Genome Research Limited (GRL) Board.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6940,7 +6817,7 @@
    "check_advt": false,
    "score": 70,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -6967,7 +6844,7 @@
    "check_advt": false,
    "score": 69,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7058,7 +6935,7 @@
    "check_advt": false,
    "score": 69,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7090,7 +6967,7 @@
    "check_advt": false,
    "score": 69,
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7121,7 +6998,7 @@
    "details": "Assistant Professor in Biochemistry with specialisation in Experimental Protein Biochemistry (SciLifeLab Fellow) 2026-10-29 Are you ready to establish your own research group and pursue ambitious questions in experimental protein biochemistry? Join Uppsala University and SciLifeLab to develop an independent research programme in a collaborative, internationally leading scientific environment. We are now looking for an Assistant Professor (SciLife … Through Uppsala University and SciLifeLab, there is also access to world-class national technology platforms in proteomics, genomics, imaging, bioinformatics and data-driven life science. … SciLifeLab brings together researchers across traditional boundaries and promotes collaborations with industry, healthcare, public research organizations and international partners. … SciLifeLab Fellows are also part of a broad national network of future academic leaders within SciLifeLab and Wallenberg’s national program for data-driven life science (DDLS fellows) and the fellow programs at the Wallenberg Centers for Molecular Medicine (WCMM fellows), ",
    "details_checked": true,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7151,7 +7028,7 @@
    "check_advt": false,
    "score": 69,
    "first_seen": "2026-11-21",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7270,10 +7147,10 @@
    "details": "chevron_left Übersicht Bioinformatician Spatial Transcriptomics and Single-Cell Analysis 80%-100%, Zurich, fixed-term print Drucken The Functional Genomics Center Zurich (FGCZ) is an interdisciplinary research and training center of the University of Zurich and ETH Zurich. We support life science research with state-of-the-art technologies for genomics, transcriptomics, proteomics, and metabolomics as well as high-end bioinformatics analysis. The … chevron_left Übersicht Bioinformatician Spatial Transcriptomics and Single-Cell Analysis 80%-100%, Zurich, fixed-term print Drucken The Functional Genomics Center Zurich (FGCZ) is an interdisciplinary research and training center of the University of Zurich and ETH Zurich. … We support life science research with state-of-the-art technologies for genomics, transcriptomics, proteomics, and metabolomics as well as high-end bioinformatics analysis. … The FGCZ bioinformatics group provides raw data processing, high-performance computing, statistical evaluation, interpretation, and integrated analysis of omics data as a service to and in collabo",
    "details_checked": true,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "e9a49f3a0834",
@@ -7299,7 +7176,7 @@
    "details": "Scientists at ICGEB run over 45 research projects across as many laboratories in Trieste, Italy, New Delhi, India and Cape Town, South Africa. Find out more about our Principal Investigators, their research activities and fields of expertise. Trieste, Italy – Headquarters Lawrence Banks Tumour Virology Marco Baralle RNA Biology Federica Benvenuti Federica Benvenuti Cellular Immunology Luca Braga Functional Cell Biology Emanuele Buratti Molecular  … Myers Protein Networks Silvano Piazza Computational Biology Natasa Skoko Biotechnology Development Vittorio Venturi Bacteriology Giovanni Sorrentino Advanced Disease Models Serena Zacchigna Cardiovascular Biology New Delhi, India Arockiasamy Arulandu Structural Biology Neel Sarovar Bhavesh Transcription Regulation Anmol Chandele Emory Vaccine Program Ved Prakash Dwivedi Immunobiology Naseem Gaur Yeast Biofuel Screenshot Dinesh Gupta Translational Bioinformatics Pavan Jutur Omics of Algae Tanushri Kaul Nutritional Improvement of Crops Dhiraj Kumar Cellular Immunology Sanjeev Kumar Emory Vaccine Program Shashi Kumar Metabolic Engineering Asi",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7411,7 +7288,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7502,7 +7379,7 @@
    "details": "Page 1 of 7  \n \n \n \n \n \n \n \n \nAdvertisement No. NIBMG/ ACAD/PROJECT RECT./2026-27/092 Date: 25-06-2026 \n \nPosition available \nProject name: Uncovering the functional significance of novel genetic variations in multi-ancestry Indian \npopulations through integrative genomics and proteomics analysis \n       Funding Agency: Department of Biotechnology, Govt of India \n \nPrincipal Investigator’s name: Prof Analabha Basu \nProject Description: How genomi … Uncovering the functional significance of novel genetic variations in multi-ancestry Indian \npopulations through integrative genomics and proteomics analysis \n       Funding Agency: … How genomic variation impacts phenotype is a fundamental problem of disease \ngenetics. … Efforts to understand genomic variants to gene \nexpression have been Eurocentric and hence its transability in understanding disease phenotype in \nother populations, like India has been limited. … Our goal is to \nidentify functional underpinnings of these novel genetic alterations through an integrated multi-omics \napproach.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7528,7 +7405,7 @@
    "check_advt": false,
    "score": 63,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7561,7 +7438,7 @@
    "details": "Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Login and apply Do you want to contribute to improving human health? Description of the research group Alpha Cell is a new SciLifeLab strategic program aimed at building the first molecular-level computational model of the human cell. The program is led by Jan Ellenberg, Director of SciLifeLab and Mathias Ulhen, Director of the Human Protein Atlas, together with a col … Our lab develops deep learning models of molecular networks in cancer to advance precision medicine. … By integrating high-throughput data (e.g., transcriptomics, proteomics, metabolomics) with prior knowledge of molecular interactions, we construct interpretable models that capture system-level mechanisms in cells to enable the identification of drug targets, biomarkers, and resistance mechanisms. … We are seeking a postdoctoral researcher to develop next-generation AI models of cellular dynamics, with a focus on scalable neural network architectures that represent the molecular composition of a single cell in space and time. … PhD in a f",
    "details_checked": true,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7590,7 +7467,7 @@
    "details": "Federico Abascal Staff Scientist Martincorena Group Dr Dominic Absolon Senior Computer Biologist Dr Hend Abu-Elmakarem Postdoctoral Fellow Blaxter Group Dr David Adams Head of the Somatic Genomics Programme and Senior Group Leader Adams Group Mr Timi Odimegwu Adewumi Advanced Research Assistant DNA Pipelines Tobi Ajenifuja Advanced Laboratory Automation Specialist DNA Pipelines Research and Development Prof Alfred Amambua-Ngwa International Fello … Federico Abascal Staff Scientist Martincorena Group Dr Dominic Absolon Senior Computer Biologist Dr Hend Abu-Elmakarem Postdoctoral Fellow Blaxter Group Dr David Adams Head of the Somatic Genomics Programme and Senior Group Leader Adams Group Mr Timi Odimegwu Adewumi Advanced Research Assistant DNA Pipelines Tobi Ajenifuja Advanced Laboratory Automation Specialist DNA Pipelines Research and Development Prof Alfred Amambua-Ngwa International Fellow at the Sanger Institute, and Professor at the Medical Research Unit The Gambia at LSHTM Dr Carl Anderson Head of Human Genetics and Senior Group Leader Anderson Group Holly Anderson Advanced Rese",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7648,7 +7525,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7681,7 +7558,7 @@
    "details": "Faculty Recruitments Faculty Recruitments Recruitment for Faculty Positions Detailed Advertisement (Dated 30-09-2026) Instructions for Online Recruitment Application Form Click here to fill Online Recruitment Application Form Recruitment for Lecturers on Contract Basis Detailed Advertisement (Dated 15-06-2026) Instructions for Online Recruitment Application Form Click here to fill Online Recruitment Application Form Corrigendum Recruitment for Le … 3 \n \ndesign and assembly of genetic circuits and de novo \npathway construction for novel biomolecule production, \nenabling sustainable bioengineering, AI/ML models for \nsystems biology (e.g., deep learning for protein folding \nprediction, network inference), bioinf ormatics pipelines, \nand big data analytics using Python, R, TensorFlow, and \nAlphaFold derivatives. … biomarker discovery, rational design of targeted \ntherapeutics and precision medicine via multi - omics \nintegration, AI-accelerated drug discovery. … Experie nce in \nresearch using clinical samples and collaborations with \nclinicians, bioinformaticians, and Industry. … high -\n",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7710,7 +7587,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -7741,7 +7618,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7770,7 +7647,7 @@
    "details": "Assistant Researcher in the Development of Gene Therapy for Parkinson’s Disease Login and apply Lund University Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition. Lund University welcomes applicants with diver … https://portal.research.lu.se/en/organisations/molecular-neuromodulation/ Tasks and responsibilities You will be in charge of the development of a novel gene therapy for Parkinson’s disease through the molecular biology development phase, in vivo screening and validation, as well as post-mortem mapping and bioinformatics. … Experience in performing and analyzing single-cell RNA-seq experiments Experience in performing qualitative and quantitative immunohistochemical studies on brain tissue Proven experience in the development of state-of-the-art molecular biology methods Experience in computational analysis of high-throughput, multiplexed ",
    "details_checked": true,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7799,7 +7676,7 @@
    "check_advt": false,
    "score": 59,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7828,10 +7705,10 @@
    "details": "      Date: 25.11.2026  \n                        \nSubject: Advertisement for the post of Research Associate-I (No. of Posts: One)  \nApplications are invited from Indian nationals with excellent academic and research backgrounds for the post \nof Research Associate-I in a DBT funded project. Details are given below:  \n  \nName of the Post  Research Associate-I \nNo. of Posts  One  \nProject Title    Identifying novel genetic variants and drug targets  … Remuneration  INR 58,000/- + 27% HRA   \nRequired Qualifications    PhD (awarded or thesis submitted) in Bioinformatics/Computational Biology/Computer \nScience/Mathematics/Statistics \nEssential/Desired \nExperience  \nCandidates with prior experience in the following areas will be given preference. … • Experience in analyzing high volume of multi-omics data \n• Experience in developing AI/ML algorithms for analyzing multi-omics data \n• Experience in handling clinical records/EHR data \n• Development of bioinformatics tools/databases/web-applications \nAge Limit  Not more than 35 years as on the last day of application, relaxations for SC/ST/OBC ",
    "details_checked": true,
    "first_seen": "2026-11-26",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
-   "new": true
+   "new": false
   },
   {
    "id": "b83da62578f9",
@@ -7941,7 +7818,7 @@
    "details": "Meet Our People: Working at Sanger Institute Explore what our employees, students, and alumni from across our Institute have to say about what they do, life at Sanger Institue and more Find out more Life at Sanger Join our rich, diverse culture with many opportunities to grow Find out more Postdoctoral Fellow Programme Training and developing our scientists is at heart of our research Find out more Technician Commitment Find out how we support ou … Learn how our legal team, led by Senior Legal Counsels Katie and Lilly, enables scientific innovation by supporting research agreements, navigating legal challenges, and fostering collaborations that drive genomic discovery.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7969,7 +7846,7 @@
    "details": "Meet Our People: Working at Sanger Institute Explore what our employees, students, and alumni from across our Institute have to say about what they do, life at Sanger Institue and more Find out more Life at Sanger Join our rich, diverse culture with many opportunities to grow Find out more Postdoctoral Fellow Programme Training and developing our scientists is at heart of our research Find out more Technician Commitment Find out how we support ou … Learn how our legal team, led by Senior Legal Counsels Katie and Lilly, enables scientific innovation by supporting research agreements, navigating legal challenges, and fostering collaborations that drive genomic discovery.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -7997,7 +7874,7 @@
    "details": "Meet Our People: Working at Sanger Institute Explore what our employees, students, and alumni from across our Institute have to say about what they do, life at Sanger Institue and more Find out more Life at Sanger Join our rich, diverse culture with many opportunities to grow Find out more Postdoctoral Fellow Programme Training and developing our scientists is at heart of our research Find out more Technician Commitment Find out how we support ou … Learn how our legal team, led by Senior Legal Counsels Katie and Lilly, enables scientific innovation by supporting research agreements, navigating legal challenges, and fostering collaborations that drive genomic discovery.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8028,7 +7905,7 @@
    "details": " \n \nAdvertisement No: NIBMG/ADMIN/ACADEMIC/PRJ RECT/2025-26/286            Date:02-01-2026 \n \nPosition available: Online Interview \nProject Title: Identification of potentially aggressive CTCs (Circulating Tumour Cells) using single cell \nmultiomics: Implications for prognostication and therapeutic target identification in Oral Squamous \nCell Carcinoma patients” \n \nProject Description: In this project, m ultiomic analysis of potentially aggressiv … Identification of potentially aggressive CTCs (Circulating Tumour Cells) using single cell \nmultiomics: … In this project, m ultiomic analysis of potentially aggressive circulating tumour cells  \n(OSCC) at the single-cell level will be undertaken to provide insights into the heterogeneity of CTCs and help \nidentify aggressive subpopulations of CTCs. … Demonst\nrated \nexperien\nce in \nsingle \ncell \ntranscrip\ntomics, \ncancer \ngenomics\n, human \ndisease \ngenomics \n2. … Publicati\non in at \nleast one \npeer \nreviewed \njournal   \nConduct single cell \ntranscriptomic and ATAC -\nSeq experiments and data \nanalysis, cell culture and \nother related work.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8088,7 +7965,7 @@
    "check_advt": false,
    "score": 55,
    "first_seen": "2026-11-07",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8146,7 +8023,7 @@
    "details": "Postdoctoral Researcher in in Membrane Spatial Biology Login and apply Do you want to contribute to top quality medical research? The Nanomedicine and Spatial Biology Lab at the Department of Physiology and Pharmacology, Karolinska Institutet, is seeking a talented research specialist to join our team. Our research investigates the role of spatial organization in biological processes. To study this, we develop DNA nanotechnology-based tools to ma … Disruption of this spatial organization is implicated in diseases such as cancer and neurodegeneration, which makes nanodomains promising biomarkers and therapeutic targets. … You will develop novel methods to analyze the spatial organization of proteins, both in cell populations and in single cells. … Assessment criteria It is particularly meritorious that the applicant has shown expertise in DNA nanotechnology expertise in cell biology expertise in computational biology experience of in vivo studies in zebrafish and mouse models. … It is meritorious that the applicant has shown expertise in the design, production and purification of DNA ",
    "details_checked": true,
    "first_seen": "2026-11-24",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8285,7 +8162,7 @@
    "check_advt": false,
    "score": 54,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -8316,7 +8193,7 @@
    "check_advt": false,
    "score": 54,
    "first_seen": "2026-11-19",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8404,7 +8281,7 @@
    "details": "Dr. Shekhar C. Mande President Indian National Science Academy (INSA) Prof. Shekhar C. Mande is an eminent Indian scientist and scientific administrator and currently serves as President of the Indian National Science Academy (INSA). He is a distinguished structural and computational biologist with a strong background in molecular biophysics. He is a distinguished professor at the Savitribai Phule Pune University, Pune. Prof. Mande earned his PhD … He is a distinguished structural and computational biologist with a strong background in molecular biophysics. … His scientific work has focused on protein structure, computational biology, and genome-wide analysis of proteins, with notable contributions to understanding infectious diseases, including tuberculosis.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8430,7 +8307,7 @@
    "check_advt": false,
    "score": 52,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -8460,7 +8337,7 @@
    "check_advt": false,
    "score": 52,
    "first_seen": "2026-11-08",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8515,7 +8392,7 @@
    "check_advt": false,
    "score": 50,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -8631,7 +8508,7 @@
    "details": " \n \nनर्सिंग कॉलेज / College of Nursing \nअर्िल भारतीय आयुर्विज्ञान संस्थान, भुवनेश्वर / AIIMS, Bhubaneswar \nस्वास््य एवं  पररवार कल्याण मंत्रालय, भारत सरकार के  तत्वावधान में एक सांर्वर्धक र्नकाय \n(A Statutory Body under aegis of Ministry of H & F.W., Govt. of India) \nर्सजुआ, डाक: डूमुडुमा, भुवनेश्वर-  751019 Sijua, Post: Dumuduma, Bhubaneswar-  751019  \nAdvt. Ref.: CON/19/2024-CON/                                                                   … 20/08/2025 \n \nEngagement of  Guest Faculty (Statistics / Biostatistics) \n \nAIIMS, Bhubaneswar will hold a walk -in interview at 1100 hrs on 08th September 2025 \n(Monday) at the College of Nursing for the post of Guest Faculty ( Statistics / Biostatistics). … Subject Total Hours Remuneration \nStatistics / \nBiostatistics \nM.Sc.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8712,7 +8589,7 @@
    "details": "Skip to main content Event Details Lecture by Prof. Umesh Varshney, Honorary Professor Department of Microbiology and Cell Biology Indian Institute of Science, Bangalore December 3rd 4:00 pm - 5:00 pm PMB-Auditorium Share Roles of the initiator tRNA in faithful translation and ribosome maturation in bacteria Back to Events > modal-check Demo Title About CCMB Profile Charter Campuses Awards & Recognitions Organizational Structure Annual Reports Pa … Umesh Varshney, Honorary Professor Department of Microbiology and Cell Biology Indian Institute of Science, Bangalore December 3rd 4:00 pm - 5:00 pm PMB-Auditorium Share Roles of the initiator tRNA in faithful translation and ribosome maturation in bacteria Back to Events > modal-check Demo Title About CCMB Profile Charter Campuses Awards & Recognitions Organizational Structure Annual Reports Past Directors Partners and Collaborators Patents CCMB Directory Societal Impact Assessment Report Latest Annual Report Contact I am looking for CCMB People Research Groups Central Facilities Technical Groups Administration Innovation Hub Research Pub",
    "details_checked": true,
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8826,7 +8703,7 @@
    "details": " \n \n \nAdvertisement No: NIBMG/ADMIN/ESTB/2026-27/246            Date: 02-11-2026 \n         \n \nPosition available: Online Interview  \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government \nof India, Ministry of Science & Technology, Department of Biotechnology. The Institute has \ncreated the necessary physical infrastructure and critical platform technologies to support \nresearch, translation and training i … Online Interview  \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government \nof India, Ministry of Science & Technology, Department of Biotechnology. … The Institute has \ncreated the necessary physical infrastructure and critical platform technologies to support \nresearch, translation and training in biomedical genomics. … Applications are invited for the \nposition of Project Linked Person for extramural projects to be executed by the BRIC-National \nInstitute of Biomedical Genomics, Kalyani. … Leveraging multi-omics profiling, longitudinal cohorts, and computational genomics \npipelines established at N",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8908,7 +8785,7 @@
    "details": " \n_______________________________________________________________________________________________________ \n \nAdvertisement No.: NIBMG/ ACAD/PROJECT RECT./2026-27/094                 Date:25   - 06 -2026                                                                            \n                                                   \nPosition available: Online Interview \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute  … Online Interview \n \nBRIC-National Institute of Biomedical Genomics (NIBMG) Kalyani is an Institute of Government of India, \nMinistry of Science & Technology, Department of Biotechnology. … The Institute has created the necessary \nphysical infrastructure and critical platform technologies to support research, translation and training\nin biomedical genomics. … Applications are invited f o r  the position o f  Project Linked Perso n (Senior Project Associate)  for \nextramural project to be executed by  the BRIC-National institute o f  Biomedical Genomics, Kalyani. … An Integrative-genomics framework to identify c o r e  genes casually driving",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8935,7 +8812,7 @@
    "details": " \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/325                    Date: 03-02-2026 \nPosition available: Online Interview \nProject Title: Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging Pathogens and \nAntimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and Innovation \nCouncil of Department of Biotechnology,  Government of  … Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging Pathogens and \nAntimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and Innovation \nCouncil of Department of Biotechnology,  Government of India. … This is the first institution in India explicitly devoted \nto research, training, translation & service and capacity -building in Biomedical Genomics. … BRIC-NIBMG was an important core laboratory and integral partner of Indian SARS -CoV-2 Genomic Consortium \n(INSACOG) from its establishment during the COVID-19 pandemic, Dece",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8962,7 +8839,7 @@
    "details": " \n \nAdvertisement No: NIBMG/ADMIN/ESTB/2025-26/227     Date: 11 - 11 -2025 \nPosition available: Online Interview \nProject Title: Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnology, Government of India. This … Expansion of INSACOG - Wastewater Surveillance of SARS-CoV-2, Emerging \nPathogens and Antimicrobial Resistance through Genomics-Based Methods  \nThe National Institute of Biomedical Genomics (NIBMG) is an Institute of Biotechnology Research and \nInnovation Council of Department of Biotechnology, Government of India. … This is the first institution in \nIndia explicitly devoted to research, training, translation & service and capacity -building in Biomedical \nGenomics. … BRIC-NIBMG was an import ant core laboratory and integral partner of Indian SARS -CoV-2 Genomic \nConsortium (INSACOG) from its establishment during the COVID-19 pandemic, Dec",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -8990,7 +8867,7 @@
    "check_advt": false,
    "score": 48,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9102,7 +8979,7 @@
    "details": "Staff All Alumni (914) Current staff (579) Roles All roles Scientific (1063) Faculty (67) Information Technology (167) Pipelines (139) Board of Management (10) Non-science staff (205) International Fellow (12) Honorary Faculty (27) Associate Faculty (24) Career Development Fellow (4) Fellowship (1) Visiting worker (2) Clinician Scientist (2) Clinical Fellow (1) Programmes All programmes Parasites and Microbes (124) Somatic Genomics (157) Cellular … Staff All Alumni (914) Current staff (579) Roles All roles Scientific (1063) Faculty (67) Information Technology (167) Pipelines (139) Board of Management (10) Non-science staff (205) International Fellow (12) Honorary Faculty (27) Associate Faculty (24) Career Development Fellow (4) Fellowship (1) Visiting worker (2) Clinician Scientist (2) Clinical Fellow (1) Programmes All programmes Parasites and Microbes (124) Somatic Genomics (157) Cellular Genomics (122) Tree of Life (106) Malaria (25) Human Genetics (96) Open Targets (24) Cellular Operations (21) Informatics and Software Development (5) Strategy and Delivery (16) DNA Sequencing (17",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9128,7 +9005,7 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9184,7 +9061,7 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9212,7 +9089,7 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9267,7 +9144,7 @@
    "details": "Dr V. Arun Nagaraj, Scientist-F, BRIC-Institute ofLife Sciences, Bhubaneswar, has been elected as a Fellow of The National Academy of Sciences(NASI), India. October 14, 2025 0 INSTITUTE OF LIFE SCIENCES, BHUBANESWAR\nLIST OF GAZETTED HOLIDAYS DURING THE CALENDAR YEAR 2026\nSl. Gazetted Holiday Month & \nDate\nSaka Date Day of Week\nSAKA ERA 1947\n01. Republic Day January 26 Magha 06 Monday\n02. Holi March 04 Phalguna 13 Wednesday\n03. Id-ul-Fitr March 21",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9295,7 +9172,7 @@
    "details": "arrow_forward Home arrow_forward Departments arrow_forward Pharmacology & Immunology arrow_forward Research & Scholarship arrow_forward Labs The Mallah Lab Investigating neuroimmune interactions in the injured brain About the Mallah Lab With a primary focus on traumatic brain injury (TBI), we investigate how injury-driven neuroimmune activity alters neural function and behavior, contributing to persistent cognitive and affective impairment. A key … Using cell-specific genetic in vivo models, behavioral paradigms, high-resolution microscopy, high-dimensional immune profiling, and multi-omics approaches, we integrate molecular, cellular, and systems-level analyses to define mechanisms that drive vulnerability to cognitive impairment, depression, anxiety, and related neuropsychiatric conditions after TBI. … “Mapping Spatiotemporal Microproteomics Landscape in Experimental Model of Traumatic Brain Injury Unveils a link to Parkinson’s Disease”. … Molecular and Cellular Proteomics. … 5, 2026 MUSC News arrow_forward Training opportunities and job openings Post-Doctoral Scholar The Mallah La",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9322,7 +9199,7 @@
    "check_advt": false,
    "score": 44,
    "first_seen": "2026-11-05",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9522,7 +9399,7 @@
    "check_advt": false,
    "score": 42,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9572,7 +9449,7 @@
    "details": "Skip to main content The People Research Groups Principal Investigators Project Investigators DBT-Wellcome Fellows CSIR Bhatnagar Fellows J C Bose Fellows INSA Scientists Ramanujan Faculty Fellows Principal Investigators A S Sreedhar Scientist-G Ajay Gaur Scientist-G Anant Bahadur Patel Scientist-G B Kiran Kumar Scientist-E Dhananjay Chaturvedi Scientist-E Divya Tej Sowpati Scientist-E G Umapathy Scientist-G Hitendra Kumar Patel Scientist-G Ishwa … Thakur Scientist-F DBT-Wellcome Fellows Dhananjay Chaturvedi Scientist-E Jahnavi Joshi Scientist-E Janesh Kumar Scientist-F CSIR Bhatnagar Fellows Amitabha Chattopadhyay CSIR Bhatnagar Fellow K Thangaraj CSIR Bhatnagar Fellow J C Bose Fellows G R Chandak J C Bose Fellow Manjula Reddy J C Bose Fellow Rajan Sankaranarayanan Outstanding Scientist Rakesh Kumar Mishra AcSIR Distinguished Emeritus Professor INSA Scientists Imran Siddiqi Emeritus Scientist Ramanujan Faculty Fellows Puja Banerjee Ramanujan Faculty Fellow Siddharth Shrikant Kulkarni Ramanujan Faculty Fellow modal-check Demo Title About CCMB Profile Charter Campuses Awards & Recogni",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9595,7 +9472,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9620,7 +9497,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9645,7 +9522,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9670,7 +9547,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9695,7 +9572,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -9720,7 +9597,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9743,7 +9620,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9768,7 +9645,7 @@
    "details": "Skip to main content Open Positions",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9876,7 +9753,7 @@
    "details": "PhD Programmes We have a 4-year PhD programme and a Clinical PhD programme, registered with the University of Cambridge, which are open to UK and overseas applicants. Find out more 4-year PhD programme We welcome applications from students who wish to utilise genomic technologies to advance the understanding of biology and improve health. Find out more Clinical PhD programme Clinical PhD fellowships are available for clinical health professionals … Find out more 4-year PhD programme We welcome applications from students who wish to utilise genomic technologies to advance the understanding of biology and improve health. … Find out more Clinical PhD programme Clinical PhD fellowships are available for clinical health professionals with an aptitude for research and the potential to become future leaders in genomics, biomedicine and healthcare science.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9929,7 +9806,7 @@
    "details": "Loading... Careers/Opportunities - Scientist Positions Home Careers/Opportunities Scientist Positions Advt. No. Job Title Category Remarks Download(s) Action No information to display at present. Please visit later Back to Top Hrqt{ dTfr\nSE ffiffi s{TT{urq ulk ryqfirn qftqq\nGE fiqtltr+t ftrnq €rrcq\nBrorrcnNoLoGY RrsElRcH lNo lNNovATloN CouNctt-\nA DeplnrMENT or BtorrcHNoLoGY ORclNtzlttoN\nAr-990 1 1/1/2023-MED-DBT Dated: 24.09.2025\nOFFICE MEMORANDU … All monies received by the Society by way of grants, gifts, donations, \nendowments (as per provisions of IT Act 1961), sponsorships and/or other \nearnings (user charges, royalty, tech transfer fee etc)/  legally valid \ncontributions from individuals and bodies corporate or societies or other legal \nentities (National & International). … Page 4 \n \n4.2 At the Research Institution, officer authorized by the Director of the Research \nInstitution and t he Deputy Director-General (Administration) or any other \nofficer authorized by the Director -General for matters concerning BRIC \nSecretariat, shall have the power to file and defend suits and o",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9954,7 +9831,7 @@
    "details": "Congratulations to Drs. Dr. Sanjeeb Sahoo & Amaresh Panda for being featured in the world’s top 2% scientists list of 2025, as published by Ioannidis, John P.A. (2025), “August 2025 data-update for Updated science-wide author databases of standardized citation indicators”, Elsevier Data Repository, V8, doi: 10.17632/btchxktzyw.8 September 25, 2025 0 Congratulations to Drs. Dr. Sanjeeb Sahoo & Amaresh Panda for being featured in the world’s top 2%",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -9978,7 +9855,7 @@
    "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10004,7 +9881,7 @@
    "details": "RCB faculty regularly visit schools, colleges, and universities to deliver engaging popular science talks. For any queries regarding inviting our faculty to your school, college, or organisation, please write to registrar@rcb.res.in or write to individual faculty. \n\n\n",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10161,7 +10038,7 @@
    "details": "A- A A+ Name of Vacancy Category Last Date Document Detailed notification for recruitment of Assistant, Upper Division Clerk and Lower Division Clerk at ICMR-NIE - English Version Permanent Post 2025-08-14 LDC_UDC_Assistant_English_Version.pdf Detailed notification for recruitment of Assistant, Upper Division Clerk and Lower Division Clerk at ICMR-NIE - Hindi Version Permanent Post 2025-08-14 LDC_UDC_Assistant_Hindi_Version.pdf Addendum to the ad",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10184,7 +10061,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10207,7 +10084,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10232,7 +10109,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10259,7 +10136,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … They shall undertake to actively \nparticipate in the meetings of the Board and Committees on which they serve.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10284,7 +10161,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … Attend meetings as Legal Member in various Committees of BIRAC. … They shall undertake to actively \nparticipate in the meetings of the Board and Committees on which they serve.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10309,7 +10186,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … They shall undertake to actively \nparticipate in the meetings of the Board and Committees on which they serve.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10334,7 +10211,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … Coordinating with Mission Director and the PMU - BIRAC team for organizing meetings (national and international) seminars, outreach activities and communicating strategy. … They shall undertake to actively \nparticipate in the meetings of the Board and Committees on which they serve.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10359,7 +10236,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … Coordinating with Mission Director and the PMU - BIRAC team for organizing meetings (national and international) seminars, outreach activities and communicating strategy. … They shall undertake to actively \nparticipate in the meetings of the Board and Committees on which they serve.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10384,7 +10261,7 @@
    "details": "BIRAC-New Toggle navigation About About Us Message from Managing Director Our Board Code of Conduct Publications BIRAC Departments Programmes Incubation BioNEST Ideation to Early Stage BIG SITARE E-YUVA Ideation to Late Stage BIPP SBIRI Translation Research PACE Social Innovation SPARSH Equity Funding SEED Fund LEAP Fund BioAngels Program Fund of Funds - AcE Thematic Support Quest for Assistive Technologies SoCH जनCARE Banana Fortification Produc … Responsible for organizing all Meetings, Interaction and Advisory Group Discussion including international conferences and workshops. … Desirable Experience in Project management, monitoring and evaluation, including development of conceptual frameworks, management of monitoring systems, implementation and - supervision of evaluations and reporting of evaluation findings. … Synthesize and document results from grants and contracts including preparing briefings and portfolio reviews to leadership; … Experience in project monitoring and evaluation, including development of conceptual frameworks, management of monitoring systems, implementati",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10409,7 +10286,7 @@
    "details": "Er. Jowin Joseph, Scientist-E, CSIR-NEERI delivered a lecture on ‘Mission Zero Waste: \nAwareness on Solid Waste Management Rules, 2026’ at the National Institute of Technology \nTiruchirappalli (NIT Trichy) on 22 October 2026. \n \nThe lecture was organized by the Centre for Sustainability and the Department of Civil \nEngineering, NIT Trichy, with the objective of creating awareness about sustainable solid waste \nmanagement practices and the importa",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10434,7 +10311,7 @@
    "details": "Dr. Krishna Khairnar, Scientist & Head, EE&PM Division, CSIR-NEERI and Dr. Nidheesh P. V., \nScientist-F, CSIR-NEERI delivered scientific lectures on 24 September 2026 during the three-day \n‘Grant Writing and Research Methodology Workshop’ at Gajra Raja Medical College (GRMC), \nGwalior. \nDr. Khairnar delivered the inaugural scientific talk, “Scientific Grant Writing in the 21st Century: \nFunding Landscape, Emerging Opportunities and Essential Skil",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10459,7 +10336,7 @@
    "details": "Dr. Ritesh Vijay, Scientist F and Chair, Wastewater Management and Er. Abhishek Bisarya, Scientist D \nfrom CSIR-NEERI, were invited by Wainganga College of Engineering and Management (WCEM) for an \ninteraction on liquid waste management with the college officials on 27 August 2026. \n \nDuring the visit, the CSIR-NEERI team highlighted the importance of environmental sustainability and \ngreen campus practices for creating a cleaner, healthier and r",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10484,7 +10361,7 @@
    "details": "Dr. Padma S. Rao, Chief Scientist and Chair, EIAAP Division, CSIR-NEERI, was the Chief Guest \nat the 80th Independence Day Celebration held at NEERI Modern School, Nagpur, on 15 \nAugust 2026. In her address, she encouraged the students to develop a spirit of patriotism, \ndiscipline and responsibility, and inspired them to work hard, learn continuously and \ncontribute positively to the nation’s progress. She also encouraged the students to develop",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10509,7 +10386,7 @@
    "details": "Dr. B. Padma S. Rao, Scientist G and Chair, Environmental Impact Assessment, Audit & \nPlanning (EIAAP) Division, CSIR-NEERI, participated as a panelist at the BRICS Transport \nWorking Group Side Event organized by the Ministry of Road Transport and Highways \n(MoRTH) on 10 July 2026 in Nagpur. During the panel discussion on “Climate-Resilient \nInfrastructure,” she delivered a presentation on “Strengthening Environmental Impact \nAssessment through ",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10534,7 +10411,7 @@
    "details": "On the occasion of World Environment Day 2026, CSIR-NEERI released the book “Fungal Diversity \nin CSIR-NEERI Nagpur”, authored by Dr. Shalini Dhyani, Scientist E & Head, Centre for Ecological \nSystems & Resilience Design, with Ms. Saraniya Swaminathan as co-author. \nThe book showcases the rich fungal diversity documented on the CSIR-NEERI campus, with special \nemphasis on macrofungi. Featuring photographs and key identification characteristics, i",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10559,7 +10436,7 @@
    "details": "Dr. Tanvir Arfin, Scientist–D, Air Quality Management Division, CSIR-NEERI, delivered an \ninvited talk on “Urban Sources of Particulate Matter” at A.N. College, Patna. The session \nhighlighted the urgent need to identify and address major pollution sources contributing to \npublic health crises, environmental degradation, and economic losses. It also emphasized \nthe importance of sustainable solutions to improve urban air quality and elevate the q",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10584,7 +10461,7 @@
    "details": "Forty-one students and three faculty members from the School of Sciences and Allied Health \nSciences (SSAHS), Jeppiaar University, Chennai, attended an academic interaction at the CSIR-\nNEERI Regional Centre, Chennai. The programme began with an informative lecture by Dr. R. \nSivacoumar, Scientist G and Head, CSIR-NEERI, Chennai, who explained key concepts of Science \nand Engineering and their application in addressing environmental challenges. H",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10609,7 +10486,7 @@
    "details": "CSIR-NEERI is delighted to share that Dr. Shilpa Kumari, Senior Scientist was invited to participate in \nThe World Academy of Sciences (TWAS) Young Scientists’ Meeting – “Earth’s Changing Contours: \nThe Interplay of Forces & Time”, held at the Jawaharlal Nehru Centre for Advanced Scientific Research \n(JNCASR), Bengaluru, from 27–29 August 2025. The event, jointly organized under the TWAS Central \nand South Asia Regional Partner (CASAREP), brought",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10687,7 +10564,7 @@
    "details": "Wang Lab @ CHOP CVI Cardiovascular development, maturation, disease, and regeneration Learn More Prev Next Latest News 1 January, 2027 Wang Lab opening at CHOP and the University of Pennsylvania 7 September, 2026 Our postnatal heart spatial atlas and in vivo PIP-seq study is published in Nature Cardiovascular Research 25 August, 2026 Wang Lab receives its first R01 grant from the National Heart, Lung, and Blood Institute See all news → Spatially  … Wang Lab @ CHOP CVI Cardiovascular development, maturation, disease, and regeneration Learn More Prev Next Latest News 1 January, 2027 Wang Lab opening at CHOP and the University of Pennsylvania 7 September, 2026 Our postnatal heart spatial atlas and in vivo PIP-seq study is published in Nature Cardiovascular Research 25 August, 2026 Wang Lab receives its first R01 grant from the National Heart, Lung, and Blood Institute See all news → Spatially guided in vivo single-cell functional genomics of postnatal heart Wang, H.",
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10713,7 +10590,7 @@
    "score": 40,
    "details_checked": true,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10740,7 +10617,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10768,7 +10645,7 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-03",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false,
@@ -10848,7 +10725,7 @@
    "details": "chevron_left Übersicht Postdoctoral Researcher – Metabolism of the Neuroblastoma Tumor Microenvironment 100%, Zurich, fixed-term print Drucken This joint postdoctoral position is part of the recently awarded NCCR Children and Cancer . It bridges the Laboratory of Exercise and Health , headed by Prof. Dr. Katrien De Bock (Department of Health Sciences and Technology, ETH Zurich), an expert in vascular metabolism with the laboratory of Dr. Raphael  … The work is carried out in close collaboration with the wider NCCR consortium, combining human patient samples, genetic mouse models, single-cell and spatial transcriptomics, and functional vascular/metabolic assays. … Establish and characterize novel genetic and/or orthotopic mouse models of neuroblastoma Investigate how neuroblastoma rewires the metabolic tumor microenvironment, with emphasis on vascular and immune-metabolic crosstalk Characterize tumor vascular diversity, organization and metabolic gradients, and their relationship to hypoxia and nutrient/oxygen delivery Profile the immune TME and its interaction with the tumor vasculat",
    "details_checked": true,
    "first_seen": "2026-11-09",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10932,7 +10809,7 @@
    "details": "Postdoc to the Clinical Memory Researchs unit Login and apply Lund University, Faculty of Medicine, Dept. Clinical Sciences, Malmö Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition. Lund University welcomes ap … The group is led by Professor Niklas Mattsson-Carlgren and Associate Professor Sebastian Palmqvist and conducts the BioFINDER studies, in which patients and cognitively healthy volunteers undergo brain imaging, biomarker assessments, and neuropsychological testing ( https://biofinder.se ). … You will be part of an interdisciplinary research environment comprising clinicians, imaging analysts, statisticians, bioinformaticians, and laboratory scientists, working closely with groups generating genetic and proteomic data. … The aim of this project is to link genetic risk to measurable protein changes and ultimately to causal genes, in order to",
    "details_checked": true,
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -10957,7 +10834,7 @@
    "details": "Dr A Ramesh Kumar, Scientist-F, CSIR-NEERI participated in the “India-Norway Dialogue on \nWaste-to-Resource Solutions in the Cement and Construction Sectors” jointly organised by CSIR \nand the Research Council of Norway on 10 November 2026 in Delhi. \n \nDr Kumar made a presentation on “India’s National Implementation Plan and Legacy POPs \nInventory: An Update”. In his talk, Dr Kumar focused on the updated inventory of legacy POPs \nstockpiles viz. ",
    "details_checked": true,
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -11005,7 +10882,7 @@
    "check_advt": true,
    "score": 40,
    "first_seen": "2026-11-20",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
@@ -11033,10 +10910,38 @@
    "check_advt": false,
    "score": 40,
    "first_seen": "2026-11-23",
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "status": "open",
    "match": true,
    "new": false
+  },
+  {
+   "id": "ec4125d3f700",
+   "title": "Postdoc to the unit Clinical Memory Research (PA2026/3486)",
+   "url": "https://lu.varbi.com/en/what:job/jobID:995191/type:job/where:4/apply:1",
+   "context": "Title: Postdoc to the unit Clinical Memory Research (PA2026/3486) Dept. Clinical Sciences, Malmö, Faculty of Medicine Date published: 26 Nov 2026 | Last application date: Last application date: 17 Dec 2026",
+   "source_id": "lund",
+   "source_name": "Lund University",
+   "published": null,
+   "deadline": null,
+   "category": "postdoc",
+   "contract": false,
+   "region": "abroad",
+   "country": "Sweden",
+   "kw_score": 40,
+   "matched": [
+    "bioinformatic",
+    "biomarker"
+   ],
+   "check_advt": false,
+   "score": 40,
+   "details": "Postdoc to the unit Clinical Memory Research Login and apply Lund University, Faculty of Medicine, Dept. Clinical Sciences, Malmö Lund University was founded in 1666 and is repeatedly ranked among the world’s top universities. The University has around 46 000 students and 8 500 staff based in Lund, Helsingborg and Malmö. We are united in our efforts to understand, explain and improve our world and the human condition. Lund University welcomes app … The group is led by Professor Niklas Mattsson-Carlgren and Associate Professor Sebastian Palmqvist and conducts the BioFINDER studies, in which patients and cognitively healthy volunteers undergo brain imaging, biomarker assessments, and neuropsychological testing ( https://biofinder.se ). … You will be part of an interdisciplinary environment comprising clinicians, imaging analysts, statisticians, bioinformaticians, and laboratory researchers, and will work closely with groups generating genetic and proteomic data. … Assessments include polysomnography, actigraphy, brain imaging (MRI and [18F]FE-PE2I PET), cardiac imaging (MIBG scintigrap",
+   "details_checked": true,
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27",
+   "status": "open",
+   "match": true,
+   "new": true
   }
  ]
 }
