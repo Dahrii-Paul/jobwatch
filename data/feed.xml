@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-26T21:57:26Z</updated>
+  <updated>2026-11-27T11:25:40Z</updated>
   <entry>
     <title>AIIMS New Delhi Neuroscience Project Research Scientist-II Job | M.Sc Life Science, Genetics, Biotech or PhD | Apply by 30 Nov</title>
     <link href="https://www.biotecnika.org/2026/11/aiims-new-delhi-jobs-project-research-scientist-ii-2026/"/>
     <id>urn:jobwatch:232e10622121</id>
     <updated>2026-11-27T00:00:00Z</updated>
     <summary>[project] Biotecnika (life-science job news) · India · Deadline 2026-11-30 · score 53</summary>
+  </entry>
+  <entry>
+    <title>Postdoctoral Scholar - Computational Multi-Omics, Translational Oncology &amp; Liquid Biopsy University of Alberta · Edmonton ·</title>
+    <link href="https://www.openpostdoc.org/position/54d86aa6-81f7-47f2-9db7-9e8d45be7c61"/>
+    <id>urn:jobwatch:05c5c9f872c2</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-03 · score 65</summary>
   </entry>
   <entry>
     <title>Senior Bioinformatician</title>
@@ -18,6 +25,20 @@
     <summary>[other] Nature Careers · International · Deadline 2026-12-12 · score 40</summary>
   </entry>
   <entry>
+    <title>Postdoc in Information Theoretic Analysis of Machine Learning Methods</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/483457"/>
+    <id>urn:jobwatch:3f3adb015c81</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-16 · score 49</summary>
+  </entry>
+  <entry>
+    <title>Career position in compliance with § 99 (5) UG (tenure track) in the field of Plant biotechnology with a focus on Optimising the Immunological Properties of Recombinant Proteins / Reference Code 215</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/483518"/>
+    <id>urn:jobwatch:b93b27db124d</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[permanent] EURAXESS (EU-wide) · Europe · Deadline 2027-01-10 · score 49</summary>
+  </entry>
+  <entry>
     <title>Faculty Position in Microbial Systems Bioinformatics</title>
     <link href="https://www.nature.com/naturecareers/job/12867232/faculty-position-in-microbial-systems-bioinformatics/?LinkSource=PremiumListing"/>
     <id>urn:jobwatch:57f9000f09e3</id>
@@ -25,11 +46,25 @@
     <summary>[permanent] Nature Careers · Canada · Deadline 2027-01-25 · score 77</summary>
   </entry>
   <entry>
+    <title>IMPRS-EBM PhD Program 2027: Fully Funded Research in Epigenetics, Biophysics, and Metabolism in Germany</title>
+    <link href="https://researchersjob.com/imprs-ebm-phd-program-2027/"/>
+    <id>urn:jobwatch:e5a6e6432a7b</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[phd] Researchersjob.com · Germany · Deadline 2027-02-05 · score 48</summary>
+  </entry>
+  <entry>
     <title>Postdoc to the unit Clinical Memory Research (PA2026/3486)</title>
     <link href="https://lu.varbi.com/en/what:job/jobID:995191/type:job/where:4/apply:1"/>
     <id>urn:jobwatch:ec4125d3f700</id>
     <updated>2026-11-27T00:00:00Z</updated>
     <summary>[postdoc] Lund University · Sweden · Deadline: see advert · score 40</summary>
+  </entry>
+  <entry>
+    <title>ASSISTANT PROFESSOR ‘E’ (ANESTHESIOLOGY) (2-UR)</title>
+    <link href="https://actrec.gov.in/sites/default/files/2026-11/Website%20result-%20Asst%20Prof%20E%20%28ANESTHESIOLOGY%29%20%281-UR%29%20%5BA-3-2026%5D.pdf"/>
+    <id>urn:jobwatch:1eea2b8d5377</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <summary>[permanent] ACTREC Navi Mumbai · India · Deadline: see advert · score 40</summary>
   </entry>
   <entry>
     <title>BRIC-NIPGR Research Associate-II Recruitment 2026 – Apply Now, India</title>
@@ -1017,40 +1052,5 @@
     <id>urn:jobwatch:514628ce13f0</id>
     <updated>2026-11-07T00:00:00Z</updated>
     <summary>[project] Researchersjob.com · Spain · Deadline 2026-11-30 · score 59</summary>
-  </entry>
-  <entry>
-    <title>Research Fellow in Genetic Epidemiology and Data Science</title>
-    <link href="https://euraxess.ec.europa.eu/jobs/478686"/>
-    <id>urn:jobwatch:36eda094048f</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2026-12-03 · score 100</summary>
-  </entry>
-  <entry>
-    <title>Senior Postdoctoral Researcher in Parkinson’s Disease Biomarkers and α-Synuclein Seeding University of Oxford · Oxford ·</title>
-    <link href="https://www.openpostdoc.org/position/745f6a34-36cf-49f0-a1ef-2e8810ada1e6"/>
-    <id>urn:jobwatch:0cb73a860a0d</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-12-04 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral researcher in Rheumatology (PA2026/3023)</title>
-    <link href="https://lu.varbi.com/en/what:job/jobID:981309/type:job/where:4/apply:1"/>
-    <id>urn:jobwatch:e51708deeb71</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] Lund University · Sweden · Deadline 2027-01-01 · score 40</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Researcher Position in Autophagy, Stress Response and Development – France</title>
-    <link href="https://researchersjob.com/postdoctoral-researcher-position-in-autophagy/"/>
-    <id>urn:jobwatch:ea24e96e39f1</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · France · Deadline: see advert · score 55</summary>
-  </entry>
-  <entry>
-    <title>Postdoc in Agentic AI for Spatial Biology of the Human Gut – KTH Royal Institute of Technology, Sweden</title>
-    <link href="https://researchersjob.com/postdoc-in-agentic-ai-for-spatial-biology-2/"/>
-    <id>urn:jobwatch:4f485a3635eb</id>
-    <updated>2026-11-06T00:00:00Z</updated>
-    <summary>[postdoc] Researchersjob.com · Sweden · Deadline 2026-11-29 · score 63</summary>
   </entry>
 </feed>
