@@ -2,7 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JobWatch — Bioinformatics &amp; Computational Biology</title>
   <id>urn:jobwatch:feed</id>
-  <updated>2026-11-27T11:25:40Z</updated>
+  <updated>2026-11-27T21:40:15Z</updated>
+  <entry>
+    <title>Postdoctoral Researcher / Researcher (Genome Editing)</title>
+    <link href="https://euraxess.ec.europa.eu/jobs/483628"/>
+    <id>urn:jobwatch:43b8e0b74c43</id>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>[postdoc] EURAXESS (EU-wide) · Europe · Deadline 2029-08-31 · score 50</summary>
+  </entry>
+  <entry>
+    <title>Research Associate (Postdoctoral) – Computational Single-Cell and Spatial Omics at UT Dallas, USA</title>
+    <link href="https://researchersjob.com/research-associate-postdoctoral-computational-single-cell/"/>
+    <id>urn:jobwatch:d8d8bd77c199</id>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>[postdoc] Researchersjob.com · United States · Deadline: see advert · score 89</summary>
+  </entry>
+  <entry>
+    <title>Walk in Interview for the post of Scientific Officer (On Ad-hoc Basis)</title>
+    <link href="https://actrec.gov.in/sites/default/files/2026-11/Advertisement%20%2818%29.pdf"/>
+    <id>urn:jobwatch:b0f1d37fa7c7</id>
+    <updated>2026-11-28T00:00:00Z</updated>
+    <summary>[permanent] ACTREC Navi Mumbai · India · Deadline: see advert · score 40</summary>
+  </entry>
   <entry>
     <title>AIIMS New Delhi Neuroscience Project Research Scientist-II Job | M.Sc Life Science, Genetics, Biotech or PhD | Apply by 30 Nov</title>
     <link href="https://www.biotecnika.org/2026/11/aiims-new-delhi-jobs-project-research-scientist-ii-2026/"/>
@@ -1031,26 +1052,5 @@
     <id>urn:jobwatch:967c2ff9a264</id>
     <updated>2026-11-08T00:00:00Z</updated>
     <summary>[postdoc] EURAXESS (EU-wide) · Sweden · Deadline 2027-01-01 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Project Associate-I (ANRF) — Sustainable chemo-enzymatic synthesis of APIs at CSIR-IICT Hyderabad | Rs 30,000 + 30% HRA</title>
-    <link href="https://www.biotecnika.org/2026/11/csir-form-project-associate-iict-hyderabad-2026/"/>
-    <id>urn:jobwatch:1aef0690b7d0</id>
-    <updated>2026-11-08T00:00:00Z</updated>
-    <summary>[project] Biotecnika (life-science job news) · India · Deadline: see advert · score 52</summary>
-  </entry>
-  <entry>
-    <title>Postdoctoral Research Assistant in Proteomics and Lipidomics University of Oxford · Oxford ·</title>
-    <link href="https://www.openpostdoc.org/position/8adcb8f2-f5ff-42ae-815e-0e762dd0f465"/>
-    <id>urn:jobwatch:0f5577ab1699</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[postdoc] OpenPostdoc — bioinformatics · International · Deadline 2026-11-27 · score 65</summary>
-  </entry>
-  <entry>
-    <title>Scientific &amp; Technology Project Manager – Core Technologies at CRG, Barcelona, Spain</title>
-    <link href="https://researchersjob.com/scientific-technology-project-manager/"/>
-    <id>urn:jobwatch:514628ce13f0</id>
-    <updated>2026-11-07T00:00:00Z</updated>
-    <summary>[project] Researchersjob.com · Spain · Deadline 2026-11-30 · score 59</summary>
   </entry>
 </feed>
