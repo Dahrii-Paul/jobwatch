@@ -6,17 +6,17 @@ It watches Indian recruitment portals (ICMR, DBT/BRIC, DST, CSIR, ICAR/ASRB, UPS
 Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, and opens a GitHub issue (which GitHub e-mails you) whenever new matches appear.
 
 <!-- STATS:START -->
-## Live stats · updated 2026-11-28 03:10
+## Live stats · updated 2026-11-28 16:23
 
 | Metric | Count |
 |---|---|
-| 🎯 Open matches | **401** |
-| 🏛️ Permanent posts — India | **80** |
+| 🎯 Open matches | **410** |
+| 🏛️ Permanent posts — India | **86** |
 | 🔬 Postdocs / fellowships — India | **22** |
-| ✈️ Postdocs / fellowships — abroad | **192** |
+| ✈️ Postdocs / fellowships — abroad | **193** |
 | 🌍 Permanent / faculty — abroad | **44** |
-| ⏰ Closing within 14 days | **106** |
-| 🆕 New this run | **3** |
+| ⏰ Closing within 14 days | **109** |
+| 🆕 New this run | **9** |
 | 📡 Sources working | **165 / 209** |
 
 ### ⏳ Closing within 30 days
@@ -27,6 +27,7 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **0d** | [Open PI Positions at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12839812/open-pi-positions-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | permanent | International | 2026-11-28 |
 | 🔴 **0d** | [Life Sciences Job Vacancy at BRIC-National Institute of Plant Genome Research with fellows](https://www.biotecnika.org/2026/11/nipgr-research-associate-job-2026/) | postdoc | India | 2026-11-28 |
 | 🔴 **0d** | [Earn Rs. 46,990/Month with a Life Science Research Job at KVAFSU Bengaluru / Attend Walk I](https://www.biotecnika.org/2026/11/kvafsu-jrf-recruitment-2026/) | postdoc | India | 2026-11-28 |
+| 🔴 **0d** | [Faculty positions Department-wise Specialization](https://zoombio.org/jobs/faculty-positions-department-wise-specialization-iit-dhanbad-ism-dhanbad-c1fapqn) | permanent | India | 2026-11-28 |
 | 🔴 **1d** | [Postdoctoral fellowship in wearable data science, multi-omics integration, and machine lea](https://euraxess.ec.europa.eu/jobs/477749) | postdoc | Europe | 2026-11-29 |
 | 🔴 **1d** | [Research Fellow – Bioinformatics and Data Sciences](https://www.timeshighereducation.com/unijobs/listing/417319/research-fellow-bioinformatics-and-data-sciences/?LinkSource=PremiumListing) | postdoc | United Kingdom | 2026-11-29 |
 | 🔴 **1d** | [Post-Doctoral Fellowship in Microbiology / Genomic Analyses / Transcriptome Faculdade de C](https://www.openpostdoc.org/position/c71696ea-5ffc-4ed4-a794-186d03efa0ca) | postdoc | International | 2026-11-29 |
@@ -37,7 +38,6 @@ Runs free on GitHub Actions twice a day, publishes a dashboard on GitHub Pages, 
 | 🔴 **1d** | [Postdoctoral Fellows Recruitment Announcement at Shenzhen Bay Laboratory](https://www.nature.com/naturecareers/job/12865128/postdoctoral-fellows-recruitment-announcement-at-shenzhen-bay-laboratory/?LinkSource=PremiumListing) | postdoc | International | 2026-11-29 |
 | 🔴 **1d** | [Postdoctoral Researcher in AI Modeling of Cellular Dynamics, Alpha Cell Program Karolinska](https://www.scilifelab.se/career/postdoctoral-researcher-in-ai-modeling-of-cellular-dynamics-alpha-cell-program-2/) | postdoc | Sweden | 2026-11-29 |
 | 🔴 **1d** | [Postdoc in computational modelling of infectious diseases](https://euraxess.ec.europa.eu/jobs/480775) | postdoc | Europe | 2026-11-29 |
-| 🔴 **1d** | [BRIC-NIPGR Research Associate-II Recruitment 2026 – Apply Now, India](https://researchersjob.com/bric-nipgr-research-associate-ii-recruitment/) | postdoc | India | 2026-11-29 |
 <!-- STATS:END -->
 
 ---
